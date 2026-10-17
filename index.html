@@ -18,6 +18,7 @@ h1{font:700 22px/1.2 "PT Serif",Georgia,serif;margin:18px 0 4px}
 .tab:focus-visible,.go:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 .list{display:grid;gap:12px;margin-top:12px}
 .lot{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;display:grid;gap:8px}
+.ph{display:block;width:calc(100% + 28px);margin:-14px -14px 4px;aspect-ratio:16/10;object-fit:cover;border-radius:12px 12px 0 0;background:var(--line)}
 .top{display:flex;justify-content:space-between;gap:10px;align-items:flex-start}
 .name{font:700 17px/1.25 "PT Serif",Georgia,serif;min-width:0}
 .disc{background:var(--goldbg);color:var(--gold);font-weight:700;font-size:20px;line-height:1.1;border-radius:8px;padding:5px 11px;white-space:nowrap}
@@ -75,8 +76,9 @@ function render(){
   var mil=x.mileage?(/^\d+$/.test(String(x.mileage))?fmtn(x.mileage)+" км":x.mileage):"";
   var m=[x.year?x.year+" й.":"",mil?"Пробег: "+mil:"",x.region].filter(Boolean).join("|").split("|");
   var e=document.createElement("div");e.className="lot";
-  e.innerHTML='<div class="top"><div class="name"></div>'+(d?'<span class="disc">-'+d+'%</span>':'')+'</div><div class="meta"></div><div class="price"><span class="now">'+fmt(x.price_final)+'</span>'+(d?'<span class="old">'+fmt(x.price_orig)+'</span>':'')+'</div><div class="date">Аукцион санаси: '+x.date+'</div><div class="btns"><a class="go alt" target="_blank" rel="noopener" href="'+((x.post_url&&x.post_url.indexOf("t.me/shocos")<0)?x.post_url:CH[x.cat])+'">Лотни кўриш</a><a class="go" target="_blank" rel="noopener" href="'+ADMIN+'">Ариза бериш</a></div>';
+  e.innerHTML=(x.photo?'<img class="ph" loading="lazy" alt="">':'')+'<div class="top"><div class="name"></div>'+(d?'<span class="disc">-'+d+'%</span>':'')+'</div><div class="meta"></div><div class="price"><span class="now">'+fmt(x.price_final)+'</span>'+(d?'<span class="old">'+fmt(x.price_orig)+'</span>':'')+'</div><div class="date">Аукцион санаси: '+x.date+'</div><div class="btns"><a class="go alt" target="_blank" rel="noopener" href="'+((x.post_url&&x.post_url.indexOf("t.me/shocos")<0)?x.post_url:CH[x.cat])+'">Лотни кўриш</a><a class="go" target="_blank" rel="noopener" href="'+ADMIN+'">Ариза бериш</a></div>';
   e.querySelector(".name").textContent=x.title;
+  var im=e.querySelector(".ph");if(im){im.src=x.photo;im.alt=x.title;im.onerror=function(){im.remove()}}
   var mm=e.querySelector(".meta");m.forEach(function(s){var sp=document.createElement("span");sp.textContent=s;mm.appendChild(sp)});
   l.appendChild(e)});
  document.getElementById("note").textContent=LOTS.some(function(x){return x.sample})?"Намуна маълумотлар. Ҳақиқий лотлар скрейпердан юкланганда алмашади.":"";
