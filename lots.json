@@ -82,5 +82,33 @@
   "date": "19.10.2026",
   "post_url": "https://t.me/shocos/1341",
   "test": true
+ },
+ {
+  "id": 26132632,
+  "lot_number": "26132632",
+  "cat": "avto",
+  "title": "CAPTIVA",
+  "year": "2017",
+  "mileage": "226163",
+  "region": "Навоий вилояти",
+  "price_orig": 134646597.0,
+  "price_final": 134646597.0,
+  "date": "19.10.2026",
+  "post_url": "https://t.me/shocos/1353",
+  "test": true
+ },
+ {
+  "id": 26169086,
+  "lot_number": "26169086",
+  "cat": "avto",
+  "title": "MERCEDES BENS 350",
+  "year": "2003",
+  "mileage": "186108",
+  "region": "Самарқанд вилояти",
+  "price_orig": 146830000.0,
+  "price_final": 146830000.0,
+  "date": "23.10.2026",
+  "post_url": "https://t.me/shocos/1346",
+  "test": true
  }
 ]
