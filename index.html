@@ -25,7 +25,7 @@ h1{font:700 22px/1.2 "PT Serif",Georgia,serif;margin:18px 0 4px}
 .price{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap;font-variant-numeric:tabular-nums}
 .now{font-size:19px;font-weight:700;color:var(--green)}
 .old{color:var(--mute);text-decoration:line-through}
-.date{font-size:13px;color:var(--mute)}
+.date{font-size:17px;font-weight:700;color:var(--ink);background:var(--goldbg);border-radius:8px;padding:9px 12px}
 .btns{display:grid;grid-template-columns:1fr 1fr;gap:8px}
 .go{display:block;text-align:center;background:var(--btn);color:var(--btnink);text-decoration:none;border-radius:10px;padding:11px 8px;font-weight:700}
 .go.alt{background:transparent;color:var(--ink);border:1px solid var(--ink)}
@@ -45,6 +45,7 @@ var ADMIN="https://t.me/auksion_admin";
 var CH={avto:"https://t.me/avto_auksion_uz",yuk:"https://t.me/gruzovoeavto",mulk:"https://t.me/kuchmasmulk_uz"};
 var cur="avto",LOTS=[];
 var tw=window.Telegram&&window.Telegram.WebApp;if(tw){try{tw.ready();tw.expand()}catch(e){}}
+function fmtn(n){return String(n).replace(/\B(?=(\d{3})+(?!\d))/g," ")}
 function fmt(n){return String(Math.round(n)).replace(/\B(?=(\d{3})+(?!\d))/g," ")+" сўм"}
 function render(){
  var t=document.getElementById("tabs");t.innerHTML="";
@@ -54,7 +55,8 @@ function render(){
  if(!items.length){l.innerHTML='<div class="empty">Ҳозирча лотлар йўқ</div>'}
  items.forEach(function(x){
   var d=x.price_orig>x.price_final?Math.round((1-x.price_final/x.price_orig)*100):0;
-  var m=[x.year?x.year+" й.":"",x.mileage,x.region].filter(Boolean).join("|").split("|");
+  var mil=x.mileage?(/^\d+$/.test(String(x.mileage))?fmtn(x.mileage)+" км":x.mileage):"";
+  var m=[x.year?x.year+" й.":"",mil?"Пробег: "+mil:"",x.region].filter(Boolean).join("|").split("|");
   var e=document.createElement("div");e.className="lot";
   e.innerHTML='<div class="top"><div class="name"></div>'+(d?'<span class="disc">-'+d+'%</span>':'')+'</div><div class="meta"></div><div class="price"><span class="now">'+fmt(x.price_final)+'</span>'+(d?'<span class="old">'+fmt(x.price_orig)+'</span>':'')+'</div><div class="date">Аукцион санаси: '+x.date+'</div><div class="btns"><a class="go alt" target="_blank" rel="noopener" href="'+(x.post_url||CH[x.cat])+'">Лотни кўриш</a><a class="go" target="_blank" rel="noopener" href="'+ADMIN+'">Ариза бериш</a></div>';
   e.querySelector(".name").textContent=x.title;
