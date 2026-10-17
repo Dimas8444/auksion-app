@@ -31,11 +31,18 @@ h1{font:700 22px/1.2 "PT Serif",Georgia,serif;margin:18px 0 4px}
 .go.alt{background:transparent;color:var(--ink);border:1px solid var(--ink)}
 .note{margin-top:14px;font-size:12px;color:var(--mute)}
 .empty{color:var(--mute);padding:24px 0;text-align:center}
+.filter{display:flex;align-items:center;gap:8px;margin-top:10px}
+.filter label{color:var(--mute);font-size:14px;white-space:nowrap}
+.filter select{flex:1;min-width:0;font:inherit;color:var(--ink);background:var(--card);border:1px solid var(--line);border-radius:10px;padding:9px 10px;appearance:auto}
+.filter select:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+.count{color:var(--mute);font-size:13px;margin-top:8px}
 </style></head><body>
 <div class="wrap">
 <h1>Аукцион лотлари</h1>
 <p class="sub">Яқин кунлардаги аукционга қўйилган лотлар</p>
 <div class="tabs" role="tablist" id="tabs"></div>
+<div class="filter"><label for="reg">Ҳудуд:</label><select id="reg"></select></div>
+<div class="count" id="count"></div>
 <div class="list" id="list"></div>
 <p class="note" id="note"></p>
 </div>
@@ -43,7 +50,10 @@ h1{font:700 22px/1.2 "PT Serif",Georgia,serif;margin:18px 0 4px}
 var CATS=[["avto","Енгил авто"],["yuk","Юк ва махсус техника"],["mulk","Кўчмас мулк"]];
 var ADMIN="https://t.me/auksion_admin";
 var CH={avto:"https://t.me/avto_auksion_uz",yuk:"https://t.me/gruzovoeavto",mulk:"https://t.me/kuchmasmulk_uz"};
-var cur="avto",LOTS=[];
+var cur="avto",LOTS=[],REG="";
+try{REG=localStorage.getItem("reg")||""}catch(e){}
+document.addEventListener("change",function(ev){if(ev.target&&ev.target.id==="reg"){REG=ev.target.value;try{localStorage.setItem("reg",REG)}catch(e){}render()}});
+function regions(items){var c={};items.forEach(function(x){if(x.region){c[x.region]=(c[x.region]||0)+1}});return Object.keys(c).sort(function(a,b){return a.localeCompare(b,"uz")}).map(function(r){return [r,c[r]]})}
 var tw=window.Telegram&&window.Telegram.WebApp;if(tw){try{tw.ready();tw.expand()}catch(e){}}
 function fmtn(n){return String(n).replace(/\B(?=(\d{3})+(?!\d))/g," ")}
 function fmt(n){return String(Math.round(n)).replace(/\B(?=(\d{3})+(?!\d))/g," ")+" сўм"}
@@ -51,7 +61,14 @@ function render(){
  var t=document.getElementById("tabs");t.innerHTML="";
  CATS.forEach(function(c){var b=document.createElement("button");b.className="tab";b.textContent=c[1];b.setAttribute("role","tab");b.setAttribute("aria-selected",c[0]===cur);b.onclick=function(){cur=c[0];render()};t.appendChild(b)});
  var l=document.getElementById("list");l.innerHTML="";
- var items=LOTS.filter(function(x){return x.cat===cur});
+ var inCat=LOTS.filter(function(x){return x.cat===cur});
+ var regs=regions(inCat),sel=document.getElementById("reg");
+ if(REG&&!regs.some(function(r){return r[0]===REG}))REG="";
+ sel.innerHTML="";var o=document.createElement("option");o.value="";o.textContent="Барча ҳудудлар ("+inCat.length+")";sel.appendChild(o);
+ regs.forEach(function(r){var o=document.createElement("option");o.value=r[0];o.textContent=r[0]+" ("+r[1]+")";sel.appendChild(o)});
+ sel.value=REG;
+ var items=inCat.filter(function(x){return !REG||x.region===REG});
+ document.getElementById("count").textContent=items.length?"Топилди: "+items.length+" та лот":"";
  if(!items.length){l.innerHTML='<div class="empty">Ҳозирча лотлар йўқ</div>'}
  items.forEach(function(x){
   var d=x.price_orig>x.price_final?Math.round((1-x.price_final/x.price_orig)*100):0;
