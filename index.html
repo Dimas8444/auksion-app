@@ -41,7 +41,7 @@ h1{font:700 22px/1.2 "PT Serif",Georgia,serif;margin:18px 0 4px}
 <h1>Аукцион лотлари</h1>
 <p class="sub">Яқин кунлардаги аукционга қўйилган лотлар</p>
 <div class="tabs" role="tablist" id="tabs"></div>
-<div class="filter"><label for="reg">Ҳудуд:</label><select id="reg"></select></div>
+<div class="filter"><label for="reg">Вилоят:</label><select id="reg"></select></div>
 <div class="count" id="count"></div>
 <div class="list" id="list"></div>
 <p class="note" id="note"></p>
@@ -64,7 +64,7 @@ function render(){
  var inCat=LOTS.filter(function(x){return x.cat===cur});
  var regs=regions(inCat),sel=document.getElementById("reg");
  if(REG&&!regs.some(function(r){return r[0]===REG}))REG="";
- sel.innerHTML="";var o=document.createElement("option");o.value="";o.textContent="Барча ҳудудлар ("+inCat.length+")";sel.appendChild(o);
+ sel.innerHTML="";var o=document.createElement("option");o.value="";o.textContent="Барча вилоятлар ("+inCat.length+")";sel.appendChild(o);
  regs.forEach(function(r){var o=document.createElement("option");o.value=r[0];o.textContent=r[0]+" ("+r[1]+")";sel.appendChild(o)});
  sel.value=REG;
  var items=inCat.filter(function(x){return !REG||x.region===REG});
