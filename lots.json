@@ -1258,6 +1258,23 @@
   "order_end": "28.10.2026 09:00"
  },
  {
+  "id": 26168348,
+  "lot_number": "26168348",
+  "cat": "avto",
+  "title": "Damas ",
+  "year": "2009",
+  "mileage": "323460",
+  "region": "Навоий вилояти",
+  "price_orig": 15617990.0,
+  "price_final": 15617990.0,
+  "date": "28.10.2026",
+  "post_url": "https://t.me/avto_auksion_uz/150464",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/06e4029f7aafbbf0cb96bcd4572201c1_L.jpg",
+  "fav": 11,
+  "order_end": "28.10.2026 09:00"
+ },
+ {
   "id": 25842215,
   "lot_number": "25842215",
   "cat": "avto",
@@ -1680,23 +1697,6 @@
   "test": false,
   "photo": "https://media.e-auksion.uz/i/d0f215a591b522d1a68fa6007b23e8ba_L.jpeg",
   "fav": 52,
-  "order_end": "30.10.2026 09:00"
- },
- {
-  "id": 25875916,
-  "lot_number": "25875916",
-  "cat": "avto",
-  "title": "NEXIA 3",
-  "year": "2019",
-  "mileage": "",
-  "region": "Фарғона вилояти",
-  "price_orig": 24906505.0,
-  "price_final": 17434553.5,
-  "date": "30.10.2026",
-  "post_url": "https://t.me/avto_auksion_uz/149242",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/5e7a7c516e87a168822ccdaa965436bc_L.jpeg",
-  "fav": 45,
   "order_end": "30.10.2026 09:00"
  }
 ]
