@@ -1241,6 +1241,23 @@
   "order_end": "28.10.2026 09:00"
  },
  {
+  "id": 26170308,
+  "lot_number": "26170308",
+  "cat": "avto",
+  "title": "NEXIA",
+  "year": "2011",
+  "mileage": "",
+  "region": "Самарқанд вилояти",
+  "price_orig": 26566000.0,
+  "price_final": 26566000.0,
+  "date": "28.10.2026",
+  "post_url": "https://t.me/avto_auksion_uz/150460",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/0ddc791f1ca81f5397a43ec154a7f1af_L.jpg",
+  "fav": 12,
+  "order_end": "28.10.2026 09:00"
+ },
+ {
   "id": 25842215,
   "lot_number": "25842215",
   "cat": "avto",
@@ -1680,23 +1697,6 @@
   "test": false,
   "photo": "https://media.e-auksion.uz/i/5e7a7c516e87a168822ccdaa965436bc_L.jpeg",
   "fav": 45,
-  "order_end": "30.10.2026 09:00"
- },
- {
-  "id": 25875975,
-  "lot_number": "25875975",
-  "cat": "avto",
-  "title": "BYD SONG PLUS DMI",
-  "year": "2023",
-  "mileage": "",
-  "region": "Тошкент вилояти",
-  "price_orig": 229832500.0,
-  "price_final": 229832500.0,
-  "date": "30.10.2026",
-  "post_url": "https://t.me/avto_auksion_uz/149233",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/488863a1a4f03241b8f01a893b46dfd0_L.png",
-  "fav": 41,
   "order_end": "30.10.2026 09:00"
  }
 ]
