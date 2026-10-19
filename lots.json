@@ -1088,6 +1088,23 @@
   "order_end": "27.10.2026 09:00"
  },
  {
+  "id": 26134573,
+  "lot_number": "26134573",
+  "cat": "yuk",
+  "title": "DAF LEYLAND",
+  "year": "1993",
+  "mileage": "",
+  "region": "Тошкент вилояти",
+  "price_orig": 31700000.0,
+  "price_final": 31700000.0,
+  "date": "27.10.2026",
+  "post_url": "https://t.me/gruzovoeavto/21218",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/c124d172ba604cdde0f717322dd5ef28_L.jpg",
+  "fav": 45,
+  "order_end": "27.10.2026 09:00"
+ },
+ {
   "id": 26130216,
   "lot_number": "26130216",
   "cat": "avto",
@@ -1679,23 +1696,6 @@
   "post_url": "https://t.me/avto_auksion_uz/149306",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/90ea12a9bfe241194454395453f13bb2_L.jpeg",
-  "fav": 15,
-  "order_end": "30.10.2026 09:00"
- },
- {
-  "id": 25875961,
-  "lot_number": "25875961",
-  "cat": "avto",
-  "title": "CHEVROLET NEXIA DOHC 2",
-  "year": "2015",
-  "mileage": "263653",
-  "region": "Жиззах вилояти",
-  "price_orig": 42500000.0,
-  "price_final": 42500000.0,
-  "date": "30.10.2026",
-  "post_url": "https://t.me/avto_auksion_uz/149316",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/cdea94f820d6b1040411bc6f8d9f586c_L.jpeg",
   "fav": 15,
   "order_end": "30.10.2026 09:00"
  }
