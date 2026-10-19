@@ -1139,6 +1139,23 @@
   "order_end": "27.10.2026 09:00"
  },
  {
+  "id": 26120009,
+  "lot_number": "26120009",
+  "cat": "yuk",
+  "title": "ISUZU",
+  "year": "2007",
+  "mileage": "",
+  "region": "Тошкент ш.",
+  "price_orig": 107158976.0,
+  "price_final": 107158976.0,
+  "date": "27.10.2026",
+  "post_url": "https://t.me/gruzovoeavto/21222",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/d5d87cd82aa8eec47f34fafd8a26b48f_L.jpg",
+  "fav": 18,
+  "order_end": "27.10.2026 09:00"
+ },
+ {
   "id": 25842215,
   "lot_number": "25842215",
   "cat": "avto",
@@ -1680,23 +1697,6 @@
   "test": false,
   "photo": "https://media.e-auksion.uz/i/f51b7d1a3640b31f884eefa7ffb1afb7_L.jpeg",
   "fav": 19,
-  "order_end": "30.10.2026 09:00"
- },
- {
-  "id": 25875926,
-  "lot_number": "25875926",
-  "cat": "avto",
-  "title": "DEU/MAGNUS",
-  "year": "2000",
-  "mileage": "",
-  "region": "Тошкент вилояти",
-  "price_orig": 40210000.0,
-  "price_final": 28147000.0,
-  "date": "30.10.2026",
-  "post_url": "https://t.me/avto_auksion_uz/149289",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/37639b3ac99d3279fc6179541ada226e_L.jpeg",
-  "fav": 17,
   "order_end": "30.10.2026 09:00"
  }
 ]
