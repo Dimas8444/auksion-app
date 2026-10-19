@@ -1207,6 +1207,23 @@
   "order_end": "28.10.2026 09:00"
  },
  {
+  "id": 26137924,
+  "lot_number": "26137924",
+  "cat": "yuk",
+  "title": "UAZ 396294 06",
+  "year": "2007",
+  "mileage": "",
+  "region": "Фарғона вилояти",
+  "price_orig": 37146000.0,
+  "price_final": 37146000.0,
+  "date": "28.10.2026",
+  "post_url": "https://t.me/gruzovoeavto/21230",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/7ef8bcd874629ae7ce53e5a24beaa33f_L.jpg",
+  "fav": 13,
+  "order_end": "28.10.2026 09:00"
+ },
+ {
   "id": 25842215,
   "lot_number": "25842215",
   "cat": "avto",
@@ -1680,23 +1697,6 @@
   "test": false,
   "photo": "https://media.e-auksion.uz/i/ea463dec12e2675947f144ed52312972_L.jpeg",
   "fav": 30,
-  "order_end": "30.10.2026 09:00"
- },
- {
-  "id": 25875915,
-  "lot_number": "25875915",
-  "cat": "avto",
-  "title": "KIA SPORTAGE HODA",
-  "year": "2024",
-  "mileage": "17614",
-  "region": "Фарғона вилояти",
-  "price_orig": 356868312.0,
-  "price_final": 356868312.0,
-  "date": "30.10.2026",
-  "post_url": "https://t.me/avto_auksion_uz/149252",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/2d14f338529909d07352a6f1e0b23055_L.jpeg",
-  "fav": 26,
   "order_end": "30.10.2026 09:00"
  }
 ]
