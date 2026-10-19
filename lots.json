@@ -1156,6 +1156,23 @@
   "order_end": "27.10.2026 09:00"
  },
  {
+  "id": 26134915,
+  "lot_number": "26134915",
+  "cat": "avto",
+  "title": "EPICA",
+  "year": "2010",
+  "mileage": "",
+  "region": "Жиззах вилояти",
+  "price_orig": 40296000.0,
+  "price_final": 40296000.0,
+  "date": "27.10.2026",
+  "post_url": "https://t.me/avto_auksion_uz/150442",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/9f4e47441dbc0987cf1e704dcf77e5fc_L.jpg",
+  "fav": 12,
+  "order_end": "27.10.2026 09:00"
+ },
+ {
   "id": 25842215,
   "lot_number": "25842215",
   "cat": "avto",
@@ -1679,23 +1696,6 @@
   "post_url": "https://t.me/avto_auksion_uz/149279",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/fd70b6f1a73c8a3f2ca0f14216e1fb21_L.jpeg",
-  "fav": 19,
-  "order_end": "30.10.2026 09:00"
- },
- {
-  "id": 25875922,
-  "lot_number": "25875922",
-  "cat": "avto",
-  "title": "Haval",
-  "year": "2025",
-  "mileage": "31747",
-  "region": "Қашқадарё вилояти",
-  "price_orig": 360000000.0,
-  "price_final": 360000000.0,
-  "date": "30.10.2026",
-  "post_url": "https://t.me/avto_auksion_uz/149296",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/f51b7d1a3640b31f884eefa7ffb1afb7_L.jpeg",
   "fav": 19,
   "order_end": "30.10.2026 09:00"
  }
