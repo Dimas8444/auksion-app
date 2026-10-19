@@ -1224,6 +1224,23 @@
   "order_end": "28.10.2026 09:00"
  },
  {
+  "id": 26158666,
+  "lot_number": "26158666",
+  "cat": "avto",
+  "title": "LACETTI",
+  "year": "2019",
+  "mileage": "171704",
+  "region": "Қорақалпоғистон Республикаси",
+  "price_orig": 70688875.0,
+  "price_final": 70688875.0,
+  "date": "28.10.2026",
+  "post_url": "https://t.me/avto_auksion_uz/150451",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/61d2ae50522d3e78640b9bfc8b709261_L.jpg",
+  "fav": 13,
+  "order_end": "28.10.2026 09:00"
+ },
+ {
   "id": 25842215,
   "lot_number": "25842215",
   "cat": "avto",
@@ -1680,23 +1697,6 @@
   "test": false,
   "photo": "https://media.e-auksion.uz/i/488863a1a4f03241b8f01a893b46dfd0_L.png",
   "fav": 41,
-  "order_end": "30.10.2026 09:00"
- },
- {
-  "id": 25875911,
-  "lot_number": "25875911",
-  "cat": "avto",
-  "title": "TICO",
-  "year": "1997",
-  "mileage": "",
-  "region": "Фарғона вилояти",
-  "price_orig": 12118639.0,
-  "price_final": 8483047.3,
-  "date": "30.10.2026",
-  "post_url": "https://t.me/avto_auksion_uz/149262",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/ea463dec12e2675947f144ed52312972_L.jpeg",
-  "fav": 30,
   "order_end": "30.10.2026 09:00"
  }
 ]
