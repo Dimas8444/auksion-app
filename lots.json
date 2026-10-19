@@ -1122,6 +1122,23 @@
   "order_end": "27.10.2026 09:00"
  },
  {
+  "id": 26134909,
+  "lot_number": "26134909",
+  "cat": "avto",
+  "title": "NEXIA",
+  "year": "2012",
+  "mileage": "",
+  "region": "Жиззах вилояти",
+  "price_orig": 26590000.0,
+  "price_final": 26590000.0,
+  "date": "27.10.2026",
+  "post_url": "https://t.me/avto_auksion_uz/150438",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/6ac3a7365f88977e5eaa5fb4e4f784fe_L.jpg",
+  "fav": 23,
+  "order_end": "27.10.2026 09:00"
+ },
+ {
   "id": 25842215,
   "lot_number": "25842215",
   "cat": "avto",
@@ -1680,23 +1697,6 @@
   "test": false,
   "photo": "https://media.e-auksion.uz/i/37639b3ac99d3279fc6179541ada226e_L.jpeg",
   "fav": 16,
-  "order_end": "30.10.2026 09:00"
- },
- {
-  "id": 25875920,
-  "lot_number": "25875920",
-  "cat": "avto",
-  "title": "COBALT",
-  "year": "2020",
-  "mileage": "",
-  "region": "Фарғона вилояти",
-  "price_orig": 83230000.0,
-  "price_final": 83230000.0,
-  "date": "30.10.2026",
-  "post_url": "https://t.me/avto_auksion_uz/149306",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/90ea12a9bfe241194454395453f13bb2_L.jpeg",
-  "fav": 15,
   "order_end": "30.10.2026 09:00"
  }
 ]
