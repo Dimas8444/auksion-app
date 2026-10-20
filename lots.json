@@ -13,7 +13,7 @@
   "post_url": "https://t.me/avto_auksion_uz/144002",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/f87fe8378bba14eb416afb6dd31e44f9_L.jpg",
-  "fav": 472,
+  "fav": 473,
   "order_end": "22.10.2026 09:00"
  },
  {
@@ -47,7 +47,7 @@
   "post_url": "https://t.me/avto_auksion_uz/144040",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/eb24abbd21c6cf2d50bc0af030c19cf5_L.jpeg",
-  "fav": 230,
+  "fav": 231,
   "order_end": "22.10.2026 09:00"
  },
  {
@@ -64,7 +64,7 @@
   "post_url": "https://t.me/avto_auksion_uz/144050",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/908c24989b5225ea348012d8a516fe8d_L.jpeg",
-  "fav": 122,
+  "fav": 124,
   "order_end": "22.10.2026 09:00"
  },
  {
@@ -81,7 +81,7 @@
   "post_url": "https://t.me/avto_auksion_uz/144097",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/160ab7c5a296cc257a51767f1cb609b5_L.jpeg",
-  "fav": 57,
+  "fav": 58,
   "order_end": "22.10.2026 09:00"
  },
  {
@@ -98,7 +98,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149936",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/30da7e51299af2b81efb46c8a8c462a5_L.jpeg",
-  "fav": 56,
+  "fav": 57,
   "order_end": "22.10.2026 09:00"
  },
  {
@@ -187,23 +187,6 @@
   "order_end": "22.10.2026 09:00"
  },
  {
-  "id": 26130793,
-  "lot_number": "26130793",
-  "cat": "yuk",
-  "title": "Krone",
-  "year": "2014",
-  "mileage": "",
-  "region": "Сурхондарё вилояти",
-  "price_orig": 180848312.0,
-  "price_final": 144678649.6,
-  "date": "22.10.2026",
-  "post_url": "https://t.me/gruzovoeavto/20753",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/a2b4894b7ae36bb63029e055689be037_L.jpeg",
-  "fav": 40,
-  "order_end": "22.10.2026 09:00"
- },
- {
   "id": 26134719,
   "lot_number": "26134719",
   "cat": "avto",
@@ -217,6 +200,23 @@
   "post_url": "https://t.me/avto_auksion_uz/150128",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/7d4e610215adf2ad13e15726d5cf9863_L.jpg",
+  "fav": 42,
+  "order_end": "22.10.2026 09:00"
+ },
+ {
+  "id": 26130793,
+  "lot_number": "26130793",
+  "cat": "yuk",
+  "title": "Krone",
+  "year": "2014",
+  "mileage": "",
+  "region": "Сурхондарё вилояти",
+  "price_orig": 180848312.0,
+  "price_final": 144678649.6,
+  "date": "22.10.2026",
+  "post_url": "https://t.me/gruzovoeavto/20753",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/a2b4894b7ae36bb63029e055689be037_L.jpeg",
   "fav": 40,
   "order_end": "22.10.2026 09:00"
  },
@@ -302,7 +302,7 @@
   "post_url": "https://t.me/avto_auksion_uz/145677",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/1f3bb083486da790a926f5b74ab4a5c0_L.jpeg",
-  "fav": 257,
+  "fav": 258,
   "order_end": "23.10.2026 09:00"
  },
  {
@@ -391,6 +391,23 @@
   "order_end": "23.10.2026 09:00"
  },
  {
+  "id": 25714787,
+  "lot_number": "25714787",
+  "cat": "avto",
+  "title": "CHEVROLET LACETTI 2",
+  "year": "2019",
+  "mileage": "278273",
+  "region": "Тошкент ш.",
+  "price_orig": 71006880.0,
+  "price_final": 71006880.0,
+  "date": "23.10.2026",
+  "post_url": "https://t.me/avto_auksion_uz/145749",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/b169cb346d9aa498721d0c493b82ad1e_L.jpeg",
+  "fav": 43,
+  "order_end": "23.10.2026 09:00"
+ },
+ {
   "id": 25715387,
   "lot_number": "25715387",
   "cat": "avto",
@@ -421,23 +438,6 @@
   "post_url": "https://t.me/gruzovoeavto/19986",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/4baedabfbd9aa91631d2f37d5a9771cc_L.jpeg",
-  "fav": 42,
-  "order_end": "23.10.2026 09:00"
- },
- {
-  "id": 25714787,
-  "lot_number": "25714787",
-  "cat": "avto",
-  "title": "CHEVROLET LACETTI 2",
-  "year": "2019",
-  "mileage": "278273",
-  "region": "Тошкент ш.",
-  "price_orig": 71006880.0,
-  "price_final": 71006880.0,
-  "date": "23.10.2026",
-  "post_url": "https://t.me/avto_auksion_uz/145749",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/b169cb346d9aa498721d0c493b82ad1e_L.jpeg",
   "fav": 42,
   "order_end": "23.10.2026 09:00"
  },
@@ -574,7 +574,7 @@
   "post_url": "https://t.me/avto_auksion_uz/145836",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/5358538d5cfc957d078fde254a440fba_L.jpeg",
-  "fav": 234,
+  "fav": 235,
   "order_end": "26.10.2026 09:00"
  },
  {
@@ -863,7 +863,7 @@
   "post_url": "https://t.me/gruzovoeavto/20783",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/67b992b9267470baa299c8dd26431ac2_L.jpg",
-  "fav": 96,
+  "fav": 97,
   "order_end": "27.10.2026 09:00"
  },
  {
@@ -931,7 +931,7 @@
   "post_url": "https://t.me/avto_auksion_uz/148991",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/1b74173c30ae866b595ae1fd28bd1f4d_L.jpg",
-  "fav": 39,
+  "fav": 41,
   "order_end": "27.10.2026 09:00"
  },
  {
@@ -999,7 +999,7 @@
   "post_url": "https://t.me/gruzovoeavto/21236",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/b048bc575ccbb1054678b3efe277bde9_L.jpg",
-  "fav": 257,
+  "fav": 256,
   "order_end": "29.10.2026 09:00"
  },
  {
@@ -1033,7 +1033,7 @@
   "post_url": "https://t.me/gruzovoeavto/21241",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/9fb63625f10f1329bfa49384a1230923_L.jpg",
-  "fav": 205,
+  "fav": 206,
   "order_end": "29.10.2026 09:00"
  },
  {
@@ -1071,23 +1071,6 @@
   "order_end": "29.10.2026 09:00"
  },
  {
-  "id": 25842629,
-  "lot_number": "25842629",
-  "cat": "yuk",
-  "title": "SAZ NP-26",
-  "year": "2014",
-  "mileage": "",
-  "region": "Навоий вилояти",
-  "price_orig": 49931709.0,
-  "price_final": 49931709.0,
-  "date": "29.10.2026",
-  "post_url": "https://t.me/gruzovoeavto/21045",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/4a23bb613fd86cb165dab73bdf7a5774_L.jpg",
-  "fav": 172,
-  "order_end": "29.10.2026 09:00"
- },
- {
   "id": 25842744,
   "lot_number": "25842744",
   "cat": "yuk",
@@ -1101,6 +1084,23 @@
   "post_url": "https://t.me/gruzovoeavto/21247",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/011b2c8ddf324052ad72e3026903552d_L.jpg",
+  "fav": 173,
+  "order_end": "29.10.2026 09:00"
+ },
+ {
+  "id": 25842629,
+  "lot_number": "25842629",
+  "cat": "yuk",
+  "title": "SAZ NP-26",
+  "year": "2014",
+  "mileage": "",
+  "region": "Навоий вилояти",
+  "price_orig": 49931709.0,
+  "price_final": 49931709.0,
+  "date": "29.10.2026",
+  "post_url": "https://t.me/gruzovoeavto/21045",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/4a23bb613fd86cb165dab73bdf7a5774_L.jpg",
   "fav": 172,
   "order_end": "29.10.2026 09:00"
  },
@@ -1169,7 +1169,7 @@
   "post_url": "https://t.me/avto_auksion_uz/147828",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/05c8c6d0c4689e7c28acc3c78f1da344_L.jpg",
-  "fav": 153,
+  "fav": 154,
   "order_end": "29.10.2026 09:00"
  },
  {
@@ -1254,7 +1254,7 @@
   "post_url": "https://t.me/avto_auksion_uz/147874",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/061e6964d69bee2676a634df9ade5776_L.jpeg",
-  "fav": 129,
+  "fav": 130,
   "order_end": "29.10.2026 09:00"
  },
  {
@@ -1271,7 +1271,7 @@
   "post_url": "https://t.me/gruzovoeavto/21308",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/eb3cb3cbd9c1e864edfe16a5adfcac2f_L.jpg",
-  "fav": 128,
+  "fav": 129,
   "order_end": "29.10.2026 09:00"
  },
  {
@@ -1305,7 +1305,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149188",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/c1d58f366e815b991e51ca7f9b74c551_L.jpeg",
-  "fav": 162,
+  "fav": 161,
   "order_end": "30.10.2026 09:00"
  },
  {
@@ -1458,7 +1458,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149452",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/f77239aed5b975501ffd45308971bb9b_L.jpeg",
-  "fav": 228,
+  "fav": 229,
   "order_end": "02.11.2026 09:00"
  },
  {
@@ -1492,7 +1492,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149368",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/6286272b668712b380679e1ca6f8caa4_L.jpeg",
-  "fav": 191,
+  "fav": 190,
   "order_end": "02.11.2026 09:00"
  },
  {
@@ -1543,7 +1543,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149462",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/5646b5d03df44b4f57165cf10a9cc856_L.jpeg",
-  "fav": 149,
+  "fav": 150,
   "order_end": "02.11.2026 09:00"
  },
  {
@@ -1560,7 +1560,7 @@
   "post_url": "https://t.me/gruzovoeavto/20837",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/6358dc929d8c35a5cf3b41d53ae7fe76_L.jpeg",
-  "fav": 139,
+  "fav": 140,
   "order_end": "02.11.2026 09:00"
  },
  {
