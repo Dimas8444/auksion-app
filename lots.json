@@ -13,7 +13,7 @@
   "post_url": "https://t.me/avto_auksion_uz/144002",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/f87fe8378bba14eb416afb6dd31e44f9_L.jpg",
-  "fav": 473,
+  "fav": 474,
   "order_end": "22.10.2026 09:00"
  },
  {
@@ -30,7 +30,7 @@
   "post_url": "https://t.me/avto_auksion_uz/144021",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/815cbc9856920c67e1326a73ceab861a_L.jpg",
-  "fav": 381,
+  "fav": 382,
   "order_end": "22.10.2026 09:00"
  },
  {
@@ -47,7 +47,7 @@
   "post_url": "https://t.me/avto_auksion_uz/144040",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/eb24abbd21c6cf2d50bc0af030c19cf5_L.jpeg",
-  "fav": 232,
+  "fav": 233,
   "order_end": "22.10.2026 09:00"
  },
  {
@@ -81,7 +81,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149936",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/30da7e51299af2b81efb46c8a8c462a5_L.jpeg",
-  "fav": 60,
+  "fav": 61,
   "order_end": "22.10.2026 09:00"
  },
  {
@@ -132,7 +132,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149965",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/b53b9fd267d0c4c6c89e765a9fe52d71_L.jpeg",
-  "fav": 53,
+  "fav": 54,
   "order_end": "22.10.2026 09:00"
  },
  {
@@ -149,7 +149,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149934",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/c4c7a9c8445e59e78c76cb60591ccc11_L.jpeg",
-  "fav": 52,
+  "fav": 53,
   "order_end": "22.10.2026 09:00"
  },
  {
@@ -187,23 +187,6 @@
   "order_end": "22.10.2026 09:00"
  },
  {
-  "id": 26130793,
-  "lot_number": "26130793",
-  "cat": "yuk",
-  "title": "Krone",
-  "year": "2014",
-  "mileage": "",
-  "region": "Сурхондарё вилояти",
-  "price_orig": 180848312.0,
-  "price_final": 144678649.6,
-  "date": "22.10.2026",
-  "post_url": "https://t.me/gruzovoeavto/20753",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/a2b4894b7ae36bb63029e055689be037_L.jpeg",
-  "fav": 42,
-  "order_end": "22.10.2026 09:00"
- },
- {
   "id": 26134719,
   "lot_number": "26134719",
   "cat": "avto",
@@ -217,6 +200,23 @@
   "post_url": "https://t.me/avto_auksion_uz/150128",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/7d4e610215adf2ad13e15726d5cf9863_L.jpg",
+  "fav": 43,
+  "order_end": "22.10.2026 09:00"
+ },
+ {
+  "id": 26130793,
+  "lot_number": "26130793",
+  "cat": "yuk",
+  "title": "Krone",
+  "year": "2014",
+  "mileage": "",
+  "region": "Сурхондарё вилояти",
+  "price_orig": 180848312.0,
+  "price_final": 144678649.6,
+  "date": "22.10.2026",
+  "post_url": "https://t.me/gruzovoeavto/20753",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/a2b4894b7ae36bb63029e055689be037_L.jpeg",
   "fav": 42,
   "order_end": "22.10.2026 09:00"
  },
@@ -251,7 +251,7 @@
   "post_url": "https://t.me/gruzovoeavto/21075",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/f3a09003dde74c8b35fff385c0f4914c_L.jpg",
-  "fav": 38,
+  "fav": 39,
   "order_end": "22.10.2026 09:00"
  },
  {
@@ -319,7 +319,7 @@
   "post_url": "https://t.me/gruzovoeavto/19954",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/7cf42b89797bd49086e52a6e7c5b4323_L.jpg",
-  "fav": 119,
+  "fav": 118,
   "order_end": "23.10.2026 09:00"
  },
  {
@@ -408,23 +408,6 @@
   "order_end": "23.10.2026 09:00"
  },
  {
-  "id": 25715387,
-  "lot_number": "25715387",
-  "cat": "avto",
-  "title": "Lacetti",
-  "year": "2017",
-  "mileage": "",
-  "region": "Бухоро вилояти",
-  "price_orig": 55980144.0,
-  "price_final": 39186100.8,
-  "date": "23.10.2026",
-  "post_url": "https://t.me/avto_auksion_uz/145739",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/4694983bcba86a519051dfa81ca4f5cf_L.jpeg",
-  "fav": 42,
-  "order_end": "23.10.2026 09:00"
- },
- {
   "id": 25715312,
   "lot_number": "25715312",
   "cat": "yuk",
@@ -455,6 +438,23 @@
   "post_url": "https://t.me/gruzovoeavto/19969",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/dfb6ec1e404045119112d838fd202570_L.jpeg",
+  "fav": 41,
+  "order_end": "23.10.2026 09:00"
+ },
+ {
+  "id": 25715387,
+  "lot_number": "25715387",
+  "cat": "avto",
+  "title": "Lacetti",
+  "year": "2017",
+  "mileage": "",
+  "region": "Бухоро вилояти",
+  "price_orig": 55980144.0,
+  "price_final": 39186100.8,
+  "date": "23.10.2026",
+  "post_url": "https://t.me/avto_auksion_uz/145739",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/4694983bcba86a519051dfa81ca4f5cf_L.jpeg",
   "fav": 41,
   "order_end": "23.10.2026 09:00"
  },
@@ -574,7 +574,7 @@
   "post_url": "https://t.me/avto_auksion_uz/145836",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/5358538d5cfc957d078fde254a440fba_L.jpeg",
-  "fav": 235,
+  "fav": 236,
   "order_end": "26.10.2026 09:00"
  },
  {
@@ -591,7 +591,7 @@
   "post_url": "https://t.me/gruzovoeavto/20033",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/031d66f80c90996af6920f859fa71f34_L.jpeg",
-  "fav": 198,
+  "fav": 199,
   "order_end": "26.10.2026 09:00"
  },
  {
@@ -897,7 +897,7 @@
   "post_url": "https://t.me/gruzovoeavto/20787",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/48e7a260b8f1a5f29993354f0e328e6d_L.jpg",
-  "fav": 70,
+  "fav": 71,
   "order_end": "27.10.2026 09:00"
  },
  {
@@ -1033,7 +1033,7 @@
   "post_url": "https://t.me/gruzovoeavto/21241",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/9fb63625f10f1329bfa49384a1230923_L.jpg",
-  "fav": 206,
+  "fav": 207,
   "order_end": "29.10.2026 09:00"
  },
  {
@@ -1118,7 +1118,7 @@
   "post_url": "https://t.me/gruzovoeavto/21252",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/db1a3f1c63856f6c3585d3dd62acca9c_L.jpeg",
-  "fav": 169,
+  "fav": 170,
   "order_end": "29.10.2026 09:00"
  },
  {
@@ -1169,7 +1169,7 @@
   "post_url": "https://t.me/avto_auksion_uz/147828",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/05c8c6d0c4689e7c28acc3c78f1da344_L.jpg",
-  "fav": 155,
+  "fav": 156,
   "order_end": "29.10.2026 09:00"
  },
  {
@@ -1411,6 +1411,23 @@
   "order_end": "30.10.2026 09:00"
  },
  {
+  "id": 25875911,
+  "lot_number": "25875911",
+  "cat": "avto",
+  "title": "TICO",
+  "year": "1997",
+  "mileage": "",
+  "region": "Фарғона вилояти",
+  "price_orig": 12118639.0,
+  "price_final": 8483047.3,
+  "date": "30.10.2026",
+  "post_url": "https://t.me/avto_auksion_uz/149262",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/ea463dec12e2675947f144ed52312972_L.jpeg",
+  "fav": 31,
+  "order_end": "30.10.2026 09:00"
+ },
+ {
   "id": 25909787,
   "lot_number": "25909787",
   "cat": "avto",
@@ -1424,7 +1441,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149348",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/f79c3080ce0294ac0f2651998b42e01e_L.jpeg",
-  "fav": 380,
+  "fav": 381,
   "order_end": "02.11.2026 09:00"
  },
  {
@@ -1611,7 +1628,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149419",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/e589564f4efa04fe1e33b19a6c43f6fa_L.jpeg",
-  "fav": 106,
+  "fav": 105,
   "order_end": "02.11.2026 09:00"
  },
  {
@@ -1680,23 +1697,6 @@
   "test": false,
   "photo": "https://media.e-auksion.uz/i/4135ddd08d7ab4054637f30e31dc8d82_L.jpeg",
   "fav": 63,
-  "order_end": "02.11.2026 09:00"
- },
- {
-  "id": 25909921,
-  "lot_number": "25909921",
-  "cat": "avto",
-  "title": "-SPARK A/T",
-  "year": "2017",
-  "mileage": "",
-  "region": "Сурхондарё вилояти",
-  "price_orig": 49000000.0,
-  "price_final": 49000000.0,
-  "date": "02.11.2026",
-  "post_url": "https://t.me/avto_auksion_uz/149480",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/7009d56d5117aa387ade1864adb650f2_L.jpeg",
-  "fav": 56,
   "order_end": "02.11.2026 09:00"
  }
 ]
