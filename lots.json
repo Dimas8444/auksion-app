@@ -13,7 +13,7 @@
   "post_url": "https://t.me/avto_auksion_uz/144002",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/f87fe8378bba14eb416afb6dd31e44f9_L.jpg",
-  "fav": 498,
+  "fav": 500,
   "order_end": "22.10.2026 09:00"
  },
  {
@@ -30,7 +30,7 @@
   "post_url": "https://t.me/avto_auksion_uz/144021",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/815cbc9856920c67e1326a73ceab861a_L.jpg",
-  "fav": 412,
+  "fav": 415,
   "order_end": "22.10.2026 09:00"
  },
  {
@@ -47,7 +47,7 @@
   "post_url": "https://t.me/avto_auksion_uz/144040",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/eb24abbd21c6cf2d50bc0af030c19cf5_L.jpeg",
-  "fav": 250,
+  "fav": 251,
   "order_end": "22.10.2026 09:00"
  },
  {
@@ -64,7 +64,7 @@
   "post_url": "https://t.me/avto_auksion_uz/144050",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/908c24989b5225ea348012d8a516fe8d_L.jpeg",
-  "fav": 145,
+  "fav": 147,
   "order_end": "22.10.2026 09:00"
  },
  {
@@ -85,6 +85,40 @@
   "order_end": "22.10.2026 09:00"
  },
  {
+  "id": 25653492,
+  "lot_number": "25653492",
+  "cat": "avto",
+  "title": "LACETTI",
+  "year": "2018",
+  "mileage": "264624",
+  "region": "Хоразм вилояти",
+  "price_orig": 60405000.0,
+  "price_final": 60405000.0,
+  "date": "22.10.2026",
+  "post_url": "https://t.me/avto_auksion_uz/144088",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/1bf9e18fb071856ee0a21133b6549a65_L.jpeg",
+  "fav": 61,
+  "order_end": "22.10.2026 09:00"
+ },
+ {
+  "id": 26130913,
+  "lot_number": "26130913",
+  "cat": "avto",
+  "title": "CHEVROLET MALIBU",
+  "year": "2022",
+  "mileage": "73968",
+  "region": "Самарқанд вилояти",
+  "price_orig": 285814720.0,
+  "price_final": 228651776.0,
+  "date": "22.10.2026",
+  "post_url": "https://t.me/avto_auksion_uz/149934",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/c4c7a9c8445e59e78c76cb60591ccc11_L.jpeg",
+  "fav": 60,
+  "order_end": "22.10.2026 09:00"
+ },
+ {
   "id": 25683937,
   "lot_number": "25683937",
   "cat": "avto",
@@ -102,40 +136,6 @@
   "order_end": "22.10.2026 09:00"
  },
  {
-  "id": 25653492,
-  "lot_number": "25653492",
-  "cat": "avto",
-  "title": "LACETTI",
-  "year": "2018",
-  "mileage": "264624",
-  "region": "Хоразм вилояти",
-  "price_orig": 60405000.0,
-  "price_final": 60405000.0,
-  "date": "22.10.2026",
-  "post_url": "https://t.me/avto_auksion_uz/144088",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/1bf9e18fb071856ee0a21133b6549a65_L.jpeg",
-  "fav": 60,
-  "order_end": "22.10.2026 09:00"
- },
- {
-  "id": 26130913,
-  "lot_number": "26130913",
-  "cat": "avto",
-  "title": "CHEVROLET MALIBU",
-  "year": "2022",
-  "mileage": "73968",
-  "region": "Самарқанд вилояти",
-  "price_orig": 285814720.0,
-  "price_final": 228651776.0,
-  "date": "22.10.2026",
-  "post_url": "https://t.me/avto_auksion_uz/149934",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/c4c7a9c8445e59e78c76cb60591ccc11_L.jpeg",
-  "fav": 59,
-  "order_end": "22.10.2026 09:00"
- },
- {
   "id": 26132342,
   "lot_number": "26132342",
   "cat": "avto",
@@ -149,7 +149,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149965",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/b53b9fd267d0c4c6c89e765a9fe52d71_L.jpeg",
-  "fav": 56,
+  "fav": 58,
   "order_end": "22.10.2026 09:00"
  },
  {
@@ -166,7 +166,7 @@
   "post_url": "https://t.me/avto_auksion_uz/144107",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/fd31d13eb356e1fb6d4021bd02fea348_L.jpeg",
-  "fav": 52,
+  "fav": 55,
   "order_end": "22.10.2026 09:00"
  },
  {
@@ -183,7 +183,7 @@
   "post_url": "https://t.me/avto_auksion_uz/150118",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/96cb9de70edd00089adbfc0d93059430_L.jpg",
-  "fav": 51,
+  "fav": 53,
   "order_end": "22.10.2026 09:00"
  },
  {
@@ -200,7 +200,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149964",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/086efa659c9e01e4ac643d058cc7374f_L.jpeg",
-  "fav": 47,
+  "fav": 49,
   "order_end": "22.10.2026 09:00"
  },
  {
@@ -217,7 +217,7 @@
   "post_url": "https://t.me/gruzovoeavto/20753",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/a2b4894b7ae36bb63029e055689be037_L.jpeg",
-  "fav": 44,
+  "fav": 45,
   "order_end": "22.10.2026 09:00"
  },
  {
@@ -251,7 +251,7 @@
   "post_url": "https://t.me/avto_auksion_uz/150128",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/7d4e610215adf2ad13e15726d5cf9863_L.jpg",
-  "fav": 41,
+  "fav": 42,
   "order_end": "22.10.2026 09:00"
  },
  {
@@ -268,7 +268,7 @@
   "post_url": "https://t.me/avto_auksion_uz/150014",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/d1824cf82f25faf7baf65bab03e3e8fe_L.jpeg",
-  "fav": 39,
+  "fav": 40,
   "order_end": "22.10.2026 09:00"
  },
  {
@@ -306,23 +306,6 @@
   "order_end": "22.10.2026 09:00"
  },
  {
-  "id": 26130925,
-  "lot_number": "26130925",
-  "cat": "yuk",
-  "title": "HOWO A7ZZ4257N3847CIC",
-  "year": "2021",
-  "mileage": "",
-  "region": "Қорақалпоғистон Республикаси",
-  "price_orig": 408800000.0,
-  "price_final": 327040000.0,
-  "date": "22.10.2026",
-  "post_url": "https://t.me/gruzovoeavto/21000",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/70d2e363df45c0888e856c137d048934_L.jpeg",
-  "fav": 32,
-  "order_end": "22.10.2026 09:00"
- },
- {
   "id": 26130827,
   "lot_number": "26130827",
   "cat": "avto",
@@ -336,6 +319,23 @@
   "post_url": "https://t.me/avto_auksion_uz/149963",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/b791447af7b7b495030dfeccc1b2c05e_L.jpeg",
+  "fav": 33,
+  "order_end": "22.10.2026 09:00"
+ },
+ {
+  "id": 26130925,
+  "lot_number": "26130925",
+  "cat": "yuk",
+  "title": "HOWO A7ZZ4257N3847CIC",
+  "year": "2021",
+  "mileage": "",
+  "region": "Қорақалпоғистон Республикаси",
+  "price_orig": 408800000.0,
+  "price_final": 327040000.0,
+  "date": "22.10.2026",
+  "post_url": "https://t.me/gruzovoeavto/21000",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/70d2e363df45c0888e856c137d048934_L.jpeg",
   "fav": 32,
   "order_end": "22.10.2026 09:00"
  },
@@ -455,24 +455,7 @@
   "post_url": "https://t.me/avto_auksion_uz/145749",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/b169cb346d9aa498721d0c493b82ad1e_L.jpeg",
-  "fav": 45,
-  "order_end": "23.10.2026 09:00"
- },
- {
-  "id": 25715425,
-  "lot_number": "25715425",
-  "cat": "yuk",
-  "title": "SANY SYM5395JQZ",
-  "year": "2023",
-  "mileage": "",
-  "region": "Жиззах вилояти",
-  "price_orig": 2627040000.0,
-  "price_final": 1838928000.0,
-  "date": "23.10.2026",
-  "post_url": "https://t.me/gruzovoeavto/19969",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/dfb6ec1e404045119112d838fd202570_L.jpeg",
-  "fav": 42,
+  "fav": 46,
   "order_end": "23.10.2026 09:00"
  },
  {
@@ -489,6 +472,23 @@
   "post_url": "https://t.me/gruzovoeavto/19986",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/4baedabfbd9aa91631d2f37d5a9771cc_L.jpeg",
+  "fav": 43,
+  "order_end": "23.10.2026 09:00"
+ },
+ {
+  "id": 25715425,
+  "lot_number": "25715425",
+  "cat": "yuk",
+  "title": "SANY SYM5395JQZ",
+  "year": "2023",
+  "mileage": "",
+  "region": "Жиззах вилояти",
+  "price_orig": 2627040000.0,
+  "price_final": 1838928000.0,
+  "date": "23.10.2026",
+  "post_url": "https://t.me/gruzovoeavto/19969",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/dfb6ec1e404045119112d838fd202570_L.jpeg",
   "fav": 42,
   "order_end": "23.10.2026 09:00"
  },
@@ -676,7 +676,7 @@
   "post_url": "https://t.me/avto_auksion_uz/145865",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/1a4901df6ac5e3739fcdfec415b4876c_L.jpeg",
-  "fav": 185,
+  "fav": 184,
   "order_end": "26.10.2026 09:00"
  },
  {
@@ -710,7 +710,7 @@
   "post_url": "https://t.me/avto_auksion_uz/145875",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/8ebf9dab43b50dd4d8411bf9f39c5291_L.jpeg",
-  "fav": 107,
+  "fav": 108,
   "order_end": "26.10.2026 09:00"
  },
  {
@@ -727,7 +727,7 @@
   "post_url": "https://t.me/avto_auksion_uz/145945",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/fa7a73a1fe606233292bc7449f7b66ea_L.jpeg",
-  "fav": 105,
+  "fav": 106,
   "order_end": "26.10.2026 09:00"
  },
  {
@@ -816,6 +816,23 @@
   "order_end": "26.10.2026 09:00"
  },
  {
+  "id": 25746806,
+  "lot_number": "25746806",
+  "cat": "avto",
+  "title": "AIQAR ELECTRICAL",
+  "year": "2024",
+  "mileage": "52534",
+  "region": "Наманган вилояти",
+  "price_orig": 94963000.0,
+  "price_final": 94963000.0,
+  "date": "26.10.2026",
+  "post_url": "https://t.me/avto_auksion_uz/145925",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/2d6f07aa6a4b7d8fc3768261c7714816_L.jpeg",
+  "fav": 68,
+  "order_end": "26.10.2026 09:00"
+ },
+ {
   "id": 25770344,
   "lot_number": "25770344",
   "cat": "yuk",
@@ -830,23 +847,6 @@
   "test": false,
   "photo": "https://media.e-auksion.uz/i/8bf4965c4f4a9170c1faecff1a72d41e_L.jpg",
   "fav": 68,
-  "order_end": "26.10.2026 09:00"
- },
- {
-  "id": 25746806,
-  "lot_number": "25746806",
-  "cat": "avto",
-  "title": "AIQAR ELECTRICAL",
-  "year": "2024",
-  "mileage": "52534",
-  "region": "Наманган вилояти",
-  "price_orig": 94963000.0,
-  "price_final": 94963000.0,
-  "date": "26.10.2026",
-  "post_url": "https://t.me/avto_auksion_uz/145925",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/2d6f07aa6a4b7d8fc3768261c7714816_L.jpeg",
-  "fav": 67,
   "order_end": "26.10.2026 09:00"
  },
  {
@@ -880,7 +880,7 @@
   "post_url": "https://t.me/gruzovoeavto/21164",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/ff4fa362a591130cc39a5ae20ac8c97b_L.jpeg",
-  "fav": 62,
+  "fav": 63,
   "order_end": "26.10.2026 09:00"
  },
  {
@@ -897,7 +897,7 @@
   "post_url": "https://t.me/avto_auksion_uz/148983",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/f48758c97493613220038b808557b1dd_L.jpg",
-  "fav": 130,
+  "fav": 131,
   "order_end": "27.10.2026 09:00"
  },
  {
@@ -999,7 +999,7 @@
   "post_url": "https://t.me/avto_auksion_uz/150438",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/6ac3a7365f88977e5eaa5fb4e4f784fe_L.jpg",
-  "fav": 31,
+  "fav": 32,
   "order_end": "27.10.2026 09:00"
  },
  {
@@ -1152,7 +1152,7 @@
   "post_url": "https://t.me/gruzovoeavto/21247",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/011b2c8ddf324052ad72e3026903552d_L.jpg",
-  "fav": 180,
+  "fav": 181,
   "order_end": "29.10.2026 09:00"
  },
  {
@@ -1169,7 +1169,7 @@
   "post_url": "https://t.me/gruzovoeavto/21045",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/4a23bb613fd86cb165dab73bdf7a5774_L.jpg",
-  "fav": 178,
+  "fav": 179,
   "order_end": "29.10.2026 09:00"
  },
  {
@@ -1186,7 +1186,7 @@
   "post_url": "https://t.me/gruzovoeavto/21252",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/db1a3f1c63856f6c3585d3dd62acca9c_L.jpeg",
-  "fav": 174,
+  "fav": 175,
   "order_end": "29.10.2026 09:00"
  },
  {
@@ -1271,7 +1271,7 @@
   "post_url": "https://t.me/avto_auksion_uz/147855",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/89d8afebdc9b3a92ba7b6eaf3cf1b7a4_L.jpeg",
-  "fav": 149,
+  "fav": 150,
   "order_end": "29.10.2026 09:00"
  },
  {
@@ -1543,7 +1543,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149452",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/f77239aed5b975501ffd45308971bb9b_L.jpeg",
-  "fav": 234,
+  "fav": 235,
   "order_end": "02.11.2026 09:00"
  },
  {
@@ -1594,7 +1594,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149379",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/cc543fea5d08c0840048795d11d7b657_L.jpeg",
-  "fav": 175,
+  "fav": 176,
   "order_end": "02.11.2026 09:00"
  },
  {
@@ -1628,7 +1628,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149462",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/5646b5d03df44b4f57165cf10a9cc856_L.jpeg",
-  "fav": 153,
+  "fav": 154,
   "order_end": "02.11.2026 09:00"
  },
  {
@@ -1662,7 +1662,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149399",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/ac8d751b6692cd41f7e8175b7113a9d4_L.jpeg",
-  "fav": 121,
+  "fav": 122,
   "order_end": "02.11.2026 09:00"
  },
  {
@@ -1696,7 +1696,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149419",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/e589564f4efa04fe1e33b19a6c43f6fa_L.jpeg",
-  "fav": 106,
+  "fav": 107,
   "order_end": "02.11.2026 09:00"
  }
 ]
