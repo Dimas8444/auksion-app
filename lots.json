@@ -13,7 +13,7 @@
   "post_url": "https://t.me/avto_auksion_uz/144002",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/f87fe8378bba14eb416afb6dd31e44f9_L.jpg",
-  "fav": 500,
+  "fav": 501,
   "order_end": "22.10.2026 09:00"
  },
  {
@@ -30,7 +30,7 @@
   "post_url": "https://t.me/avto_auksion_uz/144021",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/815cbc9856920c67e1326a73ceab861a_L.jpg",
-  "fav": 415,
+  "fav": 417,
   "order_end": "22.10.2026 09:00"
  },
  {
@@ -47,7 +47,7 @@
   "post_url": "https://t.me/avto_auksion_uz/144040",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/eb24abbd21c6cf2d50bc0af030c19cf5_L.jpeg",
-  "fav": 254,
+  "fav": 255,
   "order_end": "22.10.2026 09:00"
  },
  {
@@ -64,7 +64,7 @@
   "post_url": "https://t.me/avto_auksion_uz/144050",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/908c24989b5225ea348012d8a516fe8d_L.jpeg",
-  "fav": 147,
+  "fav": 149,
   "order_end": "22.10.2026 09:00"
  },
  {
@@ -149,7 +149,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149965",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/b53b9fd267d0c4c6c89e765a9fe52d71_L.jpeg",
-  "fav": 60,
+  "fav": 61,
   "order_end": "22.10.2026 09:00"
  },
  {
@@ -200,7 +200,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149964",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/086efa659c9e01e4ac643d058cc7374f_L.jpeg",
-  "fav": 50,
+  "fav": 51,
   "order_end": "22.10.2026 09:00"
  },
  {
@@ -234,7 +234,7 @@
   "post_url": "https://t.me/avto_auksion_uz/150128",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/7d4e610215adf2ad13e15726d5cf9863_L.jpg",
-  "fav": 44,
+  "fav": 45,
   "order_end": "22.10.2026 09:00"
  },
  {
@@ -272,6 +272,23 @@
   "order_end": "22.10.2026 09:00"
  },
  {
+  "id": 26130798,
+  "lot_number": "26130798",
+  "cat": "avto",
+  "title": "Cobalt LT",
+  "year": "2014",
+  "mileage": "",
+  "region": "Бухоро вилояти",
+  "price_orig": 83435811.0,
+  "price_final": 54233277.15,
+  "date": "22.10.2026",
+  "post_url": "https://t.me/avto_auksion_uz/149935",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/1c3ddf0c5de8838794ed4be863c2ec57_L.jpeg",
+  "fav": 37,
+  "order_end": "22.10.2026 09:00"
+ },
+ {
   "id": 26134836,
   "lot_number": "26134836",
   "cat": "yuk",
@@ -289,20 +306,20 @@
   "order_end": "22.10.2026 09:00"
  },
  {
-  "id": 26130798,
-  "lot_number": "26130798",
-  "cat": "avto",
-  "title": "Cobalt LT",
-  "year": "2014",
+  "id": 26130925,
+  "lot_number": "26130925",
+  "cat": "yuk",
+  "title": "HOWO A7ZZ4257N3847CIC",
+  "year": "2021",
   "mileage": "",
-  "region": "Бухоро вилояти",
-  "price_orig": 83435811.0,
-  "price_final": 54233277.15,
+  "region": "Қорақалпоғистон Республикаси",
+  "price_orig": 408800000.0,
+  "price_final": 327040000.0,
   "date": "22.10.2026",
-  "post_url": "https://t.me/avto_auksion_uz/149935",
+  "post_url": "https://t.me/gruzovoeavto/21000",
   "test": false,
-  "photo": "https://media.e-auksion.uz/i/1c3ddf0c5de8838794ed4be863c2ec57_L.jpeg",
-  "fav": 36,
+  "photo": "https://media.e-auksion.uz/i/70d2e363df45c0888e856c137d048934_L.jpeg",
+  "fav": 34,
   "order_end": "22.10.2026 09:00"
  },
  {
@@ -320,23 +337,6 @@
   "test": false,
   "photo": "https://media.e-auksion.uz/i/b791447af7b7b495030dfeccc1b2c05e_L.jpeg",
   "fav": 33,
-  "order_end": "22.10.2026 09:00"
- },
- {
-  "id": 26130925,
-  "lot_number": "26130925",
-  "cat": "yuk",
-  "title": "HOWO A7ZZ4257N3847CIC",
-  "year": "2021",
-  "mileage": "",
-  "region": "Қорақалпоғистон Республикаси",
-  "price_orig": 408800000.0,
-  "price_final": 327040000.0,
-  "date": "22.10.2026",
-  "post_url": "https://t.me/gruzovoeavto/21000",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/70d2e363df45c0888e856c137d048934_L.jpeg",
-  "fav": 32,
   "order_end": "22.10.2026 09:00"
  },
  {
@@ -387,7 +387,7 @@
   "post_url": "https://t.me/avto_auksion_uz/145721",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/0916d3c968b2e3c9bd32da2d942a98a9_L.jpg",
-  "fav": 83,
+  "fav": 84,
   "order_end": "23.10.2026 09:00"
  },
  {
@@ -574,7 +574,7 @@
   "post_url": "https://t.me/avto_auksion_uz/145816",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/58f76e0409e0dc74be2a6650a3d264ad_L.jpeg",
-  "fav": 377,
+  "fav": 379,
   "order_end": "26.10.2026 09:00"
  },
  {
@@ -591,7 +591,7 @@
   "post_url": "https://t.me/avto_auksion_uz/145826",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/4c303b1702866118109a7c8267c77cfa_L.jpeg",
-  "fav": 321,
+  "fav": 322,
   "order_end": "26.10.2026 09:00"
  },
  {
@@ -659,7 +659,7 @@
   "post_url": "https://t.me/avto_auksion_uz/145845",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/0013630f82330425c1805fc2034d233d_L.jpeg",
-  "fav": 187,
+  "fav": 188,
   "order_end": "26.10.2026 09:00"
  },
  {
@@ -676,7 +676,7 @@
   "post_url": "https://t.me/avto_auksion_uz/145865",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/1a4901df6ac5e3739fcdfec415b4876c_L.jpeg",
-  "fav": 184,
+  "fav": 185,
   "order_end": "26.10.2026 09:00"
  },
  {
@@ -982,7 +982,7 @@
   "post_url": "https://t.me/avto_auksion_uz/148991",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/1b74173c30ae866b595ae1fd28bd1f4d_L.jpg",
-  "fav": 44,
+  "fav": 45,
   "order_end": "27.10.2026 09:00"
  },
  {
@@ -1016,7 +1016,7 @@
   "post_url": "https://t.me/avto_auksion_uz/150447",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/81cc726000fc2897ab63b5f625f96707_L.jpg",
-  "fav": 108,
+  "fav": 109,
   "order_end": "28.10.2026 09:00"
  },
  {
@@ -1033,7 +1033,7 @@
   "post_url": "https://t.me/avto_auksion_uz/147773",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/f5f018293c3857836008ceac1241fc43_L.jpg",
-  "fav": 417,
+  "fav": 416,
   "order_end": "29.10.2026 09:00"
  },
  {
