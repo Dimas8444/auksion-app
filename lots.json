@@ -81,24 +81,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149936",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/30da7e51299af2b81efb46c8a8c462a5_L.jpeg",
-  "fav": 68,
-  "order_end": "22.10.2026 09:00"
- },
- {
-  "id": 26130913,
-  "lot_number": "26130913",
-  "cat": "avto",
-  "title": "CHEVROLET MALIBU",
-  "year": "2022",
-  "mileage": "73968",
-  "region": "Самарқанд вилояти",
-  "price_orig": 285814720.0,
-  "price_final": 228651776.0,
-  "date": "22.10.2026",
-  "post_url": "https://t.me/avto_auksion_uz/149934",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/c4c7a9c8445e59e78c76cb60591ccc11_L.jpeg",
-  "fav": 62,
+  "fav": 69,
   "order_end": "22.10.2026 09:00"
  },
  {
@@ -115,6 +98,23 @@
   "post_url": "https://t.me/avto_auksion_uz/144097",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/160ab7c5a296cc257a51767f1cb609b5_L.jpeg",
+  "fav": 63,
+  "order_end": "22.10.2026 09:00"
+ },
+ {
+  "id": 26130913,
+  "lot_number": "26130913",
+  "cat": "avto",
+  "title": "CHEVROLET MALIBU",
+  "year": "2022",
+  "mileage": "73968",
+  "region": "Самарқанд вилояти",
+  "price_orig": 285814720.0,
+  "price_final": 228651776.0,
+  "date": "22.10.2026",
+  "post_url": "https://t.me/avto_auksion_uz/149934",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/c4c7a9c8445e59e78c76cb60591ccc11_L.jpeg",
   "fav": 62,
   "order_end": "22.10.2026 09:00"
  },
@@ -149,7 +149,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149965",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/b53b9fd267d0c4c6c89e765a9fe52d71_L.jpeg",
-  "fav": 61,
+  "fav": 60,
   "order_end": "22.10.2026 09:00"
  },
  {
@@ -200,7 +200,24 @@
   "post_url": "https://t.me/avto_auksion_uz/149964",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/086efa659c9e01e4ac643d058cc7374f_L.jpeg",
-  "fav": 51,
+  "fav": 50,
+  "order_end": "22.10.2026 09:00"
+ },
+ {
+  "id": 26134719,
+  "lot_number": "26134719",
+  "cat": "avto",
+  "title": "Nexia 3",
+  "year": "2020",
+  "mileage": "109193",
+  "region": "Андижон вилояти",
+  "price_orig": 49785227.0,
+  "price_final": 49785227.0,
+  "date": "22.10.2026",
+  "post_url": "https://t.me/avto_auksion_uz/150128",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/7d4e610215adf2ad13e15726d5cf9863_L.jpg",
+  "fav": 48,
   "order_end": "22.10.2026 09:00"
  },
  {
@@ -218,23 +235,6 @@
   "test": false,
   "photo": "https://media.e-auksion.uz/i/a2b4894b7ae36bb63029e055689be037_L.jpeg",
   "fav": 46,
-  "order_end": "22.10.2026 09:00"
- },
- {
-  "id": 26134719,
-  "lot_number": "26134719",
-  "cat": "avto",
-  "title": "Nexia 3",
-  "year": "2020",
-  "mileage": "109193",
-  "region": "Андижон вилояти",
-  "price_orig": 49785227.0,
-  "price_final": 49785227.0,
-  "date": "22.10.2026",
-  "post_url": "https://t.me/avto_auksion_uz/150128",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/7d4e610215adf2ad13e15726d5cf9863_L.jpg",
-  "fav": 45,
   "order_end": "22.10.2026 09:00"
  },
  {
@@ -455,7 +455,7 @@
   "post_url": "https://t.me/avto_auksion_uz/145749",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/b169cb346d9aa498721d0c493b82ad1e_L.jpeg",
-  "fav": 47,
+  "fav": 48,
   "order_end": "23.10.2026 09:00"
  },
  {
@@ -897,7 +897,7 @@
   "post_url": "https://t.me/avto_auksion_uz/148983",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/f48758c97493613220038b808557b1dd_L.jpg",
-  "fav": 131,
+  "fav": 132,
   "order_end": "27.10.2026 09:00"
  },
  {
@@ -948,7 +948,7 @@
   "post_url": "https://t.me/gruzovoeavto/20787",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/48e7a260b8f1a5f29993354f0e328e6d_L.jpg",
-  "fav": 79,
+  "fav": 80,
   "order_end": "27.10.2026 09:00"
  },
  {
@@ -1033,7 +1033,7 @@
   "post_url": "https://t.me/avto_auksion_uz/147773",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/f5f018293c3857836008ceac1241fc43_L.jpg",
-  "fav": 416,
+  "fav": 417,
   "order_end": "29.10.2026 09:00"
  },
  {
@@ -1526,7 +1526,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149446",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/cafab2dcfbe1242344217f5bf9cd6035_L.png",
-  "fav": 241,
+  "fav": 242,
   "order_end": "02.11.2026 09:00"
  },
  {
@@ -1628,7 +1628,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149462",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/5646b5d03df44b4f57165cf10a9cc856_L.jpeg",
-  "fav": 154,
+  "fav": 155,
   "order_end": "02.11.2026 09:00"
  },
  {
@@ -1696,7 +1696,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149419",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/e589564f4efa04fe1e33b19a6c43f6fa_L.jpeg",
-  "fav": 107,
+  "fav": 108,
   "order_end": "02.11.2026 09:00"
  }
 ]
