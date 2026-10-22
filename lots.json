@@ -1173,6 +1173,23 @@
   "order_end": "30.10.2026 09:00"
  },
  {
+  "id": 26236789,
+  "lot_number": "26236789",
+  "cat": "yuk",
+  "title": "MAN CLA 16.220",
+  "year": "2013",
+  "mileage": "",
+  "region": "Қашқадарё вилояти",
+  "price_orig": 258879334.0,
+  "price_final": 258879334.0,
+  "date": "30.10.2026",
+  "post_url": "https://t.me/gruzovoeavto/21948",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/1ac8224ae535ffb61cd82737e0cb3e1d_L.jpg",
+  "fav": 35,
+  "order_end": "30.10.2026 09:00"
+ },
+ {
   "id": 25875911,
   "lot_number": "25875911",
   "cat": "avto",
@@ -1680,23 +1697,6 @@
   "test": false,
   "photo": "https://media.e-auksion.uz/i/de39a0d021151b5547d688cae812c6c5_L.jpg",
   "fav": 101,
-  "order_end": "06.11.2026 09:00"
- },
- {
-  "id": 26011489,
-  "lot_number": "26011489",
-  "cat": "avto",
-  "title": "-COBALT",
-  "year": "2020",
-  "mileage": "",
-  "region": "Сирдарё вилояти",
-  "price_orig": 78050000.0,
-  "price_final": 54635000.0,
-  "date": "06.11.2026",
-  "post_url": "https://t.me/avto_auksion_uz/149788",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/70065874e8e03438d8a0666da159af99_L.jpeg",
-  "fav": 87,
   "order_end": "06.11.2026 09:00"
  }
 ]
