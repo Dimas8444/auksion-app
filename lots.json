@@ -13,7 +13,7 @@
   "post_url": "https://t.me/avto_auksion_uz/145677",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/1f3bb083486da790a926f5b74ab4a5c0_L.jpeg",
-  "fav": 280,
+  "fav": 283,
   "order_end": "23.10.2026 09:00"
  },
  {
@@ -30,7 +30,7 @@
   "post_url": "https://t.me/gruzovoeavto/19954",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/7cf42b89797bd49086e52a6e7c5b4323_L.jpg",
-  "fav": 126,
+  "fav": 127,
   "order_end": "23.10.2026 09:00"
  },
  {
@@ -47,7 +47,7 @@
   "post_url": "https://t.me/avto_auksion_uz/145721",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/0916d3c968b2e3c9bd32da2d942a98a9_L.jpg",
-  "fav": 88,
+  "fav": 89,
   "order_end": "23.10.2026 09:00"
  },
  {
@@ -98,7 +98,7 @@
   "post_url": "https://t.me/gruzovoeavto/19977",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/e2d0bdf528c992038e9f5ec620897f52_L.jpeg",
-  "fav": 50,
+  "fav": 51,
   "order_end": "23.10.2026 09:00"
  },
  {
@@ -149,7 +149,7 @@
   "post_url": "https://t.me/avto_auksion_uz/145739",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/4694983bcba86a519051dfa81ca4f5cf_L.jpeg",
-  "fav": 44,
+  "fav": 45,
   "order_end": "23.10.2026 09:00"
  },
  {
@@ -238,6 +238,23 @@
   "order_end": "23.10.2026 09:00"
  },
  {
+  "id": 26169480,
+  "lot_number": "26169480",
+  "cat": "avto",
+  "title": "JETOUR JETOUR DASHING",
+  "year": "2024",
+  "mileage": "18620",
+  "region": "Жиззах вилояти",
+  "price_orig": 182855664.0,
+  "price_final": 182855664.0,
+  "date": "23.10.2026",
+  "post_url": "https://t.me/avto_auksion_uz/150197",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/9d4e2da56c0ed4f7b035d856c4ce5385_L.jpg",
+  "fav": 31,
+  "order_end": "23.10.2026 09:00"
+ },
+ {
   "id": 25746737,
   "lot_number": "25746737",
   "cat": "avto",
@@ -251,7 +268,7 @@
   "post_url": "https://t.me/avto_auksion_uz/145806",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/402e4b9bf71f077d4a1ec2e472122826_L.jpg",
-  "fav": 564,
+  "fav": 567,
   "order_end": "26.10.2026 09:00"
  },
  {
@@ -268,7 +285,7 @@
   "post_url": "https://t.me/avto_auksion_uz/145816",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/58f76e0409e0dc74be2a6650a3d264ad_L.jpeg",
-  "fav": 380,
+  "fav": 381,
   "order_end": "26.10.2026 09:00"
  },
  {
@@ -302,7 +319,7 @@
   "post_url": "https://t.me/gruzovoeavto/20024",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/625a9df6186f2159bf2abdec8be5c218_L.jpeg",
-  "fav": 313,
+  "fav": 312,
   "order_end": "26.10.2026 09:00"
  },
  {
@@ -353,7 +370,7 @@
   "post_url": "https://t.me/avto_auksion_uz/145845",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/0013630f82330425c1805fc2034d233d_L.jpeg",
-  "fav": 195,
+  "fav": 196,
   "order_end": "26.10.2026 09:00"
  },
  {
@@ -438,7 +455,24 @@
   "post_url": "https://t.me/avto_auksion_uz/145905",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/faed3f7343cd4c05e8a15190cefc839b_L.jpeg",
-  "fav": 89,
+  "fav": 90,
+  "order_end": "26.10.2026 09:00"
+ },
+ {
+  "id": 25746855,
+  "lot_number": "25746855",
+  "cat": "avto",
+  "title": "CHEVROLET LACETTI",
+  "year": "2018",
+  "mileage": "",
+  "region": "Навоий вилояти",
+  "price_orig": 70950000.0,
+  "price_final": 70950000.0,
+  "date": "26.10.2026",
+  "post_url": "https://t.me/avto_auksion_uz/145915",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/9ee9711054f57cdd2a3114a4f539fc00_L.jpeg",
+  "fav": 82,
   "order_end": "26.10.2026 09:00"
  },
  {
@@ -456,23 +490,6 @@
   "test": false,
   "photo": "https://media.e-auksion.uz/i/86c4ff579dc54321b44d03f4f39f1ef0_L.jpeg",
   "fav": 82,
-  "order_end": "26.10.2026 09:00"
- },
- {
-  "id": 25746855,
-  "lot_number": "25746855",
-  "cat": "avto",
-  "title": "CHEVROLET LACETTI",
-  "year": "2018",
-  "mileage": "",
-  "region": "Навоий вилояти",
-  "price_orig": 70950000.0,
-  "price_final": 70950000.0,
-  "date": "26.10.2026",
-  "post_url": "https://t.me/avto_auksion_uz/145915",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/9ee9711054f57cdd2a3114a4f539fc00_L.jpeg",
-  "fav": 81,
   "order_end": "26.10.2026 09:00"
  },
  {
@@ -591,7 +608,7 @@
   "post_url": "https://t.me/avto_auksion_uz/148983",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/f48758c97493613220038b808557b1dd_L.jpg",
-  "fav": 137,
+  "fav": 138,
   "order_end": "27.10.2026 09:00"
  },
  {
@@ -710,7 +727,7 @@
   "post_url": "https://t.me/avto_auksion_uz/150447",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/81cc726000fc2897ab63b5f625f96707_L.jpg",
-  "fav": 120,
+  "fav": 122,
   "order_end": "28.10.2026 09:00"
  },
  {
@@ -744,7 +761,7 @@
   "post_url": "https://t.me/avto_auksion_uz/147780",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/9e79d291c094c9f96b6c50c9a3b10d7e_L.jpg",
-  "fav": 367,
+  "fav": 368,
   "order_end": "29.10.2026 09:00"
  },
  {
@@ -778,7 +795,7 @@
   "post_url": "https://t.me/avto_auksion_uz/147795",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/8238c89ffd6b42a97d946b1065f8a66c_L.jpg",
-  "fav": 244,
+  "fav": 245,
   "order_end": "29.10.2026 09:00"
  },
  {
@@ -812,7 +829,7 @@
   "post_url": "https://t.me/avto_auksion_uz/147805",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/b4e024d1349e93906e10344c650062e4_L.jpg",
-  "fav": 196,
+  "fav": 197,
   "order_end": "29.10.2026 09:00"
  },
  {
@@ -986,6 +1003,23 @@
   "order_end": "29.10.2026 09:00"
  },
  {
+  "id": 25842311,
+  "lot_number": "25842311",
+  "cat": "yuk",
+  "title": "MERCEDES-BENZ/1838 LS",
+  "year": "1993",
+  "mileage": "665515",
+  "region": "Тошкент ш.",
+  "price_orig": 15056000.0,
+  "price_final": 15056000.0,
+  "date": "29.10.2026",
+  "post_url": "https://t.me/gruzovoeavto/21297",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/f263fd72e27760ebd7f9c67cfae3abb2_L.jpg",
+  "fav": 139,
+  "order_end": "29.10.2026 09:00"
+ },
+ {
   "id": 25842313,
   "lot_number": "25842313",
   "cat": "yuk",
@@ -1000,23 +1034,6 @@
   "test": false,
   "photo": "https://media.e-auksion.uz/i/eb3cb3cbd9c1e864edfe16a5adfcac2f_L.jpg",
   "fav": 139,
-  "order_end": "29.10.2026 09:00"
- },
- {
-  "id": 25842311,
-  "lot_number": "25842311",
-  "cat": "yuk",
-  "title": "MERCEDES-BENZ/1838 LS",
-  "year": "1993",
-  "mileage": "665515",
-  "region": "Тошкент ш.",
-  "price_orig": 15056000.0,
-  "price_final": 15056000.0,
-  "date": "29.10.2026",
-  "post_url": "https://t.me/gruzovoeavto/21297",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/f263fd72e27760ebd7f9c67cfae3abb2_L.jpg",
-  "fav": 138,
   "order_end": "29.10.2026 09:00"
  },
  {
@@ -1067,7 +1084,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149188",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/c1d58f366e815b991e51ca7f9b74c551_L.jpeg",
-  "fav": 166,
+  "fav": 167,
   "order_end": "30.10.2026 09:00"
  },
  {
@@ -1084,7 +1101,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149198",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/f990764cadc7602a04cf56fca01e866f_L.jpg",
-  "fav": 87,
+  "fav": 86,
   "order_end": "30.10.2026 09:00"
  },
  {
@@ -1220,7 +1237,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149348",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/f79c3080ce0294ac0f2651998b42e01e_L.jpeg",
-  "fav": 385,
+  "fav": 383,
   "order_end": "02.11.2026 09:00"
  },
  {
@@ -1254,7 +1271,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149452",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/f77239aed5b975501ffd45308971bb9b_L.jpeg",
-  "fav": 237,
+  "fav": 238,
   "order_end": "02.11.2026 09:00"
  },
  {
@@ -1288,7 +1305,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149368",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/6286272b668712b380679e1ca6f8caa4_L.jpeg",
-  "fav": 199,
+  "fav": 200,
   "order_end": "02.11.2026 09:00"
  },
  {
@@ -1424,7 +1441,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149419",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/e589564f4efa04fe1e33b19a6c43f6fa_L.jpeg",
-  "fav": 109,
+  "fav": 110,
   "order_end": "02.11.2026 09:00"
  },
  {
@@ -1458,7 +1475,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149436",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/b8cd1338f4ecc0ca25c2c9ef7f54f414_L.jpeg",
-  "fav": 76,
+  "fav": 77,
   "order_end": "02.11.2026 09:00"
  },
  {
@@ -1577,7 +1594,7 @@
   "post_url": "https://t.me/avto_auksion_uz/147075",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/11ed12b17dd7e271b42bb728a9cdd302_L.jpeg",
-  "fav": 82,
+  "fav": 83,
   "order_end": "05.11.2026 09:00"
  },
  {
@@ -1679,24 +1696,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149778",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/497d19179ae1f1f5ce3ce6c76e1a47f9_L.jpeg",
-  "fav": 110,
-  "order_end": "06.11.2026 09:00"
- },
- {
-  "id": 25981852,
-  "lot_number": "25981852",
-  "cat": "avto",
-  "title": "Lacetti",
-  "year": "2011",
-  "mileage": "281400",
-  "region": "Қашқадарё вилояти",
-  "price_orig": 36747552.0,
-  "price_final": 36747552.0,
-  "date": "06.11.2026",
-  "post_url": "https://t.me/avto_auksion_uz/149772",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/de39a0d021151b5547d688cae812c6c5_L.jpg",
-  "fav": 101,
+  "fav": 111,
   "order_end": "06.11.2026 09:00"
  }
 ]
