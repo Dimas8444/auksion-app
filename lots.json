@@ -629,6 +629,29 @@
   ]
  },
  {
+  "id": 26120013,
+  "lot_number": "26120013",
+  "cat": "avto",
+  "title": "NEXIA",
+  "year": "2015",
+  "mileage": "",
+  "region": "Тошкент ш.",
+  "price_orig": 23169000.0,
+  "price_final": 23169000.0,
+  "date": "27.10.2026",
+  "post_url": "https://t.me/avto_auksion_uz/151574",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/54bd492900c134a152df099663c558d4_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/54bd492900c134a152df099663c558d4_L.jpg",
+   "https://media.e-auksion.uz/i/a04d939252ac744e832080fa8828747d_L.jpg",
+   "https://media.e-auksion.uz/i/9175b84561c3a48623f42c7d6bdb51a4_L.jpg",
+   "https://media.e-auksion.uz/i/b173773b5d97300b4b51a074b76f93a1_L.jpg"
+  ],
+  "fav": 99,
+  "order_end": "27.10.2026 09:00"
+ },
+ {
   "id": 26120002,
   "lot_number": "26120002",
   "cat": "yuk",
@@ -2705,35 +2728,6 @@
    "https://media.e-auksion.uz/i/b915706545e645b3cb1291d0c4454872_L.jpeg",
    "https://media.e-auksion.uz/i/0074e50786ff6ac68845abdd6ada24c9_L.jpeg",
    "https://media.e-auksion.uz/i/07b9bbd3e8cca3271d3bbe82c1d00d9a_L.jpeg"
-  ]
- },
- {
-  "id": 26072648,
-  "lot_number": "26072648",
-  "cat": "avto",
-  "title": "NEXIA 3",
-  "year": "2017",
-  "mileage": "",
-  "region": "Фарғона вилояти",
-  "price_orig": 60993000.0,
-  "price_final": 42695100.0,
-  "date": "09.11.2026",
-  "post_url": "https://t.me/avto_auksion_uz/151185",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/c5641e66f7a22249cda6ef3f8c5b0b27_L.jpeg",
-  "fav": 181,
-  "order_end": "09.11.2026 09:00",
-  "photos": [
-   "https://media.e-auksion.uz/i/c5641e66f7a22249cda6ef3f8c5b0b27_L.jpeg",
-   "https://media.e-auksion.uz/i/0495fade251db60250696edbb7070e91_L.jpeg",
-   "https://media.e-auksion.uz/i/29da364c1782c31a1174fb2c93b53ead_L.jpeg",
-   "https://media.e-auksion.uz/i/a27cd642bee2b09874bc166d1972d248_L.jpeg",
-   "https://media.e-auksion.uz/i/70ff57a245748670bc5496d636411d7e_L.jpeg",
-   "https://media.e-auksion.uz/i/02cd613869a1a1d2c5b92a194f8fca82_L.jpeg",
-   "https://media.e-auksion.uz/i/1e74c8885ce772866267b9fb7746d673_L.jpeg",
-   "https://media.e-auksion.uz/i/b50bf5b2252e47073fb3fa10b6416894_L.jpeg",
-   "https://media.e-auksion.uz/i/a6526ebea2fda311c15f237a79c3db57_L.jpeg",
-   "https://media.e-auksion.uz/i/8eac46ec242692dd9626cc900865ad31_L.jpeg"
   ]
  }
 ]
