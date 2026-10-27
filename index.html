@@ -45,7 +45,8 @@ h1{font:700 22px/1.2 "PT Serif",Georgia,serif;margin:18px 0 4px}
 .filter select:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 .count{color:var(--mute);font-size:13px;margin-top:8px}
 .search{position:relative;margin:4px 0 8px}
-.search input{width:100%;font:inherit;font-size:16px;color:var(--ink);background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 40px 10px 12px;-webkit-appearance:none;appearance:none}
+.search input{width:100%;font:inherit;font-size:16px;color:var(--ink);background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 40px 10px 38px;-webkit-appearance:none;appearance:none}
+.search svg{position:absolute;left:12px;top:50%;transform:translateY(-50%);width:18px;height:18px;color:var(--mute);pointer-events:none}
 .search input::-webkit-search-cancel-button{display:none}
 .search input:focus-visible{outline:2px solid var(--gold);outline-offset:1px}
 .search button{position:absolute;right:4px;top:50%;transform:translateY(-50%);width:34px;height:34px;border:0;border-radius:50%;background:transparent;color:var(--mute);font-size:18px;cursor:pointer}
@@ -54,7 +55,7 @@ h1{font:700 22px/1.2 "PT Serif",Georgia,serif;margin:18px 0 4px}
 </style></head><body>
 <div class="wrap">
 <h1>Аукцион савдолар</h1>
-<form class="search" role="search" id="sform"><input type="search" id="q" placeholder="Қидириш: LACETTI, MALIBU ёки лот рақами" aria-label="Модел ёки лот рақами бўйича қидириш" autocomplete="off" enterkeyhint="search"><button type="button" id="qx" aria-label="Тозалаш" hidden>✕</button></form>
+<form class="search" role="search" id="sform"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg><input type="search" id="q" placeholder="Машина номини киритинг…" aria-label="Машина номи ёки лот рақами бўйича қидириш" autocomplete="off" enterkeyhint="search"><button type="button" id="qx" aria-label="Тозалаш" hidden>✕</button></form>
 <div class="tabs" role="tablist" id="tabs"></div>
 <div class="filter"><label for="reg">Вилоят:</label><select id="reg"></select></div>
 <div class="count" id="count"></div>
