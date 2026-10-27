@@ -2605,5 +2605,34 @@
   ],
   "fav": 326,
   "order_end": "12.11.2026 09:00"
+ },
+ {
+  "id": 26133494,
+  "lot_number": "26133494",
+  "cat": "avto",
+  "title": "LACETTI 2",
+  "year": "2023",
+  "mileage": "46051",
+  "region": "Фарғона вилояти",
+  "price_orig": 111676000.0,
+  "price_final": 78173200.0,
+  "date": "12.11.2026",
+  "post_url": "https://t.me/avto_auksion_uz/151880",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/582d4e5601e788c5267c9af2d6844818_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/582d4e5601e788c5267c9af2d6844818_L.jpeg",
+   "https://media.e-auksion.uz/i/21e009e1675da1a0c82418c3ec482c87_L.jpeg",
+   "https://media.e-auksion.uz/i/c9da70d028ea01960b51dd768c2d7381_L.jpeg",
+   "https://media.e-auksion.uz/i/378da6eb2c6bde377eb0950b5829fe24_L.jpeg",
+   "https://media.e-auksion.uz/i/c4ebd8ab01085852ce77115d4b29fb02_L.jpeg",
+   "https://media.e-auksion.uz/i/a4fbc7960c7335066c41670095ee0af8_L.jpeg",
+   "https://media.e-auksion.uz/i/041f152aa1f6778001970572be2dfe7e_L.jpeg",
+   "https://media.e-auksion.uz/i/cd7f5fb0f78aef649117417090174011_L.jpeg",
+   "https://media.e-auksion.uz/i/2fb591f43f66d41d99d2b5a13404d5e1_L.jpeg",
+   "https://media.e-auksion.uz/i/2f91fc3882b567876f5d02fb0ab7eb07_L.jpeg"
+  ],
+  "fav": 174,
+  "order_end": "12.11.2026 09:00"
  }
 ]
