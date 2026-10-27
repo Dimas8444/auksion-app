@@ -44,9 +44,17 @@ h1{font:700 22px/1.2 "PT Serif",Georgia,serif;margin:18px 0 4px}
 .filter select{flex:1;min-width:0;font:inherit;color:var(--ink);background:var(--card);border:1px solid var(--line);border-radius:10px;padding:9px 10px;appearance:auto}
 .filter select:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 .count{color:var(--mute);font-size:13px;margin-top:8px}
+.search{position:relative;margin:4px 0 8px}
+.search input{width:100%;font:inherit;font-size:16px;color:var(--ink);background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 40px 10px 12px;-webkit-appearance:none;appearance:none}
+.search input::-webkit-search-cancel-button{display:none}
+.search input:focus-visible{outline:2px solid var(--gold);outline-offset:1px}
+.search button{position:absolute;right:4px;top:50%;transform:translateY(-50%);width:34px;height:34px;border:0;border-radius:50%;background:transparent;color:var(--mute);font-size:18px;cursor:pointer}
+.search button:focus-visible{outline:2px solid var(--gold)}
+.tabs.off{display:none}
 </style></head><body>
 <div class="wrap">
 <h1>Аукцион савдолар</h1>
+<form class="search" role="search" id="sform"><input type="search" id="q" placeholder="Қидириш: LACETTI, MALIBU ёки лот рақами" aria-label="Модел ёки лот рақами бўйича қидириш" autocomplete="off" enterkeyhint="search"><button type="button" id="qx" aria-label="Тозалаш" hidden>✕</button></form>
 <div class="tabs" role="tablist" id="tabs"></div>
 <div class="filter"><label for="reg">Вилоят:</label><select id="reg"></select></div>
 <div class="count" id="count"></div>
@@ -57,7 +65,19 @@ h1{font:700 22px/1.2 "PT Serif",Georgia,serif;margin:18px 0 4px}
 var CATS=[["avto","Енгил авто"],["yuk","Юк ва махсус техника"],["mulk","Кўчмас мулк"]];
 var ADMIN="https://t.me/auksion_admin";
 var CH={avto:"https://t.me/avto_auksion_uz",yuk:"https://t.me/gruzovoeavto",mulk:"https://t.me/kuchmasmulk_uz"};
-var cur="avto",LOTS=[],REG="";
+var cur="avto",LOTS=[],REG="",Q="",ALL=null,ALLWAIT=false;
+// Поиск: «lacetti» / «ласетти» / «Lacetti-2» сравниваются одинаково — кириллица в латиницу,
+// c/q/x/y и двойные буквы приводятся к одному виду, пробелы и дефисы убираются.
+var CYR={"а":"a","б":"b","в":"v","г":"g","д":"d","е":"e","ё":"yo","ж":"j","з":"z","и":"i","й":"y","к":"k","л":"l","м":"m","н":"n","о":"o","п":"p","р":"r","с":"s","т":"t","у":"u","ф":"f","х":"x","ц":"ts","ч":"ch","ш":"sh","щ":"sh","ъ":"","ы":"i","ь":"","э":"e","ю":"yu","я":"ya","ў":"o","қ":"q","ғ":"g","ҳ":"h"};
+function norm(s){s=String(s||"").toLowerCase().replace(/[а-яёўқғҳ]/g,function(ch){return CYR[ch]||ch});
+ return s.replace(/c(?=[eiy])/g,"s").replace(/c/g,"k").replace(/q/g,"k").replace(/x/g,"ks").replace(/y/g,"i").replace(/jentra/g,"gentra").replace(/[^a-z0-9]/g,"").replace(/(.)\1+/g,"$1")}
+function found(){var raw=Q.trim(),n=norm(raw);if(!n)return [];
+ return (ALL||LOTS).filter(function(x){return /^\d{5,}$/.test(raw)?String(x.lot_number||"").indexOf(raw)>=0:norm(x.title).indexOf(n)>=0})}
+function loadAll(){if(ALL||ALLWAIT)return;ALLWAIT=true;fetch("search.json?t="+Date.now()).then(function(r){return r.json()}).then(function(j){ALL=j;render()}).catch(function(){ALL=LOTS;render()})}
+var qT;
+document.addEventListener("input",function(ev){if(ev.target&&ev.target.id==="q"){clearTimeout(qT);qT=setTimeout(function(){Q=ev.target.value;document.getElementById("qx").hidden=!Q;if(Q.trim())loadAll();render()},200)}});
+document.addEventListener("submit",function(ev){if(ev.target.id==="sform"){ev.preventDefault();document.getElementById("q").blur()}});
+document.addEventListener("click",function(ev){if(ev.target&&ev.target.id==="qx"){var i=document.getElementById("q");i.value="";Q="";ev.target.hidden=true;render();i.focus()}});
 try{REG=localStorage.getItem("reg")||""}catch(e){}
 document.addEventListener("change",function(ev){if(ev.target&&ev.target.id==="reg"){REG=ev.target.value;try{localStorage.setItem("reg",REG)}catch(e){}render()}});
 function regions(items){var c={};items.forEach(function(x){if(x.region){c[x.region]=(c[x.region]||0)+1}});return Object.keys(c).sort(function(a,b){return a.localeCompare(b,"uz")}).map(function(r){return [r,c[r]]})}
@@ -68,15 +88,18 @@ function render(){
  var t=document.getElementById("tabs");t.innerHTML="";
  CATS.forEach(function(c){var b=document.createElement("button");b.className="tab";b.textContent=c[1];b.setAttribute("role","tab");b.setAttribute("aria-selected",c[0]===cur);b.onclick=function(){cur=c[0];render()};t.appendChild(b)});
  var l=document.getElementById("list");l.innerHTML="";
- var inCat=LOTS.filter(function(x){return x.cat===cur});
+ // при поиске — все опубликованные лоты всех разделов (search.json), без вкладок
+ var searching=!!Q.trim();t.classList.toggle("off",searching);
+ if(searching&&!ALL){document.getElementById("count").textContent="";l.innerHTML='<div class="empty">Қидирилмоқда…</div>';return}
+ var inCat=searching?found():LOTS.filter(function(x){return x.cat===cur});
  var regs=regions(inCat),sel=document.getElementById("reg");
  if(REG&&!regs.some(function(r){return r[0]===REG}))REG="";
  sel.innerHTML="";var o=document.createElement("option");o.value="";o.textContent="Барча вилоятлар ("+inCat.length+")";sel.appendChild(o);
  regs.forEach(function(r){var o=document.createElement("option");o.value=r[0];o.textContent=r[0]+" ("+r[1]+")";sel.appendChild(o)});
  sel.value=REG;
  var items=inCat.filter(function(x){return !REG||x.region===REG});
- document.getElementById("count").textContent=items.length?"Топилди: "+items.length+" та лот":"";
- if(!items.length){l.innerHTML='<div class="empty">Ҳозирча лотлар йўқ</div>'}
+ document.getElementById("count").textContent=items.length?(searching?"«"+Q.trim()+"» бўйича топилди: ":"Топилди: ")+items.length+" та лот":"";
+ if(!items.length){l.innerHTML='<div class="empty">'+(searching?"Бу модел бўйича ҳозирча лот йўқ":"Ҳозирча лотлар йўқ")+'</div>'}
  items.forEach(function(x){
   var d=x.price_orig>x.price_final?Math.round((1-x.price_final/x.price_orig)*100):0;
   var mil=x.mileage?(/^\d+$/.test(String(x.mileage))?fmtn(x.mileage)+" км":x.mileage):"";
