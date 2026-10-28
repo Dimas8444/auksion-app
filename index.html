@@ -155,6 +155,9 @@ function render(){
  document.getElementById("note").textContent=LOTS.some(function(x){return x.sample})?"Намуна маълумотлар. Ҳақиқий лотлар скрейпердан юкланганда алмашади.":"";
 }
 document.addEventListener("click",function(ev){var a=ev.target.closest&&ev.target.closest("a.go");if(a&&tw&&tw.openTelegramLink&&a.href.indexOf("https://t.me/")===0){ev.preventDefault();try{tw.openTelegramLink(a.href)}catch(e){window.open(a.href,"_blank")}}});
+// Кнопка в канале открывает приложение на своей вкладке: t.me/avtoauksion_bot/auksion?startapp=avto|yuk|mulk
+(function(){var sp=tw&&tw.initDataUnsafe&&tw.initDataUnsafe.start_param||"";
+ if(CATS.some(function(c){return c[0]===sp}))cur=sp})();
 fetch("lots.json?t="+Date.now()).then(function(r){return r.json()}).then(function(j){LOTS=j;render()}).catch(function(){render()});
 </script>
 </body></html>
