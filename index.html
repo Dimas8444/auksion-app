@@ -83,9 +83,9 @@ var CATS=[["avto","Енгил авто"],["yuk","Юк ва махсус техн
 var ADMIN="https://t.me/auksion_admin";
 // «Ариза бериш» открывает чат с админом с уже набранным текстом о лоте (решение пользователя 29.10:
 // админ должен видеть, о каком лоте речь) — клиенту остаётся нажать «Отправить»
-function orderLink(x){var post=(x.post_url&&x.post_url.indexOf("t.me/shocos")<0)?x.post_url:"";
- var t="Ассалому алайкум! Шу лотга ариза бермоқчиман:\n"+x.title+"\nЛот № "+(x.lot_number||x.id)+"\nАукцион санаси: "+x.date+(post?"\n"+post:"");
- return ADMIN+"?text="+encodeURIComponent(t)}
+// Коротко (29.10: длинный текст не нужен) — номер лота однозначно определяет лот, название — для глаза
+function orderLink(x){var name=String(x.title||"").replace(/\s+/g," ").trim();if(name.length>30)name=name.slice(0,29)+"…";
+ return ADMIN+"?text="+encodeURIComponent("Ариза: Лот № "+(x.lot_number||x.id)+(name?" — "+name:""))}
 var CH={avto:"https://t.me/avto_auksion_uz",yuk:"https://t.me/gruzovoeavto",mulk:"https://t.me/kuchmasmulk_uz"};
 // Кўчмас мулк делится на три раздела (решение пользователя 28.10); у лота поле sub
 var SUBS=[["turar","Турар-жой"],["noturar","Нотурар-жой"],["yer","Ер участкалари"]];
