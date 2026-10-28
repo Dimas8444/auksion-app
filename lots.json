@@ -3262,5 +3262,34 @@
   "fav": 20,
   "order_end": "03.11.2026 09:00",
   "test": false
+ },
+ {
+  "id": 26330600,
+  "lot_number": "26330600",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "noturar"
+  ],
+  "title": "Ер участкаси, 0,83 сотих",
+  "info": [
+   "\"Тайёр пакет\" усулидаги ерлар"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Қашқадарё вилояти",
+  "price_orig": 63991421.0,
+  "price_final": 63991421.0,
+  "date": "04.11.2026",
+  "post_url": "https://t.me/kuchmasmulk_uz/2829",
+  "photo": "https://media.e-auksion.uz/i/9708241a4b8297e4cf2ad41c6535c61d_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/9708241a4b8297e4cf2ad41c6535c61d_L.jpeg",
+   "https://media.e-auksion.uz/i/e62740cbf723e33bb67032b874ae396a_L.jpeg",
+   "https://media.e-auksion.uz/i/233a8169804026e003750876078b6012_L.jpeg"
+  ],
+  "fav": 33,
+  "order_end": "04.11.2026 09:00",
+  "test": false
  }
 ]
