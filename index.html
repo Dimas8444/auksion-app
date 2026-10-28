@@ -57,12 +57,18 @@ h1{font:700 22px/1.2 "PT Serif",Georgia,serif;margin:18px 0 4px}
 .subs[hidden]{display:none}
 .tab.sub{padding:6px 4px;font-size:13px;line-height:1.25;background:transparent;border-radius:10px;text-align:center;min-width:0}
 .tab.sub[aria-selected="true"]{background:var(--goldbg);color:var(--gold);border-color:var(--gold);font-weight:700}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+.chips[hidden]{display:none}
+.chip{border:1px solid var(--line);background:transparent;color:var(--mute);border-radius:16px;padding:5px 11px;font:inherit;font-size:13px;cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.chip:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 </style></head><body>
 <div class="wrap">
 <h1>Аукцион савдолар</h1>
 <form class="search" role="search" id="sform"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg><input type="search" id="q" placeholder="Машина номини киритинг…" aria-label="Машина номи ёки лот рақами бўйича қидириш" autocomplete="off" enterkeyhint="search"><button type="button" id="qx" aria-label="Тозалаш" hidden>✕</button></form>
 <div class="tabs" role="tablist" id="tabs"></div>
 <div class="subs" role="tablist" id="subs" aria-label="Кўчмас мулк тури" hidden></div>
+<div class="chips" id="chips" aria-label="Ер участкаси нима учун" hidden></div>
 <div class="filter"><label for="reg">Вилоят:</label><select id="reg"></select></div>
 <div class="count" id="count"></div>
 <div class="list" id="list"></div>
@@ -74,7 +80,10 @@ var ADMIN="https://t.me/auksion_admin";
 var CH={avto:"https://t.me/avto_auksion_uz",yuk:"https://t.me/gruzovoeavto",mulk:"https://t.me/kuchmasmulk_uz"};
 // Кўчмас мулк делится на три раздела (решение пользователя 28.10); у лота поле sub
 var SUBS=[["turar","Турар-жой"],["noturar","Нотурар-жой"],["yer","Ер участкалари"]];
-var cur="avto",sub="turar",LOTS=[],REG="",Q="",ALL=null,ALLWAIT=false;
+// Внутри «Ер участкалари» — фильтр по назначению (поле tags, метки не взаимоисключающие:
+// участок под многоэтажку часто продаётся правом аренды и есть и в «Кўп қаватли», и в «Ижарага»)
+var LTAGS=[["","Барчаси"],["yakka","Хусусий уй учун"],["kop","Кўп қаватли уй учун"],["noturar","Нотурар қурилиш учун"],["ijara","Ижарага"]];
+var cur="avto",sub="turar",ltag="",LOTS=[],REG="",Q="",ALL=null,ALLWAIT=false;
 // Поиск: «lacetti» / «ласетти» / «Lacetti-2» сравниваются одинаково — кириллица в латиницу,
 // c/q/x/y и двойные буквы приводятся к одному виду, пробелы и дефисы убираются.
 var CYR={"а":"a","б":"b","в":"v","г":"g","д":"d","е":"e","ё":"yo","ж":"j","з":"z","и":"i","й":"y","к":"k","л":"l","м":"m","н":"n","о":"o","п":"p","р":"r","с":"s","т":"t","у":"u","ф":"f","х":"x","ц":"ts","ч":"ch","ш":"sh","щ":"sh","ъ":"","ы":"i","ь":"","э":"e","ю":"yu","я":"ya","ў":"o","қ":"q","ғ":"g","ҳ":"h"};
@@ -102,8 +111,13 @@ function render(){
  var sb=document.getElementById("subs");sb.innerHTML="";sb.hidden=searching||cur!=="mulk";
  if(!sb.hidden)SUBS.forEach(function(s){var b=document.createElement("button");b.className="tab sub";b.setAttribute("role","tab");b.setAttribute("aria-selected",s[0]===sub);
   b.textContent=s[1]+" ("+LOTS.filter(function(x){return x.cat==="mulk"&&(x.sub||"noturar")===s[0]}).length+")";b.onclick=function(){sub=s[0];render()};sb.appendChild(b)});
+ var land=LOTS.filter(function(x){return x.cat==="mulk"&&x.sub==="yer"});
+ var ch=document.getElementById("chips");ch.innerHTML="";ch.hidden=sb.hidden||sub!=="yer";
+ if(!ch.hidden)LTAGS.forEach(function(g){var n=g[0]?land.filter(function(x){return (x.tags||[]).indexOf(g[0])>=0}).length:land.length;
+  var b=document.createElement("button");b.className="chip";b.setAttribute("aria-pressed",g[0]===ltag);b.textContent=g[1]+" ("+n+")";b.onclick=function(){ltag=g[0];render()};ch.appendChild(b)});
  if(searching&&!ALL){document.getElementById("count").textContent="";l.innerHTML='<div class="empty">Қидирилмоқда…</div>';return}
- var inCat=searching?found():LOTS.filter(function(x){return x.cat===cur&&(cur!=="mulk"||(x.sub||"noturar")===sub)});
+ var inCat=searching?found():LOTS.filter(function(x){return x.cat===cur&&(cur!=="mulk"||(x.sub||"noturar")===sub)
+  &&(cur!=="mulk"||sub!=="yer"||!ltag||(x.tags||[]).indexOf(ltag)>=0)});
  var regs=regions(inCat),sel=document.getElementById("reg");
  if(REG&&!regs.some(function(r){return r[0]===REG}))REG="";
  sel.innerHTML="";var o=document.createElement("option");o.value="";o.textContent="Барча вилоятлар ("+inCat.length+")";sel.appendChild(o);
