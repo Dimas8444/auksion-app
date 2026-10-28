@@ -139,11 +139,13 @@ function render(){
   b.textContent=s[1]+" ("+LOTS.filter(function(x){return x.cat===cur&&subOf(x)===s[0]}).length+")";b.onclick=function(){SUB[cur]=s[0];render()};sb.appendChild(b)});
  var land=LOTS.filter(function(x){return x.cat==="mulk"&&x.sub==="yer"});
  var ch=document.getElementById("chips");ch.innerHTML="";ch.hidden=sb.hidden||cur!=="mulk"||sub!=="yer";
- if(!ch.hidden)LTAGS.forEach(function(g){var n=g[0]?land.filter(function(x){return (x.tags||[]).indexOf(g[0])>=0}).length:land.length;
+ // с/х земель ~270 в день — в «Барчаси» их нет, только под своим фильтром (29.10)
+ function isAgro(x){return (x.tags||[]).indexOf("qishloq")>=0}
+ if(!ch.hidden)LTAGS.forEach(function(g){var n=g[0]?land.filter(function(x){return (x.tags||[]).indexOf(g[0])>=0}).length:land.filter(function(x){return !isAgro(x)}).length;
   var b=document.createElement("button");b.className="chip";b.setAttribute("aria-pressed",g[0]===ltag);b.textContent=g[1]+" ("+n+")";b.onclick=function(){ltag=g[0];render()};ch.appendChild(b)});
  if(searching&&!ALL){document.getElementById("count").textContent="";l.innerHTML='<div class="empty">Қидирилмоқда…</div>';return}
  var inCat=searching?found():LOTS.filter(function(x){return x.cat===cur&&(!subs||subOf(x)===sub)
-  &&(cur!=="mulk"||sub!=="yer"||!ltag||(x.tags||[]).indexOf(ltag)>=0)});
+  &&(cur!=="mulk"||sub!=="yer"||(ltag?(x.tags||[]).indexOf(ltag)>=0:!isAgro(x)))});
  var regs=regions(inCat),sel=document.getElementById("reg");
  if(REG&&!regs.some(function(r){return r[0]===REG}))REG="";
  sel.innerHTML="";var o=document.createElement("option");o.value="";o.textContent="Барча вилоятлар ("+inCat.length+")";sel.appendChild(o);
