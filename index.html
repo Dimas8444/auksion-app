@@ -81,6 +81,11 @@ h1{font:700 22px/1.2 "PT Serif",Georgia,serif;margin:18px 0 4px}
 <script>
 var CATS=[["avto","Енгил авто"],["yuk","Юк ва махсус техника"],["mulk","Кўчмас мулк"]];
 var ADMIN="https://t.me/auksion_admin";
+// «Ариза бериш» открывает чат с админом с уже набранным текстом о лоте (решение пользователя 29.10:
+// админ должен видеть, о каком лоте речь) — клиенту остаётся нажать «Отправить»
+function orderLink(x){var post=(x.post_url&&x.post_url.indexOf("t.me/shocos")<0)?x.post_url:"";
+ var t="Ассалому алайкум! Шу лотга ариза бермоқчиман:\n"+x.title+"\nЛот № "+(x.lot_number||x.id)+"\nАукцион санаси: "+x.date+(post?"\n"+post:"");
+ return ADMIN+"?text="+encodeURIComponent(t)}
 var CH={avto:"https://t.me/avto_auksion_uz",yuk:"https://t.me/gruzovoeavto",mulk:"https://t.me/kuchmasmulk_uz"};
 // Кўчмас мулк делится на три раздела (решение пользователя 28.10); у лота поле sub
 var SUBS=[["turar","Турар-жой"],["noturar","Нотурар-жой"],["yer","Ер участкалари"]];
@@ -145,7 +150,7 @@ function render(){
   var m=(x.info||[]).concat([x.year?x.year+" й.":"",mil?"Пробег: "+mil:"",x.region]).filter(Boolean);
   var e=document.createElement("div");e.className="lot";
   var ph=(x.photos&&x.photos.length?x.photos:(x.photo?[x.photo]:[]));
-  e.innerHTML=(ph.length?'<div class="gal"><div class="strip"></div>'+(ph.length>1?'<button class="nav l" aria-label="Олдинги фото">‹</button><button class="nav r" aria-label="Кейинги фото">›</button><span class="cnt">1/'+ph.length+'</span>':'')+'</div>':'')+'<div class="top"><div class="name"></div>'+(d?'<span class="disc">-'+d+'%</span>':'')+'</div><div class="meta"></div><div class="price"><span class="now">'+fmt(x.price_final)+'</span>'+(d?'<span class="old">'+fmt(x.price_orig)+'</span>':'')+'</div><div class="date">Аукцион санаси: '+x.date+'</div><div class="btns"><a class="go alt" target="_blank" rel="noopener" href="'+((x.post_url&&x.post_url.indexOf("t.me/shocos")<0)?x.post_url:CH[x.cat])+'">Лотни кўриш</a><a class="go" target="_blank" rel="noopener" href="'+ADMIN+'">Ариза бериш</a></div>';
+  e.innerHTML=(ph.length?'<div class="gal"><div class="strip"></div>'+(ph.length>1?'<button class="nav l" aria-label="Олдинги фото">‹</button><button class="nav r" aria-label="Кейинги фото">›</button><span class="cnt">1/'+ph.length+'</span>':'')+'</div>':'')+'<div class="top"><div class="name"></div>'+(d?'<span class="disc">-'+d+'%</span>':'')+'</div><div class="meta"></div><div class="price"><span class="now">'+fmt(x.price_final)+'</span>'+(d?'<span class="old">'+fmt(x.price_orig)+'</span>':'')+'</div><div class="date">Аукцион санаси: '+x.date+'</div><div class="btns"><a class="go alt" target="_blank" rel="noopener" href="'+((x.post_url&&x.post_url.indexOf("t.me/shocos")<0)?x.post_url:CH[x.cat])+'">Лотни кўриш</a><a class="go" target="_blank" rel="noopener" href="'+orderLink(x)+'">Ариза бериш</a></div>';
   e.querySelector(".name").textContent=x.title;
   var st=e.querySelector(".strip");if(st){ph.forEach(function(u,i){var im=document.createElement("img");im.className="ph";im.loading="lazy";im.src=u;im.alt=x.title+" — "+(i+1);im.onerror=function(){im.remove()};st.appendChild(im)});
    var cn=e.querySelector(".cnt");st.addEventListener("scroll",function(){if(cn){cn.textContent=(Math.round(st.scrollLeft/st.clientWidth)+1)+"/"+st.children.length}},{passive:true});
