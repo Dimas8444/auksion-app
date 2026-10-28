@@ -2840,5 +2840,38 @@
   "fav": 66,
   "order_end": "02.11.2026 09:00",
   "test": false
+ },
+ {
+  "id": 26364469,
+  "lot_number": "26364469",
+  "cat": "mulk",
+  "sub": "turar",
+  "tags": [],
+  "title": "Ҳовли, 8 хона, 7 сотих",
+  "info": [
+   "Турар-жой участкаси (ҳовли)"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Тошкент вилояти",
+  "price_orig": 500000000.0,
+  "price_final": 500000000.0,
+  "date": "02.11.2026",
+  "post_url": "https://t.me/kuchmasmulk_uz/2733",
+  "photo": "https://media.e-auksion.uz/i/b6814ad9a6e483fc1e48b125081d692a_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/b6814ad9a6e483fc1e48b125081d692a_L.jpeg",
+   "https://media.e-auksion.uz/i/dcb14b24eeb6ca16f5c19bf563d3d9f2_L.jpeg",
+   "https://media.e-auksion.uz/i/e439f5148a7c540c9cb12c221a6ff537_L.jpeg",
+   "https://media.e-auksion.uz/i/31b6bddce67a53c28d02e55fdbe6d0ad_L.jpeg",
+   "https://media.e-auksion.uz/i/aa6eef4942f8c7a225b9216ad91da4c2_L.jpeg",
+   "https://media.e-auksion.uz/i/c019e12afae0b2b5a2063931a3ea8690_L.jpeg",
+   "https://media.e-auksion.uz/i/83b0e21d5b0efa1aff9f402a7ed2eb18_L.jpeg",
+   "https://media.e-auksion.uz/i/38082f0274f52922e9aea98c86688450_L.jpeg",
+   "https://media.e-auksion.uz/i/0516fdf8d18506eb24c37c6008723570_L.jpeg"
+  ],
+  "fav": 62,
+  "order_end": "02.11.2026 09:00",
+  "test": false
  }
 ]
