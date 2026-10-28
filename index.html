@@ -82,14 +82,14 @@ h1{font:700 22px/1.2 "PT Serif",Georgia,serif;margin:18px 0 4px}
 <p class="note" id="note"></p>
 </div></div>
 <script>
-var CATS=[["avto","Енгил авто"],["yuk","Юк ва махсус техника"],["mulk","Кўчмас мулк"]];
+var CATS=[["avto","Енгил авто"],["yuk","Юк ва махсус техника"],["mulk","Кўчмас мулк"],["qishloq","Қишлоқ хўжалиги ерлари"]];
 var ADMIN="https://t.me/auksion_admin";
 // «Ариза бериш» открывает чат с админом с уже набранным текстом о лоте (решение пользователя 29.10:
 // админ должен видеть, о каком лоте речь) — клиенту остаётся нажать «Отправить»
 // Коротко (29.10: длинный текст не нужен) — номер лота однозначно определяет лот, название — для глаза
 function orderLink(x){var name=String(x.title||"").replace(/\s+/g," ").trim();if(name.length>30)name=name.slice(0,29)+"…";
  return ADMIN+"?text="+encodeURIComponent("Ариза: Лот № "+(x.lot_number||x.id)+(name?" — "+name:""))}
-var CH={avto:"https://t.me/avto_auksion_uz",yuk:"https://t.me/gruzovoeavto",mulk:"https://t.me/kuchmasmulk_uz"};
+var CH={avto:"https://t.me/avto_auksion_uz",yuk:"https://t.me/gruzovoeavto",mulk:"https://t.me/kuchmasmulk_uz",qishloq:"https://t.me/kuchmasmulk_uz"};
 // Подразделы вкладок (поле лота sub): кўчмас мулк — 28.10, юк — 29.10 (грузовые / автобусы / спецтехника,
 // чтобы у каждого был свой топ и экскаватор со ★10 не терялся за грузовиками). Первый — по умолчанию.
 var SUBS={mulk:[["turar","Турар-жой"],["noturar","Нотурар-жой"],["yer","Ер участкалари"]],
@@ -98,7 +98,7 @@ var SUBDEF={mulk:"noturar",yuk:"yuk"};   // если у старого лота 
 function subOf(x){return x.sub||SUBDEF[x.cat]}
 // Внутри «Ер участкалари» — фильтр по назначению (поле tags, метки не взаимоисключающие:
 // участок под многоэтажку часто продаётся правом аренды и есть и в «Кўп қаватли», и в «Ижарага»)
-var LTAGS=[["","Барчаси"],["yakka","Хусусий уй учун"],["kop","Кўп қаватли уй учун"],["noturar","Нотурар қурилиш учун"],["ijara","Ижарага"],["qishloq","Қишлоқ хўжалиги"]];
+var LTAGS=[["","Барчаси"],["yakka","Хусусий уй учун"],["kop","Кўп қаватли уй учун"],["noturar","Нотурар қурилиш учун"],["ijara","Ижарага"]];
 var cur="avto",SUB={mulk:"turar",yuk:"yuk"},ltag="",LOTS=[],REG="",Q="",ALL=null,ALLWAIT=false;
 // Поиск: «lacetti» / «ласетти» / «Lacetti-2» сравниваются одинаково — кириллица в латиницу,
 // c/q/x/y и двойные буквы приводятся к одному виду, пробелы и дефисы убираются.
@@ -139,13 +139,11 @@ function render(){
   b.textContent=s[1]+" ("+LOTS.filter(function(x){return x.cat===cur&&subOf(x)===s[0]}).length+")";b.onclick=function(){SUB[cur]=s[0];render()};sb.appendChild(b)});
  var land=LOTS.filter(function(x){return x.cat==="mulk"&&x.sub==="yer"});
  var ch=document.getElementById("chips");ch.innerHTML="";ch.hidden=sb.hidden||cur!=="mulk"||sub!=="yer";
- // с/х земель ~270 в день — в «Барчаси» их нет, только под своим фильтром (29.10)
- function isAgro(x){return (x.tags||[]).indexOf("qishloq")>=0}
- if(!ch.hidden)LTAGS.forEach(function(g){var n=g[0]?land.filter(function(x){return (x.tags||[]).indexOf(g[0])>=0}).length:land.filter(function(x){return !isAgro(x)}).length;
+ if(!ch.hidden)LTAGS.forEach(function(g){var n=g[0]?land.filter(function(x){return (x.tags||[]).indexOf(g[0])>=0}).length:land.length;
   var b=document.createElement("button");b.className="chip";b.setAttribute("aria-pressed",g[0]===ltag);b.textContent=g[1]+" ("+n+")";b.onclick=function(){ltag=g[0];render()};ch.appendChild(b)});
  if(searching&&!ALL){document.getElementById("count").textContent="";l.innerHTML='<div class="empty">Қидирилмоқда…</div>';return}
  var inCat=searching?found():LOTS.filter(function(x){return x.cat===cur&&(!subs||subOf(x)===sub)
-  &&(cur!=="mulk"||sub!=="yer"||(ltag?(x.tags||[]).indexOf(ltag)>=0:!isAgro(x)))});
+  &&(cur!=="mulk"||sub!=="yer"||!ltag||(x.tags||[]).indexOf(ltag)>=0)});
  var regs=regions(inCat),sel=document.getElementById("reg");
  if(REG&&!regs.some(function(r){return r[0]===REG}))REG="";
  sel.innerHTML="";var o=document.createElement("option");o.value="";o.textContent="Барча вилоятлар ("+inCat.length+")";sel.appendChild(o);
