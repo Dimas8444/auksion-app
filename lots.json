@@ -3158,5 +3158,39 @@
   "fav": 20,
   "order_end": "02.11.2026 09:00",
   "test": false
+ },
+ {
+  "id": 26397277,
+  "lot_number": "26397277",
+  "cat": "mulk",
+  "sub": "turar",
+  "tags": [],
+  "title": "2 хонали квартира, 85,5 м²",
+  "info": [
+   "Кўп қаватли турар-жойлар"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Тошкент ш.",
+  "price_orig": 1168000000.0,
+  "price_final": 934400000.0,
+  "date": "02.11.2026",
+  "post_url": "https://t.me/kuchmasmulk_uz/2805",
+  "photo": "https://media.e-auksion.uz/i/52147b2a5da890ae7159914d97bcfd0e_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/52147b2a5da890ae7159914d97bcfd0e_L.jpeg",
+   "https://media.e-auksion.uz/i/b5c2ea8a42cc31efa11237a717eee32f_L.jpeg",
+   "https://media.e-auksion.uz/i/298e97bfaf743a77c3ca1b0a8c236045_L.jpeg",
+   "https://media.e-auksion.uz/i/a0837ecfb45b11742f8ad600feddd5f2_L.jpeg",
+   "https://media.e-auksion.uz/i/c69f96ebc9bc04cad2e8da932c4a93de_L.jpeg",
+   "https://media.e-auksion.uz/i/f28575e64706afa65a3edcab02d22795_L.jpeg",
+   "https://media.e-auksion.uz/i/13e08f5be4ecf1783a92a22f1dbb43df_L.jpeg",
+   "https://media.e-auksion.uz/i/d68a39ed63a602f9a85df6308edd80f2_L.jpeg",
+   "https://media.e-auksion.uz/i/d991f100098de1e0cb09b3f37174f243_L.jpeg",
+   "https://media.e-auksion.uz/i/27042a09add6d612a9a66409437fa9bf_L.jpeg"
+  ],
+  "fav": 20,
+  "order_end": "02.11.2026 09:00",
+  "test": false
  }
 ]
