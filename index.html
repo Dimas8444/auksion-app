@@ -89,12 +89,16 @@ var ADMIN="https://t.me/auksion_admin";
 function orderLink(x){var name=String(x.title||"").replace(/\s+/g," ").trim();if(name.length>30)name=name.slice(0,29)+"…";
  return ADMIN+"?text="+encodeURIComponent("Ариза: Лот № "+(x.lot_number||x.id)+(name?" — "+name:""))}
 var CH={avto:"https://t.me/avto_auksion_uz",yuk:"https://t.me/gruzovoeavto",mulk:"https://t.me/kuchmasmulk_uz"};
-// Кўчмас мулк делится на три раздела (решение пользователя 28.10); у лота поле sub
-var SUBS=[["turar","Турар-жой"],["noturar","Нотурар-жой"],["yer","Ер участкалари"]];
+// Подразделы вкладок (поле лота sub): кўчмас мулк — 28.10, юк — 29.10 (грузовые / автобусы / спецтехника,
+// чтобы у каждого был свой топ и экскаватор со ★10 не терялся за грузовиками). Первый — по умолчанию.
+var SUBS={mulk:[["turar","Турар-жой"],["noturar","Нотурар-жой"],["yer","Ер участкалари"]],
+ yuk:[["yuk","Юк машиналари"],["avtobus","Автобуслар"],["maxsus","Махсус техника"]]};
+var SUBDEF={mulk:"noturar",yuk:"yuk"};   // если у старого лота нет sub
+function subOf(x){return x.sub||SUBDEF[x.cat]}
 // Внутри «Ер участкалари» — фильтр по назначению (поле tags, метки не взаимоисключающие:
 // участок под многоэтажку часто продаётся правом аренды и есть и в «Кўп қаватли», и в «Ижарага»)
 var LTAGS=[["","Барчаси"],["yakka","Хусусий уй учун"],["kop","Кўп қаватли уй учун"],["noturar","Нотурар қурилиш учун"],["ijara","Ижарага"]];
-var cur="avto",sub="turar",ltag="",LOTS=[],REG="",Q="",ALL=null,ALLWAIT=false;
+var cur="avto",SUB={mulk:"turar",yuk:"yuk"},ltag="",LOTS=[],REG="",Q="",ALL=null,ALLWAIT=false;
 // Поиск: «lacetti» / «ласетти» / «Lacetti-2» сравниваются одинаково — кириллица в латиницу,
 // c/q/x/y и двойные буквы приводятся к одному виду, пробелы и дефисы убираются.
 var CYR={"а":"a","б":"b","в":"v","г":"g","д":"d","е":"e","ё":"yo","ж":"j","з":"z","и":"i","й":"y","к":"k","л":"l","м":"m","н":"n","о":"o","п":"p","р":"r","с":"s","т":"t","у":"u","ф":"f","х":"x","ц":"ts","ч":"ch","ш":"sh","щ":"sh","ъ":"","ы":"i","ь":"","э":"e","ю":"yu","я":"ya","ў":"o","қ":"q","ғ":"g","ҳ":"h"};
@@ -128,15 +132,16 @@ function render(){
  var l=document.getElementById("list");l.innerHTML="";
  // при поиске — все опубликованные лоты всех разделов (search.json), без вкладок
  var searching=!!Q.trim();t.classList.toggle("off",searching);
- var sb=document.getElementById("subs");sb.innerHTML="";sb.hidden=searching||cur!=="mulk";
- if(!sb.hidden)SUBS.forEach(function(s){var b=document.createElement("button");b.className="tab sub";b.setAttribute("role","tab");b.setAttribute("aria-selected",s[0]===sub);
-  b.textContent=s[1]+" ("+LOTS.filter(function(x){return x.cat==="mulk"&&(x.sub||"noturar")===s[0]}).length+")";b.onclick=function(){sub=s[0];render()};sb.appendChild(b)});
+ var subs=SUBS[cur],sub=subs?SUB[cur]:"";
+ var sb=document.getElementById("subs");sb.innerHTML="";sb.hidden=searching||!subs;
+ if(!sb.hidden)subs.forEach(function(s){var b=document.createElement("button");b.className="tab sub";b.setAttribute("role","tab");b.setAttribute("aria-selected",s[0]===sub);
+  b.textContent=s[1]+" ("+LOTS.filter(function(x){return x.cat===cur&&subOf(x)===s[0]}).length+")";b.onclick=function(){SUB[cur]=s[0];render()};sb.appendChild(b)});
  var land=LOTS.filter(function(x){return x.cat==="mulk"&&x.sub==="yer"});
- var ch=document.getElementById("chips");ch.innerHTML="";ch.hidden=sb.hidden||sub!=="yer";
+ var ch=document.getElementById("chips");ch.innerHTML="";ch.hidden=sb.hidden||cur!=="mulk"||sub!=="yer";
  if(!ch.hidden)LTAGS.forEach(function(g){var n=g[0]?land.filter(function(x){return (x.tags||[]).indexOf(g[0])>=0}).length:land.length;
   var b=document.createElement("button");b.className="chip";b.setAttribute("aria-pressed",g[0]===ltag);b.textContent=g[1]+" ("+n+")";b.onclick=function(){ltag=g[0];render()};ch.appendChild(b)});
  if(searching&&!ALL){document.getElementById("count").textContent="";l.innerHTML='<div class="empty">Қидирилмоқда…</div>';return}
- var inCat=searching?found():LOTS.filter(function(x){return x.cat===cur&&(cur!=="mulk"||(x.sub||"noturar")===sub)
+ var inCat=searching?found():LOTS.filter(function(x){return x.cat===cur&&(!subs||subOf(x)===sub)
   &&(cur!=="mulk"||sub!=="yer"||!ltag||(x.tags||[]).indexOf(ltag)>=0)});
  var regs=regions(inCat),sel=document.getElementById("reg");
  if(REG&&!regs.some(function(r){return r[0]===REG}))REG="";
