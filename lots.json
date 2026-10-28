@@ -2727,6 +2727,33 @@
   "order_end": "12.11.2026 09:00"
  },
  {
+  "id": 26133445,
+  "lot_number": "26133445",
+  "cat": "avto",
+  "title": "GM UZ SPARK",
+  "year": "2018",
+  "mileage": "212127",
+  "region": "Қорақалпоғистон Республикаси",
+  "price_orig": 49882100.0,
+  "price_final": 34917470.0,
+  "date": "12.11.2026",
+  "post_url": "https://t.me/avto_auksion_uz/152179",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/25cdabe12691253ceb71f81f545f9a89_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/25cdabe12691253ceb71f81f545f9a89_L.jpeg",
+   "https://media.e-auksion.uz/i/2aa5089f017adcd32376e0c411936d75_L.jpeg",
+   "https://media.e-auksion.uz/i/96527558fff31398e8747ade2fa4785a_L.jpeg",
+   "https://media.e-auksion.uz/i/4fb56687ebc4db07a335eb301df6334a_L.jpeg",
+   "https://media.e-auksion.uz/i/5d38b7401de631fecaed9d8180443791_L.jpeg",
+   "https://media.e-auksion.uz/i/7e9fd250c472e35fd34c55c86ed9e0fd_L.jpeg",
+   "https://media.e-auksion.uz/i/80f423a40e53defb5c089f619f79bd9c_L.jpeg",
+   "https://media.e-auksion.uz/i/21e26f163f156e7853381dca2af86dc2_L.jpeg"
+  ],
+  "fav": 154,
+  "order_end": "12.11.2026 09:00"
+ },
+ {
   "id": 26117697,
   "lot_number": "26117697",
   "cat": "yuk",
@@ -2748,34 +2775,6 @@
    "https://media.e-auksion.uz/i/380db8c9256f58b15dffc6867e471e59_L.jpg"
   ],
   "fav": 121,
-  "order_end": "12.11.2026 09:00"
- },
- {
-  "id": 26133464,
-  "lot_number": "26133464",
-  "cat": "yuk",
-  "title": "Howo A7 CNG ZZ4257N3847C1C",
-  "year": "2023",
-  "mileage": "",
-  "region": "Қорақалпоғистон Республикаси",
-  "price_orig": 432000000.0,
-  "price_final": 432000000.0,
-  "date": "12.11.2026",
-  "post_url": "https://t.me/gruzovoeavto/22542",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/80f94b24b4d1ba13489f90f63c45b733_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/80f94b24b4d1ba13489f90f63c45b733_L.jpeg",
-   "https://media.e-auksion.uz/i/c19a7abbf98c2a857865747ad94bdf2f_L.jpeg",
-   "https://media.e-auksion.uz/i/5ea2ada2ce94504a9d143121be94bb20_L.jpeg",
-   "https://media.e-auksion.uz/i/c96ded52bba4dc3d2742dcca27be8c70_L.jpeg",
-   "https://media.e-auksion.uz/i/5197c83b9eb9c665a8fc04077b968884_L.jpeg",
-   "https://media.e-auksion.uz/i/3d82cba9ea5d98751c5810a718c76dab_L.jpeg",
-   "https://media.e-auksion.uz/i/30c096a5181e85f0581fa8846011039d_L.jpeg",
-   "https://media.e-auksion.uz/i/cdf5789d8e1b09efa9e27d39fca528c4_L.jpeg",
-   "https://media.e-auksion.uz/i/72d89ca62170a4c15704963295fa12fe_L.jpeg"
-  ],
-  "fav": 83,
   "order_end": "12.11.2026 09:00"
  }
 ]
