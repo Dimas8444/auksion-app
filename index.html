@@ -99,7 +99,10 @@ document.addEventListener("click",function(ev){if(ev.target&&ev.target.id==="qx"
 try{REG=localStorage.getItem("reg")||""}catch(e){}
 document.addEventListener("change",function(ev){if(ev.target&&ev.target.id==="reg"){REG=ev.target.value;try{localStorage.setItem("reg",REG)}catch(e){}render()}});
 function regions(items){var c={};items.forEach(function(x){if(x.region){c[x.region]=(c[x.region]||0)+1}});return Object.keys(c).sort(function(a,b){return a.localeCompare(b,"uz")}).map(function(r){return [r,c[r]]})}
-var tw=window.Telegram&&window.Telegram.WebApp;if(tw){try{tw.ready();tw.expand()}catch(e){}}
+var tw=window.Telegram&&window.Telegram.WebApp;if(tw){try{tw.ready();tw.expand()}catch(e){}
+ // Свайп вниз по ленте сворачивал приложение (Telegram по умолчанию закрывает Mini App вертикальным свайпом) —
+ // отключаем; прокрутка списка работает как обычно (Bot API 7.7+, в старых клиентах метода нет)
+ try{if(tw.disableVerticalSwipes)tw.disableVerticalSwipes()}catch(e){}}
 function fmtn(n){return String(n).replace(/\B(?=(\d{3})+(?!\d))/g," ")}
 function fmt(n){return String(Math.round(n)).replace(/\B(?=(\d{3})+(?!\d))/g," ")+" сўм"}
 function render(){
