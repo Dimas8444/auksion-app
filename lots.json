@@ -3126,5 +3126,37 @@
   "fav": 21,
   "order_end": "02.11.2026 09:00",
   "test": false
+ },
+ {
+  "id": 25883385,
+  "lot_number": "25883385",
+  "cat": "mulk",
+  "sub": "noturar",
+  "tags": [],
+  "title": "Хизмат кўрсатиш, 71,6 м²",
+  "info": [
+   "Нотурар-жой обьектлари"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Қашқадарё вилояти",
+  "price_orig": 200000000.0,
+  "price_final": 200000000.0,
+  "date": "02.11.2026",
+  "post_url": "https://t.me/kuchmasmulk_uz/2797",
+  "photo": "https://media.e-auksion.uz/i/28589d3f815416be338170e018229122_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/28589d3f815416be338170e018229122_L.jpeg",
+   "https://media.e-auksion.uz/i/e537202ffeb6485c3a05bc9e4f78c7f2_L.jpeg",
+   "https://media.e-auksion.uz/i/f0141ed64c9527e6991d5bf075e17532_L.jpeg",
+   "https://media.e-auksion.uz/i/9b30a6616ac683e9dde25de5953b2bd7_L.jpeg",
+   "https://media.e-auksion.uz/i/cbcbe6691bcc96b9a79cfa7eb5714dc8_L.jpeg",
+   "https://media.e-auksion.uz/i/c7fa953f912a9efcde66690cb529413d_L.jpeg",
+   "https://media.e-auksion.uz/i/a98feca01ed1b5cd1183f1e70601c3da_L.jpeg",
+   "https://media.e-auksion.uz/i/f26c3a3c0a0cf8f721130b1555fe8ae1_L.jpeg"
+  ],
+  "fav": 20,
+  "order_end": "02.11.2026 09:00",
+  "test": false
  }
 ]
