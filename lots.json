@@ -13,7 +13,7 @@
   "post_url": "https://t.me/avto_auksion_uz/147773",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/f5f018293c3857836008ceac1241fc43_L.jpg",
-  "fav": 493,
+  "fav": 495,
   "order_end": "29.10.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/f5f018293c3857836008ceac1241fc43_L.jpg",
@@ -68,7 +68,7 @@
   "post_url": "https://t.me/avto_auksion_uz/147795",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/8238c89ffd6b42a97d946b1065f8a66c_L.jpg",
-  "fav": 285,
+  "fav": 286,
   "order_end": "29.10.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/8238c89ffd6b42a97d946b1065f8a66c_L.jpg",
@@ -97,7 +97,7 @@
   "post_url": "https://t.me/gruzovoeavto/21236",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/b048bc575ccbb1054678b3efe277bde9_L.jpg",
-  "fav": 281,
+  "fav": 282,
   "order_end": "29.10.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/b048bc575ccbb1054678b3efe277bde9_L.jpg",
@@ -105,6 +105,31 @@
    "https://media.e-auksion.uz/i/777e0ed06db86fee39a7cbaea81b83ca_L.jpg",
    "https://media.e-auksion.uz/i/d2bb95ac479537e7c587bb6b658929bb_L.jpg",
    "https://media.e-auksion.uz/i/b468019fec1a3ba5d99723a1dee50753_L.jpg"
+  ]
+ },
+ {
+  "id": 25810299,
+  "lot_number": "25810299",
+  "cat": "yuk",
+  "title": "ISUZU ISUZU",
+  "year": "2009",
+  "mileage": "",
+  "region": "Тошкент ш.",
+  "price_orig": 149137000.0,
+  "price_final": 149137000.0,
+  "date": "29.10.2026",
+  "post_url": "https://t.me/gruzovoeavto/21241",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/9fb63625f10f1329bfa49384a1230923_L.jpg",
+  "fav": 237,
+  "order_end": "29.10.2026 09:00",
+  "photos": [
+   "https://media.e-auksion.uz/i/9fb63625f10f1329bfa49384a1230923_L.jpg",
+   "https://media.e-auksion.uz/i/7091963dc3a9a44f0129dc631058d1e7_L.jpg",
+   "https://media.e-auksion.uz/i/1bef4dc735ce075d8038be1d6050dcd4_L.jpg",
+   "https://media.e-auksion.uz/i/7e43b9c26f373c5e16b2f8c6590df74e_L.jpg",
+   "https://media.e-auksion.uz/i/e594b1b7f48a0a2303dd161689d47bfc_L.jpg",
+   "https://media.e-auksion.uz/i/736d53cf210ad071eb89e08b8090e038_L.jpg"
   ]
  },
  {
@@ -134,31 +159,6 @@
    "https://media.e-auksion.uz/i/fefa9f30135db18f195578e2c44a114b_L.jpg",
    "https://media.e-auksion.uz/i/a8126e075ff7add0d60ec21bafed2c3d_L.jpg",
    "https://media.e-auksion.uz/i/ba7d3301570327ddc752f063ee1fdbb2_L.jpg"
-  ]
- },
- {
-  "id": 25810299,
-  "lot_number": "25810299",
-  "cat": "yuk",
-  "title": "ISUZU ISUZU",
-  "year": "2009",
-  "mileage": "",
-  "region": "Тошкент ш.",
-  "price_orig": 149137000.0,
-  "price_final": 149137000.0,
-  "date": "29.10.2026",
-  "post_url": "https://t.me/gruzovoeavto/21241",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/9fb63625f10f1329bfa49384a1230923_L.jpg",
-  "fav": 236,
-  "order_end": "29.10.2026 09:00",
-  "photos": [
-   "https://media.e-auksion.uz/i/9fb63625f10f1329bfa49384a1230923_L.jpg",
-   "https://media.e-auksion.uz/i/7091963dc3a9a44f0129dc631058d1e7_L.jpg",
-   "https://media.e-auksion.uz/i/1bef4dc735ce075d8038be1d6050dcd4_L.jpg",
-   "https://media.e-auksion.uz/i/7e43b9c26f373c5e16b2f8c6590df74e_L.jpg",
-   "https://media.e-auksion.uz/i/e594b1b7f48a0a2303dd161689d47bfc_L.jpg",
-   "https://media.e-auksion.uz/i/736d53cf210ad071eb89e08b8090e038_L.jpg"
   ]
  },
  {
@@ -252,7 +252,7 @@
   "post_url": "https://t.me/gruzovoeavto/21252",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/db1a3f1c63856f6c3585d3dd62acca9c_L.jpeg",
-  "fav": 207,
+  "fav": 209,
   "order_end": "29.10.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/db1a3f1c63856f6c3585d3dd62acca9c_L.jpeg",
@@ -365,7 +365,7 @@
   "post_url": "https://t.me/avto_auksion_uz/147874",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/061e6964d69bee2676a634df9ade5776_L.jpeg",
-  "fav": 177,
+  "fav": 178,
   "order_end": "29.10.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/061e6964d69bee2676a634df9ade5776_L.jpeg",
@@ -410,6 +410,35 @@
   ]
  },
  {
+  "id": 25843497,
+  "lot_number": "25843497",
+  "cat": "avto",
+  "title": "NEXIA",
+  "year": "2010",
+  "mileage": "",
+  "region": "Қорақалпоғистон Республикаси",
+  "price_orig": 15600000.0,
+  "price_final": 10920000.0,
+  "date": "29.10.2026",
+  "post_url": "https://t.me/avto_auksion_uz/147855",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/89d8afebdc9b3a92ba7b6eaf3cf1b7a4_L.jpeg",
+  "fav": 169,
+  "order_end": "29.10.2026 09:00",
+  "photos": [
+   "https://media.e-auksion.uz/i/89d8afebdc9b3a92ba7b6eaf3cf1b7a4_L.jpeg",
+   "https://media.e-auksion.uz/i/07c7737e12d01bd7d384cdd8bd95fad4_L.jpeg",
+   "https://media.e-auksion.uz/i/0e9a77243f68cd651d566cc5d83136fc_L.jpeg",
+   "https://media.e-auksion.uz/i/2e4df30246625ad9453cc3d3619ded76_L.jpeg",
+   "https://media.e-auksion.uz/i/88457b0e35480842522437c32d45eeba_L.jpeg",
+   "https://media.e-auksion.uz/i/05072567ce9551b80711e43b35da66b1_L.jpeg",
+   "https://media.e-auksion.uz/i/96118e9f7ecf1e33bb4be068d15fb2aa_L.jpeg",
+   "https://media.e-auksion.uz/i/7d5de2826f4703fc440a5c1269c26ac6_L.jpeg",
+   "https://media.e-auksion.uz/i/fb3e4412fdf3c04a3bd840223f22df5d_L.jpeg",
+   "https://media.e-auksion.uz/i/d9c25c61a039530bd1a0914995d07a88_L.jpeg"
+  ]
+ },
+ {
   "id": 25842644,
   "lot_number": "25842644",
   "cat": "yuk",
@@ -435,35 +464,6 @@
   ]
  },
  {
-  "id": 25843497,
-  "lot_number": "25843497",
-  "cat": "avto",
-  "title": "NEXIA",
-  "year": "2010",
-  "mileage": "",
-  "region": "Қорақалпоғистон Республикаси",
-  "price_orig": 15600000.0,
-  "price_final": 10920000.0,
-  "date": "29.10.2026",
-  "post_url": "https://t.me/avto_auksion_uz/147855",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/89d8afebdc9b3a92ba7b6eaf3cf1b7a4_L.jpeg",
-  "fav": 167,
-  "order_end": "29.10.2026 09:00",
-  "photos": [
-   "https://media.e-auksion.uz/i/89d8afebdc9b3a92ba7b6eaf3cf1b7a4_L.jpeg",
-   "https://media.e-auksion.uz/i/07c7737e12d01bd7d384cdd8bd95fad4_L.jpeg",
-   "https://media.e-auksion.uz/i/0e9a77243f68cd651d566cc5d83136fc_L.jpeg",
-   "https://media.e-auksion.uz/i/2e4df30246625ad9453cc3d3619ded76_L.jpeg",
-   "https://media.e-auksion.uz/i/88457b0e35480842522437c32d45eeba_L.jpeg",
-   "https://media.e-auksion.uz/i/05072567ce9551b80711e43b35da66b1_L.jpeg",
-   "https://media.e-auksion.uz/i/96118e9f7ecf1e33bb4be068d15fb2aa_L.jpeg",
-   "https://media.e-auksion.uz/i/7d5de2826f4703fc440a5c1269c26ac6_L.jpeg",
-   "https://media.e-auksion.uz/i/fb3e4412fdf3c04a3bd840223f22df5d_L.jpeg",
-   "https://media.e-auksion.uz/i/d9c25c61a039530bd1a0914995d07a88_L.jpeg"
-  ]
- },
- {
   "id": 25842361,
   "lot_number": "25842361",
   "cat": "yuk",
@@ -477,7 +477,7 @@
   "post_url": "https://t.me/gruzovoeavto/21318",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/18657d876814b30cdd7558ecc4b11d9b_L.jpg",
-  "fav": 162,
+  "fav": 164,
   "order_end": "29.10.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/18657d876814b30cdd7558ecc4b11d9b_L.jpg",
@@ -535,7 +535,7 @@
   "post_url": "https://t.me/gruzovoeavto/21348",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/5765967763782bfcfbdd52191e3825be_L.jpg",
-  "fav": 160,
+  "fav": 161,
   "order_end": "29.10.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/5765967763782bfcfbdd52191e3825be_L.jpg",
@@ -564,7 +564,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149198",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/f990764cadc7602a04cf56fca01e866f_L.jpg",
-  "fav": 105,
+  "fav": 106,
   "order_end": "30.10.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/f990764cadc7602a04cf56fca01e866f_L.jpg",
@@ -609,6 +609,35 @@
   ]
  },
  {
+  "id": 25875916,
+  "lot_number": "25875916",
+  "cat": "avto",
+  "title": "NEXIA 3",
+  "year": "2019",
+  "mileage": "",
+  "region": "Фарғона вилояти",
+  "price_orig": 24906505.0,
+  "price_final": 17434553.5,
+  "date": "30.10.2026",
+  "post_url": "https://t.me/avto_auksion_uz/149242",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/5e7a7c516e87a168822ccdaa965436bc_L.jpeg",
+  "fav": 66,
+  "order_end": "30.10.2026 09:00",
+  "photos": [
+   "https://media.e-auksion.uz/i/5e7a7c516e87a168822ccdaa965436bc_L.jpeg",
+   "https://media.e-auksion.uz/i/960e359821f005d2a4c11257780346d6_L.jpeg",
+   "https://media.e-auksion.uz/i/566ab4d40b76d169e7931febd293a516_L.jpeg",
+   "https://media.e-auksion.uz/i/df36283011fabdf50231c72ca674581a_L.jpeg",
+   "https://media.e-auksion.uz/i/5dac3849a9371012591220de541117ce_L.jpeg",
+   "https://media.e-auksion.uz/i/c9471ce5a7dbb3a5a78b69a26f88d7e8_L.jpeg",
+   "https://media.e-auksion.uz/i/9249710c38505f0299f44bc1db4a4792_L.jpeg",
+   "https://media.e-auksion.uz/i/1eeddfdac9b206b9d1bff7a66a35e2dd_L.jpeg",
+   "https://media.e-auksion.uz/i/9c58590c4a53d1c17f74d5d536a2d38c_L.jpeg",
+   "https://media.e-auksion.uz/i/467f0607989c563140186b0f9a5c32d7_L.jpeg"
+  ]
+ },
+ {
   "id": 26236789,
   "lot_number": "26236789",
   "cat": "yuk",
@@ -629,35 +658,6 @@
    "https://media.e-auksion.uz/i/dd4e927ce4c18ba64198d77c9afcf7e4_L.jpg",
    "https://media.e-auksion.uz/i/f481d47723edd54162232cc72a6c8943_L.jpg",
    "https://media.e-auksion.uz/i/825f01d0e0044add4fbf31ba9d44184f_L.jpg"
-  ]
- },
- {
-  "id": 25875916,
-  "lot_number": "25875916",
-  "cat": "avto",
-  "title": "NEXIA 3",
-  "year": "2019",
-  "mileage": "",
-  "region": "Фарғона вилояти",
-  "price_orig": 24906505.0,
-  "price_final": 17434553.5,
-  "date": "30.10.2026",
-  "post_url": "https://t.me/avto_auksion_uz/149242",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/5e7a7c516e87a168822ccdaa965436bc_L.jpeg",
-  "fav": 65,
-  "order_end": "30.10.2026 09:00",
-  "photos": [
-   "https://media.e-auksion.uz/i/5e7a7c516e87a168822ccdaa965436bc_L.jpeg",
-   "https://media.e-auksion.uz/i/960e359821f005d2a4c11257780346d6_L.jpeg",
-   "https://media.e-auksion.uz/i/566ab4d40b76d169e7931febd293a516_L.jpeg",
-   "https://media.e-auksion.uz/i/df36283011fabdf50231c72ca674581a_L.jpeg",
-   "https://media.e-auksion.uz/i/5dac3849a9371012591220de541117ce_L.jpeg",
-   "https://media.e-auksion.uz/i/c9471ce5a7dbb3a5a78b69a26f88d7e8_L.jpeg",
-   "https://media.e-auksion.uz/i/9249710c38505f0299f44bc1db4a4792_L.jpeg",
-   "https://media.e-auksion.uz/i/1eeddfdac9b206b9d1bff7a66a35e2dd_L.jpeg",
-   "https://media.e-auksion.uz/i/9c58590c4a53d1c17f74d5d536a2d38c_L.jpeg",
-   "https://media.e-auksion.uz/i/467f0607989c563140186b0f9a5c32d7_L.jpeg"
   ]
  },
  {
@@ -700,7 +700,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149233",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/488863a1a4f03241b8f01a893b46dfd0_L.png",
-  "fav": 52,
+  "fav": 53,
   "order_end": "30.10.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/488863a1a4f03241b8f01a893b46dfd0_L.png",
@@ -1006,7 +1006,7 @@
   "post_url": "https://t.me/avto_auksion_uz/150914",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/7412ed9e8caa6694b1ac48d65db324de_L.jpg",
-  "fav": 225,
+  "fav": 226,
   "order_end": "02.11.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/7412ed9e8caa6694b1ac48d65db324de_L.jpg",
@@ -1206,7 +1206,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149399",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/ac8d751b6692cd41f7e8175b7113a9d4_L.jpeg",
-  "fav": 136,
+  "fav": 137,
   "order_end": "02.11.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/ac8d751b6692cd41f7e8175b7113a9d4_L.jpeg",
@@ -1307,7 +1307,7 @@
   "post_url": "https://t.me/avto_auksion_uz/150927",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/c40acb2b1f28c4a8647cd2bb703fecdf_L.jpg",
-  "fav": 101,
+  "fav": 104,
   "order_end": "02.11.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/c40acb2b1f28c4a8647cd2bb703fecdf_L.jpg",
@@ -1315,6 +1315,38 @@
    "https://media.e-auksion.uz/i/dab6e16638b95c4bb1c7dc4f558db992_L.jpg",
    "https://media.e-auksion.uz/i/8c891831b1faca0d8be3629889ced3d5_L.jpg"
   ]
+ },
+ {
+  "id": 26364461,
+  "lot_number": "26364461",
+  "cat": "mulk",
+  "sub": "turar",
+  "tags": [],
+  "title": "2 хонали квартира, 57,5 м²",
+  "info": [
+   "Кўп қаватли турар-жойлар"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Тошкент ш.",
+  "price_orig": 375000000.0,
+  "price_final": 375000000.0,
+  "date": "02.11.2026",
+  "post_url": "https://t.me/kuchmasmulk_uz/2715",
+  "photo": "https://media.e-auksion.uz/i/bd96ca2271def7d02a1a250afd5ce3f2_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/bd96ca2271def7d02a1a250afd5ce3f2_L.jpeg",
+   "https://media.e-auksion.uz/i/08cf00dcea69048d4af46567901567f5_L.jpeg",
+   "https://media.e-auksion.uz/i/3f1d6363b23eac43e146adfa1626dbe7_L.jpeg",
+   "https://media.e-auksion.uz/i/241e8fa3eda150831a871e3062f29021_L.jpeg",
+   "https://media.e-auksion.uz/i/03fe03a74adfd3dc98b09f7c1aa4f2f8_L.jpeg",
+   "https://media.e-auksion.uz/i/94804eb4451197c16df42b7589f2e9df_L.jpeg",
+   "https://media.e-auksion.uz/i/6bdca96792693e82fb8b3349fc910ffe_L.jpeg",
+   "https://media.e-auksion.uz/i/bf735c359a6618968b9ff3871d0d4aa3_L.jpeg"
+  ],
+  "fav": 98,
+  "order_end": "02.11.2026 09:00",
+  "test": false
  },
  {
   "id": 25909865,
@@ -1394,29 +1426,6 @@
    "https://media.e-auksion.uz/i/953b1c98a8f75d53932d54dc931cf5bf_L.jpeg",
    "https://media.e-auksion.uz/i/5ee6a2fc1198094313127005e63b9fc1_L.jpeg",
    "https://media.e-auksion.uz/i/f0a5475dbc1e06cdee2ab37d141869d6_L.jpeg"
-  ]
- },
- {
-  "id": 26260264,
-  "lot_number": "26260264",
-  "cat": "yuk",
-  "title": "OTOYOL 65.9",
-  "year": "2004",
-  "mileage": "",
-  "region": "Сурхондарё вилояти",
-  "price_orig": 44046000.0,
-  "price_final": 44046000.0,
-  "date": "02.11.2026",
-  "post_url": "https://t.me/gruzovoeavto/21994",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/6dad98b9b0af00c124a6078d11c5c82f_L.jpg",
-  "fav": 72,
-  "order_end": "02.11.2026 09:00",
-  "photos": [
-   "https://media.e-auksion.uz/i/6dad98b9b0af00c124a6078d11c5c82f_L.jpg",
-   "https://media.e-auksion.uz/i/b35fe37c944afecf224caaa44e552d00_L.jpg",
-   "https://media.e-auksion.uz/i/e2bc50bab884fe6ea8e793dba47f8d7e_L.jpg",
-   "https://media.e-auksion.uz/i/5eae8f5ffc93bb828044bf85e93f3cc1_L.jpg"
   ]
  },
  {
@@ -1881,7 +1890,7 @@
   "post_url": "https://t.me/gruzovoeavto/20971",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/69c4d180a5c3cc552ef48445fdeec1ad_L.jpeg",
-  "fav": 51,
+  "fav": 52,
   "order_end": "06.11.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/69c4d180a5c3cc552ef48445fdeec1ad_L.jpeg",
@@ -2168,7 +2177,7 @@
   "post_url": "https://t.me/gruzovoeavto/22090",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/20bc3f6fe8b756c76b0dcffc68f19468_L.jpeg",
-  "fav": 167,
+  "fav": 168,
   "order_end": "09.11.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/20bc3f6fe8b756c76b0dcffc68f19468_L.jpeg",
@@ -2311,7 +2320,7 @@
   "post_url": "https://t.me/avto_auksion_uz/151233",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/0650e68f02f6a9db10b60605110abe5b_L.jpeg",
-  "fav": 114,
+  "fav": 115,
   "order_end": "09.11.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/0650e68f02f6a9db10b60605110abe5b_L.jpeg",
@@ -2535,7 +2544,7 @@
   "post_url": "https://t.me/avto_auksion_uz/151290",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/26c895f95eba97e151392d24d23c6f0e_L.jpeg",
-  "fav": 53,
+  "fav": 54,
   "order_end": "09.11.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/26c895f95eba97e151392d24d23c6f0e_L.jpeg",
@@ -2603,7 +2612,7 @@
    "https://media.e-auksion.uz/i/440144a5ba1c475ef3f6228d9bf047c0_L.jpeg",
    "https://media.e-auksion.uz/i/a7867d0dc798fee1cc4dd9fad307443c_L.jpeg"
   ],
-  "fav": 342,
+  "fav": 343,
   "order_end": "12.11.2026 09:00"
  },
  {
@@ -2661,7 +2670,7 @@
    "https://media.e-auksion.uz/i/2fb591f43f66d41d99d2b5a13404d5e1_L.jpeg",
    "https://media.e-auksion.uz/i/2f91fc3882b567876f5d02fb0ab7eb07_L.jpeg"
   ],
-  "fav": 182,
+  "fav": 183,
   "order_end": "12.11.2026 09:00"
  },
  {
@@ -2746,7 +2755,7 @@
    "https://media.e-auksion.uz/i/80f423a40e53defb5c089f619f79bd9c_L.jpeg",
    "https://media.e-auksion.uz/i/21e26f163f156e7853381dca2af86dc2_L.jpeg"
   ],
-  "fav": 156,
+  "fav": 157,
   "order_end": "12.11.2026 09:00"
  },
  {
@@ -2774,457 +2783,5 @@
   ],
   "fav": 125,
   "order_end": "12.11.2026 09:00"
- },
- {
-  "id": 26364461,
-  "lot_number": "26364461",
-  "cat": "mulk",
-  "sub": "turar",
-  "tags": [],
-  "title": "2 хонали квартира, 57,5 м²",
-  "info": [
-   "Кўп қаватли турар-жойлар"
-  ],
-  "year": "",
-  "mileage": "",
-  "region": "Тошкент ш.",
-  "price_orig": 375000000.0,
-  "price_final": 375000000.0,
-  "date": "02.11.2026",
-  "post_url": "https://t.me/kuchmasmulk_uz/2715",
-  "photo": "https://media.e-auksion.uz/i/bd96ca2271def7d02a1a250afd5ce3f2_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/bd96ca2271def7d02a1a250afd5ce3f2_L.jpeg",
-   "https://media.e-auksion.uz/i/08cf00dcea69048d4af46567901567f5_L.jpeg",
-   "https://media.e-auksion.uz/i/3f1d6363b23eac43e146adfa1626dbe7_L.jpeg",
-   "https://media.e-auksion.uz/i/241e8fa3eda150831a871e3062f29021_L.jpeg",
-   "https://media.e-auksion.uz/i/03fe03a74adfd3dc98b09f7c1aa4f2f8_L.jpeg",
-   "https://media.e-auksion.uz/i/94804eb4451197c16df42b7589f2e9df_L.jpeg",
-   "https://media.e-auksion.uz/i/6bdca96792693e82fb8b3349fc910ffe_L.jpeg",
-   "https://media.e-auksion.uz/i/bf735c359a6618968b9ff3871d0d4aa3_L.jpeg"
-  ],
-  "fav": 98,
-  "order_end": "02.11.2026 09:00",
-  "test": false
- },
- {
-  "id": 25909755,
-  "lot_number": "25909755",
-  "cat": "mulk",
-  "sub": "turar",
-  "tags": [],
-  "title": "Ҳовли, 2 хона, 6 сотих",
-  "info": [
-   "Турар-жой участкаси (ҳовли)"
-  ],
-  "year": "",
-  "mileage": "",
-  "region": "Қорақалпоғистон Республикаси",
-  "price_orig": 114920000.0,
-  "price_final": 114920000.0,
-  "date": "02.11.2026",
-  "post_url": "https://t.me/kuchmasmulk_uz/2723",
-  "photo": "https://media.e-auksion.uz/i/158c4eee97aca62b97cd3ae63e01d834_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/158c4eee97aca62b97cd3ae63e01d834_L.jpeg",
-   "https://media.e-auksion.uz/i/f23b974a88768a67524b369992f119af_L.jpeg",
-   "https://media.e-auksion.uz/i/4f32e9cfc63bc5c8ebcb6343d793b0ff_L.jpeg",
-   "https://media.e-auksion.uz/i/9e9bb40d644ef17114914ed2fd6d9774_L.jpeg",
-   "https://media.e-auksion.uz/i/80d8150ea6a11ad1eb8ac900700d4060_L.jpeg",
-   "https://media.e-auksion.uz/i/a62af315aa46e6f3e0d53769cf376ea2_L.jpeg",
-   "https://media.e-auksion.uz/i/a2ad92032856575db8eb33ccb4dcf1d3_L.jpeg",
-   "https://media.e-auksion.uz/i/a1ca5ed43ab9bf9d0e3fc3c5965a15d4_L.jpeg",
-   "https://media.e-auksion.uz/i/ec424caef7cf8141e9c79b09f9378b43_L.jpeg",
-   "https://media.e-auksion.uz/i/f277ad943ec1da11cf94aeabebd4d8a9_L.jpeg"
-  ],
-  "fav": 66,
-  "order_end": "02.11.2026 09:00",
-  "test": false
- },
- {
-  "id": 26364469,
-  "lot_number": "26364469",
-  "cat": "mulk",
-  "sub": "turar",
-  "tags": [],
-  "title": "Ҳовли, 8 хона, 7 сотих",
-  "info": [
-   "Турар-жой участкаси (ҳовли)"
-  ],
-  "year": "",
-  "mileage": "",
-  "region": "Тошкент вилояти",
-  "price_orig": 500000000.0,
-  "price_final": 500000000.0,
-  "date": "02.11.2026",
-  "post_url": "https://t.me/kuchmasmulk_uz/2733",
-  "photo": "https://media.e-auksion.uz/i/b6814ad9a6e483fc1e48b125081d692a_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/b6814ad9a6e483fc1e48b125081d692a_L.jpeg",
-   "https://media.e-auksion.uz/i/dcb14b24eeb6ca16f5c19bf563d3d9f2_L.jpeg",
-   "https://media.e-auksion.uz/i/e439f5148a7c540c9cb12c221a6ff537_L.jpeg",
-   "https://media.e-auksion.uz/i/31b6bddce67a53c28d02e55fdbe6d0ad_L.jpeg",
-   "https://media.e-auksion.uz/i/aa6eef4942f8c7a225b9216ad91da4c2_L.jpeg",
-   "https://media.e-auksion.uz/i/c019e12afae0b2b5a2063931a3ea8690_L.jpeg",
-   "https://media.e-auksion.uz/i/83b0e21d5b0efa1aff9f402a7ed2eb18_L.jpeg",
-   "https://media.e-auksion.uz/i/38082f0274f52922e9aea98c86688450_L.jpeg",
-   "https://media.e-auksion.uz/i/0516fdf8d18506eb24c37c6008723570_L.jpeg"
-  ],
-  "fav": 62,
-  "order_end": "02.11.2026 09:00",
-  "test": false
- },
- {
-  "id": 25909773,
-  "lot_number": "25909773",
-  "cat": "mulk",
-  "sub": "turar",
-  "tags": [],
-  "title": "Ҳовли, 5 хона, 10 сотих",
-  "info": [
-   "Турар-жой участкаси (ҳовли)"
-  ],
-  "year": "",
-  "mileage": "",
-  "region": "Тошкент вилояти",
-  "price_orig": 387500000.0,
-  "price_final": 387500000.0,
-  "date": "02.11.2026",
-  "post_url": "https://t.me/kuchmasmulk_uz/2742",
-  "photo": "https://media.e-auksion.uz/i/dbbd66a287e7ace4297aa4891bc301ed_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/dbbd66a287e7ace4297aa4891bc301ed_L.jpeg",
-   "https://media.e-auksion.uz/i/4e77329441be28d193ae885db9727571_L.jpeg",
-   "https://media.e-auksion.uz/i/09f6905b7e8c6d5462f5aa4a8b8bb543_L.jpeg",
-   "https://media.e-auksion.uz/i/dfaa6463e09a81f9d69dc409075f618b_L.jpeg",
-   "https://media.e-auksion.uz/i/ec036fc2658b0b093bb6bd83f5e4d3bf_L.jpeg",
-   "https://media.e-auksion.uz/i/cfd8a526994dd5077349675c6e55f83d_L.jpeg",
-   "https://media.e-auksion.uz/i/e0ab079b59b9c01a3b74f46b24c4e88d_L.jpeg"
-  ],
-  "fav": 28,
-  "order_end": "02.11.2026 09:00",
-  "test": false
- },
- {
-  "id": 26260257,
-  "lot_number": "26260257",
-  "cat": "mulk",
-  "sub": "yer",
-  "tags": [
-   "noturar",
-   "ijara"
-  ],
-  "title": "Ер участкаси, 1,08 сотих",
-  "info": [
-   "\"Тайёр пакет\" усулидаги ерлар"
-  ],
-  "year": "",
-  "mileage": "",
-  "region": "Тошкент вилояти",
-  "price_orig": 32502700.0,
-  "price_final": 32502700.0,
-  "date": "02.11.2026",
-  "post_url": "https://t.me/kuchmasmulk_uz/2749",
-  "photo": "https://media.e-auksion.uz/i/2738239b95bde8c0d1aac8055613db4a_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/2738239b95bde8c0d1aac8055613db4a_L.jpeg",
-   "https://media.e-auksion.uz/i/b30befe33f438c975399997537429d89_L.jpeg",
-   "https://media.e-auksion.uz/i/6fb9a4e48f138ae4d7d4df0ad041a285_L.jpeg"
-  ],
-  "fav": 26,
-  "order_end": "02.11.2026 09:00",
-  "test": false
- },
- {
-  "id": 25941086,
-  "lot_number": "25941086",
-  "cat": "mulk",
-  "sub": "noturar",
-  "tags": [],
-  "title": "Савдо дўкони, 82,4 м²",
-  "info": [
-   "Нотурар-жой обьектлари"
-  ],
-  "year": "",
-  "mileage": "",
-  "region": "Жиззах вилояти",
-  "price_orig": 86875000.0,
-  "price_final": 86875000.0,
-  "date": "02.11.2026",
-  "post_url": "https://t.me/kuchmasmulk_uz/2752",
-  "photo": "https://media.e-auksion.uz/i/a06809b2b1c0aae661d27497c2beaa3e_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/a06809b2b1c0aae661d27497c2beaa3e_L.jpeg",
-   "https://media.e-auksion.uz/i/5fc7584e0808075a5b032d6b8c8a9b7d_L.jpeg",
-   "https://media.e-auksion.uz/i/7ed73a306b9de765561e4f3eb42173b6_L.jpeg",
-   "https://media.e-auksion.uz/i/06e847df02336d75a9308431119eff4a_L.jpeg",
-   "https://media.e-auksion.uz/i/fb45401900b7ebd90440e93770e81cd0_L.jpeg",
-   "https://media.e-auksion.uz/i/d37e4c4186a59df5281a38350b8c09e5_L.jpeg",
-   "https://media.e-auksion.uz/i/7ed04d4a890c34a61cdc68347617e712_L.jpeg",
-   "https://media.e-auksion.uz/i/089f493df083ffbc6eacff69482850b4_L.jpeg",
-   "https://media.e-auksion.uz/i/d714ad1179043fd835f276e7730cf5e4_L.jpeg"
-  ],
-  "fav": 25,
-  "order_end": "02.11.2026 09:00",
-  "test": false
- },
- {
-  "id": 26261213,
-  "lot_number": "26261213",
-  "cat": "mulk",
-  "sub": "noturar",
-  "tags": [],
-  "title": "Ижарага, 6 м², 60 ой",
-  "info": [
-   "Ижара"
-  ],
-  "year": "",
-  "mileage": "",
-  "region": "Тошкент ш.",
-  "price_orig": 4083590.2,
-  "price_final": 4083590.2,
-  "date": "02.11.2026",
-  "post_url": "https://t.me/kuchmasmulk_uz/2761",
-  "photo": "https://media.e-auksion.uz/i/403b267924c28f4f20731c0f06512a6f_L.jpg",
-  "photos": [
-   "https://media.e-auksion.uz/i/403b267924c28f4f20731c0f06512a6f_L.jpg",
-   "https://media.e-auksion.uz/i/87947555cba91be82f9ef137fa8548e8_L.jpg",
-   "https://media.e-auksion.uz/i/6df399c91088a91e9edc44c64e34dbb7_L.jpg",
-   "https://media.e-auksion.uz/i/96f825fa3a372a242840dc879339eaa0_L.png",
-   "https://media.e-auksion.uz/i/153a120d05b00100c1f71423ff7c6d21_L.jpg",
-   "https://media.e-auksion.uz/i/986dcf8874e9ec3696c4a29b5c8b1ecd_L.jpg"
-  ],
-  "fav": 25,
-  "order_end": "02.11.2026 09:00",
-  "test": false
- },
- {
-  "id": 26460933,
-  "lot_number": "26460933",
-  "cat": "mulk",
-  "sub": "turar",
-  "tags": [],
-  "title": "3 хонали квартира, 88,1 м²",
-  "info": [
-   "Кўп қаватли турар-жойлар"
-  ],
-  "year": "",
-  "mileage": "",
-  "region": "Тошкент ш.",
-  "price_orig": 896435000.0,
-  "price_final": 896435000.0,
-  "date": "02.11.2026",
-  "post_url": "https://t.me/kuchmasmulk_uz/2785",
-  "photo": "https://media.e-auksion.uz/i/0450bee820b39c8948f8a208c7ea09f6_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/0450bee820b39c8948f8a208c7ea09f6_L.jpeg",
-   "https://media.e-auksion.uz/i/fa65efbc71081af4dfaf593b9a441469_L.jpeg",
-   "https://media.e-auksion.uz/i/8f9a6e7ce5fd7eee3ccc31b827468f5e_L.jpeg",
-   "https://media.e-auksion.uz/i/46fa9651785868b07c92912e772be6c9_L.jpeg",
-   "https://media.e-auksion.uz/i/9e15f0d46417777cc41d51ca1231003f_L.jpeg",
-   "https://media.e-auksion.uz/i/096a9193b24d29d2b3b490734265f3b1_L.jpeg",
-   "https://media.e-auksion.uz/i/f1550e115fb6dc845d845b1be9e169a7_L.jpeg",
-   "https://media.e-auksion.uz/i/b1c869b40cd1d9a194816c8e92dc3680_L.jpeg",
-   "https://media.e-auksion.uz/i/2724737ff871eb9166de698386e0546a_L.jpeg",
-   "https://media.e-auksion.uz/i/924564e4f20e637cc684348ed65103be_L.jpeg"
-  ],
-  "fav": 25,
-  "order_end": "02.11.2026 09:00",
-  "test": false
- },
- {
-  "id": 25909761,
-  "lot_number": "25909761",
-  "cat": "mulk",
-  "sub": "turar",
-  "tags": [],
-  "title": "Ҳовли, 2 хона, 6 сотих",
-  "info": [
-   "Турар-жой участкаси (ҳовли)"
-  ],
-  "year": "",
-  "mileage": "",
-  "region": "Тошкент вилояти",
-  "price_orig": 1187552000.0,
-  "price_final": 1187552000.0,
-  "date": "02.11.2026",
-  "post_url": "https://t.me/kuchmasmulk_uz/2767",
-  "photo": "https://media.e-auksion.uz/i/bc6afe524e5e3a5e4c1cba40f0cd9105_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/bc6afe524e5e3a5e4c1cba40f0cd9105_L.jpeg",
-   "https://media.e-auksion.uz/i/37423adaa6dd5e43212b56b7d34fb953_L.jpeg",
-   "https://media.e-auksion.uz/i/4027263eb071ca7d95d52af016048787_L.jpeg",
-   "https://media.e-auksion.uz/i/468e2963cddd780231777866cb40dc6f_L.jpeg",
-   "https://media.e-auksion.uz/i/1afba4ec9d7cca8da6a440509f02c0e1_L.jpeg",
-   "https://media.e-auksion.uz/i/cf24cc3159a44324755a3a1119c46292_L.jpeg",
-   "https://media.e-auksion.uz/i/114748f0378f5ebacdea452c9d32b8a8_L.jpeg",
-   "https://media.e-auksion.uz/i/0ffdc3c2fcd2439b019e99ff9aad991d_L.jpeg"
-  ],
-  "fav": 24,
-  "order_end": "02.11.2026 09:00",
-  "test": false
- },
- {
-  "id": 25909925,
-  "lot_number": "25909925",
-  "cat": "mulk",
-  "sub": "turar",
-  "tags": [],
-  "title": "Ҳовли, 4 хона, 9 сотих",
-  "info": [
-   "Турар-жой участкаси (ҳовли)"
-  ],
-  "year": "",
-  "mileage": "",
-  "region": "Сурхондарё вилояти",
-  "price_orig": 120000000.0,
-  "price_final": 120000000.0,
-  "date": "02.11.2026",
-  "post_url": "https://t.me/kuchmasmulk_uz/2775",
-  "photo": "https://media.e-auksion.uz/i/1ba87b982e92d86fee6fa292f95806c7_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/1ba87b982e92d86fee6fa292f95806c7_L.jpeg",
-   "https://media.e-auksion.uz/i/4b5bfbfaf3eb0fb30ab2b6fc0f147e2e_L.jpeg",
-   "https://media.e-auksion.uz/i/1a46190a214954c073212d8734c88e33_L.jpeg",
-   "https://media.e-auksion.uz/i/7d0f536cf94e6eede27fe7bfd7d227bb_L.jpeg",
-   "https://media.e-auksion.uz/i/254b63b186f31f8fe3014d540498af84_L.jpeg",
-   "https://media.e-auksion.uz/i/964f03bdf84fba7296968b670942303f_L.jpeg",
-   "https://media.e-auksion.uz/i/48dc20e7b50e29db3aa8dacd2fbf08e4_L.jpeg",
-   "https://media.e-auksion.uz/i/41bb765ef69024491b5b205cc0f9306d_L.jpeg",
-   "https://media.e-auksion.uz/i/90be4c4978775c0e2d17d5448d6de6d5_L.jpeg",
-   "https://media.e-auksion.uz/i/016ce7c997496503e8b5195aebdf5ac7_L.jpeg"
-  ],
-  "fav": 24,
-  "order_end": "02.11.2026 09:00",
-  "test": false
- },
- {
-  "id": 26260259,
-  "lot_number": "26260259",
-  "cat": "mulk",
-  "sub": "yer",
-  "tags": [
-   "noturar",
-   "ijara"
-  ],
-  "title": "Ер участкаси, 1,06 сотих",
-  "info": [
-   "\"Тайёр пакет\" усулидаги ерлар"
-  ],
-  "year": "",
-  "mileage": "",
-  "region": "Тошкент вилояти",
-  "price_orig": 32228650.0,
-  "price_final": 32228650.0,
-  "date": "02.11.2026",
-  "post_url": "https://t.me/kuchmasmulk_uz/2795",
-  "photo": "https://media.e-auksion.uz/i/ad01306271ce4f4ad2a8617820c2cc77_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/ad01306271ce4f4ad2a8617820c2cc77_L.jpeg",
-   "https://media.e-auksion.uz/i/2698a340dcae10d8e48005dcc2892890_L.jpeg"
-  ],
-  "fav": 21,
-  "order_end": "02.11.2026 09:00",
-  "test": false
- },
- {
-  "id": 25883385,
-  "lot_number": "25883385",
-  "cat": "mulk",
-  "sub": "noturar",
-  "tags": [],
-  "title": "Хизмат кўрсатиш, 71,6 м²",
-  "info": [
-   "Нотурар-жой обьектлари"
-  ],
-  "year": "",
-  "mileage": "",
-  "region": "Қашқадарё вилояти",
-  "price_orig": 200000000.0,
-  "price_final": 200000000.0,
-  "date": "02.11.2026",
-  "post_url": "https://t.me/kuchmasmulk_uz/2797",
-  "photo": "https://media.e-auksion.uz/i/28589d3f815416be338170e018229122_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/28589d3f815416be338170e018229122_L.jpeg",
-   "https://media.e-auksion.uz/i/e537202ffeb6485c3a05bc9e4f78c7f2_L.jpeg",
-   "https://media.e-auksion.uz/i/f0141ed64c9527e6991d5bf075e17532_L.jpeg",
-   "https://media.e-auksion.uz/i/9b30a6616ac683e9dde25de5953b2bd7_L.jpeg",
-   "https://media.e-auksion.uz/i/cbcbe6691bcc96b9a79cfa7eb5714dc8_L.jpeg",
-   "https://media.e-auksion.uz/i/c7fa953f912a9efcde66690cb529413d_L.jpeg",
-   "https://media.e-auksion.uz/i/a98feca01ed1b5cd1183f1e70601c3da_L.jpeg",
-   "https://media.e-auksion.uz/i/f26c3a3c0a0cf8f721130b1555fe8ae1_L.jpeg"
-  ],
-  "fav": 20,
-  "order_end": "02.11.2026 09:00",
-  "test": false
- },
- {
-  "id": 26397277,
-  "lot_number": "26397277",
-  "cat": "mulk",
-  "sub": "turar",
-  "tags": [],
-  "title": "2 хонали квартира, 85,5 м²",
-  "info": [
-   "Кўп қаватли турар-жойлар"
-  ],
-  "year": "",
-  "mileage": "",
-  "region": "Тошкент ш.",
-  "price_orig": 1168000000.0,
-  "price_final": 934400000.0,
-  "date": "02.11.2026",
-  "post_url": "https://t.me/kuchmasmulk_uz/2805",
-  "photo": "https://media.e-auksion.uz/i/52147b2a5da890ae7159914d97bcfd0e_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/52147b2a5da890ae7159914d97bcfd0e_L.jpeg",
-   "https://media.e-auksion.uz/i/b5c2ea8a42cc31efa11237a717eee32f_L.jpeg",
-   "https://media.e-auksion.uz/i/298e97bfaf743a77c3ca1b0a8c236045_L.jpeg",
-   "https://media.e-auksion.uz/i/a0837ecfb45b11742f8ad600feddd5f2_L.jpeg",
-   "https://media.e-auksion.uz/i/c69f96ebc9bc04cad2e8da932c4a93de_L.jpeg",
-   "https://media.e-auksion.uz/i/f28575e64706afa65a3edcab02d22795_L.jpeg",
-   "https://media.e-auksion.uz/i/13e08f5be4ecf1783a92a22f1dbb43df_L.jpeg",
-   "https://media.e-auksion.uz/i/d68a39ed63a602f9a85df6308edd80f2_L.jpeg",
-   "https://media.e-auksion.uz/i/d991f100098de1e0cb09b3f37174f243_L.jpeg",
-   "https://media.e-auksion.uz/i/27042a09add6d612a9a66409437fa9bf_L.jpeg"
-  ],
-  "fav": 20,
-  "order_end": "02.11.2026 09:00",
-  "test": false
- },
- {
-  "id": 25909762,
-  "lot_number": "25909762",
-  "cat": "mulk",
-  "sub": "turar",
-  "tags": [],
-  "title": "Ҳовли, 6 хона, 8 сотих",
-  "info": [
-   "Турар-жой участкаси (ҳовли)"
-  ],
-  "year": "",
-  "mileage": "",
-  "region": "Қорақалпоғистон Республикаси",
-  "price_orig": 479166666.7,
-  "price_final": 479166666.7,
-  "date": "02.11.2026",
-  "post_url": "https://t.me/kuchmasmulk_uz/2815",
-  "photo": "https://media.e-auksion.uz/i/3ec084b6062cc2ad25442b25998e1368_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/3ec084b6062cc2ad25442b25998e1368_L.jpeg",
-   "https://media.e-auksion.uz/i/f464d9f4b429eacf90e87c6b1d0b43d6_L.jpeg",
-   "https://media.e-auksion.uz/i/933e790b71c8b7b90ac1e1c9d8755e59_L.jpeg",
-   "https://media.e-auksion.uz/i/f0f049faa9cb6481efb12d10066fa2c0_L.jpeg",
-   "https://media.e-auksion.uz/i/122ef112c6f6f1b02e9301ef5da71bad_L.jpeg",
-   "https://media.e-auksion.uz/i/9b5ebcf0ab6ddab91c8860e6bc4b4df8_L.jpeg",
-   "https://media.e-auksion.uz/i/d8b401fdef70c530077f5fdeaadd3daf_L.jpeg",
-   "https://media.e-auksion.uz/i/892fdea0283ef0bbedf4e7cd606c4fca_L.jpeg",
-   "https://media.e-auksion.uz/i/335b1e3863a5d03a7e58c79900c78ee3_L.jpeg",
-   "https://media.e-auksion.uz/i/6979b677306c3a030f330b617e4947c8_L.jpeg"
-  ],
-  "fav": 20,
-  "order_end": "02.11.2026 09:00",
-  "test": false
  }
 ]
