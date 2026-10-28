@@ -2866,6 +2866,175 @@
   "test": false
  },
  {
+  "id": 26494915,
+  "lot_number": "26494915",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "qishloq",
+   "ijara"
+  ],
+  "title": "Ер участкаси, 16,11 га",
+  "info": [
+   "боғдорчилик",
+   "ижара 44 йил"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Самарқанд вилояти",
+  "price_orig": 16387470.0,
+  "price_final": 1638747.0,
+  "date": "29.10.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/db866a899ed9cbf7fa682f990d697853_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/db866a899ed9cbf7fa682f990d697853_L.jpeg",
+   "https://media.e-auksion.uz/i/54a15c8886d11caecd26ab33d953c985_L.jpeg",
+   "https://media.e-auksion.uz/i/d88d235f39ebdc5efe8658f1ef03276d_L.jpeg",
+   "https://media.e-auksion.uz/i/9fdcf97956f3377bcf357b9084c6233e_L.jpeg",
+   "https://media.e-auksion.uz/i/f050614bdafdd216f26b632187b291ed_L.jpeg",
+   "https://media.e-auksion.uz/i/56731f495a6a3c90a1910e63d84cad1f_L.jpeg",
+   "https://media.e-auksion.uz/i/a832408123267d57c7cd13be78fe3715_L.jpeg",
+   "https://media.e-auksion.uz/i/64d858fc2aadc8d0328b4f8d3800635e_L.jpeg",
+   "https://media.e-auksion.uz/i/c5aca44a23de31374d4d136a8678cd08_L.jpeg",
+   "https://media.e-auksion.uz/i/66fd77c748246a1aa66f894726165c1b_L.jpeg"
+  ],
+  "fav": 1,
+  "order_end": "29.10.2026 09:00"
+ },
+ {
+  "id": 26494688,
+  "lot_number": "26494688",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "qishloq",
+   "ijara"
+  ],
+  "title": "Ер участкаси, 91,1 га",
+  "info": [
+   "пахта-ғалла",
+   "ижара 26 йил"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Қорақалпоғистон Республикаси",
+  "price_orig": 63095940.0,
+  "price_final": 6309594.0,
+  "date": "29.10.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/efb12846c1fa4f8ff1197203a936e6cf_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/efb12846c1fa4f8ff1197203a936e6cf_L.jpeg",
+   "https://media.e-auksion.uz/i/2dd67dabfd9e3e884929836637acea5e_L.jpeg",
+   "https://media.e-auksion.uz/i/dd0084ab8f9f74bb310d4a4c506f1c05_L.jpeg",
+   "https://media.e-auksion.uz/i/e0c5b78971a9dc9ef28ffc4a5e1bafb2_L.jpeg",
+   "https://media.e-auksion.uz/i/cb830b5dc488647a6054010b3a3e0943_L.jpeg"
+  ],
+  "fav": 0,
+  "order_end": "29.10.2026 09:00"
+ },
+ {
+  "id": 26494897,
+  "lot_number": "26494897",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "qishloq",
+   "ijara"
+  ],
+  "title": "Ер участкаси, 17,01 га",
+  "info": [
+   "ғаллачилик",
+   "ижара 27 йил"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Сурхондарё вилояти",
+  "price_orig": 19655623.0,
+  "price_final": 1965562.3,
+  "date": "29.10.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/73d9f6f00c3a112dede6ba9ef00e5374_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/73d9f6f00c3a112dede6ba9ef00e5374_L.jpeg",
+   "https://media.e-auksion.uz/i/36609ad214b6bad4442827da11ca4980_L.jpeg",
+   "https://media.e-auksion.uz/i/a9b4dbab265e20ddec6bba9dd5238ef6_L.jpeg",
+   "https://media.e-auksion.uz/i/4175dae76877cec0f3008fc49a9019df_L.jpeg",
+   "https://media.e-auksion.uz/i/13646c8fe03813ad0093f677fb9743be_L.jpeg",
+   "https://media.e-auksion.uz/i/db1fd70278f6c7adf30d1ea8eb075d59_L.jpeg"
+  ],
+  "fav": 0,
+  "order_end": "29.10.2026 09:00"
+ },
+ {
+  "id": 26494758,
+  "lot_number": "26494758",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "qishloq",
+   "ijara"
+  ],
+  "title": "Ер участкаси, 48,13 га",
+  "info": [
+   "ғалла-сабзавот",
+   "ижара 28 йил"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Сурхондарё вилояти",
+  "price_orig": 62670168.0,
+  "price_final": 6267016.8,
+  "date": "29.10.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/30404e52db2af2f6c28cf3cd15c4dc77_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/30404e52db2af2f6c28cf3cd15c4dc77_L.jpeg",
+   "https://media.e-auksion.uz/i/6d36797bc3c74e850b4c951e3733be72_L.jpeg",
+   "https://media.e-auksion.uz/i/1154e3a950331e170157f5189e88bb58_L.jpeg",
+   "https://media.e-auksion.uz/i/7a07bd9e089f482313d49895bda21c20_L.jpeg",
+   "https://media.e-auksion.uz/i/c69a92c56b13e3a6c1cc5d350748aaaa_L.jpeg"
+  ],
+  "fav": 0,
+  "order_end": "29.10.2026 09:00"
+ },
+ {
+  "id": 26494723,
+  "lot_number": "26494723",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "qishloq",
+   "ijara"
+  ],
+  "title": "Ер участкаси, 246,72 га",
+  "info": [
+   "ғалла-сабзавот",
+   "ижара 28 йил"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Сурхондарё вилояти",
+  "price_orig": 325329289.0,
+  "price_final": 32532928.9,
+  "date": "29.10.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/82fc4ab8a0d3e9b13ee083af9cbf5ce9_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/82fc4ab8a0d3e9b13ee083af9cbf5ce9_L.jpeg",
+   "https://media.e-auksion.uz/i/ea6023e29bcb47d2a9d6c8cf4efa49ed_L.jpeg",
+   "https://media.e-auksion.uz/i/16f2a7f6e3043f8f17c8c7f4b93c1bd1_L.jpeg",
+   "https://media.e-auksion.uz/i/05ef2df37463c4ecb2c068531eab7922_L.jpeg",
+   "https://media.e-auksion.uz/i/76db1c0133c08a2f2c4c9c99b849e8fa_L.jpeg",
+   "https://media.e-auksion.uz/i/dc2a915f5386376caad5c75fb2013473_L.jpeg",
+   "https://media.e-auksion.uz/i/db5013aaefa390d4636ecb3aa28e47e1_L.jpeg",
+   "https://media.e-auksion.uz/i/4672189379071658a268afb72417e951_L.jpeg"
+  ],
+  "fav": 0,
+  "order_end": "29.10.2026 09:00"
+ },
+ {
   "id": 26260257,
   "lot_number": "26260257",
   "cat": "mulk",
