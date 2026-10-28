@@ -3097,5 +3097,34 @@
   "fav": 24,
   "order_end": "02.11.2026 09:00",
   "test": false
+ },
+ {
+  "id": 26260259,
+  "lot_number": "26260259",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "noturar",
+   "ijara"
+  ],
+  "title": "Ер участкаси, 1,06 сотих",
+  "info": [
+   "\"Тайёр пакет\" усулидаги ерлар"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Тошкент вилояти",
+  "price_orig": 32228650.0,
+  "price_final": 32228650.0,
+  "date": "02.11.2026",
+  "post_url": "https://t.me/kuchmasmulk_uz/2795",
+  "photo": "https://media.e-auksion.uz/i/ad01306271ce4f4ad2a8617820c2cc77_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/ad01306271ce4f4ad2a8617820c2cc77_L.jpeg",
+   "https://media.e-auksion.uz/i/2698a340dcae10d8e48005dcc2892890_L.jpeg"
+  ],
+  "fav": 21,
+  "order_end": "02.11.2026 09:00",
+  "test": false
  }
 ]
