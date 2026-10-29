@@ -86,9 +86,9 @@ var CATS=[["avto","Енгил авто"],["yuk","Юк ва махсус техн
 var ADMIN="https://t.me/auksion_admin";
 // «Ариза бериш» открывает чат с админом с уже набранным текстом о лоте (решение пользователя 29.10:
 // админ должен видеть, о каком лоте речь) — клиенту остаётся нажать «Отправить»
-// Коротко (29.10: длинный текст не нужен) — номер лота однозначно определяет лот, название — для глаза
-function orderLink(x){var name=String(x.title||"").replace(/\s+/g," ").trim();if(name.length>30)name=name.slice(0,29)+"…";
- return ADMIN+"?text="+encodeURIComponent("Ариза: Лот № "+(x.lot_number||x.id)+(name?" — "+name:""))}
+// Пробный вариант (30.10): заявка через бот — он проверяет подписку на канал лота и присылает заявку админу
+var ARIZA_BOT="https://t.me/my_auksion_bot";
+function orderLink(x){return ARIZA_BOT+"?start=ariza_"+encodeURIComponent(String(x.id||x.lot_number))}
 var CH={avto:"https://t.me/avto_auksion_uz",yuk:"https://t.me/gruzovoeavto",mulk:"https://t.me/kuchmasmulk_uz",qishloq:"https://t.me/kuchmasmulk_uz"};
 // Подразделы вкладок (поле лота sub): кўчмас мулк — 28.10, юк — 29.10 (грузовые / автобусы / спецтехника,
 // чтобы у каждого был свой топ и экскаватор со ★10 не терялся за грузовиками). Первый — по умолчанию.
