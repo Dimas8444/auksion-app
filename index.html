@@ -107,7 +107,9 @@ var CYR={"а":"a","б":"b","в":"v","г":"g","д":"d","е":"e","ё":"yo","ж":"j
 function norm(s){s=String(s||"").toLowerCase().replace(/[а-яёўқғҳ]/g,function(ch){return CYR[ch]||ch});
  return s.replace(/c(?=[eiy])/g,"s").replace(/c/g,"k").replace(/q/g,"k").replace(/x/g,"ks").replace(/y/g,"i").replace(/jentra/g,"gentra").replace(/[^a-z0-9]/g,"").replace(/(.)\1+/g,"$1")}
 function found(){var raw=Q.trim(),n=norm(raw);if(!n)return [];
- return (ALL||LOTS).filter(function(x){return /^\d{5,}$/.test(raw)?String(x.lot_number||"").indexOf(raw)>=0:norm(x.title).indexOf(n)>=0})}
+ // результаты поиска — топ: сначала самые популярные (по избранному), решение пользователя 30.10
+ return (ALL||LOTS).filter(function(x){return /^\d{5,}$/.test(raw)?String(x.lot_number||"").indexOf(raw)>=0:norm(x.title).indexOf(n)>=0})
+  .sort(function(a,b){return (b.fav||0)-(a.fav||0)})}
 function loadAll(){if(ALL||ALLWAIT)return;ALLWAIT=true;fetch("search.json?t="+Date.now()).then(function(r){return r.json()}).then(function(j){ALL=j;render()}).catch(function(){ALL=LOTS;render()})}
 var qT;
 document.addEventListener("input",function(ev){if(ev.target&&ev.target.id==="q"){clearTimeout(qT);qT=setTimeout(function(){Q=ev.target.value;document.getElementById("qx").hidden=!Q;if(Q.trim())loadAll();render()},200)}});
