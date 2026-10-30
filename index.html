@@ -123,8 +123,6 @@ function subOf(x){return x.sub||SUBDEF[x.cat]}
 // участок под многоэтажку часто продаётся правом аренды и есть и в «Кўп қаватли», и в «Ижарага»)
 var LTAGS=[["","Барчаси"],["yakka","Хусусий уй учун"],["kop","Кўп қаватли уй учун"],["noturar","Нотурар қурилиш учун"],["ijara","Ижарага"]];
 var BYID={},DET=null,DETWAIT=false,OPEN=null;
-// проверка пользователя (30.10): карточка пока только у одного лота, остальные — как раньше, в пост
-var DETONLY={"26297968":1};
 var cur="avto",SUB={mulk:"turar",yuk:"yuk"},ltag="",LOTS=[],REG="",Q="",ALL=null,ALLWAIT=false;
 // Поиск: «lacetti» / «ласетти» / «Lacetti-2» сравниваются одинаково — кириллица в латиницу,
 // c/q/x/y и двойные буквы приводятся к одному виду, пробелы и дефисы убираются.
@@ -200,7 +198,7 @@ function render(){
  document.getElementById("note").textContent=LOTS.some(function(x){return x.sample})?"Намуна маълумотлар. Ҳақиқий лотлар скрейпердан юкланганда алмашади.":"";
 }
 document.addEventListener("click",function(ev){var c=ev.target.closest&&ev.target.closest("[data-lot]");
- if(c&&BYID[c.getAttribute("data-lot")]&&DETONLY[c.getAttribute("data-lot")]){ev.preventDefault();ev.stopImmediatePropagation();openLot(BYID[c.getAttribute("data-lot")])}},true);
+ if(c&&BYID[c.getAttribute("data-lot")]){ev.preventDefault();ev.stopImmediatePropagation();openLot(BYID[c.getAttribute("data-lot")])}},true);
 document.addEventListener("click",function(ev){var a=ev.target.closest&&ev.target.closest("a.go, a.nm, a.chan");if(a&&tw&&tw.openTelegramLink&&a.href.indexOf("https://t.me/")===0){ev.preventDefault();try{tw.openTelegramLink(a.href)}catch(e){window.open(a.href,"_blank")}}});
 function postUrl(x){return (x.post_url&&x.post_url.indexOf("t.me/shocos")<0)?x.post_url:CH[x.cat]}
 // данные карточек — отдельным файлом и только при первом открытии (lots.json не растёт)
