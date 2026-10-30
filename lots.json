@@ -13,7 +13,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149348",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/f79c3080ce0294ac0f2651998b42e01e_L.jpeg",
-  "fav": 437,
+  "fav": 442,
   "order_end": "02.11.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/f79c3080ce0294ac0f2651998b42e01e_L.jpeg",
@@ -41,7 +41,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149446",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/cafab2dcfbe1242344217f5bf9cd6035_L.png",
-  "fav": 296,
+  "fav": 298,
   "order_end": "02.11.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/cafab2dcfbe1242344217f5bf9cd6035_L.png",
@@ -66,7 +66,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149452",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/f77239aed5b975501ffd45308971bb9b_L.jpeg",
-  "fav": 276,
+  "fav": 278,
   "order_end": "02.11.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/f77239aed5b975501ffd45308971bb9b_L.jpeg",
@@ -95,7 +95,7 @@
   "post_url": "https://t.me/avto_auksion_uz/150914",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/7412ed9e8caa6694b1ac48d65db324de_L.jpg",
-  "fav": 259,
+  "fav": 260,
   "order_end": "02.11.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/7412ed9e8caa6694b1ac48d65db324de_L.jpg",
@@ -123,7 +123,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149368",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/6286272b668712b380679e1ca6f8caa4_L.jpeg",
-  "fav": 239,
+  "fav": 241,
   "order_end": "02.11.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/6286272b668712b380679e1ca6f8caa4_L.jpeg",
@@ -152,7 +152,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149379",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/cc543fea5d08c0840048795d11d7b657_L.jpeg",
-  "fav": 225,
+  "fav": 226,
   "order_end": "02.11.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/cc543fea5d08c0840048795d11d7b657_L.jpeg",
@@ -235,7 +235,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149399",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/ac8d751b6692cd41f7e8175b7113a9d4_L.jpeg",
-  "fav": 147,
+  "fav": 149,
   "order_end": "02.11.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/ac8d751b6692cd41f7e8175b7113a9d4_L.jpeg",
@@ -287,7 +287,7 @@
   "post_url": "https://t.me/avto_auksion_uz/150927",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/c40acb2b1f28c4a8647cd2bb703fecdf_L.jpg",
-  "fav": 126,
+  "fav": 128,
   "order_end": "02.11.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/c40acb2b1f28c4a8647cd2bb703fecdf_L.jpg",
@@ -339,7 +339,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149436",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/b8cd1338f4ecc0ca25c2c9ef7f54f414_L.jpeg",
-  "fav": 93,
+  "fav": 95,
   "order_end": "02.11.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/b8cd1338f4ecc0ca25c2c9ef7f54f414_L.jpeg",
@@ -368,13 +368,40 @@
   "post_url": "https://t.me/avto_auksion_uz/150969",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/72cc0c86443464f5aaf6801aa6fe6030_L.jpg",
-  "fav": 91,
+  "fav": 92,
   "order_end": "02.11.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/72cc0c86443464f5aaf6801aa6fe6030_L.jpg",
    "https://media.e-auksion.uz/i/bd00b619aab56d01834458e69eefd6a3_L.jpg",
    "https://media.e-auksion.uz/i/2942a3b827209b3a57898481fd78fbc7_L.jpg",
    "https://media.e-auksion.uz/i/f3a706e1552043d1ecd882c218453055_L.jpg"
+  ]
+ },
+ {
+  "id": 26260626,
+  "lot_number": "26260626",
+  "cat": "avto",
+  "title": "LACETTI 01 769 JKA",
+  "year": "2019",
+  "mileage": "236468",
+  "region": "Тошкент ш.",
+  "price_orig": 65854667.0,
+  "price_final": 65854667.0,
+  "date": "02.11.2026",
+  "post_url": "https://t.me/avto_auksion_uz/150945",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/de4ab86187876de8de64551911cae58c_L.jpg",
+  "fav": 88,
+  "order_end": "02.11.2026 09:00",
+  "photos": [
+   "https://media.e-auksion.uz/i/de4ab86187876de8de64551911cae58c_L.jpg",
+   "https://media.e-auksion.uz/i/e84547c7bf1133aebd30c827d3e069b6_L.jpg",
+   "https://media.e-auksion.uz/i/af4a00127dd3a4214601dac0f57421e3_L.jpg",
+   "https://media.e-auksion.uz/i/4463587884a49de83bac88bf2bd0a527_L.jpg",
+   "https://media.e-auksion.uz/i/247ed76d6332905ae1fa21d383b509d0_L.jpg",
+   "https://media.e-auksion.uz/i/4126da49d798680ddb6cb88e419f4a7e_L.jpg",
+   "https://media.e-auksion.uz/i/4e397744966ee90398b60ea8179a2637_L.jpg",
+   "https://media.e-auksion.uz/i/d40e0c487ebfdc06bb13594bcb50b899_L.jpg"
   ]
  },
  {
@@ -429,33 +456,6 @@
   ]
  },
  {
-  "id": 26260626,
-  "lot_number": "26260626",
-  "cat": "avto",
-  "title": "LACETTI 01 769 JKA",
-  "year": "2019",
-  "mileage": "236468",
-  "region": "Тошкент ш.",
-  "price_orig": 65854667.0,
-  "price_final": 65854667.0,
-  "date": "02.11.2026",
-  "post_url": "https://t.me/avto_auksion_uz/150945",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/de4ab86187876de8de64551911cae58c_L.jpg",
-  "fav": 86,
-  "order_end": "02.11.2026 09:00",
-  "photos": [
-   "https://media.e-auksion.uz/i/de4ab86187876de8de64551911cae58c_L.jpg",
-   "https://media.e-auksion.uz/i/e84547c7bf1133aebd30c827d3e069b6_L.jpg",
-   "https://media.e-auksion.uz/i/af4a00127dd3a4214601dac0f57421e3_L.jpg",
-   "https://media.e-auksion.uz/i/4463587884a49de83bac88bf2bd0a527_L.jpg",
-   "https://media.e-auksion.uz/i/247ed76d6332905ae1fa21d383b509d0_L.jpg",
-   "https://media.e-auksion.uz/i/4126da49d798680ddb6cb88e419f4a7e_L.jpg",
-   "https://media.e-auksion.uz/i/4e397744966ee90398b60ea8179a2637_L.jpg",
-   "https://media.e-auksion.uz/i/d40e0c487ebfdc06bb13594bcb50b899_L.jpg"
-  ]
- },
- {
   "id": 26261060,
   "lot_number": "26261060",
   "cat": "avto",
@@ -469,7 +469,7 @@
   "post_url": "https://t.me/avto_auksion_uz/150957",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/42afa34c585adce26a61f53101f1946f_L.jpg",
-  "fav": 81,
+  "fav": 82,
   "order_end": "02.11.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/42afa34c585adce26a61f53101f1946f_L.jpg",
@@ -480,6 +480,33 @@
    "https://media.e-auksion.uz/i/9e1879cc8b959d27d224efb5c38a0160_L.jpg",
    "https://media.e-auksion.uz/i/c001b848c5130668e498ca6e83dc29f8_L.jpg",
    "https://media.e-auksion.uz/i/db43fb78b7aa9c0b35dff0e0361debc0_L.jpg"
+  ]
+ },
+ {
+  "id": 26260549,
+  "lot_number": "26260549",
+  "cat": "avto",
+  "title": "LACETTI 01 360 MBA",
+  "year": "2020",
+  "mileage": "128681",
+  "region": "Тошкент ш.",
+  "price_orig": 65698375.0,
+  "price_final": 65698375.0,
+  "date": "02.11.2026",
+  "post_url": "https://t.me/avto_auksion_uz/150973",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/93927306f5f344413b992226f944197c_L.jpg",
+  "fav": 82,
+  "order_end": "02.11.2026 09:00",
+  "photos": [
+   "https://media.e-auksion.uz/i/93927306f5f344413b992226f944197c_L.jpg",
+   "https://media.e-auksion.uz/i/8cf4afc7a65f9095ec239d9c37af79bd_L.jpg",
+   "https://media.e-auksion.uz/i/670f7f777d41d3b99703c321376516ef_L.jpg",
+   "https://media.e-auksion.uz/i/af10f321d3a4811aba6a12536bfa7a5b_L.jpg",
+   "https://media.e-auksion.uz/i/22eeab84c9bf55d9d7b047433a274cbc_L.jpg",
+   "https://media.e-auksion.uz/i/fa6f46b8406e383ceae570a1e117c8b7_L.jpg",
+   "https://media.e-auksion.uz/i/c4863934a459cde8fb5fcf6fc11f1887_L.jpg",
+   "https://media.e-auksion.uz/i/3725d12ea3b9b910ddba159cc7449a03_L.jpg"
   ]
  },
  {
@@ -512,33 +539,6 @@
   "order_end": "02.11.2026 09:00"
  },
  {
-  "id": 26260549,
-  "lot_number": "26260549",
-  "cat": "avto",
-  "title": "LACETTI 01 360 MBA",
-  "year": "2020",
-  "mileage": "128681",
-  "region": "Тошкент ш.",
-  "price_orig": 65698375.0,
-  "price_final": 65698375.0,
-  "date": "02.11.2026",
-  "post_url": "https://t.me/avto_auksion_uz/150973",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/93927306f5f344413b992226f944197c_L.jpg",
-  "fav": 80,
-  "order_end": "02.11.2026 09:00",
-  "photos": [
-   "https://media.e-auksion.uz/i/93927306f5f344413b992226f944197c_L.jpg",
-   "https://media.e-auksion.uz/i/8cf4afc7a65f9095ec239d9c37af79bd_L.jpg",
-   "https://media.e-auksion.uz/i/670f7f777d41d3b99703c321376516ef_L.jpg",
-   "https://media.e-auksion.uz/i/af10f321d3a4811aba6a12536bfa7a5b_L.jpg",
-   "https://media.e-auksion.uz/i/22eeab84c9bf55d9d7b047433a274cbc_L.jpg",
-   "https://media.e-auksion.uz/i/fa6f46b8406e383ceae570a1e117c8b7_L.jpg",
-   "https://media.e-auksion.uz/i/c4863934a459cde8fb5fcf6fc11f1887_L.jpg",
-   "https://media.e-auksion.uz/i/3725d12ea3b9b910ddba159cc7449a03_L.jpg"
-  ]
- },
- {
   "id": 26352063,
   "lot_number": "26352063",
   "cat": "avto",
@@ -552,7 +552,7 @@
   "post_url": "https://t.me/avto_auksion_uz/151120",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/4bb873efb2981dbad5c274e1b98a9c52_L.jpg",
-  "fav": 102,
+  "fav": 103,
   "order_end": "05.11.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/4bb873efb2981dbad5c274e1b98a9c52_L.jpg",
@@ -577,7 +577,7 @@
   "post_url": "https://t.me/avto_auksion_uz/151126",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/bc4efb444f5e0f72f0f53a82d9e4746e_L.jpg",
-  "fav": 78,
+  "fav": 79,
   "order_end": "05.11.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/bc4efb444f5e0f72f0f53a82d9e4746e_L.jpg",
@@ -1060,7 +1060,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149822",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/c171cd024d3ab6acfdb749225861a00c_L.jpeg",
-  "fav": 49,
+  "fav": 50,
   "order_end": "06.11.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/c171cd024d3ab6acfdb749225861a00c_L.jpeg",
@@ -1105,6 +1105,35 @@
   ]
  },
  {
+  "id": 26011454,
+  "lot_number": "26011454",
+  "cat": "avto",
+  "title": "KIA SELTOS G700",
+  "year": "2021",
+  "mileage": "85118",
+  "region": "Бухоро вилояти",
+  "price_orig": 294500000.0,
+  "price_final": 206150000.0,
+  "date": "06.11.2026",
+  "post_url": "https://t.me/avto_auksion_uz/149842",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/3aba771e2c8c6f82179766b60359c527_L.jpeg",
+  "fav": 38,
+  "order_end": "06.11.2026 09:00",
+  "photos": [
+   "https://media.e-auksion.uz/i/3aba771e2c8c6f82179766b60359c527_L.jpeg",
+   "https://media.e-auksion.uz/i/a10c49a51fe61a4c2fcbfba3cec8892a_L.jpeg",
+   "https://media.e-auksion.uz/i/595923c7ce9c52f8c1c3acfce8015a22_L.jpeg",
+   "https://media.e-auksion.uz/i/b08c870fa6be0380516a696ca98698b6_L.jpeg",
+   "https://media.e-auksion.uz/i/3d44af77f2aa823071645dbf251d66b6_L.jpeg",
+   "https://media.e-auksion.uz/i/b0f49e7f6b5e562541b0e3421753e599_L.jpeg",
+   "https://media.e-auksion.uz/i/b932e93ae6ec68185446342abc2ad8ae_L.jpeg",
+   "https://media.e-auksion.uz/i/77bb2b4357b668fb89c9ca193be077f3_L.jpeg",
+   "https://media.e-auksion.uz/i/71f9ad1bcb89e43d92386e0a70cb0cd5_L.jpeg",
+   "https://media.e-auksion.uz/i/eb1f76410def6387d8bf528db778b9a2_L.jpeg"
+  ]
+ },
+ {
   "id": 26396582,
   "lot_number": "26396582",
   "cat": "avto",
@@ -1131,35 +1160,6 @@
   ],
   "fav": 38,
   "order_end": "06.11.2026 09:00"
- },
- {
-  "id": 26011454,
-  "lot_number": "26011454",
-  "cat": "avto",
-  "title": "KIA SELTOS G700",
-  "year": "2021",
-  "mileage": "85118",
-  "region": "Бухоро вилояти",
-  "price_orig": 294500000.0,
-  "price_final": 206150000.0,
-  "date": "06.11.2026",
-  "post_url": "https://t.me/avto_auksion_uz/149842",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/3aba771e2c8c6f82179766b60359c527_L.jpeg",
-  "fav": 37,
-  "order_end": "06.11.2026 09:00",
-  "photos": [
-   "https://media.e-auksion.uz/i/3aba771e2c8c6f82179766b60359c527_L.jpeg",
-   "https://media.e-auksion.uz/i/a10c49a51fe61a4c2fcbfba3cec8892a_L.jpeg",
-   "https://media.e-auksion.uz/i/595923c7ce9c52f8c1c3acfce8015a22_L.jpeg",
-   "https://media.e-auksion.uz/i/b08c870fa6be0380516a696ca98698b6_L.jpeg",
-   "https://media.e-auksion.uz/i/3d44af77f2aa823071645dbf251d66b6_L.jpeg",
-   "https://media.e-auksion.uz/i/b0f49e7f6b5e562541b0e3421753e599_L.jpeg",
-   "https://media.e-auksion.uz/i/b932e93ae6ec68185446342abc2ad8ae_L.jpeg",
-   "https://media.e-auksion.uz/i/77bb2b4357b668fb89c9ca193be077f3_L.jpeg",
-   "https://media.e-auksion.uz/i/71f9ad1bcb89e43d92386e0a70cb0cd5_L.jpeg",
-   "https://media.e-auksion.uz/i/eb1f76410def6387d8bf528db778b9a2_L.jpeg"
-  ]
  },
  {
   "id": 26011484,
@@ -1735,7 +1735,7 @@
   "post_url": "https://t.me/avto_auksion_uz/151280",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/869564a0d1fb2c81151e6caf87a78a6c_L.jpeg",
-  "fav": 63,
+  "fav": 62,
   "order_end": "09.11.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/869564a0d1fb2c81151e6caf87a78a6c_L.jpeg",
@@ -1877,7 +1877,7 @@
   "post_url": "https://t.me/avto_auksion_uz/151300",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/ef3ab93db04cce06727751d24905cd8d_L.jpeg",
-  "fav": 52,
+  "fav": 51,
   "order_end": "09.11.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/ef3ab93db04cce06727751d24905cd8d_L.jpeg",
@@ -2034,7 +2034,7 @@
    "https://media.e-auksion.uz/i/0ade8ed2a69997bbb9c2075da32b2d16_L.jpeg",
    "https://media.e-auksion.uz/i/a2051cc8a3ec3802226011f517a7549c_L.jpeg"
   ],
-  "fav": 190,
+  "fav": 193,
   "order_end": "12.11.2026 09:00"
  },
  {
@@ -2624,7 +2624,7 @@
    "https://media.e-auksion.uz/i/727033468b1289166f137421d1ab30ea_L.jpeg",
    "https://media.e-auksion.uz/i/2ea1e23d787b73b4045cf3ac07e250b3_L.jpeg"
   ],
-  "fav": 233,
+  "fav": 234,
   "order_end": "16.11.2026 09:00"
  },
  {
@@ -2847,7 +2847,7 @@
    "https://media.e-auksion.uz/i/34555709d69043df108799bf27368d5d_L.jpg",
    "https://media.e-auksion.uz/i/9d10c60bb744f7f074ccba3b32948670_L.jpg"
   ],
-  "fav": 97,
+  "fav": 98,
   "order_end": "16.11.2026 09:00"
  },
  {
@@ -2876,7 +2876,7 @@
    "https://media.e-auksion.uz/i/aff290fbc15cab5b1290129a2550f77b_L.jpeg",
    "https://media.e-auksion.uz/i/39bb16f615472587f33b06cc3c6d7fbe_L.jpeg"
   ],
-  "fav": 84,
+  "fav": 85,
   "order_end": "16.11.2026 09:00"
  },
  {
@@ -13453,7 +13453,7 @@
    "https://media.e-auksion.uz/i/2a98287cba47e57c54af511b3b4d8deb_L.jpg",
    "https://media.e-auksion.uz/i/1725ee53dde3f5a8b8be27b9b3125435_L.jpg"
   ],
-  "fav": 119,
+  "fav": 120,
   "order_end": "03.11.2026 09:00"
  },
  {
@@ -14293,7 +14293,7 @@
   "post_url": "https://t.me/gruzovoeavto/21986",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/eaba92345a17a938af16f37418d38130_L.jpg",
-  "fav": 132,
+  "fav": 133,
   "order_end": "02.11.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/eaba92345a17a938af16f37418d38130_L.jpg",
@@ -14317,7 +14317,7 @@
   "post_url": "https://t.me/gruzovoeavto/21990",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/db7e0215efbbd34d380b9a07ad5f6530_L.jpg",
-  "fav": 87,
+  "fav": 88,
   "order_end": "02.11.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/db7e0215efbbd34d380b9a07ad5f6530_L.jpg",
@@ -14341,7 +14341,7 @@
   "post_url": "https://t.me/gruzovoeavto/21994",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/6dad98b9b0af00c124a6078d11c5c82f_L.jpg",
-  "fav": 82,
+  "fav": 83,
   "order_end": "02.11.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/6dad98b9b0af00c124a6078d11c5c82f_L.jpg",
@@ -14392,7 +14392,7 @@
   "post_url": "https://t.me/gruzovoeavto/21999",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/e2eb0806c02dad148ed8c74303c20cf0_L.jpg",
-  "fav": 40,
+  "fav": 41,
   "order_end": "02.11.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/e2eb0806c02dad148ed8c74303c20cf0_L.jpg",
@@ -14745,7 +14745,7 @@
    "https://media.e-auksion.uz/i/5028156050f662bff2f5f2c50a866dff_L.jpg",
    "https://media.e-auksion.uz/i/109b6cc9f48b8233751ce09709fd3ebe_L.jpg"
   ],
-  "fav": 81,
+  "fav": 82,
   "order_end": "03.11.2026 09:00"
  },
  {
@@ -14799,7 +14799,7 @@
    "https://media.e-auksion.uz/i/d46849a4932cc3b0991ff97bc1027a00_L.jpg",
    "https://media.e-auksion.uz/i/726fd9e7c3c1d7185956ba07cbe6e7de_L.jpg"
   ],
-  "fav": 65,
+  "fav": 66,
   "order_end": "03.11.2026 09:00"
  },
  {
@@ -15012,7 +15012,7 @@
    "https://media.e-auksion.uz/i/579f41d192010c4bcc7c14dd6dad9450_L.jpg",
    "https://media.e-auksion.uz/i/a0b29d0c1b7b3b0740bceb8b0b9230e6_L.jpg"
   ],
-  "fav": 17,
+  "fav": 18,
   "order_end": "05.11.2026 09:00",
   "sub": "yuk"
  },
@@ -15089,7 +15089,7 @@
   "post_url": "https://t.me/gruzovoeavto/22080",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/c1842365089bfa062b9402f56ff54333_L.jpeg",
-  "fav": 209,
+  "fav": 210,
   "order_end": "09.11.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/c1842365089bfa062b9402f56ff54333_L.jpeg",
@@ -15726,7 +15726,7 @@
    "https://media.e-auksion.uz/i/b368df9a698d6c7e301bc725fafc4657_L.jpeg",
    "https://media.e-auksion.uz/i/ec73cb940b5bbc932c9b3fda198799bb_L.jpeg"
   ],
-  "fav": 137,
+  "fav": 138,
   "order_end": "13.11.2026 09:00",
   "sub": "yuk"
  },
@@ -15756,7 +15756,7 @@
    "https://media.e-auksion.uz/i/05eb1dc6b0c99716ecfb028cbe675a7c_L.jpeg",
    "https://media.e-auksion.uz/i/8bbe71b29039464cbd38eb7bf60c2c2a_L.jpeg"
   ],
-  "fav": 91,
+  "fav": 92,
   "order_end": "13.11.2026 09:00",
   "sub": "yuk"
  },
@@ -15892,7 +15892,7 @@
    "https://media.e-auksion.uz/i/2b8f30c7b653814546659162e077ee1e_L.jpeg",
    "https://media.e-auksion.uz/i/c3a2f430ee1c64a02bf245b6ef8ebf01_L.jpeg"
   ],
-  "fav": 109,
+  "fav": 110,
   "order_end": "16.11.2026 09:00",
   "sub": "yuk"
  },
