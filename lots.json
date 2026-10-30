@@ -745,6 +745,30 @@
   "order_end": "03.11.2026 09:00"
  },
  {
+  "id": 26282284,
+  "lot_number": "26282284",
+  "cat": "avto",
+  "sub": null,
+  "title": "Damas",
+  "year": "2013",
+  "mileage": "485510",
+  "region": "Навоий вилояти",
+  "price_orig": 14939700.0,
+  "price_final": 14939700.0,
+  "date": "03.11.2026",
+  "post_url": "https://t.me/avto_auksion_uz/152920",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/5e79d43fa6ea1d8ce5d94753314f7892_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/5e79d43fa6ea1d8ce5d94753314f7892_L.jpg",
+   "https://media.e-auksion.uz/i/f2c6a5c23124f06313dc18cbbd7fc23c_L.jpg",
+   "https://media.e-auksion.uz/i/0107dccb64292334aebb606c6d8ab658_L.jpg",
+   "https://media.e-auksion.uz/i/89f6be32b9f50d109bad92a91c058755_L.jpg"
+  ],
+  "fav": 22,
+  "order_end": "03.11.2026 09:00"
+ },
+ {
   "id": 26352063,
   "lot_number": "26352063",
   "cat": "avto",
