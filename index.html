@@ -89,7 +89,7 @@ h1{font:700 22px/1.2 "PT Serif",Georgia,serif;margin:18px 0 4px}
 .dnote{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 14px;font-size:14px}
 .dnote b{display:block;color:var(--mute);font-weight:400;margin-bottom:4px}
 .btns.one{grid-template-columns:1fr}
-.chan{display:block;text-align:center;color:var(--mute);font-size:14px;padding:6px 0;text-decoration:underline;text-underline-offset:3px}
+.go.chan{margin-top:-2px}   /* «Каналдаги постни очиш» — полноценная кнопка (решение пользователя 30.10) */
 </style></head><body>
 <div id="sc"><div class="wrap">
 <h1>Аукцион савдолар</h1>
@@ -214,7 +214,7 @@ function openLot(x){OPEN=x;var dt=document.getElementById("det");
   +'<div class="price"><span class="now">'+fmt(x.price_final)+'</span>'+(d?'<span class="old">'+fmt(x.price_orig)+'</span>':'')+'</div>'
   +'<div class="date">Аукцион санаси: '+x.date+'</div><dl class="rows" id="drows"><div class="wide"><dd style="font-weight:400;color:var(--mute)">Юкланмоқда…</dd></div></dl><div id="dnote"></div>'
   +'<div class="btns" id="dbtns"><a class="go" target="_blank" rel="noopener" href="'+orderLink(x)+'">Ариза бериш</a></div>'
-  +'<a class="chan" target="_blank" rel="noopener" href="'+postUrl(x)+'">Каналдаги постни очиш</a></div>';
+  +'<a class="go alt chan" target="_blank" rel="noopener" href="'+postUrl(x)+'">📢 Каналдаги постни очиш</a></div>';
  dt.querySelector(".name").textContent=x.title;
  var mm=dt.querySelector(".meta");[x.year?x.year+" й.":""].concat(x.info||[]).filter(Boolean).forEach(function(s){var sp=document.createElement("span");sp.textContent=s;mm.appendChild(sp)});
  var st=dt.querySelector(".strip");if(st){ph.forEach(function(u,i){var im=document.createElement("img");im.className="ph";im.src=u;im.alt=x.title+" — "+(i+1);im.onerror=function(){im.remove()};st.appendChild(im)});
