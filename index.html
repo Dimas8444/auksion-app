@@ -199,7 +199,10 @@ function render(){
 }
 document.addEventListener("click",function(ev){var c=ev.target.closest&&ev.target.closest("[data-lot]");
  if(c&&BYID[c.getAttribute("data-lot")]){ev.preventDefault();ev.stopImmediatePropagation();openLot(BYID[c.getAttribute("data-lot")])}},true);
-document.addEventListener("click",function(ev){var a=ev.target.closest&&ev.target.closest("a.go, a.nm, a.chan");if(a&&tw&&tw.openTelegramLink&&a.href.indexOf("https://t.me/")===0){ev.preventDefault();try{tw.openTelegramLink(a.href)}catch(e){window.open(a.href,"_blank")}}});
+document.addEventListener("click",function(ev){var a=ev.target.closest&&ev.target.closest("a.go, a.nm, a.chan");if(a&&tw&&tw.openTelegramLink&&a.href.indexOf("https://t.me/")===0){ev.preventDefault();try{tw.openTelegramLink(a.href)}catch(e){window.open(a.href,"_blank")}
+ // пост в канале (30.10): на iPhone Telegram открывает пост ПОД приложением — его не видно, кажется, что кнопка
+ // не работает. Закрываем приложение, чтобы пост оказался перед глазами («Ариза бериш» — чат, его не трогаем)
+ if(/^https:\/\/t\.me\/[A-Za-z0-9_]+\/\d+/.test(a.href)&&tw.close){setTimeout(function(){try{tw.close()}catch(e){}},300)}}});
 function postUrl(x){return (x.post_url&&x.post_url.indexOf("t.me/shocos")<0)?x.post_url:CH[x.cat]}
 // данные карточек — отдельным файлом и только при первом открытии (lots.json не растёт)
 function loadDet(){if(DET||DETWAIT)return;DETWAIT=true;
