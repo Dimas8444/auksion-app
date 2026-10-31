@@ -1350,6 +1350,30 @@
   "order_end": "05.11.2026 09:00"
  },
  {
+  "id": 26452570,
+  "lot_number": "26452570",
+  "cat": "avto",
+  "sub": null,
+  "title": "NEXIA",
+  "year": "2007",
+  "mileage": "304981",
+  "region": "Тошкент ш.",
+  "price_orig": 23707900.0,
+  "price_final": 23707900.0,
+  "date": "05.11.2026",
+  "post_url": "https://t.me/avto_auksion_uz/153018",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/2c2790d807b05619bd2e986310934fbd_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/2c2790d807b05619bd2e986310934fbd_L.jpg",
+   "https://media.e-auksion.uz/i/d98c46b180a12a49ceaa7c39b666c396_L.jpg",
+   "https://media.e-auksion.uz/i/fab383a9c3356732df595b048c3da07b_L.jpg",
+   "https://media.e-auksion.uz/i/16664315591f212fbc9f32d9d89a6092_L.jpg"
+  ],
+  "fav": 22,
+  "order_end": "05.11.2026 09:00"
+ },
+ {
   "id": 26364023,
   "lot_number": "26364023",
   "cat": "avto",
