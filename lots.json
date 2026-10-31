@@ -1432,6 +1432,36 @@
   "order_end": "05.11.2026 09:00"
  },
  {
+  "id": 26422964,
+  "lot_number": "26422964",
+  "cat": "avto",
+  "sub": null,
+  "title": "TRACKER",
+  "year": "2019",
+  "mileage": "",
+  "region": "Тошкент ш.",
+  "price_orig": 101400000.0,
+  "price_final": 81120000.0,
+  "date": "05.11.2026",
+  "post_url": "https://t.me/avto_auksion_uz/153032",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/763e300784f3cdd9fb7f09a474666e97_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/763e300784f3cdd9fb7f09a474666e97_L.jpeg",
+   "https://media.e-auksion.uz/i/f8b5f8a40a0da0eca55535125dc8148d_L.jpeg",
+   "https://media.e-auksion.uz/i/ce59d3ce1a4105a8ddcab811be5b35d0_L.jpeg",
+   "https://media.e-auksion.uz/i/d75982e1fb12f3cdd7538c01b7536c59_L.jpeg",
+   "https://media.e-auksion.uz/i/d628e4feaf19baee17de78aee7986de6_L.jpeg",
+   "https://media.e-auksion.uz/i/ad2eeb12d523dd5e80ab8f10dfa55507_L.jpeg",
+   "https://media.e-auksion.uz/i/521b68712695ef0ab5b8dd83cc7cd0a3_L.jpeg",
+   "https://media.e-auksion.uz/i/a3baa0e48b932784c4b4f417dfece986_L.jpeg",
+   "https://media.e-auksion.uz/i/c211c0a2747052c9145b4df06ef55fa5_L.jpeg",
+   "https://media.e-auksion.uz/i/b073d049f43e3c0d448b6df412db5a44_L.jpeg"
+  ],
+  "fav": 20,
+  "order_end": "05.11.2026 09:00"
+ },
+ {
   "id": 26459139,
   "lot_number": "26459139",
   "cat": "avto",
