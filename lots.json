@@ -6483,6 +6483,40 @@
   "test": false
  },
  {
+  "id": 26364367,
+  "lot_number": "26364367",
+  "cat": "mulk",
+  "sub": "turar",
+  "tags": [],
+  "title": "Ҳовли, 4 хона, 6,37 сотих",
+  "info": [
+   "Турар-жой участкаси (ҳовли)"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Фарғона вилояти",
+  "address": "Фарғона вилояти, Фарғона шаҳри, Ифтихор мфй, Бунёдкор (Тутзор-3-тор) кўчаси 4-уй",
+  "price_orig": 300000000.0,
+  "price_final": 300000000.0,
+  "date": "23.11.2026",
+  "post_url": "https://t.me/kuchmasmulk_uz/3446",
+  "photo": "https://media.e-auksion.uz/i/64fb69eaddf002d6c6ef312a91710205_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/64fb69eaddf002d6c6ef312a91710205_L.jpeg",
+   "https://media.e-auksion.uz/i/18b0c66de25bfdf1542471cf787a535e_L.jpeg",
+   "https://media.e-auksion.uz/i/cb60b8a59b41e78de405838c2bff94b9_L.jpeg",
+   "https://media.e-auksion.uz/i/bae3cab5da2d29947c196c7983b0d943_L.jpeg",
+   "https://media.e-auksion.uz/i/c22abe44b1233bc883d0c8574955562d_L.jpeg",
+   "https://media.e-auksion.uz/i/4226c0fbea53de331afe344ebfc2eabb_L.jpeg",
+   "https://media.e-auksion.uz/i/596a0dbc1397d062bb5540473125f551_L.jpeg",
+   "https://media.e-auksion.uz/i/5da1a9d91422ecf0c7ae630171ac6119_L.jpeg",
+   "https://media.e-auksion.uz/i/426aac1a8cf69f85bfc8af4ecf9baa78_L.jpeg"
+  ],
+  "fav": 39,
+  "order_end": "23.11.2026 09:00",
+  "test": false
+ },
+ {
   "id": 26260257,
   "lot_number": "26260257",
   "cat": "mulk",
@@ -15369,6 +15403,60 @@
   "sub": "avtobus"
  },
  {
+  "id": 26278037,
+  "lot_number": "26278037",
+  "cat": "yuk",
+  "sub": "avtobus",
+  "title": "MIDIBUS SAZ NP37",
+  "year": "2008",
+  "mileage": "",
+  "region": "Сурхондарё вилояти",
+  "price_orig": 66634000.0,
+  "price_final": 66634000.0,
+  "date": "19.11.2026",
+  "post_url": "https://t.me/gruzovoeavto/23350",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/1f571a82d427a1ea6dd987493458da6e_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/1f571a82d427a1ea6dd987493458da6e_L.jpg",
+   "https://media.e-auksion.uz/i/35538da60b6fe1e9a34e6139d72fe269_L.jpg",
+   "https://media.e-auksion.uz/i/3638f947e45024fa5880910edce8c1f9_L.jpg",
+   "https://media.e-auksion.uz/i/8e1b226150322de7945a41c75d7d314e_L.jpg",
+   "https://media.e-auksion.uz/i/e84a8847c7d12a4b6d0c1f2e65a8699c_L.jpg",
+   "https://media.e-auksion.uz/i/1c734b0b318b7cb5403b55136d8710bf_L.jpg",
+   "https://media.e-auksion.uz/i/e66daea5a27856af759f5ce760bd093a_L.jpg"
+  ],
+  "fav": 70,
+  "order_end": "19.11.2026 09:00"
+ },
+ {
+  "id": 26293842,
+  "lot_number": "26293842",
+  "cat": "yuk",
+  "sub": "avtobus",
+  "title": "MIDIBUS SAZ NP37",
+  "year": "2008",
+  "mileage": "",
+  "region": "Сурхондарё вилояти",
+  "price_orig": 78749000.0,
+  "price_final": 78749000.0,
+  "date": "19.11.2026",
+  "post_url": "https://t.me/gruzovoeavto/23357",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/4e3d8fb0ceda28fb136a8822dfcb9299_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/4e3d8fb0ceda28fb136a8822dfcb9299_L.jpg",
+   "https://media.e-auksion.uz/i/ef84f5eb8f047c86002a798cce8ad139_L.jpg",
+   "https://media.e-auksion.uz/i/ba209dddabc5068111fa49276790f63a_L.jpg",
+   "https://media.e-auksion.uz/i/e83f05e83261b0034acf789f22d36baa_L.jpg",
+   "https://media.e-auksion.uz/i/a677045a20686616f48e95c0ad1e734d_L.jpg",
+   "https://media.e-auksion.uz/i/0c6db2d6a5293d4e8a9e170a45f7783e_L.jpg",
+   "https://media.e-auksion.uz/i/4778106597095b11838e6d89856fab32_L.jpg"
+  ],
+  "fav": 39,
+  "order_end": "19.11.2026 09:00"
+ },
+ {
   "id": 26331179,
   "lot_number": "26331179",
   "cat": "yuk",
@@ -18517,33 +18605,6 @@
   "order_end": "19.11.2026 09:00"
  },
  {
-  "id": 26278037,
-  "lot_number": "26278037",
-  "cat": "yuk",
-  "sub": "yuk",
-  "title": "MIDIBUS SAZ NP37",
-  "year": "2008",
-  "mileage": "",
-  "region": "Сурхондарё вилояти",
-  "price_orig": 66634000.0,
-  "price_final": 66634000.0,
-  "date": "19.11.2026",
-  "post_url": "https://t.me/gruzovoeavto/23350",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/1f571a82d427a1ea6dd987493458da6e_L.jpg",
-  "photos": [
-   "https://media.e-auksion.uz/i/1f571a82d427a1ea6dd987493458da6e_L.jpg",
-   "https://media.e-auksion.uz/i/35538da60b6fe1e9a34e6139d72fe269_L.jpg",
-   "https://media.e-auksion.uz/i/3638f947e45024fa5880910edce8c1f9_L.jpg",
-   "https://media.e-auksion.uz/i/8e1b226150322de7945a41c75d7d314e_L.jpg",
-   "https://media.e-auksion.uz/i/e84a8847c7d12a4b6d0c1f2e65a8699c_L.jpg",
-   "https://media.e-auksion.uz/i/1c734b0b318b7cb5403b55136d8710bf_L.jpg",
-   "https://media.e-auksion.uz/i/e66daea5a27856af759f5ce760bd093a_L.jpg"
-  ],
-  "fav": 70,
-  "order_end": "19.11.2026 09:00"
- },
- {
   "id": 26279371,
   "lot_number": "26279371",
   "cat": "yuk",
@@ -18592,33 +18653,6 @@
    "https://media.e-auksion.uz/i/f4915bb840110a53bc5c390cec39f958_L.jpeg"
   ],
   "fav": 45,
-  "order_end": "19.11.2026 09:00"
- },
- {
-  "id": 26293842,
-  "lot_number": "26293842",
-  "cat": "yuk",
-  "sub": "yuk",
-  "title": "MIDIBUS SAZ NP37",
-  "year": "2008",
-  "mileage": "",
-  "region": "Сурхондарё вилояти",
-  "price_orig": 78749000.0,
-  "price_final": 78749000.0,
-  "date": "19.11.2026",
-  "post_url": "https://t.me/gruzovoeavto/23357",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/4e3d8fb0ceda28fb136a8822dfcb9299_L.jpg",
-  "photos": [
-   "https://media.e-auksion.uz/i/4e3d8fb0ceda28fb136a8822dfcb9299_L.jpg",
-   "https://media.e-auksion.uz/i/ef84f5eb8f047c86002a798cce8ad139_L.jpg",
-   "https://media.e-auksion.uz/i/ba209dddabc5068111fa49276790f63a_L.jpg",
-   "https://media.e-auksion.uz/i/e83f05e83261b0034acf789f22d36baa_L.jpg",
-   "https://media.e-auksion.uz/i/a677045a20686616f48e95c0ad1e734d_L.jpg",
-   "https://media.e-auksion.uz/i/0c6db2d6a5293d4e8a9e170a45f7783e_L.jpg",
-   "https://media.e-auksion.uz/i/4778106597095b11838e6d89856fab32_L.jpg"
-  ],
-  "fav": 39,
   "order_end": "19.11.2026 09:00"
  },
  {
