@@ -1402,6 +1402,36 @@
   "order_end": "05.11.2026 09:00"
  },
  {
+  "id": 26422835,
+  "lot_number": "26422835",
+  "cat": "avto",
+  "sub": null,
+  "title": "NEXIA DOHC",
+  "year": "2009",
+  "mileage": "",
+  "region": "Тошкент вилояти",
+  "price_orig": 23481000.0,
+  "price_final": 15262650.0,
+  "date": "05.11.2026",
+  "post_url": "https://t.me/avto_auksion_uz/153022",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/22f8ffa48c347d34dd244be182e19e65_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/22f8ffa48c347d34dd244be182e19e65_L.jpeg",
+   "https://media.e-auksion.uz/i/eaa027c06921f5f0b864cf47c4bcbd30_L.jpeg",
+   "https://media.e-auksion.uz/i/bb9964b85fa877368d2c21b8eff47d22_L.jpeg",
+   "https://media.e-auksion.uz/i/1bf45f53d8be21f2a9e41a46c8e4ff8f_L.jpeg",
+   "https://media.e-auksion.uz/i/e7068aaf63131afa511e7e71d77265f4_L.jpeg",
+   "https://media.e-auksion.uz/i/d3363f896f26d1a2776780f2756bc1ea_L.jpeg",
+   "https://media.e-auksion.uz/i/f45d7ab111bfd4480880c94e57441097_L.jpeg",
+   "https://media.e-auksion.uz/i/8d2d6ca8db82b3012c3df7367a2ec2a0_L.jpeg",
+   "https://media.e-auksion.uz/i/cd2dd6c4e1a86bca65131a4451781d51_L.jpeg",
+   "https://media.e-auksion.uz/i/8434187e356d71c418f19e7baba8b393_L.jpeg"
+  ],
+  "fav": 20,
+  "order_end": "05.11.2026 09:00"
+ },
+ {
   "id": 26459139,
   "lot_number": "26459139",
   "cat": "avto",
