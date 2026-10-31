@@ -972,6 +972,31 @@
   "order_end": "04.11.2026 09:00"
  },
  {
+  "id": 26579718,
+  "lot_number": "26579718",
+  "cat": "avto",
+  "sub": null,
+  "title": "Tracker 2",
+  "year": "2021",
+  "mileage": "111000",
+  "region": "Тошкент ш.",
+  "price_orig": 91699463.0,
+  "price_final": 91699463.0,
+  "date": "04.11.2026",
+  "post_url": "https://t.me/avto_auksion_uz/152998",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/1097d824bed831b72cccd7ac95e998bb_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/1097d824bed831b72cccd7ac95e998bb_L.jpg",
+   "https://media.e-auksion.uz/i/7d3efb7a382da83e70c07b6b5f06c1d9_L.jpg",
+   "https://media.e-auksion.uz/i/162d94e3b4dd83f0577f5c579f585f89_L.jpg",
+   "https://media.e-auksion.uz/i/f36420a69db76e54f48a86f08f1acd76_L.jpg",
+   "https://media.e-auksion.uz/i/2873a57e86ea1669a23f1a524330f0e8_L.jpg"
+  ],
+  "fav": 23,
+  "order_end": "04.11.2026 09:00"
+ },
+ {
   "id": 26330916,
   "lot_number": "26330916",
   "cat": "avto",
