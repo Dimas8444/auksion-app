@@ -90,6 +90,8 @@ h1{font:700 22px/1.2 "PT Serif",Georgia,serif;margin:18px 0 4px}
 .dnote b{display:block;color:var(--mute);font-weight:400;margin-bottom:4px}
 .btns.one{grid-template-columns:1fr}
 .go.chan{margin-top:-2px}   /* «Каналдаги постни очиш» — полноценная кнопка (решение пользователя 30.10) */
+.more{display:block;width:100%;margin:4px 0 12px;padding:12px;border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:12px;font:inherit;cursor:pointer}
+.more[hidden]{display:none}
 </style></head><body>
 <div id="sc"><div class="wrap">
 <h1>Аукцион савдолар</h1>
@@ -100,6 +102,7 @@ h1{font:700 22px/1.2 "PT Serif",Georgia,serif;margin:18px 0 4px}
 <div class="filter"><label for="reg">Вилоят:</label><select id="reg"></select></div>
 <div class="count" id="count"></div>
 <div class="list" id="list"></div>
+<button class="more" id="more" hidden>Яна кўрсатиш</button>
 <p class="note" id="note"></p>
 </div></div>
 <div id="det" hidden role="dialog" aria-modal="true" aria-label="Лот"></div>
@@ -157,7 +160,7 @@ function fmt(n){return String(Math.round(n)).replace(/\B(?=(\d{3})+(?!\d))/g," "
 function render(){
  var t=document.getElementById("tabs");t.innerHTML="";
  CATS.forEach(function(c){var b=document.createElement("button");b.className="tab";b.textContent=c[1];b.setAttribute("role","tab");b.setAttribute("aria-selected",c[0]===cur);b.onclick=function(){cur=c[0];render()};t.appendChild(b)});
- var l=document.getElementById("list");l.innerHTML="";
+ var l=document.getElementById("list");l.innerHTML="";ITEMS=[];SHOWN=0;document.getElementById("more").hidden=true;
  // при поиске — все опубликованные лоты всех разделов (search.json), без вкладок
  var searching=!!Q.trim();t.classList.toggle("off",searching);
  var subs=SUBS[cur],sub=subs?SUB[cur]:"";
@@ -179,7 +182,12 @@ function render(){
  var items=inCat.filter(function(x){return !REG||x.region===REG});
  document.getElementById("count").textContent=items.length?(searching?"«"+Q.trim()+"» бўйича топилди: ":"Топилди: ")+items.length+" та лот":"";
  if(!items.length){l.innerHTML='<div class="empty">'+(searching?"Бу модел бўйича ҳозирча лот йўқ":"Ҳозирча лотлар йўқ")+'</div>'}
- items.forEach(function(x){
+ // список рисуется частями по PAGE лотов, остальные — при прокрутке (01.11: в вкладке теперь сотни лотов,
+ // целиком на телефоне строилось ~0.5–1 с при каждом переключении вкладки и вводе в поиск)
+ renderNote();ITEMS=items;SHOWN=0;more();
+}
+var PAGE=30,ITEMS=[],SHOWN=0;
+function card(x){
   var d=x.price_orig>x.price_final?Math.round((1-x.price_final/x.price_orig)*100):0;
   var mil=x.mileage?(/^\d+$/.test(String(x.mileage))?fmtn(x.mileage)+" км":x.mileage):"";
   var m=(x.info||[]).concat([x.year?x.year+" й.":"",mil?"Пробег: "+mil:"",x.address?"":x.region]).filter(Boolean);
@@ -194,7 +202,14 @@ function render(){
    e.querySelectorAll(".nav").forEach(function(b){b.onclick=function(){st.scrollBy({left:(b.classList.contains("l")?-1:1)*st.clientWidth,behavior:"smooth"})}})}
   var ad=e.querySelector(".addr");if(ad)ad.textContent="📍 "+x.address;   // полный адрес (кўчмас мулк, 29.10)
   var mm=e.querySelector(".meta");m.forEach(function(s){var sp=document.createElement("span");sp.textContent=s;mm.appendChild(sp)});
-  BYID[x.id]=x;l.appendChild(e)});
+  BYID[x.id]=x;return e}
+function more(){var l=document.getElementById("list"),end=Math.min(SHOWN+PAGE,ITEMS.length);
+ for(var i=SHOWN;i<end;i++)l.appendChild(card(ITEMS[i]));SHOWN=end;
+ document.getElementById("more").hidden=SHOWN>=ITEMS.length}
+// подгрузка при прокрутке: ближе ~2 экранов к концу ленты — следующие PAGE лотов; кнопка — запасной путь
+(function(){var sc=document.getElementById("sc");document.getElementById("more").onclick=more;
+ sc.addEventListener("scroll",function(){if(SHOWN<ITEMS.length&&sc.scrollTop+sc.clientHeight>sc.scrollHeight-1500)more()},{passive:true})})();
+function renderNote(){
  document.getElementById("note").textContent=LOTS.some(function(x){return x.sample})?"Намуна маълумотлар. Ҳақиқий лотлар скрейпердан юкланганда алмашади.":"";
 }
 document.addEventListener("click",function(ev){var c=ev.target.closest&&ev.target.closest("[data-lot]");
