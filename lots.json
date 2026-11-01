@@ -14749,6 +14749,35 @@
   "test": false
  },
  {
+  "id": 26364388,
+  "lot_number": "26364388",
+  "cat": "mulk",
+  "sub": "noturar",
+  "tags": [],
+  "title": "Ижарага, 3,5 м², 60 ой",
+  "info": [
+   "Ижара"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Бухоро вилояти",
+  "address": "Бухоро вилояти, Бухоро шаҳри, Ситораи Мохи-хосса МФЙ, Мохи-Хосса кўчаси, 71",
+  "price_orig": 612150.0,
+  "price_final": 612150.0,
+  "date": "05.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/d315029d7de93f80f7f7d69cdcc7bd66_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/d315029d7de93f80f7f7d69cdcc7bd66_L.jpg",
+   "https://media.e-auksion.uz/i/76733ea0dc3d5c675c58c0be47619347_L.jpg",
+   "https://media.e-auksion.uz/i/9350b699cc92a910bf91f5a1416fdd2f_L.jpg",
+   "https://media.e-auksion.uz/i/db8dfdd9eeedeae9fa47294096b88e57_L.jpg"
+  ],
+  "fav": 10,
+  "order_end": "05.11.2026 09:00",
+  "test": false
+ },
+ {
   "id": 26011202,
   "lot_number": "26011202",
   "cat": "mulk",
@@ -16976,6 +17005,39 @@
    "https://media.e-auksion.uz/i/e78f4b468278cbe5e1870e534ec38768_L.jpeg",
    "https://media.e-auksion.uz/i/28c6f7a23bdb7b6b4e1f6d79635dab82_L.jpeg",
    "https://media.e-auksion.uz/i/03404ef8ed7b653332007c7e2b9ab17c_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "05.11.2026 09:00",
+  "test": false
+ },
+ {
+  "id": 26364103,
+  "lot_number": "26364103",
+  "cat": "mulk",
+  "sub": "turar",
+  "tags": [],
+  "title": "2 хонали квартира, 71 м²",
+  "info": [
+   "Кўп қаватли турар-жойлар"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Фарғона вилояти",
+  "address": "Фарғона вилояти, Фарғона шаҳри, Ўрмончилар МФЙ, Мустақиллик шох кўчаси, 15-уй, 23-хонадон",
+  "price_orig": 262116000.0,
+  "price_final": 262116000.0,
+  "date": "05.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/8683669060508024b801c7cbbc9f7479_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/8683669060508024b801c7cbbc9f7479_L.jpg",
+   "https://media.e-auksion.uz/i/224a6cff05ae211b0588be692055df51_L.jpg",
+   "https://media.e-auksion.uz/i/8680658886710b853c28e8f1c5902b41_L.jpg",
+   "https://media.e-auksion.uz/i/7749b49e4c47e191ad473235ca8302d0_L.jpg",
+   "https://media.e-auksion.uz/i/d78703188eb77ccf61b0264c70c01827_L.jpg",
+   "https://media.e-auksion.uz/i/23ab9e4e8314dd84cb2cca442df7d1e7_L.jpg",
+   "https://media.e-auksion.uz/i/eba7aa8c346ee2d125648e3f65eb7cea_L.jpg",
+   "https://media.e-auksion.uz/i/348a9e3ad1533a68c0b13b94978aa6d3_L.jpg"
   ],
   "fav": 10,
   "order_end": "05.11.2026 09:00",
@@ -19531,6 +19593,38 @@
    "https://media.e-auksion.uz/i/a60056a6f1a15cf6a9878835c932876d_L.jpeg"
   ],
   "fav": 14,
+  "order_end": "05.11.2026 09:00",
+  "test": false
+ },
+ {
+  "id": 26363473,
+  "lot_number": "26363473",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "noturar",
+   "ijara"
+  ],
+  "title": "Ер участкаси, 4 сотих",
+  "info": [
+   "Нодавлат умумтаълим ва мактабгача таълим муассасалари учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Сурхондарё вилояти",
+  "address": "Сурхондарё вилояти, Ангор тумани, Янги Турмуш МФЙ",
+  "price_orig": 20340648.0,
+  "price_final": 20340648.0,
+  "date": "05.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/005ff9c3f111607d8051a7d6950add81_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/005ff9c3f111607d8051a7d6950add81_L.jpeg",
+   "https://media.e-auksion.uz/i/21fd7f36ee8970e9afb079718c10ecb4_L.jpeg",
+   "https://media.e-auksion.uz/i/b35b85e2d22d8176f4b39ee3d397d068_L.jpeg",
+   "https://media.e-auksion.uz/i/c7c326b71b8669d3c737fed8b1f2f649_L.jpeg"
+  ],
+  "fav": 10,
   "order_end": "05.11.2026 09:00",
   "test": false
  },
