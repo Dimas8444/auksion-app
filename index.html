@@ -275,6 +275,8 @@ function openStart(){if(!STARTLOT)return;var id=STARTLOT;STARTLOT=null;
  // лота нет в списке — ищем во всех (search.json)
  fetch("search.json?t="+Date.now()).then(function(r){return r.json()}).then(function(j){ALL=ALL||j;
   var y=j.filter(function(l){return l.id===id})[0];if(y)showStart(y)}).catch(function(){})}
-fetch("lots.json?t="+Date.now()).then(function(r){return r.json()}).then(function(j){LOTS=j;render();openStart()}).catch(function(){render()});
+fetch("lots.json?t="+Date.now()).then(function(r){return r.json()}).then(function(j){LOTS=j;render();openStart();
+ // карточки и поиск — заранее, в фоне: первое «Лотни кўриш» и первый поиск без «Юкланмоқда…» (01.11)
+ setTimeout(function(){loadDet();if(!ALL&&!ALLWAIT){ALLWAIT=true;fetch("search.json?t="+Date.now()).then(function(r){return r.json()}).then(function(j){ALL=j;if(Q.trim())render()}).catch(function(){ALLWAIT=false})}},1500)}).catch(function(){render()});
 </script>
 </body></html>
