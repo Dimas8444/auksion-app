@@ -203,6 +203,8 @@ document.addEventListener("click",function(ev){var a=ev.target.closest&&ev.targe
  // пост в канале (30.10): на iPhone Telegram открывает пост ПОД приложением — его не видно, кажется, что кнопка
  // не работает. Закрываем приложение, чтобы пост оказался перед глазами («Ариза бериш» — чат, его не трогаем)
  if(/^https:\/\/t\.me\/[A-Za-z0-9_]+\/\d+/.test(a.href)&&tw.close){setTimeout(function(){try{tw.close()}catch(e){}},300)}}});
+// лот только в приложении (★10–19, решение пользователя 01.11) — поста в канале нет, кнопку не показываем
+function hasPost(x){return !!(x.post_url&&x.post_url.indexOf("t.me/shocos")<0)}
 function postUrl(x){return (x.post_url&&x.post_url.indexOf("t.me/shocos")<0)?x.post_url:CH[x.cat]}
 // данные карточек — отдельным файлом и только при первом открытии (lots.json не растёт)
 function loadDet(){if(DET||DETWAIT)return;DETWAIT=true;
@@ -217,7 +219,7 @@ function openLot(x){OPEN=x;var dt=document.getElementById("det");
   +'<div class="price"><span class="now">'+fmt(x.price_final)+'</span>'+(d?'<span class="old">'+fmt(x.price_orig)+'</span>':'')+'</div>'
   +'<div class="date">Аукцион санаси: '+x.date+'</div><dl class="rows" id="drows"><div class="wide"><dd style="font-weight:400;color:var(--mute)">Юкланмоқда…</dd></div></dl><div id="dnote"></div>'
   +'<div class="btns" id="dbtns"><a class="go" target="_blank" rel="noopener" href="'+orderLink(x)+'">Ариза бериш</a></div>'
-  +'<a class="go alt chan" target="_blank" rel="noopener" href="'+postUrl(x)+'">📢 Каналдаги постни очиш</a></div>';
+  +(hasPost(x)?'<a class="go alt chan" target="_blank" rel="noopener" href="'+postUrl(x)+'">📢 Каналдаги постни очиш</a>':'')+'</div>';
  dt.querySelector(".name").textContent=x.title;
  var mm=dt.querySelector(".meta");[x.year?x.year+" й.":""].concat(x.info||[]).filter(Boolean).forEach(function(s){var sp=document.createElement("span");sp.textContent=s;mm.appendChild(sp)});
  var st=dt.querySelector(".strip");if(st){ph.forEach(function(u,i){var im=document.createElement("img");im.className="ph";im.src=u;im.alt=x.title+" — "+(i+1);im.onerror=function(){im.remove()};st.appendChild(im)});
