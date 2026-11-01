@@ -248,8 +248,18 @@ function closeLot(fromPop){var dt=document.getElementById("det");if(dt.hidden)re
 window.addEventListener("popstate",function(){closeLot(true)});
 if(tw&&tw.BackButton&&tw.BackButton.onClick){try{tw.BackButton.onClick(function(){closeLot()})}catch(e){}}
 // Кнопка в канале открывает приложение на своей вкладке: t.me/avtoauksion_bot/auksion?startapp=avto|yuk|mulk
+// Ссылка из поста или уведомления (01.11): ?startapp=<вкладка>_<id> — сразу карточка этого лота;
+// если лота в приложении уже нет (приём заявок закрыт) — остаётся его вкладка
+var STARTLOT=null;
 (function(){var sp=tw&&tw.initDataUnsafe&&tw.initDataUnsafe.start_param||"";
+ var m=/^([a-z]+)_(\d+)$/.exec(sp);if(m){sp=m[1];STARTLOT=+m[2]}
  if(CATS.some(function(c){return c[0]===sp}))cur=sp})();
-fetch("lots.json?t="+Date.now()).then(function(r){return r.json()}).then(function(j){LOTS=j;render()}).catch(function(){render()});
+function showStart(x){cur=x.cat;if(SUB[x.cat])SUB[x.cat]=subOf(x);render();BYID[x.id]=x;openLot(x)}
+function openStart(){if(!STARTLOT)return;var id=STARTLOT;STARTLOT=null;
+ var x=LOTS.filter(function(l){return l.id===id})[0];if(x){showStart(x);return}
+ // лота нет в списке — ищем во всех (search.json)
+ fetch("search.json?t="+Date.now()).then(function(r){return r.json()}).then(function(j){ALL=ALL||j;
+  var y=j.filter(function(l){return l.id===id})[0];if(y)showStart(y)}).catch(function(){})}
+fetch("lots.json?t="+Date.now()).then(function(r){return r.json()}).then(function(j){LOTS=j;render();openStart()}).catch(function(){render()});
 </script>
 </body></html>
