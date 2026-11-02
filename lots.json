@@ -20,7 +20,7 @@
    "https://media.e-auksion.uz/i/a93068c18f964ba521f0a3de63e07598_L.jpg",
    "https://media.e-auksion.uz/i/b27efbfb7d52f182a5d2e7e73366fda0_L.jpg"
   ],
-  "fav": 292,
+  "fav": 294,
   "order_end": "03.11.2026 09:00"
  },
  {
@@ -46,7 +46,7 @@
    "https://media.e-auksion.uz/i/67f70c46930a5211d197fa197a02bc03_L.jpg",
    "https://media.e-auksion.uz/i/118b0985f8a6be5bea627a533b7828b9_L.jpg"
   ],
-  "fav": 128,
+  "fav": 129,
   "order_end": "03.11.2026 09:00"
  },
  {
@@ -94,7 +94,7 @@
    "https://media.e-auksion.uz/i/70d4866b3c84f9a35bdf4c97a578be59_L.jpg",
    "https://media.e-auksion.uz/i/68722cb182a37b537d47101f0eedea8a_L.jpg"
   ],
-  "fav": 101,
+  "fav": 104,
   "order_end": "03.11.2026 09:00"
  },
  {
@@ -120,7 +120,7 @@
    "https://media.e-auksion.uz/i/981ab475507db2c4e87d33ac9f2dafa2_L.jpg",
    "https://media.e-auksion.uz/i/2d4c8a1a24ecd235146c6d654f8eb3a5_L.jpg"
   ],
-  "fav": 84,
+  "fav": 85,
   "order_end": "03.11.2026 09:00"
  },
  {
@@ -147,7 +147,7 @@
    "https://media.e-auksion.uz/i/f87795cb24a336d772b4c5d1903a91d5_L.jpg",
    "https://media.e-auksion.uz/i/f1c5dd7c372b96020c9ff9016eab6463_L.jpg"
   ],
-  "fav": 69,
+  "fav": 71,
   "order_end": "03.11.2026 09:00"
  },
  {
@@ -231,7 +231,7 @@
    "https://media.e-auksion.uz/i/0f8b2c8ba17b6f83a277bcfcca7ff8a5_L.jpg",
    "https://media.e-auksion.uz/i/92168f1e6eb7d97c62f2dae37320c0f7_L.jpg"
   ],
-  "fav": 49,
+  "fav": 52,
   "order_end": "03.11.2026 09:00"
  },
  {
@@ -285,7 +285,7 @@
    "https://media.e-auksion.uz/i/7ff6375ca626298732cbf82536214572_L.jpg",
    "https://media.e-auksion.uz/i/0e2aa6cab324f6b695cd3edbb9730f83_L.jpg"
   ],
-  "fav": 33,
+  "fav": 34,
   "order_end": "03.11.2026 09:00"
  },
  {
@@ -414,30 +414,6 @@
   "order_end": "04.11.2026 09:00"
  },
  {
-  "id": 26330898,
-  "lot_number": "26330898",
-  "cat": "avto",
-  "sub": null,
-  "title": "NEXIA",
-  "year": "2012",
-  "mileage": "",
-  "region": "Тошкент ш.",
-  "price_orig": 24129100.0,
-  "price_final": 24129100.0,
-  "date": "04.11.2026",
-  "post_url": "https://t.me/avto_auksion_uz/152945",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/a119d455808efe79af405edefe87ce5a_L.jpg",
-  "photos": [
-   "https://media.e-auksion.uz/i/a119d455808efe79af405edefe87ce5a_L.jpg",
-   "https://media.e-auksion.uz/i/5a1f141ff0dd8aeb1dbfc128794f7ee1_L.jpg",
-   "https://media.e-auksion.uz/i/0df3fac2184979acad30b8defcf2d95e_L.jpg",
-   "https://media.e-auksion.uz/i/f921e2fc43279f4566c8640b4c8e2976_L.jpg"
-  ],
-  "fav": 90,
-  "order_end": "04.11.2026 09:00"
- },
- {
   "id": 26579502,
   "lot_number": "26579502",
   "cat": "avto",
@@ -458,6 +434,30 @@
    "https://media.e-auksion.uz/i/b85b1d343dd6275fd12402f41ead4bda_L.jpg",
    "https://media.e-auksion.uz/i/0ed572ae41102950e935f4e456b6f74e_L.jpg",
    "https://media.e-auksion.uz/i/cbc6de76fb527e3d4bd5ac4ef9aa277b_L.jpg"
+  ],
+  "fav": 92,
+  "order_end": "04.11.2026 09:00"
+ },
+ {
+  "id": 26330898,
+  "lot_number": "26330898",
+  "cat": "avto",
+  "sub": null,
+  "title": "NEXIA",
+  "year": "2012",
+  "mileage": "",
+  "region": "Тошкент ш.",
+  "price_orig": 24129100.0,
+  "price_final": 24129100.0,
+  "date": "04.11.2026",
+  "post_url": "https://t.me/avto_auksion_uz/152945",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/a119d455808efe79af405edefe87ce5a_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/a119d455808efe79af405edefe87ce5a_L.jpg",
+   "https://media.e-auksion.uz/i/5a1f141ff0dd8aeb1dbfc128794f7ee1_L.jpg",
+   "https://media.e-auksion.uz/i/0df3fac2184979acad30b8defcf2d95e_L.jpg",
+   "https://media.e-auksion.uz/i/f921e2fc43279f4566c8640b4c8e2976_L.jpg"
   ],
   "fav": 90,
   "order_end": "04.11.2026 09:00"
@@ -484,7 +484,7 @@
    "https://media.e-auksion.uz/i/f36420a69db76e54f48a86f08f1acd76_L.jpg",
    "https://media.e-auksion.uz/i/2873a57e86ea1669a23f1a524330f0e8_L.jpg"
   ],
-  "fav": 82,
+  "fav": 84,
   "order_end": "04.11.2026 09:00"
  },
  {
@@ -535,7 +535,7 @@
    "https://media.e-auksion.uz/i/c68487c68ec8dac97677432c2da40aeb_L.jpg",
    "https://media.e-auksion.uz/i/fd112f761598c2c551875a983618381d_L.jpg"
   ],
-  "fav": 28,
+  "fav": 29,
   "order_end": "04.11.2026 09:00"
  },
  {
@@ -587,7 +587,7 @@
    "https://media.e-auksion.uz/i/891cba14744c96f1608a4544d3916187_L.jpg",
    "https://media.e-auksion.uz/i/a7bb56f56d8671b2a6bdd4d1f12d1834_L.jpg"
   ],
-  "fav": 20,
+  "fav": 21,
   "order_end": "04.11.2026 09:00"
  },
  {
@@ -614,7 +614,7 @@
    "https://media.e-auksion.uz/i/a8076945ffbe2b763e49a8fc33670e4f_L.jpg",
    "https://media.e-auksion.uz/i/5d162c2b43ad66da559f7c717e40716c_L.jpg"
   ],
-  "fav": 14,
+  "fav": 15,
   "order_end": "04.11.2026 09:00"
  },
  {
@@ -631,7 +631,7 @@
   "post_url": "https://t.me/avto_auksion_uz/151120",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/4bb873efb2981dbad5c274e1b98a9c52_L.jpg",
-  "fav": 148,
+  "fav": 149,
   "order_end": "05.11.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/4bb873efb2981dbad5c274e1b98a9c52_L.jpg",
@@ -683,7 +683,7 @@
   "post_url": "https://t.me/avto_auksion_uz/151134",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/3ba3841ab622b553ab499ef708ce5c19_L.jpg",
-  "fav": 79,
+  "fav": 80,
   "order_end": "05.11.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/3ba3841ab622b553ab499ef708ce5c19_L.jpg",
@@ -780,34 +780,7 @@
    "https://media.e-auksion.uz/i/c0e25369fbd50aa203be3221d41930b8_L.jpeg",
    "https://media.e-auksion.uz/i/679c3f3cb9cb934ee6dbbc31bc56d35e_L.jpeg"
   ],
-  "fav": 40,
-  "order_end": "05.11.2026 09:00"
- },
- {
-  "id": 26422982,
-  "lot_number": "26422982",
-  "cat": "avto",
-  "sub": null,
-  "title": "CHEVROLET ONIX",
-  "year": "2025",
-  "mileage": "",
-  "region": "Тошкент ш.",
-  "price_orig": 145400000.0,
-  "price_final": 116320000.0,
-  "date": "05.11.2026",
-  "post_url": "https://t.me/avto_auksion_uz/152972",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/50d8e1831b8a80fab91b65304bbc3bfa_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/50d8e1831b8a80fab91b65304bbc3bfa_L.jpeg",
-   "https://media.e-auksion.uz/i/b586fc82521519306808432c2927133c_L.jpeg",
-   "https://media.e-auksion.uz/i/db93fdddaab96396c3b52cfbcb83f555_L.jpeg",
-   "https://media.e-auksion.uz/i/0c10921d0197c01ae5ac2fd110860fc5_L.jpeg",
-   "https://media.e-auksion.uz/i/0c7237397884b750f5a25e533566780b_L.jpeg",
-   "https://media.e-auksion.uz/i/cb0f89e3719bc3851b23d73c9ba74e88_L.jpeg",
-   "https://media.e-auksion.uz/i/911c90c9403c3b200143f14aaf252747_L.jpeg"
-  ],
-  "fav": 38,
+  "fav": 41,
   "order_end": "05.11.2026 09:00"
  },
  {
@@ -836,7 +809,34 @@
    "https://media.e-auksion.uz/i/e0c08d45092d3f7dde7da604b166895f_L.jpeg",
    "https://media.e-auksion.uz/i/a8667125297bd096ec6c30678b285724_L.jpeg"
   ],
-  "fav": 36,
+  "fav": 38,
+  "order_end": "05.11.2026 09:00"
+ },
+ {
+  "id": 26422982,
+  "lot_number": "26422982",
+  "cat": "avto",
+  "sub": null,
+  "title": "CHEVROLET ONIX",
+  "year": "2025",
+  "mileage": "",
+  "region": "Тошкент ш.",
+  "price_orig": 145400000.0,
+  "price_final": 116320000.0,
+  "date": "05.11.2026",
+  "post_url": "https://t.me/avto_auksion_uz/152972",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/50d8e1831b8a80fab91b65304bbc3bfa_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/50d8e1831b8a80fab91b65304bbc3bfa_L.jpeg",
+   "https://media.e-auksion.uz/i/b586fc82521519306808432c2927133c_L.jpeg",
+   "https://media.e-auksion.uz/i/db93fdddaab96396c3b52cfbcb83f555_L.jpeg",
+   "https://media.e-auksion.uz/i/0c10921d0197c01ae5ac2fd110860fc5_L.jpeg",
+   "https://media.e-auksion.uz/i/0c7237397884b750f5a25e533566780b_L.jpeg",
+   "https://media.e-auksion.uz/i/cb0f89e3719bc3851b23d73c9ba74e88_L.jpeg",
+   "https://media.e-auksion.uz/i/911c90c9403c3b200143f14aaf252747_L.jpeg"
+  ],
+  "fav": 38,
   "order_end": "05.11.2026 09:00"
  },
  {
@@ -919,7 +919,7 @@
    "https://media.e-auksion.uz/i/8dddd2a725b22272c31b0fb5928ac19b_L.jpeg",
    "https://media.e-auksion.uz/i/9622c7a908a4a6dd0e27f6ad0cfca647_L.jpeg"
   ],
-  "fav": 31,
+  "fav": 32,
   "order_end": "05.11.2026 09:00"
  },
  {
@@ -953,6 +953,66 @@
   "order_end": "05.11.2026 09:00"
  },
  {
+  "id": 26423013,
+  "lot_number": "26423013",
+  "cat": "avto",
+  "sub": null,
+  "title": "CHEVROLET ONIX",
+  "year": "2025",
+  "mileage": "102002",
+  "region": "Самарқанд вилояти",
+  "price_orig": 154980120.0,
+  "price_final": 123984096.0,
+  "date": "05.11.2026",
+  "post_url": "https://t.me/avto_auksion_uz/153060",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/34d64e5e75ad81bae640be2233ed071f_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/34d64e5e75ad81bae640be2233ed071f_L.jpeg",
+   "https://media.e-auksion.uz/i/d3e23483d61e147fa021f3de2eb17e05_L.jpeg",
+   "https://media.e-auksion.uz/i/97cdf91acb6a5031f2035e1015622c3e_L.jpeg",
+   "https://media.e-auksion.uz/i/4485a1681c8ad20edb68a576c86ed5fd_L.jpeg",
+   "https://media.e-auksion.uz/i/830a5e381bac6d71dac5b736af060bc9_L.jpeg",
+   "https://media.e-auksion.uz/i/78e8080c8f9ab19265cc4f1f32c124ef_L.jpeg",
+   "https://media.e-auksion.uz/i/970ebcb0329b0bc33298db2cee7d6571_L.jpeg",
+   "https://media.e-auksion.uz/i/93100d3fe0328536762ba6bbaf6cb64d_L.jpeg",
+   "https://media.e-auksion.uz/i/a0096c0bfc6d11e79241f467482a7fd3_L.jpeg",
+   "https://media.e-auksion.uz/i/ad867b3109f03b1bed11159c3db386d7_L.jpeg"
+  ],
+  "fav": 27,
+  "order_end": "05.11.2026 09:00"
+ },
+ {
+  "id": 26422835,
+  "lot_number": "26422835",
+  "cat": "avto",
+  "sub": null,
+  "title": "NEXIA DOHC",
+  "year": "2009",
+  "mileage": "",
+  "region": "Тошкент вилояти",
+  "price_orig": 23481000.0,
+  "price_final": 15262650.0,
+  "date": "05.11.2026",
+  "post_url": "https://t.me/avto_auksion_uz/153022",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/22f8ffa48c347d34dd244be182e19e65_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/22f8ffa48c347d34dd244be182e19e65_L.jpeg",
+   "https://media.e-auksion.uz/i/eaa027c06921f5f0b864cf47c4bcbd30_L.jpeg",
+   "https://media.e-auksion.uz/i/bb9964b85fa877368d2c21b8eff47d22_L.jpeg",
+   "https://media.e-auksion.uz/i/1bf45f53d8be21f2a9e41a46c8e4ff8f_L.jpeg",
+   "https://media.e-auksion.uz/i/e7068aaf63131afa511e7e71d77265f4_L.jpeg",
+   "https://media.e-auksion.uz/i/d3363f896f26d1a2776780f2756bc1ea_L.jpeg",
+   "https://media.e-auksion.uz/i/f45d7ab111bfd4480880c94e57441097_L.jpeg",
+   "https://media.e-auksion.uz/i/8d2d6ca8db82b3012c3df7367a2ec2a0_L.jpeg",
+   "https://media.e-auksion.uz/i/cd2dd6c4e1a86bca65131a4451781d51_L.jpeg",
+   "https://media.e-auksion.uz/i/8434187e356d71c418f19e7baba8b393_L.jpeg"
+  ],
+  "fav": 26,
+  "order_end": "05.11.2026 09:00"
+ },
+ {
   "id": 26422866,
   "lot_number": "26422866",
   "cat": "avto",
@@ -983,66 +1043,6 @@
   "order_end": "05.11.2026 09:00"
  },
  {
-  "id": 26423013,
-  "lot_number": "26423013",
-  "cat": "avto",
-  "sub": null,
-  "title": "CHEVROLET ONIX",
-  "year": "2025",
-  "mileage": "102002",
-  "region": "Самарқанд вилояти",
-  "price_orig": 154980120.0,
-  "price_final": 123984096.0,
-  "date": "05.11.2026",
-  "post_url": "https://t.me/avto_auksion_uz/153060",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/34d64e5e75ad81bae640be2233ed071f_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/34d64e5e75ad81bae640be2233ed071f_L.jpeg",
-   "https://media.e-auksion.uz/i/d3e23483d61e147fa021f3de2eb17e05_L.jpeg",
-   "https://media.e-auksion.uz/i/97cdf91acb6a5031f2035e1015622c3e_L.jpeg",
-   "https://media.e-auksion.uz/i/4485a1681c8ad20edb68a576c86ed5fd_L.jpeg",
-   "https://media.e-auksion.uz/i/830a5e381bac6d71dac5b736af060bc9_L.jpeg",
-   "https://media.e-auksion.uz/i/78e8080c8f9ab19265cc4f1f32c124ef_L.jpeg",
-   "https://media.e-auksion.uz/i/970ebcb0329b0bc33298db2cee7d6571_L.jpeg",
-   "https://media.e-auksion.uz/i/93100d3fe0328536762ba6bbaf6cb64d_L.jpeg",
-   "https://media.e-auksion.uz/i/a0096c0bfc6d11e79241f467482a7fd3_L.jpeg",
-   "https://media.e-auksion.uz/i/ad867b3109f03b1bed11159c3db386d7_L.jpeg"
-  ],
-  "fav": 26,
-  "order_end": "05.11.2026 09:00"
- },
- {
-  "id": 26422835,
-  "lot_number": "26422835",
-  "cat": "avto",
-  "sub": null,
-  "title": "NEXIA DOHC",
-  "year": "2009",
-  "mileage": "",
-  "region": "Тошкент вилояти",
-  "price_orig": 23481000.0,
-  "price_final": 15262650.0,
-  "date": "05.11.2026",
-  "post_url": "https://t.me/avto_auksion_uz/153022",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/22f8ffa48c347d34dd244be182e19e65_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/22f8ffa48c347d34dd244be182e19e65_L.jpeg",
-   "https://media.e-auksion.uz/i/eaa027c06921f5f0b864cf47c4bcbd30_L.jpeg",
-   "https://media.e-auksion.uz/i/bb9964b85fa877368d2c21b8eff47d22_L.jpeg",
-   "https://media.e-auksion.uz/i/1bf45f53d8be21f2a9e41a46c8e4ff8f_L.jpeg",
-   "https://media.e-auksion.uz/i/e7068aaf63131afa511e7e71d77265f4_L.jpeg",
-   "https://media.e-auksion.uz/i/d3363f896f26d1a2776780f2756bc1ea_L.jpeg",
-   "https://media.e-auksion.uz/i/f45d7ab111bfd4480880c94e57441097_L.jpeg",
-   "https://media.e-auksion.uz/i/8d2d6ca8db82b3012c3df7367a2ec2a0_L.jpeg",
-   "https://media.e-auksion.uz/i/cd2dd6c4e1a86bca65131a4451781d51_L.jpeg",
-   "https://media.e-auksion.uz/i/8434187e356d71c418f19e7baba8b393_L.jpeg"
-  ],
-  "fav": 25,
-  "order_end": "05.11.2026 09:00"
- },
- {
   "id": 26364023,
   "lot_number": "26364023",
   "cat": "avto",
@@ -1067,7 +1067,7 @@
    "https://media.e-auksion.uz/i/73bee3441aff8d9aef227e1c631ce986_L.jpg",
    "https://media.e-auksion.uz/i/00b9fc4b73f678848cd2326f00681ad2_L.jpg"
   ],
-  "fav": 22,
+  "fav": 23,
   "order_end": "05.11.2026 09:00"
  },
  {
@@ -1184,7 +1184,36 @@
    "https://media.e-auksion.uz/i/199248792f6e16f3dbe105254ca5a42c_L.jpeg",
    "https://media.e-auksion.uz/i/c6ebb617e8293a12cac4e5a5c85d5cf5_L.jpeg"
   ],
-  "fav": 18,
+  "fav": 19,
+  "order_end": "05.11.2026 09:00"
+ },
+ {
+  "id": 26456483,
+  "lot_number": "26456483",
+  "cat": "avto",
+  "sub": null,
+  "title": "Lasetti",
+  "year": "2017",
+  "mileage": "366369",
+  "region": "Бухоро вилояти",
+  "price_orig": 63972160.0,
+  "price_final": 63972160.0,
+  "date": "05.11.2026",
+  "post_url": "https://t.me/avto_auksion_uz/153080",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/dd509ed412f9768a21097ace99e1c9d1_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/dd509ed412f9768a21097ace99e1c9d1_L.jpg",
+   "https://media.e-auksion.uz/i/794fc82848c28c5baf42ca6ac03c5425_L.jpg",
+   "https://media.e-auksion.uz/i/3db465f1f861f5681344328f43b0e499_L.jpg",
+   "https://media.e-auksion.uz/i/a3f8b0579cc8026c27031cb04f280118_L.jpg",
+   "https://media.e-auksion.uz/i/8fa06a5c85a7bca36879d0f9b9d48dd8_L.jpg",
+   "https://media.e-auksion.uz/i/90331294bd8a409684023917bfe9e090_L.jpg",
+   "https://media.e-auksion.uz/i/d07a6a8109e0c597d22874550014cf1e_L.jpg",
+   "https://media.e-auksion.uz/i/fefeda89cdbe89d58d0017e00bf9ebeb_L.jpg",
+   "https://media.e-auksion.uz/i/5c4aca2d28a7c83034786722a8fcc05f_L.jpg"
+  ],
+  "fav": 17,
   "order_end": "05.11.2026 09:00"
  },
  {
@@ -1215,35 +1244,6 @@
    "https://media.e-auksion.uz/i/7d73446aa38353c7715904f4791393d7_L.jpg"
   ],
   "fav": 17,
-  "order_end": "05.11.2026 09:00"
- },
- {
-  "id": 26456483,
-  "lot_number": "26456483",
-  "cat": "avto",
-  "sub": null,
-  "title": "Lasetti",
-  "year": "2017",
-  "mileage": "366369",
-  "region": "Бухоро вилояти",
-  "price_orig": 63972160.0,
-  "price_final": 63972160.0,
-  "date": "05.11.2026",
-  "post_url": "https://t.me/avto_auksion_uz/153080",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/dd509ed412f9768a21097ace99e1c9d1_L.jpg",
-  "photos": [
-   "https://media.e-auksion.uz/i/dd509ed412f9768a21097ace99e1c9d1_L.jpg",
-   "https://media.e-auksion.uz/i/794fc82848c28c5baf42ca6ac03c5425_L.jpg",
-   "https://media.e-auksion.uz/i/3db465f1f861f5681344328f43b0e499_L.jpg",
-   "https://media.e-auksion.uz/i/a3f8b0579cc8026c27031cb04f280118_L.jpg",
-   "https://media.e-auksion.uz/i/8fa06a5c85a7bca36879d0f9b9d48dd8_L.jpg",
-   "https://media.e-auksion.uz/i/90331294bd8a409684023917bfe9e090_L.jpg",
-   "https://media.e-auksion.uz/i/d07a6a8109e0c597d22874550014cf1e_L.jpg",
-   "https://media.e-auksion.uz/i/fefeda89cdbe89d58d0017e00bf9ebeb_L.jpg",
-   "https://media.e-auksion.uz/i/5c4aca2d28a7c83034786722a8fcc05f_L.jpg"
-  ],
-  "fav": 16,
   "order_end": "05.11.2026 09:00"
  },
  {
@@ -1801,6 +1801,34 @@
   "order_end": "05.11.2026 09:00"
  },
  {
+  "id": 26452637,
+  "lot_number": "26452637",
+  "cat": "avto",
+  "sub": null,
+  "title": "UZAUTOMOTORS NEXIA D 1 6 GLE",
+  "year": "2013",
+  "mileage": "322609",
+  "region": "Сирдарё вилояти",
+  "price_orig": 23151652.3,
+  "price_final": 23151652.3,
+  "date": "05.11.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/84dc008504b7a354760448b4cef53c7e_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/84dc008504b7a354760448b4cef53c7e_L.jpg",
+   "https://media.e-auksion.uz/i/c3568de2f51b3ec9a4fde56b3ca82a8b_L.jpg",
+   "https://media.e-auksion.uz/i/89e1ec71f653a52e5403c876cfd6ec68_L.jpg",
+   "https://media.e-auksion.uz/i/d38eeb3cdeda036588d91bb54bfb51ea_L.jpg",
+   "https://media.e-auksion.uz/i/d9e8cc3a0c95e6ba1d3af5ac75fbffcb_L.jpg",
+   "https://media.e-auksion.uz/i/acb3d99f7a64477fa27b7dff9d4d4296_L.jpg",
+   "https://media.e-auksion.uz/i/d2324b5d7b2171571b253153760bdb2b_L.jpg",
+   "https://media.e-auksion.uz/i/4374ccb76835a611a1c1fe15a8c1a583_L.jpg"
+  ],
+  "fav": 11,
+  "order_end": "05.11.2026 09:00"
+ },
+ {
   "id": 26422887,
   "lot_number": "26422887",
   "cat": "avto",
@@ -1945,29 +1973,31 @@
   "order_end": "05.11.2026 09:00"
  },
  {
-  "id": 26452637,
-  "lot_number": "26452637",
+  "id": 26422969,
+  "lot_number": "26422969",
   "cat": "avto",
   "sub": null,
-  "title": "UZAUTOMOTORS NEXIA D 1 6 GLE",
-  "year": "2013",
-  "mileage": "322609",
-  "region": "Сирдарё вилояти",
-  "price_orig": 23151652.3,
-  "price_final": 23151652.3,
+  "title": "LACETTI GN ELEGANT AT",
+  "year": "2023",
+  "mileage": "",
+  "region": "Жиззах вилояти",
+  "price_orig": 137925000.0,
+  "price_final": 110340000.0,
   "date": "05.11.2026",
   "post_url": null,
   "test": false,
-  "photo": "https://media.e-auksion.uz/i/84dc008504b7a354760448b4cef53c7e_L.jpg",
+  "photo": "https://media.e-auksion.uz/i/85d875a658cfe5bd2831612873b72a2c_L.jpeg",
   "photos": [
-   "https://media.e-auksion.uz/i/84dc008504b7a354760448b4cef53c7e_L.jpg",
-   "https://media.e-auksion.uz/i/c3568de2f51b3ec9a4fde56b3ca82a8b_L.jpg",
-   "https://media.e-auksion.uz/i/89e1ec71f653a52e5403c876cfd6ec68_L.jpg",
-   "https://media.e-auksion.uz/i/d38eeb3cdeda036588d91bb54bfb51ea_L.jpg",
-   "https://media.e-auksion.uz/i/d9e8cc3a0c95e6ba1d3af5ac75fbffcb_L.jpg",
-   "https://media.e-auksion.uz/i/acb3d99f7a64477fa27b7dff9d4d4296_L.jpg",
-   "https://media.e-auksion.uz/i/d2324b5d7b2171571b253153760bdb2b_L.jpg",
-   "https://media.e-auksion.uz/i/4374ccb76835a611a1c1fe15a8c1a583_L.jpg"
+   "https://media.e-auksion.uz/i/85d875a658cfe5bd2831612873b72a2c_L.jpeg",
+   "https://media.e-auksion.uz/i/e2545726863eb01f44577eaa3a50a467_L.jpeg",
+   "https://media.e-auksion.uz/i/56b2a18d0b68ac13fb14f7e5a1881aa0_L.jpeg",
+   "https://media.e-auksion.uz/i/d0084c7222ca2e35f7e67a574aa14a35_L.jpeg",
+   "https://media.e-auksion.uz/i/16c643a62b8dbf42bd3f95fe2bf7cdf6_L.jpeg",
+   "https://media.e-auksion.uz/i/6d825066ab1bb43cc6f34a8c476ea41d_L.jpeg",
+   "https://media.e-auksion.uz/i/61e3e51fd5aa81dda4c8107965823cc3_L.jpeg",
+   "https://media.e-auksion.uz/i/e19434d6671376f6e98ec9f08bc60a9f_L.jpeg",
+   "https://media.e-auksion.uz/i/f16695accdc6cd1a1ae3a2a8af2e4443_L.jpeg",
+   "https://media.e-auksion.uz/i/efd8bd460fc02729757faf3f8fe552ed_L.jpeg"
   ],
   "fav": 10,
   "order_end": "05.11.2026 09:00"
@@ -2138,36 +2168,6 @@
   "order_end": "05.11.2026 09:00"
  },
  {
-  "id": 26422969,
-  "lot_number": "26422969",
-  "cat": "avto",
-  "sub": null,
-  "title": "LACETTI GN ELEGANT AT",
-  "year": "2023",
-  "mileage": "",
-  "region": "Жиззах вилояти",
-  "price_orig": 137925000.0,
-  "price_final": 110340000.0,
-  "date": "05.11.2026",
-  "post_url": null,
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/85d875a658cfe5bd2831612873b72a2c_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/85d875a658cfe5bd2831612873b72a2c_L.jpeg",
-   "https://media.e-auksion.uz/i/e2545726863eb01f44577eaa3a50a467_L.jpeg",
-   "https://media.e-auksion.uz/i/56b2a18d0b68ac13fb14f7e5a1881aa0_L.jpeg",
-   "https://media.e-auksion.uz/i/d0084c7222ca2e35f7e67a574aa14a35_L.jpeg",
-   "https://media.e-auksion.uz/i/16c643a62b8dbf42bd3f95fe2bf7cdf6_L.jpeg",
-   "https://media.e-auksion.uz/i/6d825066ab1bb43cc6f34a8c476ea41d_L.jpeg",
-   "https://media.e-auksion.uz/i/61e3e51fd5aa81dda4c8107965823cc3_L.jpeg",
-   "https://media.e-auksion.uz/i/e19434d6671376f6e98ec9f08bc60a9f_L.jpeg",
-   "https://media.e-auksion.uz/i/f16695accdc6cd1a1ae3a2a8af2e4443_L.jpeg",
-   "https://media.e-auksion.uz/i/efd8bd460fc02729757faf3f8fe552ed_L.jpeg"
-  ],
-  "fav": 9,
-  "order_end": "05.11.2026 09:00"
- },
- {
   "id": 26011478,
   "lot_number": "26011478",
   "cat": "avto",
@@ -2181,7 +2181,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149757",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/53a322c07847938816d0364975d8093b_L.jpeg",
-  "fav": 146,
+  "fav": 147,
   "order_end": "06.11.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/53a322c07847938816d0364975d8093b_L.jpeg",
@@ -2210,7 +2210,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149778",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/497d19179ae1f1f5ce3ce6c76e1a47f9_L.jpeg",
-  "fav": 137,
+  "fav": 138,
   "order_end": "06.11.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/497d19179ae1f1f5ce3ce6c76e1a47f9_L.jpeg",
@@ -2534,7 +2534,7 @@
    "https://media.e-auksion.uz/i/a2753a4418125fbe7f55b3c96e1decf4_L.jpg",
    "https://media.e-auksion.uz/i/6e66f535e7cbde9db8b26a1f626154c6_L.jpg"
   ],
-  "fav": 29,
+  "fav": 30,
   "order_end": "06.11.2026 09:00"
  },
  {
@@ -2745,7 +2745,7 @@
   "post_url": "https://t.me/avto_auksion_uz/149885",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/a294b8c5453d1891e26a124ca3c2ee04_L.jpeg",
-  "fav": 481,
+  "fav": 482,
   "order_end": "09.11.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/a294b8c5453d1891e26a124ca3c2ee04_L.jpeg",
@@ -2774,7 +2774,7 @@
   "post_url": "https://t.me/avto_auksion_uz/151177",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/733495bc868751c52dc97ee09843c120_L.png",
-  "fav": 313,
+  "fav": 314,
   "order_end": "09.11.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/733495bc868751c52dc97ee09843c120_L.png",
@@ -2801,7 +2801,7 @@
   "post_url": "https://t.me/avto_auksion_uz/151185",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/c5641e66f7a22249cda6ef3f8c5b0b27_L.jpeg",
-  "fav": 230,
+  "fav": 231,
   "order_end": "09.11.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/c5641e66f7a22249cda6ef3f8c5b0b27_L.jpeg",
@@ -2901,7 +2901,7 @@
    "https://media.e-auksion.uz/i/4c7920420569fcaeb610295516c15382_L.jpg",
    "https://media.e-auksion.uz/i/e2809e78a59a88784baa930b550e270d_L.jpg"
   ],
-  "fav": 133,
+  "fav": 134,
   "order_end": "09.11.2026 09:00"
  },
  {
@@ -2918,7 +2918,7 @@
   "post_url": "https://t.me/avto_auksion_uz/151233",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/0650e68f02f6a9db10b60605110abe5b_L.jpeg",
-  "fav": 129,
+  "fav": 130,
   "order_end": "09.11.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/0650e68f02f6a9db10b60605110abe5b_L.jpeg",
@@ -2946,7 +2946,7 @@
   "post_url": "https://t.me/avto_auksion_uz/151223",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/b04d995b2b97f1e742c943d3bfac4f37_L.jpeg",
-  "fav": 127,
+  "fav": 128,
   "order_end": "09.11.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/b04d995b2b97f1e742c943d3bfac4f37_L.jpeg",
@@ -3030,7 +3030,7 @@
   "post_url": "https://t.me/avto_auksion_uz/151251",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/4ea537d84c96d8806c3d9a847086e90e_L.jpeg",
-  "fav": 111,
+  "fav": 112,
   "order_end": "09.11.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/4ea537d84c96d8806c3d9a847086e90e_L.jpeg",
@@ -3044,32 +3044,6 @@
    "https://media.e-auksion.uz/i/c9f2937c8a1227f850790303dbd54f57_L.jpeg",
    "https://media.e-auksion.uz/i/8e94ef1d1ebe3cba9a7f8b7498224d33_L.jpeg"
   ]
- },
- {
-  "id": 26546148,
-  "lot_number": "26546148",
-  "cat": "avto",
-  "sub": null,
-  "title": "TRAVERSE PREMIER-2 AT 3.6L",
-  "year": "2023",
-  "mileage": "",
-  "region": "Тошкент ш.",
-  "price_orig": 416480000.0,
-  "price_final": 333184000.0,
-  "date": "09.11.2026",
-  "post_url": "https://t.me/avto_auksion_uz/152677",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/210ef7d35d90d30793240fd37a622a73_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/210ef7d35d90d30793240fd37a622a73_L.jpeg",
-   "https://media.e-auksion.uz/i/5bc06796a855c7ccdf77d9cd75577813_L.jpeg",
-   "https://media.e-auksion.uz/i/2e297f3c10de8dfb342440244f525f8e_L.jpeg",
-   "https://media.e-auksion.uz/i/eefb1b96fd6b97dff18376db9b8ca43a_L.jpeg",
-   "https://media.e-auksion.uz/i/c965f75ff2b2fd7606c689adbef16312_L.jpeg",
-   "https://media.e-auksion.uz/i/389e62ce4ad994c3ae57d85c8c80f72c_L.jpeg"
-  ],
-  "fav": 100,
-  "order_end": "09.11.2026 09:00"
  },
  {
   "id": 26546227,
@@ -3096,6 +3070,32 @@
    "https://media.e-auksion.uz/i/0fed537eb39d841468a53442c982e88b_L.jpeg",
    "https://media.e-auksion.uz/i/d22115270c24963b159384e947909fdd_L.jpeg",
    "https://media.e-auksion.uz/i/903f39a853718375a5f811841696d39f_L.jpeg"
+  ],
+  "fav": 101,
+  "order_end": "09.11.2026 09:00"
+ },
+ {
+  "id": 26546148,
+  "lot_number": "26546148",
+  "cat": "avto",
+  "sub": null,
+  "title": "TRAVERSE PREMIER-2 AT 3.6L",
+  "year": "2023",
+  "mileage": "",
+  "region": "Тошкент ш.",
+  "price_orig": 416480000.0,
+  "price_final": 333184000.0,
+  "date": "09.11.2026",
+  "post_url": "https://t.me/avto_auksion_uz/152677",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/210ef7d35d90d30793240fd37a622a73_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/210ef7d35d90d30793240fd37a622a73_L.jpeg",
+   "https://media.e-auksion.uz/i/5bc06796a855c7ccdf77d9cd75577813_L.jpeg",
+   "https://media.e-auksion.uz/i/2e297f3c10de8dfb342440244f525f8e_L.jpeg",
+   "https://media.e-auksion.uz/i/eefb1b96fd6b97dff18376db9b8ca43a_L.jpeg",
+   "https://media.e-auksion.uz/i/c965f75ff2b2fd7606c689adbef16312_L.jpeg",
+   "https://media.e-auksion.uz/i/389e62ce4ad994c3ae57d85c8c80f72c_L.jpeg"
   ],
   "fav": 100,
   "order_end": "09.11.2026 09:00"
@@ -3169,7 +3169,7 @@
   "post_url": "https://t.me/avto_auksion_uz/151280",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/869564a0d1fb2c81151e6caf87a78a6c_L.jpeg",
-  "fav": 66,
+  "fav": 67,
   "order_end": "09.11.2026 09:00",
   "photos": [
    "https://media.e-auksion.uz/i/869564a0d1fb2c81151e6caf87a78a6c_L.jpeg",
@@ -3587,30 +3587,6 @@
   ]
  },
  {
-  "id": 26071437,
-  "lot_number": "26071437",
-  "cat": "avto",
-  "title": "Matiz",
-  "year": "2015",
-  "mileage": "262979",
-  "region": "Қашқадарё вилояти",
-  "price_orig": 19773135.0,
-  "price_final": 19773135.0,
-  "date": "09.11.2026",
-  "post_url": "https://t.me/avto_auksion_uz/151406",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/d0c5f004de65a3805100d42f8c0317ff_L.jpg",
-  "fav": 22,
-  "order_end": "09.11.2026 09:00",
-  "photos": [
-   "https://media.e-auksion.uz/i/d0c5f004de65a3805100d42f8c0317ff_L.jpg",
-   "https://media.e-auksion.uz/i/7547da3ddee46625fbea378c436cbbfb_L.jpg",
-   "https://media.e-auksion.uz/i/61c71dbfe1494d6ab98b011788e02a85_L.jpg",
-   "https://media.e-auksion.uz/i/6dd63b2c5bd08e94e4afdc8a191bf593_L.jpg",
-   "https://media.e-auksion.uz/i/bcab826f233f9cbda4626405bc36425e_L.jpg"
-  ]
- },
- {
   "id": 26525954,
   "lot_number": "26525954",
   "cat": "avto",
@@ -3634,8 +3610,32 @@
    "https://media.e-auksion.uz/i/24c17d8f3b1c982abea26d39a2ca6341_L.jpeg",
    "https://media.e-auksion.uz/i/efce7e9c631213c23dca2fe87caedfbb_L.jpeg"
   ],
-  "fav": 22,
+  "fav": 23,
   "order_end": "09.11.2026 09:00"
+ },
+ {
+  "id": 26071437,
+  "lot_number": "26071437",
+  "cat": "avto",
+  "title": "Matiz",
+  "year": "2015",
+  "mileage": "262979",
+  "region": "Қашқадарё вилояти",
+  "price_orig": 19773135.0,
+  "price_final": 19773135.0,
+  "date": "09.11.2026",
+  "post_url": "https://t.me/avto_auksion_uz/151406",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/d0c5f004de65a3805100d42f8c0317ff_L.jpg",
+  "fav": 22,
+  "order_end": "09.11.2026 09:00",
+  "photos": [
+   "https://media.e-auksion.uz/i/d0c5f004de65a3805100d42f8c0317ff_L.jpg",
+   "https://media.e-auksion.uz/i/7547da3ddee46625fbea378c436cbbfb_L.jpg",
+   "https://media.e-auksion.uz/i/61c71dbfe1494d6ab98b011788e02a85_L.jpg",
+   "https://media.e-auksion.uz/i/6dd63b2c5bd08e94e4afdc8a191bf593_L.jpg",
+   "https://media.e-auksion.uz/i/bcab826f233f9cbda4626405bc36425e_L.jpg"
+  ]
  },
  {
   "id": 26546253,
@@ -3756,6 +3756,36 @@
   "order_end": "09.11.2026 09:00"
  },
  {
+  "id": 26561555,
+  "lot_number": "26561555",
+  "cat": "avto",
+  "sub": null,
+  "title": "CHEVROLET COBALT",
+  "year": "2025",
+  "mileage": "65675",
+  "region": "Навоий вилояти",
+  "price_orig": 112093800.0,
+  "price_final": 89675040.0,
+  "date": "09.11.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/a011cfc8544104bfac24869e3ebe5004_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/a011cfc8544104bfac24869e3ebe5004_L.jpeg",
+   "https://media.e-auksion.uz/i/f5ac9c7164a502358c30e9efd69d4c3a_L.jpeg",
+   "https://media.e-auksion.uz/i/0afcbf251cc17a05b43e9ea6f9179337_L.jpeg",
+   "https://media.e-auksion.uz/i/ec1cdde62c5ff666598da49884b543f9_L.jpeg",
+   "https://media.e-auksion.uz/i/3a43e1a29efc9958492ea4c2953bf9c9_L.jpeg",
+   "https://media.e-auksion.uz/i/eabff5f99add6f61544b6aef29564fff_L.jpeg",
+   "https://media.e-auksion.uz/i/dbb2d125641461907bfb15ce5e1a912d_L.jpeg",
+   "https://media.e-auksion.uz/i/04ad51363c09ad9631238e8997688c16_L.jpeg",
+   "https://media.e-auksion.uz/i/aaa366a94a566add051c62cda87ab34d_L.jpeg",
+   "https://media.e-auksion.uz/i/f406e3c5bf3eae8ef9b4d48c5971530c_L.jpeg"
+  ],
+  "fav": 18,
+  "order_end": "09.11.2026 09:00"
+ },
+ {
   "id": 26042260,
   "lot_number": "26042260",
   "cat": "avto",
@@ -3839,36 +3869,6 @@
    "https://media.e-auksion.uz/i/76c378c06316f144c59d0216d5772190_L.jpg",
    "https://media.e-auksion.uz/i/5e2424081f54d4449fb23c3af9778c3c_L.jpg",
    "https://media.e-auksion.uz/i/db8ec6722537a73f699985dfe6bc74d8_L.jpg"
-  ],
-  "fav": 17,
-  "order_end": "09.11.2026 09:00"
- },
- {
-  "id": 26561555,
-  "lot_number": "26561555",
-  "cat": "avto",
-  "sub": null,
-  "title": "CHEVROLET COBALT",
-  "year": "2025",
-  "mileage": "65675",
-  "region": "Навоий вилояти",
-  "price_orig": 112093800.0,
-  "price_final": 89675040.0,
-  "date": "09.11.2026",
-  "post_url": null,
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/a011cfc8544104bfac24869e3ebe5004_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/a011cfc8544104bfac24869e3ebe5004_L.jpeg",
-   "https://media.e-auksion.uz/i/f5ac9c7164a502358c30e9efd69d4c3a_L.jpeg",
-   "https://media.e-auksion.uz/i/0afcbf251cc17a05b43e9ea6f9179337_L.jpeg",
-   "https://media.e-auksion.uz/i/ec1cdde62c5ff666598da49884b543f9_L.jpeg",
-   "https://media.e-auksion.uz/i/3a43e1a29efc9958492ea4c2953bf9c9_L.jpeg",
-   "https://media.e-auksion.uz/i/eabff5f99add6f61544b6aef29564fff_L.jpeg",
-   "https://media.e-auksion.uz/i/dbb2d125641461907bfb15ce5e1a912d_L.jpeg",
-   "https://media.e-auksion.uz/i/04ad51363c09ad9631238e8997688c16_L.jpeg",
-   "https://media.e-auksion.uz/i/aaa366a94a566add051c62cda87ab34d_L.jpeg",
-   "https://media.e-auksion.uz/i/f406e3c5bf3eae8ef9b4d48c5971530c_L.jpeg"
   ],
   "fav": 17,
   "order_end": "09.11.2026 09:00"
@@ -4105,6 +4105,36 @@
   "order_end": "09.11.2026 09:00"
  },
  {
+  "id": 26546197,
+  "lot_number": "26546197",
+  "cat": "avto",
+  "sub": null,
+  "title": "LACETTI",
+  "year": "2021",
+  "mileage": "",
+  "region": "Фарғона вилояти",
+  "price_orig": 112288400.0,
+  "price_final": 89830720.0,
+  "date": "09.11.2026",
+  "post_url": "https://t.me/avto_auksion_uz/153261",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/23af6bee2ae64563877829630a607d1b_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/23af6bee2ae64563877829630a607d1b_L.jpeg",
+   "https://media.e-auksion.uz/i/e4890e6942446693336e535df06629fc_L.jpeg",
+   "https://media.e-auksion.uz/i/4cee72f7984731fc11631d502501f39b_L.jpeg",
+   "https://media.e-auksion.uz/i/ec2bb7572e4fda9408566df0ce078895_L.jpeg",
+   "https://media.e-auksion.uz/i/6cf8a904654e7cd7ae2547d55a1c4f18_L.jpeg",
+   "https://media.e-auksion.uz/i/4639028a87b768914ba8c5c5c3ba760e_L.jpeg",
+   "https://media.e-auksion.uz/i/0254e06d50ccfda52d01da90ad57fad3_L.jpeg",
+   "https://media.e-auksion.uz/i/d9d5e1b9f8df8f8f4177fb8b495eaaaa_L.jpeg",
+   "https://media.e-auksion.uz/i/df0cb43466239f50b0932e77a500d121_L.jpeg",
+   "https://media.e-auksion.uz/i/eacf9cc22218e47640f40ce3cc217a41_L.jpeg"
+  ],
+  "fav": 13,
+  "order_end": "09.11.2026 09:00"
+ },
+ {
   "id": 26561563,
   "lot_number": "26561563",
   "cat": "avto",
@@ -4158,36 +4188,6 @@
    "https://media.e-auksion.uz/i/b0fe81476f1a229e5075a69b301e61f4_L.jpeg",
    "https://media.e-auksion.uz/i/ca49ea368a58c5be588f7aed8233c3ef_L.jpeg"
   ]
- },
- {
-  "id": 26546197,
-  "lot_number": "26546197",
-  "cat": "avto",
-  "sub": null,
-  "title": "LACETTI",
-  "year": "2021",
-  "mileage": "",
-  "region": "Фарғона вилояти",
-  "price_orig": 112288400.0,
-  "price_final": 89830720.0,
-  "date": "09.11.2026",
-  "post_url": "https://t.me/avto_auksion_uz/153261",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/23af6bee2ae64563877829630a607d1b_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/23af6bee2ae64563877829630a607d1b_L.jpeg",
-   "https://media.e-auksion.uz/i/e4890e6942446693336e535df06629fc_L.jpeg",
-   "https://media.e-auksion.uz/i/4cee72f7984731fc11631d502501f39b_L.jpeg",
-   "https://media.e-auksion.uz/i/ec2bb7572e4fda9408566df0ce078895_L.jpeg",
-   "https://media.e-auksion.uz/i/6cf8a904654e7cd7ae2547d55a1c4f18_L.jpeg",
-   "https://media.e-auksion.uz/i/4639028a87b768914ba8c5c5c3ba760e_L.jpeg",
-   "https://media.e-auksion.uz/i/0254e06d50ccfda52d01da90ad57fad3_L.jpeg",
-   "https://media.e-auksion.uz/i/d9d5e1b9f8df8f8f4177fb8b495eaaaa_L.jpeg",
-   "https://media.e-auksion.uz/i/df0cb43466239f50b0932e77a500d121_L.jpeg",
-   "https://media.e-auksion.uz/i/eacf9cc22218e47640f40ce3cc217a41_L.jpeg"
-  ],
-  "fav": 12,
-  "order_end": "09.11.2026 09:00"
  },
  {
   "id": 26546222,
@@ -5335,7 +5335,7 @@
    "https://media.e-auksion.uz/i/492f96cc4708a07d8ea6265466cffbec_L.jpeg",
    "https://media.e-auksion.uz/i/42424ae59593d763fc3dff2744875562_L.jpeg"
   ],
-  "fav": 350,
+  "fav": 351,
   "order_end": "16.11.2026 09:00"
  },
  {
@@ -5390,7 +5390,7 @@
    "https://media.e-auksion.uz/i/5e78d5b7a3844ecbe9cdb23746dca92d_L.jpeg",
    "https://media.e-auksion.uz/i/737a7ddf1ebff846c183c813aee22e23_L.jpeg"
   ],
-  "fav": 245,
+  "fav": 246,
   "order_end": "16.11.2026 09:00"
  },
  {
@@ -5564,7 +5564,7 @@
    "https://media.e-auksion.uz/i/d0d1b0cd6893968f2449897d4f09ba50_L.jpeg",
    "https://media.e-auksion.uz/i/6c1f3710d157ebfc1fd11aca694bfb27_L.jpeg"
   ],
-  "fav": 132,
+  "fav": 131,
   "order_end": "16.11.2026 09:00"
  },
  {
@@ -5587,7 +5587,7 @@
    "https://media.e-auksion.uz/i/34555709d69043df108799bf27368d5d_L.jpg",
    "https://media.e-auksion.uz/i/9d10c60bb744f7f074ccba3b32948670_L.jpg"
   ],
-  "fav": 110,
+  "fav": 111,
   "order_end": "16.11.2026 09:00"
  },
  {
@@ -5616,7 +5616,7 @@
    "https://media.e-auksion.uz/i/aff290fbc15cab5b1290129a2550f77b_L.jpeg",
    "https://media.e-auksion.uz/i/39bb16f615472587f33b06cc3c6d7fbe_L.jpeg"
   ],
-  "fav": 92,
+  "fav": 93,
   "order_end": "16.11.2026 09:00"
  },
  {
@@ -5755,7 +5755,7 @@
    "https://media.e-auksion.uz/i/38e08d7e8a2d8cbd81c9d9cf8c43f0c3_L.jpeg",
    "https://media.e-auksion.uz/i/ad07740cb6fc9b51bb667ef1e35e429c_L.jpeg"
   ],
-  "fav": 51,
+  "fav": 52,
   "order_end": "16.11.2026 09:00"
  },
  {
@@ -5815,7 +5815,7 @@
    "https://media.e-auksion.uz/i/0413a8de8815de3cbcb25daead455c45_L.jpeg",
    "https://media.e-auksion.uz/i/755489b4e14713c126306728503003ae_L.jpeg"
   ],
-  "fav": 41,
+  "fav": 42,
   "order_end": "16.11.2026 09:00"
  },
  {
@@ -6895,7 +6895,7 @@
    "https://media.e-auksion.uz/i/de802cbd88c327b2499e87ec49eb0e1f_L.jpeg",
    "https://media.e-auksion.uz/i/54ff2e7499344c6a8c4022ab7e24e472_L.jpeg"
   ],
-  "fav": 93,
+  "fav": 94,
   "order_end": "20.11.2026 09:00"
  },
  {
@@ -7159,7 +7159,7 @@
    "https://media.e-auksion.uz/i/88b35e4d0ef79d91c3bb3e829ea370b4_L.jpeg",
    "https://media.e-auksion.uz/i/0255ec4215e9adcd0d69d845e6bb0613_L.jpeg"
   ],
-  "fav": 142,
+  "fav": 143,
   "order_end": "23.11.2026 09:00"
  },
  {
@@ -7307,7 +7307,7 @@
    "https://media.e-auksion.uz/i/ba5fa2b187162fd0f6158f7143c5f95d_L.png",
    "https://media.e-auksion.uz/i/0af17933e5e7f007e7c11eaa46bcf5fc_L.png"
   ],
-  "fav": 75,
+  "fav": 74,
   "order_end": "23.11.2026 09:00"
  },
  {
@@ -7337,7 +7337,7 @@
    "https://media.e-auksion.uz/i/441de18188af2c89a5d2b2fb9436db83_L.jpeg",
    "https://media.e-auksion.uz/i/ee56bec70a1626a6b8444a77a2fddf9d_L.jpeg"
   ],
-  "fav": 63,
+  "fav": 64,
   "order_end": "23.11.2026 09:00"
  },
  {
@@ -7450,7 +7450,7 @@
    "https://media.e-auksion.uz/i/a34b4356846e934f23687a3339cab378_L.jpeg",
    "https://media.e-auksion.uz/i/d8fc58cb62e70bbddd582d5fa96974f1_L.jpeg"
   ],
-  "fav": 50,
+  "fav": 51,
   "order_end": "23.11.2026 09:00"
  },
  {
@@ -8242,7 +8242,7 @@
    "https://media.e-auksion.uz/i/d83183684d1e909aa8cc61f7f3bf8774_L.jpeg",
    "https://media.e-auksion.uz/i/a1bb9e0a8565c8fa66d3a8f3a2b33011_L.jpeg"
   ],
-  "fav": 188,
+  "fav": 189,
   "order_end": "26.11.2026 09:00"
  },
  {
@@ -8268,7 +8268,7 @@
    "https://media.e-auksion.uz/i/58c8acc116d2e2813beb1f1b9d3d8906_L.jpg",
    "https://media.e-auksion.uz/i/779fc2ca6359c4c7f80eef7a0a021dc8_L.jpg"
   ],
-  "fav": 148,
+  "fav": 149,
   "order_end": "26.11.2026 09:00"
  },
  {
@@ -8499,7 +8499,7 @@
    "https://media.e-auksion.uz/i/ee3f35846940df17e74a7953d8538d2c_L.jpg",
    "https://media.e-auksion.uz/i/146c401db0b597b9fdbfe98cd8ab2121_L.jpg"
   ],
-  "fav": 26,
+  "fav": 27,
   "order_end": "26.11.2026 09:00"
  },
  {
@@ -8527,7 +8527,7 @@
    "https://media.e-auksion.uz/i/8f1ccf9b9f9ce71c83fd3c13795bf19f_L.jpeg",
    "https://media.e-auksion.uz/i/7edd032c586fb69561bce9108208e87f_L.jpeg"
   ],
-  "fav": 25,
+  "fav": 26,
   "order_end": "26.11.2026 09:00"
  },
  {
@@ -8731,7 +8731,7 @@
    "https://media.e-auksion.uz/i/d0be50db7e43356dbfef934df4173a30_L.jpg",
    "https://media.e-auksion.uz/i/d86b26f09e96a459b5f0b81b3db30155_L.jpg"
   ],
-  "fav": 64,
+  "fav": 65,
   "order_end": "27.11.2026 09:00"
  },
  {
@@ -8877,7 +8877,7 @@
    "https://media.e-auksion.uz/i/8043c591bad873fb87e8eec6b7e66098_L.jpeg",
    "https://media.e-auksion.uz/i/21e4e6d9b17b2455bc138a6ace88190c_L.jpeg"
   ],
-  "fav": 27,
+  "fav": 28,
   "order_end": "27.11.2026 09:00"
  },
  {
@@ -9086,7 +9086,7 @@
    "https://media.e-auksion.uz/i/6769571a52ec9eb796306dbbaed477a7_L.jpeg",
    "https://media.e-auksion.uz/i/2de2336595e439f2d3116c66e88dd6b5_L.jpeg"
   ],
-  "fav": 115,
+  "fav": 116,
   "order_end": "30.11.2026 09:00"
  },
  {
@@ -9116,7 +9116,7 @@
    "https://media.e-auksion.uz/i/0769529a71f809b8b073a1d7bbb52f11_L.jpeg",
    "https://media.e-auksion.uz/i/522cc1c51d998af9d0ac183ba57b871b_L.jpeg"
   ],
-  "fav": 91,
+  "fav": 93,
   "order_end": "30.11.2026 09:00"
  },
  {
@@ -9145,7 +9145,7 @@
    "https://media.e-auksion.uz/i/04b9911f53ae69fd6ec2e4f6b4ae03b0_L.jpeg",
    "https://media.e-auksion.uz/i/a1a1d366e51cf057e03b455b7ce5beaf_L.jpeg"
   ],
-  "fav": 88,
+  "fav": 89,
   "order_end": "30.11.2026 09:00"
  },
  {
@@ -9175,7 +9175,7 @@
    "https://media.e-auksion.uz/i/83152500652cec108ce6ae913623c4d4_L.jpeg",
    "https://media.e-auksion.uz/i/9f73fc01f9e58dc6771baa2e130b83e3_L.jpeg"
   ],
-  "fav": 67,
+  "fav": 68,
   "order_end": "30.11.2026 09:00"
  },
  {
@@ -9205,7 +9205,7 @@
    "https://media.e-auksion.uz/i/341865c5c83d9f10c8391701d14f3d95_L.jpeg",
    "https://media.e-auksion.uz/i/9597506b84899a585b99b95515d03068_L.jpeg"
   ],
-  "fav": 59,
+  "fav": 60,
   "order_end": "30.11.2026 09:00"
  },
  {
@@ -9265,7 +9265,7 @@
    "https://media.e-auksion.uz/i/2468f3cda5c2a0df0cd90ad3b9c74f63_L.jpeg",
    "https://media.e-auksion.uz/i/eac027b39b59bf5b5085446cb9f252f3_L.jpeg"
   ],
-  "fav": 31,
+  "fav": 33,
   "order_end": "30.11.2026 09:00"
  },
  {
@@ -9295,7 +9295,7 @@
    "https://media.e-auksion.uz/i/8317a99424347a9a1aa0e1bead7d92b7_L.jpeg",
    "https://media.e-auksion.uz/i/c5673ac58d2126d9e910bf40c90bb86a_L.jpeg"
   ],
-  "fav": 29,
+  "fav": 30,
   "order_end": "30.11.2026 09:00"
  },
  {
@@ -9325,7 +9325,7 @@
    "https://media.e-auksion.uz/i/cd982d2ca43f279b4c9a27f00a1ebce4_L.jpeg",
    "https://media.e-auksion.uz/i/d65390d99a33e96ca22e26d5ef19fd2b_L.jpeg"
   ],
-  "fav": 27,
+  "fav": 29,
   "order_end": "30.11.2026 09:00"
  },
  {
@@ -9359,32 +9359,6 @@
   "order_end": "30.11.2026 09:00"
  },
  {
-  "id": 26560250,
-  "lot_number": "26560250",
-  "cat": "avto",
-  "sub": null,
-  "title": "Changan Benben E-Start Qingxin VE",
-  "year": "2023",
-  "mileage": "41080",
-  "region": "Жиззах вилояти",
-  "price_orig": 126739474.0,
-  "price_final": 126739474.0,
-  "date": "30.11.2026",
-  "post_url": null,
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/878d8f3b294a4410f19f80a2b05b2247_L.jpg",
-  "photos": [
-   "https://media.e-auksion.uz/i/878d8f3b294a4410f19f80a2b05b2247_L.jpg",
-   "https://media.e-auksion.uz/i/73e81807b102b6297926a5a36015dba7_L.jpg",
-   "https://media.e-auksion.uz/i/a5e2c85dd3031e57e76c09ce036c6061_L.jpg",
-   "https://media.e-auksion.uz/i/52899909d35fde80261d9bd8f1669abf_L.jpg",
-   "https://media.e-auksion.uz/i/f5942427d269b38f666425b3ec526333_L.jpg",
-   "https://media.e-auksion.uz/i/3b2696cd4ea056804e1ff74588a52440_L.jpg"
-  ],
-  "fav": 26,
-  "order_end": "30.11.2026 09:00"
- },
- {
   "id": 26584875,
   "lot_number": "26584875",
   "cat": "avto",
@@ -9409,6 +9383,32 @@
    "https://media.e-auksion.uz/i/da6dd1c60d4d4fcc31b8dba85402bd81_L.jpeg",
    "https://media.e-auksion.uz/i/2f3879ae3794ed0183f61d90e46316c2_L.jpeg",
    "https://media.e-auksion.uz/i/775def72fbe30d01118d06e0a5ddd01d_L.jpeg"
+  ],
+  "fav": 27,
+  "order_end": "30.11.2026 09:00"
+ },
+ {
+  "id": 26560250,
+  "lot_number": "26560250",
+  "cat": "avto",
+  "sub": null,
+  "title": "Changan Benben E-Start Qingxin VE",
+  "year": "2023",
+  "mileage": "41080",
+  "region": "Жиззах вилояти",
+  "price_orig": 126739474.0,
+  "price_final": 126739474.0,
+  "date": "30.11.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/878d8f3b294a4410f19f80a2b05b2247_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/878d8f3b294a4410f19f80a2b05b2247_L.jpg",
+   "https://media.e-auksion.uz/i/73e81807b102b6297926a5a36015dba7_L.jpg",
+   "https://media.e-auksion.uz/i/a5e2c85dd3031e57e76c09ce036c6061_L.jpg",
+   "https://media.e-auksion.uz/i/52899909d35fde80261d9bd8f1669abf_L.jpg",
+   "https://media.e-auksion.uz/i/f5942427d269b38f666425b3ec526333_L.jpg",
+   "https://media.e-auksion.uz/i/3b2696cd4ea056804e1ff74588a52440_L.jpg"
   ],
   "fav": 26,
   "order_end": "30.11.2026 09:00"
@@ -9439,6 +9439,36 @@
    "https://media.e-auksion.uz/i/12526e551fa07cc94ba5850aa5b42337_L.jpeg",
    "https://media.e-auksion.uz/i/a8bb4253503bbd814c67d2d0c2c75933_L.jpeg",
    "https://media.e-auksion.uz/i/067089f2d0a233d43c87cc0cf9b024aa_L.jpeg"
+  ],
+  "fav": 25,
+  "order_end": "30.11.2026 09:00"
+ },
+ {
+  "id": 26584836,
+  "lot_number": "26584836",
+  "cat": "avto",
+  "sub": null,
+  "title": "NEXIA 3",
+  "year": "2020",
+  "mileage": "",
+  "region": "Тошкент ш.",
+  "price_orig": 45473000.0,
+  "price_final": 31831100.0,
+  "date": "30.11.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/2f3e855bb7a3fe43ce5f338a40da7b76_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/2f3e855bb7a3fe43ce5f338a40da7b76_L.jpeg",
+   "https://media.e-auksion.uz/i/2f4cba1be64ff4222884422e1523b3fe_L.jpeg",
+   "https://media.e-auksion.uz/i/307a379ea3fe4bd662722fba0768bedc_L.jpeg",
+   "https://media.e-auksion.uz/i/9086bb25190172675d5ed321d5ad1a04_L.jpeg",
+   "https://media.e-auksion.uz/i/910a0dd74e5b9aae3f7e067962f74754_L.jpeg",
+   "https://media.e-auksion.uz/i/f10db97bc86231def92fc825918ff3f2_L.jpeg",
+   "https://media.e-auksion.uz/i/01659834e16580aa61c8337221dff704_L.jpeg",
+   "https://media.e-auksion.uz/i/1f99ea29436ab8573d63debdba751a66_L.jpeg",
+   "https://media.e-auksion.uz/i/7425f5cd13e81bf88ffdcacc93fe16b6_L.jpeg",
+   "https://media.e-auksion.uz/i/62603c03f6fd94cbd9719e65e63ab37d_L.jpeg"
   ],
   "fav": 23,
   "order_end": "30.11.2026 09:00"
@@ -9474,36 +9504,6 @@
   "order_end": "30.11.2026 09:00"
  },
  {
-  "id": 26584836,
-  "lot_number": "26584836",
-  "cat": "avto",
-  "sub": null,
-  "title": "NEXIA 3",
-  "year": "2020",
-  "mileage": "",
-  "region": "Тошкент ш.",
-  "price_orig": 45473000.0,
-  "price_final": 31831100.0,
-  "date": "30.11.2026",
-  "post_url": null,
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/2f3e855bb7a3fe43ce5f338a40da7b76_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/2f3e855bb7a3fe43ce5f338a40da7b76_L.jpeg",
-   "https://media.e-auksion.uz/i/2f4cba1be64ff4222884422e1523b3fe_L.jpeg",
-   "https://media.e-auksion.uz/i/307a379ea3fe4bd662722fba0768bedc_L.jpeg",
-   "https://media.e-auksion.uz/i/9086bb25190172675d5ed321d5ad1a04_L.jpeg",
-   "https://media.e-auksion.uz/i/910a0dd74e5b9aae3f7e067962f74754_L.jpeg",
-   "https://media.e-auksion.uz/i/f10db97bc86231def92fc825918ff3f2_L.jpeg",
-   "https://media.e-auksion.uz/i/01659834e16580aa61c8337221dff704_L.jpeg",
-   "https://media.e-auksion.uz/i/1f99ea29436ab8573d63debdba751a66_L.jpeg",
-   "https://media.e-auksion.uz/i/7425f5cd13e81bf88ffdcacc93fe16b6_L.jpeg",
-   "https://media.e-auksion.uz/i/62603c03f6fd94cbd9719e65e63ab37d_L.jpeg"
-  ],
-  "fav": 21,
-  "order_end": "30.11.2026 09:00"
- },
- {
   "id": 26584851,
   "lot_number": "26584851",
   "cat": "avto",
@@ -9530,7 +9530,7 @@
    "https://media.e-auksion.uz/i/1e87834b84910ac233128b3022c61e83_L.jpeg",
    "https://media.e-auksion.uz/i/85f9269d2adb6c82cca5f5f61495b5f5_L.jpeg"
   ],
-  "fav": 21,
+  "fav": 22,
   "order_end": "30.11.2026 09:00"
  },
  {
@@ -9559,6 +9559,36 @@
    "https://media.e-auksion.uz/i/bb5917335e161da34b52be359861a6b8_L.jpeg",
    "https://media.e-auksion.uz/i/23a2849f3db9ece910434e0d68c410bc_L.jpeg",
    "https://media.e-auksion.uz/i/e5c667c5cf3dbb4490ca89deab0f8fb7_L.jpeg"
+  ],
+  "fav": 19,
+  "order_end": "30.11.2026 09:00"
+ },
+ {
+  "id": 26560293,
+  "lot_number": "26560293",
+  "cat": "avto",
+  "sub": null,
+  "title": "LACETTI",
+  "year": "2009",
+  "mileage": "",
+  "region": "Тошкент вилояти",
+  "price_orig": 61371000.0,
+  "price_final": 42959700.0,
+  "date": "30.11.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/0abcc8cf7e04e12f3611c0157f55c724_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/0abcc8cf7e04e12f3611c0157f55c724_L.jpeg",
+   "https://media.e-auksion.uz/i/27f805c0bfb2dc5c6d7bade6a27baf3a_L.jpeg",
+   "https://media.e-auksion.uz/i/93cd17573fecee34e78081fa1fecb381_L.jpeg",
+   "https://media.e-auksion.uz/i/a24257e2c102bca4ed2e94c7267084cb_L.jpeg",
+   "https://media.e-auksion.uz/i/50b73c4b7c288a348fcc8df88f2ab3ba_L.jpeg",
+   "https://media.e-auksion.uz/i/2c14ec1926c73a7178492fd98cd6a3d1_L.jpeg",
+   "https://media.e-auksion.uz/i/d3f3f3f3ea7a6757d48a4f7e543fbbe5_L.jpeg",
+   "https://media.e-auksion.uz/i/0c5494bbc2ff1e9f62b8c493a8f8ddb9_L.jpeg",
+   "https://media.e-auksion.uz/i/b82d05181732c5f56d607de22739f560_L.jpeg",
+   "https://media.e-auksion.uz/i/16e8d3cd58a7f2af18e59dc8064adcd8_L.jpeg"
   ],
   "fav": 19,
   "order_end": "30.11.2026 09:00"
@@ -9648,31 +9678,31 @@
   "order_end": "30.11.2026 09:00"
  },
  {
-  "id": 26560293,
-  "lot_number": "26560293",
+  "id": 26560273,
+  "lot_number": "26560273",
   "cat": "avto",
   "sub": null,
-  "title": "LACETTI",
-  "year": "2009",
-  "mileage": "",
-  "region": "Тошкент вилояти",
-  "price_orig": 61371000.0,
-  "price_final": 42959700.0,
+  "title": "Nexia3",
+  "year": "2018",
+  "mileage": "113193",
+  "region": "Қорақалпоғистон Республикаси",
+  "price_orig": 73245000.0,
+  "price_final": 51271500.0,
   "date": "30.11.2026",
   "post_url": null,
   "test": false,
-  "photo": "https://media.e-auksion.uz/i/0abcc8cf7e04e12f3611c0157f55c724_L.jpeg",
+  "photo": "https://media.e-auksion.uz/i/229ee3bea75f9f7343941930e984cce8_L.jpeg",
   "photos": [
-   "https://media.e-auksion.uz/i/0abcc8cf7e04e12f3611c0157f55c724_L.jpeg",
-   "https://media.e-auksion.uz/i/27f805c0bfb2dc5c6d7bade6a27baf3a_L.jpeg",
-   "https://media.e-auksion.uz/i/93cd17573fecee34e78081fa1fecb381_L.jpeg",
-   "https://media.e-auksion.uz/i/a24257e2c102bca4ed2e94c7267084cb_L.jpeg",
-   "https://media.e-auksion.uz/i/50b73c4b7c288a348fcc8df88f2ab3ba_L.jpeg",
-   "https://media.e-auksion.uz/i/2c14ec1926c73a7178492fd98cd6a3d1_L.jpeg",
-   "https://media.e-auksion.uz/i/d3f3f3f3ea7a6757d48a4f7e543fbbe5_L.jpeg",
-   "https://media.e-auksion.uz/i/0c5494bbc2ff1e9f62b8c493a8f8ddb9_L.jpeg",
-   "https://media.e-auksion.uz/i/b82d05181732c5f56d607de22739f560_L.jpeg",
-   "https://media.e-auksion.uz/i/16e8d3cd58a7f2af18e59dc8064adcd8_L.jpeg"
+   "https://media.e-auksion.uz/i/229ee3bea75f9f7343941930e984cce8_L.jpeg",
+   "https://media.e-auksion.uz/i/870bae68ca5ce4811ba84acb38572e0a_L.jpeg",
+   "https://media.e-auksion.uz/i/15d8c76f7a191f74870e696a55af53e5_L.jpeg",
+   "https://media.e-auksion.uz/i/67a32d0f3ef76bdac3af4aa2878b58e9_L.jpeg",
+   "https://media.e-auksion.uz/i/35c5bb1ca51301578934a51329814676_L.jpeg",
+   "https://media.e-auksion.uz/i/e6d0c7d00eecc6827f6eb6066f24a094_L.jpeg",
+   "https://media.e-auksion.uz/i/f481b20caaad48fef966081956bf4b01_L.jpeg",
+   "https://media.e-auksion.uz/i/23655263259ec149490736bf53129638_L.jpeg",
+   "https://media.e-auksion.uz/i/d9cc277773951807a1411e281b9362b1_L.jpeg",
+   "https://media.e-auksion.uz/i/37ebc44383fe66917a84dd0220c02321_L.jpeg"
   ],
   "fav": 17,
   "order_end": "30.11.2026 09:00"
@@ -9767,66 +9797,6 @@
   "order_end": "30.11.2026 09:00"
  },
  {
-  "id": 26584828,
-  "lot_number": "26584828",
-  "cat": "avto",
-  "sub": null,
-  "title": "DAMAS 2-DLX",
-  "year": "2022",
-  "mileage": "61220",
-  "region": "Самарқанд вилояти",
-  "price_orig": 55815200.0,
-  "price_final": 39070640.0,
-  "date": "30.11.2026",
-  "post_url": null,
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/f801253a60ac1a94df00f4dab9564ad5_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/f801253a60ac1a94df00f4dab9564ad5_L.jpeg",
-   "https://media.e-auksion.uz/i/6b0b8798aeb3c26cce3785a29bd19888_L.jpeg",
-   "https://media.e-auksion.uz/i/1bc848cee37ae5479348b31249649618_L.jpeg",
-   "https://media.e-auksion.uz/i/ff1d4dd138687488cbfec9b16c76fb5b_L.jpeg",
-   "https://media.e-auksion.uz/i/372d0b4e5b914645725c01e8fda812c7_L.jpeg",
-   "https://media.e-auksion.uz/i/cd7cfce937ea4c3f0da1441901d91ace_L.jpeg",
-   "https://media.e-auksion.uz/i/8b24fcdc3175869b3cafe9c7c48feba2_L.jpeg",
-   "https://media.e-auksion.uz/i/8f4b1dc96b6c73d6eda802a3e165a3b3_L.jpeg",
-   "https://media.e-auksion.uz/i/eb547921709c16003ac7d0ca3e426b5f_L.jpeg",
-   "https://media.e-auksion.uz/i/c8180be8a9395d56b1655f38e92e3fcd_L.jpeg"
-  ],
-  "fav": 15,
-  "order_end": "30.11.2026 09:00"
- },
- {
-  "id": 26560273,
-  "lot_number": "26560273",
-  "cat": "avto",
-  "sub": null,
-  "title": "Nexia3",
-  "year": "2018",
-  "mileage": "113193",
-  "region": "Қорақалпоғистон Республикаси",
-  "price_orig": 73245000.0,
-  "price_final": 51271500.0,
-  "date": "30.11.2026",
-  "post_url": null,
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/229ee3bea75f9f7343941930e984cce8_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/229ee3bea75f9f7343941930e984cce8_L.jpeg",
-   "https://media.e-auksion.uz/i/870bae68ca5ce4811ba84acb38572e0a_L.jpeg",
-   "https://media.e-auksion.uz/i/15d8c76f7a191f74870e696a55af53e5_L.jpeg",
-   "https://media.e-auksion.uz/i/67a32d0f3ef76bdac3af4aa2878b58e9_L.jpeg",
-   "https://media.e-auksion.uz/i/35c5bb1ca51301578934a51329814676_L.jpeg",
-   "https://media.e-auksion.uz/i/e6d0c7d00eecc6827f6eb6066f24a094_L.jpeg",
-   "https://media.e-auksion.uz/i/f481b20caaad48fef966081956bf4b01_L.jpeg",
-   "https://media.e-auksion.uz/i/23655263259ec149490736bf53129638_L.jpeg",
-   "https://media.e-auksion.uz/i/d9cc277773951807a1411e281b9362b1_L.jpeg",
-   "https://media.e-auksion.uz/i/37ebc44383fe66917a84dd0220c02321_L.jpeg"
-  ],
-  "fav": 15,
-  "order_end": "30.11.2026 09:00"
- },
- {
   "id": 26525991,
   "lot_number": "26525991",
   "cat": "avto",
@@ -9852,6 +9822,36 @@
    "https://media.e-auksion.uz/i/6231176665e7a2b4582b4baf081a8ed9_L.jpeg",
    "https://media.e-auksion.uz/i/a6c9316610bb54374b70f4bf89a5f609_L.jpeg",
    "https://media.e-auksion.uz/i/d8972020e273128b28f29db66cb86694_L.jpeg"
+  ],
+  "fav": 16,
+  "order_end": "30.11.2026 09:00"
+ },
+ {
+  "id": 26584828,
+  "lot_number": "26584828",
+  "cat": "avto",
+  "sub": null,
+  "title": "DAMAS 2-DLX",
+  "year": "2022",
+  "mileage": "61220",
+  "region": "Самарқанд вилояти",
+  "price_orig": 55815200.0,
+  "price_final": 39070640.0,
+  "date": "30.11.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/f801253a60ac1a94df00f4dab9564ad5_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/f801253a60ac1a94df00f4dab9564ad5_L.jpeg",
+   "https://media.e-auksion.uz/i/6b0b8798aeb3c26cce3785a29bd19888_L.jpeg",
+   "https://media.e-auksion.uz/i/1bc848cee37ae5479348b31249649618_L.jpeg",
+   "https://media.e-auksion.uz/i/ff1d4dd138687488cbfec9b16c76fb5b_L.jpeg",
+   "https://media.e-auksion.uz/i/372d0b4e5b914645725c01e8fda812c7_L.jpeg",
+   "https://media.e-auksion.uz/i/cd7cfce937ea4c3f0da1441901d91ace_L.jpeg",
+   "https://media.e-auksion.uz/i/8b24fcdc3175869b3cafe9c7c48feba2_L.jpeg",
+   "https://media.e-auksion.uz/i/8f4b1dc96b6c73d6eda802a3e165a3b3_L.jpeg",
+   "https://media.e-auksion.uz/i/eb547921709c16003ac7d0ca3e426b5f_L.jpeg",
+   "https://media.e-auksion.uz/i/c8180be8a9395d56b1655f38e92e3fcd_L.jpeg"
   ],
   "fav": 15,
   "order_end": "30.11.2026 09:00"
@@ -10084,7 +10084,7 @@
    "https://media.e-auksion.uz/i/5a178ba58ae5733c662ff4235daedfa9_L.jpeg",
    "https://media.e-auksion.uz/i/13eb46d0b1ae607c5b41a4219894550b_L.jpeg"
   ],
-  "fav": 11,
+  "fav": 12,
   "order_end": "30.11.2026 09:00"
  },
  {
@@ -10173,7 +10173,7 @@
    "https://media.e-auksion.uz/i/664e130d94f8ead9d29ec6308a184653_L.jpeg",
    "https://media.e-auksion.uz/i/5537e2b7f27f551774700f8b58c0fd49_L.jpeg"
   ],
-  "fav": 56,
+  "fav": 57,
   "order_end": "01.12.2026 09:00"
  },
  {
@@ -21552,7 +21552,7 @@
    "https://media.e-auksion.uz/i/5509599319e87b335f0d1de83408ac04_L.jpg",
    "https://media.e-auksion.uz/i/35f7498301330235075221826ee8a967_L.jpg"
   ],
-  "fav": 57,
+  "fav": 56,
   "order_end": "26.11.2026 09:00"
  },
  {
@@ -22010,7 +22010,7 @@
    "https://media.e-auksion.uz/i/0701101232042fdb7442bb1e66d92eb1_L.jpg",
    "https://media.e-auksion.uz/i/cd2c8ffeadbc7c81901e8eefdcd8665d_L.jpg"
   ],
-  "fav": 27,
+  "fav": 28,
   "order_end": "10.11.2026 09:00"
  },
  {
@@ -22671,7 +22671,7 @@
    "https://media.e-auksion.uz/i/900eb3b740d151d2e6d58edd0339bcbf_L.jpg",
    "https://media.e-auksion.uz/i/4a12ca9cbdee563ce06076ab0a409ca7_L.jpg"
   ],
-  "fav": 83,
+  "fav": 84,
   "order_end": "03.11.2026 09:00"
  },
  {
@@ -22695,7 +22695,7 @@
    "https://media.e-auksion.uz/i/d46849a4932cc3b0991ff97bc1027a00_L.jpg",
    "https://media.e-auksion.uz/i/726fd9e7c3c1d7185956ba07cbe6e7de_L.jpg"
   ],
-  "fav": 82,
+  "fav": 81,
   "order_end": "03.11.2026 09:00"
  },
  {
@@ -22771,7 +22771,7 @@
    "https://media.e-auksion.uz/i/393699131e4b747d74fe9caf152578dc_L.jpg",
    "https://media.e-auksion.uz/i/1df4f12bd6533716ca4e7409e5a6bd2f_L.jpg"
   ],
-  "fav": 39,
+  "fav": 40,
   "order_end": "03.11.2026 09:00"
  },
  {
@@ -23889,7 +23889,7 @@
    "https://media.e-auksion.uz/i/1d748eb41483865726c453f8ec155472_L.jpg",
    "https://media.e-auksion.uz/i/380db8c9256f58b15dffc6867e471e59_L.jpg"
   ],
-  "fav": 149,
+  "fav": 150,
   "order_end": "12.11.2026 09:00",
   "sub": "yuk"
  },
@@ -24593,6 +24593,34 @@
   "sub": "yuk"
  },
  {
+  "id": 26578799,
+  "lot_number": "26578799",
+  "cat": "yuk",
+  "sub": "yuk",
+  "title": "LABO LB ",
+  "year": "2020",
+  "mileage": "91170",
+  "region": "Тошкент ш.",
+  "price_orig": 53266574.0,
+  "price_final": 53266574.0,
+  "date": "16.11.2026",
+  "post_url": "https://t.me/gruzovoeavto/23464",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/8e4597bab4846d8c0bcecee6bae1e8db_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/8e4597bab4846d8c0bcecee6bae1e8db_L.jpg",
+   "https://media.e-auksion.uz/i/921b1972beca262606d214d4c8dea299_L.jpg",
+   "https://media.e-auksion.uz/i/b8e851cfe4cc2b06fd2a087df59cdd8f_L.jpg",
+   "https://media.e-auksion.uz/i/ff0f375b0b1baade4f66601679ee7513_L.jpg",
+   "https://media.e-auksion.uz/i/199a3bbfc3cbe440494fa3162c890fc7_L.jpg",
+   "https://media.e-auksion.uz/i/9680f64cfea3d20fcceb6b885d916f23_L.jpg",
+   "https://media.e-auksion.uz/i/282d08de1610bcbb67fdb5b7237dde7b_L.jpg",
+   "https://media.e-auksion.uz/i/7e609c17c6b0da49dc0c4e5484c5ddca_L.jpg"
+  ],
+  "fav": 15,
+  "order_end": "16.11.2026 09:00"
+ },
+ {
   "id": 26260461,
   "lot_number": "26260461",
   "cat": "yuk",
@@ -24620,34 +24648,6 @@
   "fav": 14,
   "order_end": "16.11.2026 09:00",
   "sub": "yuk"
- },
- {
-  "id": 26578799,
-  "lot_number": "26578799",
-  "cat": "yuk",
-  "sub": "yuk",
-  "title": "LABO LB ",
-  "year": "2020",
-  "mileage": "91170",
-  "region": "Тошкент ш.",
-  "price_orig": 53266574.0,
-  "price_final": 53266574.0,
-  "date": "16.11.2026",
-  "post_url": "https://t.me/gruzovoeavto/23464",
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/8e4597bab4846d8c0bcecee6bae1e8db_L.jpg",
-  "photos": [
-   "https://media.e-auksion.uz/i/8e4597bab4846d8c0bcecee6bae1e8db_L.jpg",
-   "https://media.e-auksion.uz/i/921b1972beca262606d214d4c8dea299_L.jpg",
-   "https://media.e-auksion.uz/i/b8e851cfe4cc2b06fd2a087df59cdd8f_L.jpg",
-   "https://media.e-auksion.uz/i/ff0f375b0b1baade4f66601679ee7513_L.jpg",
-   "https://media.e-auksion.uz/i/199a3bbfc3cbe440494fa3162c890fc7_L.jpg",
-   "https://media.e-auksion.uz/i/9680f64cfea3d20fcceb6b885d916f23_L.jpg",
-   "https://media.e-auksion.uz/i/282d08de1610bcbb67fdb5b7237dde7b_L.jpg",
-   "https://media.e-auksion.uz/i/7e609c17c6b0da49dc0c4e5484c5ddca_L.jpg"
-  ],
-  "fav": 14,
-  "order_end": "16.11.2026 09:00"
  },
  {
   "id": 26260459,
@@ -24703,7 +24703,7 @@
    "https://media.e-auksion.uz/i/96bc4f6fbb0c5c071e6382ca4ff16a7b_L.jpeg",
    "https://media.e-auksion.uz/i/c4be34aee46c36a0db7787302dd7786b_L.jpeg"
   ],
-  "fav": 128,
+  "fav": 127,
   "order_end": "19.11.2026 09:00"
  },
  {
