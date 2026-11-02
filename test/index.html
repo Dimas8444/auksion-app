@@ -270,24 +270,22 @@ function fillLot(x){var r=(DET&&DET[x.id])||null,dl=document.getElementById("dro
  if(r&&r.loc){var a=document.createElement("a");a.className="go alt";a.target="_blank";a.rel="noopener";a.href=r.loc;a.textContent="📍 Локация";
   a.onclick=function(ev){if(tw&&tw.openLink){ev.preventDefault();tw.openLink(r.loc)}};bt.insertBefore(a,bt.firstChild)}
  else bt.classList.add("one")}
-// Кто выставил лот и контакты для осмотра (02.11): МИБ / организация, ижрочи и масъул ходим с телефонами,
-// дни осмотра (только будущие) и адрес, где стоит имущество
+// Кто выставил лот и контакт для осмотра (02.11, состав утвердил пользователь): МИБ — бўлим и ижрочи с телефоном,
+// другая организация — название и телефон; дни осмотра (только будущие)
 function fillSeller(x,S){var sl=document.getElementById("dsell");sl.innerHTML="";sl.className="";
- if(!S||!(S.org||(S.people||[]).length))return;sl.className="sell";
+ if(!S||!(S.mib||S.org||(S.people||[]).length))return;sl.className="sell";
  var h=document.createElement("div");h.className="sh";h.textContent="🔎 Кўздан кечириш учун";sl.appendChild(h);
  var p=document.createElement("p");p.className="snote";
- p.textContent=(x.cat==="avto"?"Машинани":x.cat==="yuk"?"Техникани":"Мулкни")+" савдога қўйган ташкилот. Кўриш учун олдиндан қўнғироқ қилиб, вақтни келишиб олинг.";sl.appendChild(p);
+ p.textContent=(x.cat==="avto"?"Машинани":x.cat==="yuk"?"Техникани":"Мулкни")+" савдога қўйган ташкилот. Мулкни кўриш учун олдиндан қўнғироқ қилиб, вақтни келишиб олинг.";sl.appendChild(p);
  var dl=document.createElement("dl");dl.className="rows";sl.appendChild(dl);
  function row(k,v,tel){if(!v)return;var w=document.createElement("div"),t=document.createElement("dt"),d=document.createElement("dd");t.textContent=k;
   if(typeof v==="string")d.textContent=v;else d.appendChild(v);
   if(tel){var a=document.createElement("a");a.className="tel";a.href="tel:"+tel.replace(/\s/g,"");a.textContent="📞 "+tel;d.appendChild(a)}
   w.appendChild(t);w.appendChild(d);dl.appendChild(w)}
- row("Ташкилот",S.org);row("МИБ бўлими",S.mib);
- (S.people||[]).forEach(function(q){row(q[0],q[1]||" ",q[2])});
- (S.phones||[]).forEach(function(ph,i){row(i?"":"Қўшимча тел.",document.createTextNode(""),ph)});
+ if(S.mib)row("МИБ бўлими",S.mib);else row("Ташкилот",S.org);
+ (S.people||[]).forEach(function(q){row(q[0],q[1]||document.createTextNode(""),q[2])});
  var now=new Date(),fut=(S.visits||[]).filter(function(v){var m=/(\d{2})\.(\d{2})\.(\d{4})/.exec(v[0]);return m&&new Date(+m[3],m[2]-1,+m[1],23,59)>now});
- row("Кўриш кунлари",fut.length?fut.map(function(v){return v[0].slice(0,5)+", "+v[1]}).join("\n"):"Телефон орқали келишилади");
- row("Қаерда турибди",S.addr)}
+ row("Кўриш кунлари",fut.length?fut.map(function(v){return v[0].slice(0,5)+", "+v[1]}).join("\n"):"Телефон орқали келишилади")}
 function closeLot(fromPop){var dt=document.getElementById("det");if(dt.hidden)return;dt.hidden=true;dt.innerHTML="";OPEN=null;
  if(tw&&tw.BackButton){try{tw.BackButton.hide()}catch(e){}}
  if(fromPop!==true){try{history.back()}catch(e){}}}
