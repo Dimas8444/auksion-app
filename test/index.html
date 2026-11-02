@@ -301,7 +301,9 @@ function fillSeller(x,S){var sl=document.getElementById("dsell");sl.innerHTML=""
    nb.appendChild(cp);d.appendChild(nb)}
   w.appendChild(t);w.appendChild(d);dl.appendChild(w)}
  if(S.mib)row("МИБ бўлими",S.mib);else row("Ташкилот",S.org);
- (S.people||[]).forEach(function(q){row(q[0],q[1]||document.createTextNode(""),q[2])});
+ // имя — своей строкой, телефон — отдельной строкой с подписью «Машина кўриш учун» (02.11, пользователь)
+ var seeLbl=(x.cat==="avto"?"Машина":x.cat==="yuk"?"Техника":"Мулк")+" кўриш учун";
+ (S.people||[]).forEach(function(q){if(q[1])row(q[0],q[1]);if(q[2])row(seeLbl,document.createTextNode(""),q[2])});
  var now=new Date(),fut=(S.visits||[]).filter(function(v){var m=/(\d{2})\.(\d{2})\.(\d{4})/.exec(v[0]);return m&&new Date(+m[3],m[2]-1,+m[1],23,59)>now});
  row("Кўриш кунлари",fut.length?fut.map(function(v){return v[0].slice(0,5)+", "+v[1]}).join("\n"):"Телефон орқали келишилади")}
 function closeLot(fromPop){var dt=document.getElementById("det");if(dt.hidden)return;dt.hidden=true;dt.innerHTML="";OPEN=null;
