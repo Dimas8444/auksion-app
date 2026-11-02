@@ -10688,6 +10688,36 @@
   "test": false
  },
  {
+  "id": 26396560,
+  "lot_number": "26396560",
+  "cat": "mulk",
+  "sub": "noturar",
+  "tags": [],
+  "title": "Ижарага, 30 м², 60 ой",
+  "info": [
+   "Ижара"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Тошкент ш.",
+  "address": "Тошкент ш., Янгиҳаёт тумани, Ёрқинхаёт МФЙ, Спутник 17 даҳаси, 3а-уй",
+  "price_orig": 9992172.96,
+  "price_final": 9992172.96,
+  "date": "06.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/2f813aad59ed03328201159d8657a0d5_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/2f813aad59ed03328201159d8657a0d5_L.jpg",
+   "https://media.e-auksion.uz/i/cb99bf060f39f5f6db911d7cd4c6b776_L.jpg",
+   "https://media.e-auksion.uz/i/f1146f75624444f541040902d8d07383_L.jpg",
+   "https://media.e-auksion.uz/i/0e072247654b5871cf3218146dc291cf_L.jpg",
+   "https://media.e-auksion.uz/i/4e289cbe1c2f3a0bb0228eff6d82bd83_L.jpg"
+  ],
+  "fav": 11,
+  "order_end": "06.11.2026 09:00",
+  "test": false
+ },
+ {
   "id": 26011573,
   "lot_number": "26011573",
   "cat": "mulk",
@@ -19490,6 +19520,35 @@
    "https://media.e-auksion.uz/i/d6e61d4d559c31466a993ef3eb30dd42_L.jpeg"
   ],
   "fav": 13,
+  "order_end": "06.11.2026 09:00",
+  "test": false
+ },
+ {
+  "id": 26556983,
+  "lot_number": "26556983",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "yakka"
+  ],
+  "title": "Ер участкаси, 3 сотих",
+  "info": [
+   "Якка тартибда уй-жой қуриш учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Тошкент ш.",
+  "address": "Тошкент ш., Юнусобод тумани, Ҳамкоробод",
+  "price_orig": 1116501868.0,
+  "price_final": 893201494.4,
+  "date": "06.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/601e04ad45a5768d5fbbe91262aa9d64_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/601e04ad45a5768d5fbbe91262aa9d64_L.jpeg",
+   "https://media.e-auksion.uz/i/674f82b829a1120ae7ff98e1b9f8032c_L.jpeg"
+  ],
+  "fav": 10,
   "order_end": "06.11.2026 09:00",
   "test": false
  },
