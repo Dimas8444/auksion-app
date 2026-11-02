@@ -97,7 +97,11 @@ h1{font:700 22px/1.2 "PT Serif",Georgia,serif;margin:18px 0 4px}
 .sell .snote{color:var(--mute);font-size:14px;margin:4px 0 6px}
 .sell .rows{border:0;padding:0;background:none}
 .sell dd{white-space:pre-line}
-.sell a.tel{display:block;margin-top:4px;color:var(--green);text-decoration:none;font-weight:700}
+.sell .rows dd div{display:block;border:0;padding:0;grid-template-columns:none}
+.sell .tnum{margin-top:4px;white-space:nowrap}
+.sell .rows dd .tbtns{display:flex;gap:8px;margin-top:6px;flex-wrap:wrap}
+.sell .tbtn{flex:1 1 0;min-width:110px;text-align:center;padding:9px 10px;border-radius:10px;border:1px solid var(--line);color:var(--ink);text-decoration:none;font-weight:700;font-size:14px;background:var(--bg)}
+.sell .tbtn:first-child{background:var(--green);border-color:var(--green);color:#fff}
 </style></head><body>
 <div id="sc"><div class="wrap">
 <h1>Аукцион савдолар</h1>
@@ -280,7 +284,14 @@ function fillSeller(x,S){var sl=document.getElementById("dsell");sl.innerHTML=""
  var dl=document.createElement("dl");dl.className="rows";sl.appendChild(dl);
  function row(k,v,tel){if(!v)return;var w=document.createElement("div"),t=document.createElement("dt"),d=document.createElement("dd");t.textContent=k;
   if(typeof v==="string")d.textContent=v;else d.appendChild(v);
-  if(tel){var a=document.createElement("a");a.className="tel";a.href="tel:"+tel.replace(/\s/g,"");a.textContent="📞 "+tel;d.appendChild(a)}
+  // номер + две кнопки (02.11): «Қўнғироқ» — звонилка телефона (tel:), «Telegram» — чат по номеру (t.me/+998…),
+  // если у человека есть Telegram
+  if(tel){var n=tel.replace(/[^\d+]/g,""),nb=document.createElement("div");nb.className="tnum";nb.textContent=tel;d.appendChild(nb);
+   var bx=document.createElement("div");bx.className="tbtns";
+   var c=document.createElement("a");c.className="tbtn";c.href="tel:"+n;c.textContent="📞 Қўнғироқ";bx.appendChild(c);
+   var g=document.createElement("a");g.className="tbtn tg";g.href="https://t.me/"+n;g.target="_blank";g.rel="noopener";g.textContent="✈️ Telegram";
+   g.onclick=function(ev){if(tw&&tw.openTelegramLink){ev.preventDefault();try{tw.openTelegramLink(g.href)}catch(e){window.open(g.href,"_blank")}}};
+   bx.appendChild(g);d.appendChild(bx)}
   w.appendChild(t);w.appendChild(d);dl.appendChild(w)}
  if(S.mib)row("МИБ бўлими",S.mib);else row("Ташкилот",S.org);
  (S.people||[]).forEach(function(q){row(q[0],q[1]||document.createTextNode(""),q[2])});
