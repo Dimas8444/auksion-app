@@ -305,7 +305,8 @@ function fillSeller(x,S){var sl=document.getElementById("dsell");sl.innerHTML=""
  var seeLbl=(x.cat==="avto"?"Машина":x.cat==="yuk"?"Техника":"Мулк")+" кўриш учун";
  (S.people||[]).forEach(function(q){if(q[1])row(q[0],q[1]);if(q[2])row(seeLbl,document.createTextNode(""),q[2])});
  var now=new Date(),fut=(S.visits||[]).filter(function(v){var m=/(\d{2})\.(\d{2})\.(\d{4})/.exec(v[0]);return m&&new Date(+m[3],m[2]-1,+m[1],23,59)>now});
- row("Кўриш кунлари",fut.length?fut.map(function(v){return v[0].slice(0,5)+", "+v[1]}).join("\n"):"Телефон орқали келишилади")}
+ // строка «Кўриш кунлари» — только если на сайте есть будущие дни осмотра (02.11: «Телефон орқали келишилади» убрать)
+ if(fut.length)row("Кўриш кунлари",fut.map(function(v){return v[0].slice(0,5)+", "+v[1]}).join("\n"))}
 function closeLot(fromPop){var dt=document.getElementById("det");if(dt.hidden)return;dt.hidden=true;dt.innerHTML="";OPEN=null;
  if(tw&&tw.BackButton){try{tw.BackButton.hide()}catch(e){}}
  if(fromPop!==true){try{history.back()}catch(e){}}}
