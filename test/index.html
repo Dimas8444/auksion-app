@@ -284,15 +284,9 @@ function fillSeller(x,S){var sl=document.getElementById("dsell");sl.innerHTML=""
  var dl=document.createElement("dl");dl.className="rows";sl.appendChild(dl);
  function row(k,v,tel){if(!v)return;var w=document.createElement("div"),t=document.createElement("dt"),d=document.createElement("dd");t.textContent=k;
   if(typeof v==="string")d.textContent=v;else d.appendChild(v);
-  // номер + «Қўнғироқ» (02.11). Ссылку tel: Telegram внутри Mini App не открывает, а tw.openLink пускает только
-  // https — поэтому открываем во внешнем браузере call.html, она сразу переходит на tel: (телефон открывает
-  // звонилку). Номер можно и выделить/скопировать.
-  if(tel){var n=tel.replace(/[^\d+]/g,""),nb=document.createElement("div");nb.className="tnum";nb.textContent=tel;d.appendChild(nb);
-   var bx=document.createElement("div");bx.className="tbtns";
-   var c=document.createElement("a");c.className="tbtn";c.href="tel:"+n;c.textContent="📞 Қўнғироқ";bx.appendChild(c);
-   c.onclick=function(ev){if(tw&&tw.openLink){ev.preventDefault();
-    try{tw.openLink(location.origin+location.pathname.replace(/[^\/]*$/,"")+"call.html?n="+encodeURIComponent(n))}catch(e){location.href="tel:"+n}}};
-   d.appendChild(bx)}
+  // номер — просто текстом, его можно выделить и скопировать (02.11: кнопки «Қўнғироқ» и «Telegram» пользователь
+  // убрал — звонилка из Mini App не открывалась)
+  if(tel){var nb=document.createElement("div");nb.className="tnum";nb.textContent="📞 "+tel;d.appendChild(nb)}
   w.appendChild(t);w.appendChild(d);dl.appendChild(w)}
  if(S.mib)row("МИБ бўлими",S.mib);else row("Ташкилот",S.org);
  (S.people||[]).forEach(function(q){row(q[0],q[1]||document.createTextNode(""),q[2])});
