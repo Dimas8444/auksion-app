@@ -98,7 +98,9 @@ h1{font:700 22px/1.2 "PT Serif",Georgia,serif;margin:18px 0 4px}
 .sell .rows{border:0;padding:0;background:none}
 .sell dd{white-space:pre-line}
 .sell .rows dd div{display:block;border:0;padding:0;grid-template-columns:none}
-.sell .tnum{margin-top:4px;white-space:nowrap;user-select:text;-webkit-user-select:text}
+.sell .rows dd .tnum{margin-top:4px;white-space:nowrap;user-select:text;-webkit-user-select:text;display:flex;align-items:center;gap:8px}
+.sell .copy{flex:none;width:34px;height:34px;border-radius:9px;border:1px solid var(--line);background:var(--bg);color:var(--ink);font:700 17px/1 system-ui,sans-serif;cursor:pointer;padding:0}
+.sell .copy.ok{background:var(--green);border-color:var(--green);color:#fff}
 .sell .rows dd .tbtns{display:flex;gap:8px;margin-top:6px;flex-wrap:wrap}
 .sell .tbtn{flex:1 1 0;min-width:110px;text-align:center;padding:9px 10px;border-radius:10px;border:1px solid var(--line);color:var(--ink);text-decoration:none;font-weight:700;font-size:14px;background:var(--bg)}
 .sell .tbtn:first-child{background:var(--green);border-color:var(--green);color:#fff}
@@ -276,6 +278,11 @@ function fillLot(x){var r=(DET&&DET[x.id])||null,dl=document.getElementById("dro
  else bt.classList.add("one")}
 // Кто выставил лот и контакт для осмотра (02.11, состав утвердил пользователь): МИБ — бўлим и ижрочи с телефоном,
 // другая организация — название и телефон; дни осмотра (только будущие)
+// копирование в буфер: clipboard API, а в старых WebView — через скрытое поле и execCommand
+function copyText(t,cb){function old(){var a=document.createElement("textarea");a.value=t;a.setAttribute("readonly","");
+  a.style.position="fixed";a.style.opacity="0";document.body.appendChild(a);a.select();var ok=false;
+  try{ok=document.execCommand("copy")}catch(e){}a.remove();cb(ok)}
+ if(navigator.clipboard&&navigator.clipboard.writeText)navigator.clipboard.writeText(t).then(function(){cb(true)},old);else old()}
 function fillSeller(x,S){var sl=document.getElementById("dsell");sl.innerHTML="";sl.className="";
  if(!S||!(S.mib||S.org||(S.people||[]).length))return;sl.className="sell";
  var h=document.createElement("div");h.className="sh";h.textContent="🔎 Кўздан кечириш учун";sl.appendChild(h);
@@ -284,9 +291,14 @@ function fillSeller(x,S){var sl=document.getElementById("dsell");sl.innerHTML=""
  var dl=document.createElement("dl");dl.className="rows";sl.appendChild(dl);
  function row(k,v,tel){if(!v)return;var w=document.createElement("div"),t=document.createElement("dt"),d=document.createElement("dd");t.textContent=k;
   if(typeof v==="string")d.textContent=v;else d.appendChild(v);
-  // номер — просто текстом, его можно выделить и скопировать (02.11: кнопки «Қўнғироқ» и «Telegram» пользователь
-  // убрал — звонилка из Mini App не открывалась)
-  if(tel){var nb=document.createElement("div");nb.className="tnum";nb.textContent="📞 "+tel;d.appendChild(nb)}
+  // номер текстом + значок «копировать» рядом (02.11: кнопки «Қўнғироқ» и «Telegram» пользователь убрал —
+  // звонилка из Mini App не открывалась)
+  if(tel){var nb=document.createElement("div");nb.className="tnum";var ns=document.createElement("span");ns.textContent="📞 "+tel;nb.appendChild(ns);
+   var cp=document.createElement("button");cp.type="button";cp.className="copy";cp.setAttribute("aria-label","Рақамни нусхалаш");cp.textContent="⧉";
+   cp.onclick=function(){copyText(tel.replace(/\s/g,""),function(ok){cp.textContent=ok?"✓":"⧉";cp.classList.toggle("ok",ok);
+    if(ok&&tw&&tw.HapticFeedback){try{tw.HapticFeedback.notificationOccurred("success")}catch(e){}}
+    setTimeout(function(){cp.textContent="⧉";cp.classList.remove("ok")},1500)})};
+   nb.appendChild(cp);d.appendChild(nb)}
   w.appendChild(t);w.appendChild(d);dl.appendChild(w)}
  if(S.mib)row("МИБ бўлими",S.mib);else row("Ташкилот",S.org);
  (S.people||[]).forEach(function(q){row(q[0],q[1]||document.createTextNode(""),q[2])});
