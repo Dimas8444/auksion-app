@@ -90,6 +90,14 @@ h1{font:700 22px/1.2 "PT Serif",Georgia,serif;margin:18px 0 4px}
 .dnote b{display:block;color:var(--mute);font-weight:400;margin-bottom:4px}
 .btns.one{grid-template-columns:1fr}
 .go.chan{margin-top:-2px}   /* «Каналдаги постни очиш» — полноценная кнопка (решение пользователя 30.10) */
+.more{display:block;width:100%;margin:4px 0 12px;padding:12px;border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:12px;font:inherit;cursor:pointer}
+.more[hidden]{display:none}
+.sell{background:var(--card);border:1px solid var(--line);border-radius:12px;margin:12px 0 0;padding:12px 14px 4px}
+.sell .sh{font-weight:700;font-size:16px}
+.sell .snote{color:var(--mute);font-size:14px;margin:4px 0 6px}
+.sell .rows{border:0;padding:0;background:none}
+.sell dd{white-space:pre-line}
+.sell a.tel{display:block;margin-top:4px;color:var(--green);text-decoration:none;font-weight:700}
 </style></head><body>
 <div id="sc"><div class="wrap">
 <h1>Аукцион савдолар</h1>
@@ -100,6 +108,7 @@ h1{font:700 22px/1.2 "PT Serif",Georgia,serif;margin:18px 0 4px}
 <div class="filter"><label for="reg">Вилоят:</label><select id="reg"></select></div>
 <div class="count" id="count"></div>
 <div class="list" id="list"></div>
+<button class="more" id="more" hidden>Яна кўрсатиш</button>
 <p class="note" id="note"></p>
 </div></div>
 <div id="det" hidden role="dialog" aria-modal="true" aria-label="Лот"></div>
@@ -129,9 +138,15 @@ var cur="avto",SUB={mulk:"turar",yuk:"yuk"},ltag="",LOTS=[],REG="",Q="",ALL=null
 var CYR={"а":"a","б":"b","в":"v","г":"g","д":"d","е":"e","ё":"yo","ж":"j","з":"z","и":"i","й":"y","к":"k","л":"l","м":"m","н":"n","о":"o","п":"p","р":"r","с":"s","т":"t","у":"u","ф":"f","х":"x","ц":"ts","ч":"ch","ш":"sh","щ":"sh","ъ":"","ы":"i","ь":"","э":"e","ю":"yu","я":"ya","ў":"o","қ":"q","ғ":"g","ҳ":"h"};
 function norm(s){s=String(s||"").toLowerCase().replace(/[а-яёўқғҳ]/g,function(ch){return CYR[ch]||ch});
  return s.replace(/c(?=[eiy])/g,"s").replace(/c/g,"k").replace(/q/g,"k").replace(/x/g,"ks").replace(/y/g,"i").replace(/jentra/g,"gentra").replace(/[^a-z0-9]/g,"").replace(/(.)\1+/g,"$1")}
+// Приём заявок ещё открыт? (01.11: компьютер, который убирает закрытые лоты, бывает выключен с вечера субботы
+// до утра понедельника — приложение само скрывает лоты, на которые заявку уже не подать). Время — телефона.
+function openNow(x){var m=/(\d{2})\.(\d{2})\.(\d{4})(?:\s+(\d{1,2}):(\d{2}))?/.exec(x.order_end||""),end;
+ if(m)end=new Date(+m[3],m[2]-1,+m[1],m[4]?+m[4]:23,m[5]?+m[5]:59);
+ else{m=/(\d{2})\.(\d{2})\.(\d{4})/.exec(x.date||"");if(!m)return true;end=new Date(+m[3],m[2]-1,+m[1],9,0)}
+ return end>new Date()}
 function found(){var raw=Q.trim(),n=norm(raw);if(!n)return [];
  // результаты поиска — топ: сначала самые популярные (по избранному), решение пользователя 30.10
- return (ALL||LOTS).filter(function(x){return /^\d{5,}$/.test(raw)?String(x.lot_number||"").indexOf(raw)>=0:norm(x.title).indexOf(n)>=0})
+ return (ALL||LOTS).filter(function(x){return openNow(x)&&( /^\d{5,}$/.test(raw)?String(x.lot_number||"").indexOf(raw)>=0:norm(x.title).indexOf(n)>=0)})
   .sort(function(a,b){return (b.fav||0)-(a.fav||0)})}
 function loadAll(){if(ALL||ALLWAIT)return;ALLWAIT=true;fetch("search.json?t="+Date.now()).then(function(r){return r.json()}).then(function(j){ALL=j;render()}).catch(function(){ALL=LOTS;render()})}
 var qT;
@@ -157,19 +172,19 @@ function fmt(n){return String(Math.round(n)).replace(/\B(?=(\d{3})+(?!\d))/g," "
 function render(){
  var t=document.getElementById("tabs");t.innerHTML="";
  CATS.forEach(function(c){var b=document.createElement("button");b.className="tab";b.textContent=c[1];b.setAttribute("role","tab");b.setAttribute("aria-selected",c[0]===cur);b.onclick=function(){cur=c[0];render()};t.appendChild(b)});
- var l=document.getElementById("list");l.innerHTML="";
+ var l=document.getElementById("list");l.innerHTML="";ITEMS=[];SHOWN=0;document.getElementById("more").hidden=true;
  // при поиске — все опубликованные лоты всех разделов (search.json), без вкладок
  var searching=!!Q.trim();t.classList.toggle("off",searching);
  var subs=SUBS[cur],sub=subs?SUB[cur]:"";
  var sb=document.getElementById("subs");sb.innerHTML="";sb.hidden=searching||!subs;
  if(!sb.hidden)subs.forEach(function(s){var b=document.createElement("button");b.className="tab sub";b.setAttribute("role","tab");b.setAttribute("aria-selected",s[0]===sub);
-  b.textContent=s[1]+" ("+LOTS.filter(function(x){return x.cat===cur&&subOf(x)===s[0]}).length+")";b.onclick=function(){SUB[cur]=s[0];render()};sb.appendChild(b)});
- var land=LOTS.filter(function(x){return x.cat==="mulk"&&x.sub==="yer"});
+  b.textContent=s[1]+" ("+LOTS.filter(function(x){return x.cat===cur&&subOf(x)===s[0]&&openNow(x)}).length+")";b.onclick=function(){SUB[cur]=s[0];render()};sb.appendChild(b)});
+ var land=LOTS.filter(function(x){return x.cat==="mulk"&&x.sub==="yer"&&openNow(x)});
  var ch=document.getElementById("chips");ch.innerHTML="";ch.hidden=sb.hidden||cur!=="mulk"||sub!=="yer";
  if(!ch.hidden)LTAGS.forEach(function(g){var n=g[0]?land.filter(function(x){return (x.tags||[]).indexOf(g[0])>=0}).length:land.length;
   var b=document.createElement("button");b.className="chip";b.setAttribute("aria-pressed",g[0]===ltag);b.textContent=g[1]+" ("+n+")";b.onclick=function(){ltag=g[0];render()};ch.appendChild(b)});
  if(searching&&!ALL){document.getElementById("count").textContent="";l.innerHTML='<div class="empty">Қидирилмоқда…</div>';return}
- var inCat=searching?found():LOTS.filter(function(x){return x.cat===cur&&(!subs||subOf(x)===sub)
+ var inCat=searching?found():LOTS.filter(function(x){return x.cat===cur&&openNow(x)&&(!subs||subOf(x)===sub)
   &&(cur!=="mulk"||sub!=="yer"||!ltag||(x.tags||[]).indexOf(ltag)>=0)});
  var regs=regions(inCat),sel=document.getElementById("reg");
  if(REG&&!regs.some(function(r){return r[0]===REG}))REG="";
@@ -179,7 +194,12 @@ function render(){
  var items=inCat.filter(function(x){return !REG||x.region===REG});
  document.getElementById("count").textContent=items.length?(searching?"«"+Q.trim()+"» бўйича топилди: ":"Топилди: ")+items.length+" та лот":"";
  if(!items.length){l.innerHTML='<div class="empty">'+(searching?"Бу модел бўйича ҳозирча лот йўқ":"Ҳозирча лотлар йўқ")+'</div>'}
- items.forEach(function(x){
+ // список рисуется частями по PAGE лотов, остальные — при прокрутке (01.11: в вкладке теперь сотни лотов,
+ // целиком на телефоне строилось ~0.5–1 с при каждом переключении вкладки и вводе в поиск)
+ renderNote();ITEMS=items;SHOWN=0;more();
+}
+var PAGE=30,ITEMS=[],SHOWN=0;
+function card(x){
   var d=x.price_orig>x.price_final?Math.round((1-x.price_final/x.price_orig)*100):0;
   var mil=x.mileage?(/^\d+$/.test(String(x.mileage))?fmtn(x.mileage)+" км":x.mileage):"";
   var m=(x.info||[]).concat([x.year?x.year+" й.":"",mil?"Пробег: "+mil:"",x.address?"":x.region]).filter(Boolean);
@@ -194,7 +214,14 @@ function render(){
    e.querySelectorAll(".nav").forEach(function(b){b.onclick=function(){st.scrollBy({left:(b.classList.contains("l")?-1:1)*st.clientWidth,behavior:"smooth"})}})}
   var ad=e.querySelector(".addr");if(ad)ad.textContent="📍 "+x.address;   // полный адрес (кўчмас мулк, 29.10)
   var mm=e.querySelector(".meta");m.forEach(function(s){var sp=document.createElement("span");sp.textContent=s;mm.appendChild(sp)});
-  BYID[x.id]=x;l.appendChild(e)});
+  BYID[x.id]=x;return e}
+function more(){var l=document.getElementById("list"),end=Math.min(SHOWN+PAGE,ITEMS.length);
+ for(var i=SHOWN;i<end;i++)l.appendChild(card(ITEMS[i]));SHOWN=end;
+ document.getElementById("more").hidden=SHOWN>=ITEMS.length}
+// подгрузка при прокрутке: ближе ~2 экранов к концу ленты — следующие PAGE лотов; кнопка — запасной путь
+(function(){var sc=document.getElementById("sc");document.getElementById("more").onclick=more;
+ sc.addEventListener("scroll",function(){if(SHOWN<ITEMS.length&&sc.scrollTop+sc.clientHeight>sc.scrollHeight-1500)more()},{passive:true})})();
+function renderNote(){
  document.getElementById("note").textContent=LOTS.some(function(x){return x.sample})?"Намуна маълумотлар. Ҳақиқий лотлар скрейпердан юкланганда алмашади.":"";
 }
 document.addEventListener("click",function(ev){var c=ev.target.closest&&ev.target.closest("[data-lot]");
@@ -217,7 +244,7 @@ function openLot(x){OPEN=x;var dt=document.getElementById("det");
   +(ph.length?'<div class="gal"><div class="strip"></div>'+(ph.length>1?'<button class="nav l" aria-label="Олдинги фото">‹</button><button class="nav r" aria-label="Кейинги фото">›</button><span class="cnt">1/'+ph.length+'</span>':'')+'</div>':'')
   +'<div class="top"><h2 class="name"></h2>'+(d?'<span class="disc">-'+d+'%</span>':'')+'</div><div class="meta"></div>'
   +'<div class="price"><span class="now">'+fmt(x.price_final)+'</span>'+(d?'<span class="old">'+fmt(x.price_orig)+'</span>':'')+'</div>'
-  +'<div class="date">Аукцион санаси: '+x.date+'</div><dl class="rows" id="drows"><div class="wide"><dd style="font-weight:400;color:var(--mute)">Юкланмоқда…</dd></div></dl><div id="dnote"></div>'
+  +'<div class="date">Аукцион санаси: '+x.date+'</div><dl class="rows" id="drows"><div class="wide"><dd style="font-weight:400;color:var(--mute)">Юкланмоқда…</dd></div></dl><div id="dsell"></div><div id="dnote"></div>'
   +'<div class="btns" id="dbtns"><a class="go" target="_blank" rel="noopener" href="'+orderLink(x)+'">Ариза бериш</a></div>'
   +(hasPost(x)?'<a class="go alt chan" target="_blank" rel="noopener" href="'+postUrl(x)+'">📢 Каналдаги постни очиш</a>':'')+'</div>';
  dt.querySelector(".name").textContent=x.title;
@@ -236,20 +263,51 @@ function fillLot(x){var r=(DET&&DET[x.id])||null,dl=document.getElementById("dro
  rows.forEach(function(p){if(!p[1])return;var w=document.createElement("div");if(!p[0])w.className="wide";
   if(p[0]){var t=document.createElement("dt");t.textContent=p[0];w.appendChild(t)}
   var v=document.createElement("dd");v.textContent=p[1];w.appendChild(v);dl.appendChild(w)});
+ fillSeller(x,r&&r.seller);
  var nt=document.getElementById("dnote");nt.innerHTML="";nt.className="";
  if(r&&r.note){nt.className="dnote";var b=document.createElement("b");b.textContent="Изоҳ";nt.appendChild(b);nt.appendChild(document.createTextNode(r.note))}
  var bt=document.getElementById("dbtns");
  if(r&&r.loc){var a=document.createElement("a");a.className="go alt";a.target="_blank";a.rel="noopener";a.href=r.loc;a.textContent="📍 Локация";
   a.onclick=function(ev){if(tw&&tw.openLink){ev.preventDefault();tw.openLink(r.loc)}};bt.insertBefore(a,bt.firstChild)}
  else bt.classList.add("one")}
+// Кто выставил лот и контакты для осмотра (02.11): МИБ / организация, ижрочи и масъул ходим с телефонами,
+// дни осмотра (только будущие) и адрес, где стоит имущество
+function fillSeller(x,S){var sl=document.getElementById("dsell");sl.innerHTML="";sl.className="";
+ if(!S||!(S.org||(S.people||[]).length))return;sl.className="sell";
+ var h=document.createElement("div");h.className="sh";h.textContent="🔎 Кўздан кечириш учун";sl.appendChild(h);
+ var p=document.createElement("p");p.className="snote";
+ p.textContent=(x.cat==="avto"?"Машинани":x.cat==="yuk"?"Техникани":"Мулкни")+" савдога қўйган ташкилот. Кўриш учун олдиндан қўнғироқ қилиб, вақтни келишиб олинг.";sl.appendChild(p);
+ var dl=document.createElement("dl");dl.className="rows";sl.appendChild(dl);
+ function row(k,v,tel){if(!v)return;var w=document.createElement("div"),t=document.createElement("dt"),d=document.createElement("dd");t.textContent=k;
+  if(typeof v==="string")d.textContent=v;else d.appendChild(v);
+  if(tel){var a=document.createElement("a");a.className="tel";a.href="tel:"+tel.replace(/\s/g,"");a.textContent="📞 "+tel;d.appendChild(a)}
+  w.appendChild(t);w.appendChild(d);dl.appendChild(w)}
+ row("Ташкилот",S.org);row("МИБ бўлими",S.mib);
+ (S.people||[]).forEach(function(q){row(q[0],q[1]||" ",q[2])});
+ (S.phones||[]).forEach(function(ph,i){row(i?"":"Қўшимча тел.",document.createTextNode(""),ph)});
+ var now=new Date(),fut=(S.visits||[]).filter(function(v){var m=/(\d{2})\.(\d{2})\.(\d{4})/.exec(v[0]);return m&&new Date(+m[3],m[2]-1,+m[1],23,59)>now});
+ row("Кўриш кунлари",fut.length?fut.map(function(v){return v[0].slice(0,5)+", "+v[1]}).join("\n"):"Телефон орқали келишилади");
+ row("Қаерда турибди",S.addr)}
 function closeLot(fromPop){var dt=document.getElementById("det");if(dt.hidden)return;dt.hidden=true;dt.innerHTML="";OPEN=null;
  if(tw&&tw.BackButton){try{tw.BackButton.hide()}catch(e){}}
  if(fromPop!==true){try{history.back()}catch(e){}}}
 window.addEventListener("popstate",function(){closeLot(true)});
 if(tw&&tw.BackButton&&tw.BackButton.onClick){try{tw.BackButton.onClick(function(){closeLot()})}catch(e){}}
 // Кнопка в канале открывает приложение на своей вкладке: t.me/avtoauksion_bot/auksion?startapp=avto|yuk|mulk
-(function(){var sp=tw&&tw.initDataUnsafe&&tw.initDataUnsafe.start_param||"";
+// Ссылка из поста или уведомления (01.11): ?startapp=<вкладка>_<id> — сразу карточка этого лота;
+// если лота в приложении уже нет (приём заявок закрыт) — остаётся его вкладка
+var STARTLOT=null;
+(function(){var sp=tw&&tw.initDataUnsafe&&tw.initDataUnsafe.start_param||new URLSearchParams(location.search).get("start")||"";
+ var m=/^([a-z]+)_(\d+)$/.exec(sp);if(m){sp=m[1];STARTLOT=+m[2]}
  if(CATS.some(function(c){return c[0]===sp}))cur=sp})();
-fetch("lots.json?t="+Date.now()).then(function(r){return r.json()}).then(function(j){LOTS=j;render()}).catch(function(){render()});
+function showStart(x){cur=x.cat;if(SUB[x.cat])SUB[x.cat]=subOf(x);render();BYID[x.id]=x;openLot(x)}
+function openStart(){if(!STARTLOT)return;var id=STARTLOT;STARTLOT=null;
+ var x=LOTS.filter(function(l){return l.id===id})[0];if(x){showStart(x);return}
+ // лота нет в списке — ищем во всех (search.json)
+ fetch("search.json?t="+Date.now()).then(function(r){return r.json()}).then(function(j){ALL=ALL||j;
+  var y=j.filter(function(l){return l.id===id})[0];if(y)showStart(y)}).catch(function(){})}
+fetch("lots.json?t="+Date.now()).then(function(r){return r.json()}).then(function(j){LOTS=j;render();openStart();
+ // карточки и поиск — заранее, в фоне: первое «Лотни кўриш» и первый поиск без «Юкланмоқда…» (01.11)
+ setTimeout(function(){loadDet();if(!ALL&&!ALLWAIT){ALLWAIT=true;fetch("search.json?t="+Date.now()).then(function(r){return r.json()}).then(function(j){ALL=j;if(Q.trim())render()}).catch(function(){ALLWAIT=false})}},1500)}).catch(function(){render()});
 </script>
 </body></html>
