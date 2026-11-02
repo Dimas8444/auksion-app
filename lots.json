@@ -14296,6 +14296,41 @@
   "test": false
  },
  {
+  "id": 26584769,
+  "lot_number": "26584769",
+  "cat": "mulk",
+  "sub": "noturar",
+  "tags": [],
+  "title": "Бошка, 324 м²",
+  "info": [
+   "Нотурар-жой обьектлари"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Тошкент ш.",
+  "address": "Тошкент ш., Яшнобод тумани, Мураббий кўчаси 88-уй",
+  "price_orig": 1250000000.0,
+  "price_final": 1250000000.0,
+  "date": "30.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/f72c2bfe6360a38b2ee799850dad46c8_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/f72c2bfe6360a38b2ee799850dad46c8_L.jpeg",
+   "https://media.e-auksion.uz/i/c03401266826855ac29e183c1a8dcb4b_L.jpeg",
+   "https://media.e-auksion.uz/i/79376962261432276967a6068f2eec5a_L.jpeg",
+   "https://media.e-auksion.uz/i/9fe214d4f6e323e7476f414efbdf8390_L.jpeg",
+   "https://media.e-auksion.uz/i/c6700644a344872975491fdfd223e33c_L.jpeg",
+   "https://media.e-auksion.uz/i/c03f55f77a40af1301bc0768d374195f_L.jpeg",
+   "https://media.e-auksion.uz/i/8b603b608b73088ec0185495478fb2e6_L.jpeg",
+   "https://media.e-auksion.uz/i/d2a0694d55f82753e0833ca71ca2d761_L.jpeg",
+   "https://media.e-auksion.uz/i/dcf53d833f43cbaec17d31080f1bd23f_L.jpeg",
+   "https://media.e-auksion.uz/i/33b3d3e1524281b6e54d697f4ba1213f_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "30.11.2026 09:00",
+  "test": false
+ },
+ {
   "id": 25975279,
   "lot_number": "25975279",
   "cat": "mulk",
@@ -19528,6 +19563,76 @@
    "https://media.e-auksion.uz/i/d43ac2630850dfbfe888efe501c2c55b_L.jpeg",
    "https://media.e-auksion.uz/i/784f7612076501478fcb74379d37b2a1_L.jpeg",
    "https://media.e-auksion.uz/i/1d13ee53e9d60b5aeb969b06a46e7d59_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "30.11.2026 09:00",
+  "test": false
+ },
+ {
+  "id": 26584763,
+  "lot_number": "26584763",
+  "cat": "mulk",
+  "sub": "turar",
+  "tags": [],
+  "title": "Ҳовли, 2 хона, 6 сотих",
+  "info": [
+   "Турар-жой участкаси (ҳовли)"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Сирдарё вилояти",
+  "address": "Сирдарё вилояти, Янгийер шаҳри, Ма'рифат МФЙ",
+  "price_orig": 137000000.0,
+  "price_final": 137000000.0,
+  "date": "30.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/d29df9b4e0cc0dcaff62c93e1f1574e6_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/d29df9b4e0cc0dcaff62c93e1f1574e6_L.jpeg",
+   "https://media.e-auksion.uz/i/c012d96da54262d41d65b88013851264_L.jpeg",
+   "https://media.e-auksion.uz/i/85d559021317265e01900b94c0788c0a_L.jpeg",
+   "https://media.e-auksion.uz/i/60646cc680dd8c946857a5b92bf2d74d_L.jpeg",
+   "https://media.e-auksion.uz/i/1ab6ac98e45fd157abc836e5dd46f3ce_L.jpeg",
+   "https://media.e-auksion.uz/i/18ff8436881bcaa132ac43cda6bad166_L.jpeg",
+   "https://media.e-auksion.uz/i/919dfd5327385c283fa45925a71e172e_L.jpeg",
+   "https://media.e-auksion.uz/i/ad07220a841e67aff7dcb68d0a9eb74e_L.jpeg",
+   "https://media.e-auksion.uz/i/00374faad952460257670d076e58881e_L.jpeg",
+   "https://media.e-auksion.uz/i/76354cadd8c0ca0bc5ccd5bb69f733dd_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "30.11.2026 09:00",
+  "test": false
+ },
+ {
+  "id": 26584777,
+  "lot_number": "26584777",
+  "cat": "mulk",
+  "sub": "turar",
+  "tags": [],
+  "title": "3 хонали квартира, 57,4 м²",
+  "info": [
+   "Кўп қаватли турар-жойлар"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Сурхондарё вилояти",
+  "address": "Сурхондарё вилояти, Сариосиё тумани, Кончилар махалласи Дўслик кўчаси 1-уй 1-корпуст 11-хонадон.",
+  "price_orig": 112000000.0,
+  "price_final": 112000000.0,
+  "date": "30.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/bc7557191dd7d948ef4c3b624476a613_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/bc7557191dd7d948ef4c3b624476a613_L.jpeg",
+   "https://media.e-auksion.uz/i/43bfeffc4a3c3a666f471fdaab8084ff_L.jpeg",
+   "https://media.e-auksion.uz/i/a877801fad383c2683355ff484f64e9a_L.jpeg",
+   "https://media.e-auksion.uz/i/0301cfac9d03738b6c2a2693a952afc5_L.jpeg",
+   "https://media.e-auksion.uz/i/39cb6ac6ea3d26325b8ad74a626295d3_L.jpeg",
+   "https://media.e-auksion.uz/i/f61c08b37b93ce43bd94ec48a73821a0_L.jpeg",
+   "https://media.e-auksion.uz/i/f023300abeeaa72eeec14e8d5280ac86_L.jpeg",
+   "https://media.e-auksion.uz/i/552add37df306de8e425f181b6275cc5_L.jpeg",
+   "https://media.e-auksion.uz/i/13c53dfa10dc164c4d100d0786b61a26_L.jpeg",
+   "https://media.e-auksion.uz/i/71dc73efd8d7015f51c24fb52f6f7b9e_L.jpeg"
   ],
   "fav": 10,
   "order_end": "30.11.2026 09:00",
