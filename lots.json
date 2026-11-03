@@ -10018,32 +10018,6 @@
   "order_end": "30.11.2026 09:00"
  },
  {
-  "id": 26560250,
-  "lot_number": "26560250",
-  "cat": "avto",
-  "sub": null,
-  "title": "Changan Benben E-Start Qingxin VE",
-  "year": "2023",
-  "mileage": "41080",
-  "region": "Жиззах вилояти",
-  "price_orig": 126739474.0,
-  "price_final": 126739474.0,
-  "date": "30.11.2026",
-  "post_url": null,
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/878d8f3b294a4410f19f80a2b05b2247_L.jpg",
-  "photos": [
-   "https://media.e-auksion.uz/i/878d8f3b294a4410f19f80a2b05b2247_L.jpg",
-   "https://media.e-auksion.uz/i/73e81807b102b6297926a5a36015dba7_L.jpg",
-   "https://media.e-auksion.uz/i/a5e2c85dd3031e57e76c09ce036c6061_L.jpg",
-   "https://media.e-auksion.uz/i/52899909d35fde80261d9bd8f1669abf_L.jpg",
-   "https://media.e-auksion.uz/i/f5942427d269b38f666425b3ec526333_L.jpg",
-   "https://media.e-auksion.uz/i/3b2696cd4ea056804e1ff74588a52440_L.jpg"
-  ],
-  "fav": 29,
-  "order_end": "30.11.2026 09:00"
- },
- {
   "id": 26560279,
   "lot_number": "26560279",
   "cat": "avto",
@@ -10069,6 +10043,32 @@
    "https://media.e-auksion.uz/i/12526e551fa07cc94ba5850aa5b42337_L.jpeg",
    "https://media.e-auksion.uz/i/a8bb4253503bbd814c67d2d0c2c75933_L.jpeg",
    "https://media.e-auksion.uz/i/067089f2d0a233d43c87cc0cf9b024aa_L.jpeg"
+  ],
+  "fav": 29,
+  "order_end": "30.11.2026 09:00"
+ },
+ {
+  "id": 26560250,
+  "lot_number": "26560250",
+  "cat": "avto",
+  "sub": null,
+  "title": "Changan Benben E-Start Qingxin VE",
+  "year": "2023",
+  "mileage": "41080",
+  "region": "Жиззах вилояти",
+  "price_orig": 126739474.0,
+  "price_final": 126739474.0,
+  "date": "30.11.2026",
+  "post_url": "https://t.me/avto_auksion_uz/154241",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/878d8f3b294a4410f19f80a2b05b2247_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/878d8f3b294a4410f19f80a2b05b2247_L.jpg",
+   "https://media.e-auksion.uz/i/73e81807b102b6297926a5a36015dba7_L.jpg",
+   "https://media.e-auksion.uz/i/a5e2c85dd3031e57e76c09ce036c6061_L.jpg",
+   "https://media.e-auksion.uz/i/52899909d35fde80261d9bd8f1669abf_L.jpg",
+   "https://media.e-auksion.uz/i/f5942427d269b38f666425b3ec526333_L.jpg",
+   "https://media.e-auksion.uz/i/3b2696cd4ea056804e1ff74588a52440_L.jpg"
   ],
   "fav": 29,
   "order_end": "30.11.2026 09:00"
