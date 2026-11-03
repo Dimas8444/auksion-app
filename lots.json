@@ -11196,6 +11196,39 @@
   "test": false
  },
  {
+  "id": 26384547,
+  "lot_number": "26384547",
+  "cat": "mulk",
+  "sub": "noturar",
+  "tags": [],
+  "title": "Нотурар бино",
+  "info": [
+   "Давлат объекти"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Самарқанд вилояти",
+  "address": "Самарқанд вилояти, Самарқанд шаҳри, Ёшлар МФЙ, Набиев кўчаси, 3-уй",
+  "price_orig": 24263079130.0,
+  "price_final": 24263079130.0,
+  "date": "06.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/4c2bbf79ce96a0391a0aa6f6a87290d2_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/4c2bbf79ce96a0391a0aa6f6a87290d2_L.jpg",
+   "https://media.e-auksion.uz/i/a19c6320dbe5d64bd798a15ddb98dc30_L.jpg",
+   "https://media.e-auksion.uz/i/65ca6444bf64c09500772d3fdbfefba6_L.jpg",
+   "https://media.e-auksion.uz/i/4efca390db889cb27d16663dbc05d677_L.jpg",
+   "https://media.e-auksion.uz/i/d0d5cac038d4ebe76f432850f23d0ac2_L.jpg",
+   "https://media.e-auksion.uz/i/2dd87c8bab3b259056569ab6ddd56560_L.jpg",
+   "https://media.e-auksion.uz/i/5ae1b906452ea0fdfc4f5cd4faaf9e80_L.jpg",
+   "https://media.e-auksion.uz/i/cba5cce17120baad7ed1dfae63bd1707_L.jpg"
+  ],
+  "fav": 10,
+  "order_end": "06.11.2026 09:00",
+  "test": false
+ },
+ {
   "id": 26100071,
   "lot_number": "26100071",
   "cat": "mulk",
@@ -20378,6 +20411,70 @@
   "test": false
  },
  {
+  "id": 26556693,
+  "lot_number": "26556693",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "noturar",
+   "ijara"
+  ],
+  "title": "Ер участкаси, 0,72 сотих",
+  "info": [
+   "Тадбиркорлик ва шаҳарсозлик учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Тошкент ш.",
+  "address": "Тошкент ш., Шайхонтоҳур тумани, Ибн Сино",
+  "price_orig": 423983970.0,
+  "price_final": 423983970.0,
+  "date": "06.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/34b1c4f26674240bc947432c9f63c6ea_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/34b1c4f26674240bc947432c9f63c6ea_L.jpeg",
+   "https://media.e-auksion.uz/i/7729f79264d4de71e36d0e5cf7637d66_L.jpeg",
+   "https://media.e-auksion.uz/i/57db0317db2ded44f931b13bc2de7051_L.jpeg",
+   "https://media.e-auksion.uz/i/50f29031305af1acb510ed5368055590_L.jpeg",
+   "https://media.e-auksion.uz/i/1593f7b984389ee7d542bc2cdb614a16_L.jpeg"
+  ],
+  "fav": 11,
+  "order_end": "06.11.2026 09:00",
+  "test": false
+ },
+ {
+  "id": 26396505,
+  "lot_number": "26396505",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "noturar"
+  ],
+  "title": "Ер участкаси, 5,32 сотих",
+  "info": [
+   "Тадбиркорлик ва шаҳарсозлик учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Қорақалпоғистон Республикаси",
+  "address": "Қорақалпоғистон Республикаси, Қўнғирот тумани, Гулабад МФЙ",
+  "price_orig": 14459748.57,
+  "price_final": 14459748.57,
+  "date": "06.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/3a4aaa7d893f7b9d846b002b0d4a8578_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/3a4aaa7d893f7b9d846b002b0d4a8578_L.jpeg",
+   "https://media.e-auksion.uz/i/7fb84f0b916b3afd663410ec20aa3a4e_L.jpeg",
+   "https://media.e-auksion.uz/i/3fcc2532c282d83da6116a4709a6dd6f_L.jpeg",
+   "https://media.e-auksion.uz/i/d75e905cb75d564ad32ddea636f0e5f3_L.jpeg"
+  ],
+  "fav": 11,
+  "order_end": "06.11.2026 09:00",
+  "test": false
+ },
+ {
   "id": 26556983,
   "lot_number": "26556983",
   "cat": "mulk",
@@ -20401,6 +20498,35 @@
   "photos": [
    "https://media.e-auksion.uz/i/601e04ad45a5768d5fbbe91262aa9d64_L.jpeg",
    "https://media.e-auksion.uz/i/674f82b829a1120ae7ff98e1b9f8032c_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "06.11.2026 09:00",
+  "test": false
+ },
+ {
+  "id": 26556982,
+  "lot_number": "26556982",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "yakka"
+  ],
+  "title": "Ер участкаси, 2 сотих",
+  "info": [
+   "Якка тартибда уй-жой қуриш учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Тошкент ш.",
+  "address": "Тошкент ш., Юнусобод тумани, Ҳамкоробод",
+  "price_orig": 926999365.0,
+  "price_final": 741599492.0,
+  "date": "06.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/49ba42aee7dd228a040aabcda9313113_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/49ba42aee7dd228a040aabcda9313113_L.jpg",
+   "https://media.e-auksion.uz/i/f5c108a350e3e886a3a602eba37e34e7_L.jpg"
   ],
   "fav": 10,
   "order_end": "06.11.2026 09:00",
