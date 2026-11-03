@@ -10770,6 +10770,39 @@
   "test": false
  },
  {
+  "id": 26459860,
+  "lot_number": "26459860",
+  "cat": "mulk",
+  "sub": "noturar",
+  "tags": [],
+  "title": "Офис, 628,8 м²",
+  "info": [
+   "Нотурар-жой обьектлари"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Сирдарё вилояти",
+  "address": "Сирдарё вилояти, Гулистон шаҳри, Бахор МФЙ, Тошкент шох кўчаси, 113-уй",
+  "price_orig": 725000000.0,
+  "price_final": 725000000.0,
+  "date": "05.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/2ca262fa7c94b60f81c2ee830f118573_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/2ca262fa7c94b60f81c2ee830f118573_L.jpg",
+   "https://media.e-auksion.uz/i/c85f7beaf62ab6dcd42b46e695238dcc_L.jpg",
+   "https://media.e-auksion.uz/i/bb85c645265de69a2445fc10a7010b3d_L.jpg",
+   "https://media.e-auksion.uz/i/23042ae4e8308a6edb38eb7e8e0b0218_L.jpg",
+   "https://media.e-auksion.uz/i/aa39e5587f8cdce97eb272e9f433bdc7_L.jpg",
+   "https://media.e-auksion.uz/i/cf34f6f7adbb563f6cb85ed01cf4be07_L.jpg",
+   "https://media.e-auksion.uz/i/6b59f433ade48255f2f2a0ffdcfb53ae_L.jpg",
+   "https://media.e-auksion.uz/i/f059e5737ecab9f75ad3da450b1a2192_L.jpg"
+  ],
+  "fav": 10,
+  "order_end": "05.11.2026 09:00",
+  "test": false
+ },
+ {
   "id": 26011202,
   "lot_number": "26011202",
   "cat": "mulk",
@@ -15097,6 +15130,39 @@
    "https://media.e-auksion.uz/i/23ab9e4e8314dd84cb2cca442df7d1e7_L.jpg",
    "https://media.e-auksion.uz/i/eba7aa8c346ee2d125648e3f65eb7cea_L.jpg",
    "https://media.e-auksion.uz/i/348a9e3ad1533a68c0b13b94978aa6d3_L.jpg"
+  ],
+  "fav": 10,
+  "order_end": "05.11.2026 09:00",
+  "test": false
+ },
+ {
+  "id": 26364108,
+  "lot_number": "26364108",
+  "cat": "mulk",
+  "sub": "turar",
+  "tags": [],
+  "title": "2 хонали квартира, 71 м²",
+  "info": [
+   "Кўп қаватли турар-жойлар"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Фарғона вилояти",
+  "address": "Фарғона вилояти, Фарғона шаҳри, Ўрмончилар МФЙ, Мустақиллик шох кўчаси, 15-уй, 19-хонадон",
+  "price_orig": 264875000.0,
+  "price_final": 264875000.0,
+  "date": "05.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/e79c0a1cccd3ba3f7d6882ba1601cbc6_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/e79c0a1cccd3ba3f7d6882ba1601cbc6_L.jpg",
+   "https://media.e-auksion.uz/i/90597d6a607a9ca70955a24a68c0848c_L.jpg",
+   "https://media.e-auksion.uz/i/8ec212f438108b6bcd5b94a2b1068a48_L.jpg",
+   "https://media.e-auksion.uz/i/9b549a35619bc8c46a08d5cc54ca162b_L.jpg",
+   "https://media.e-auksion.uz/i/82d91583aa951433df37a7a08e34a7c6_L.jpg",
+   "https://media.e-auksion.uz/i/3337f687c0cc3da9659e8c861b0cab75_L.jpg",
+   "https://media.e-auksion.uz/i/6dbf379fc4e1d54763a973166b3db743_L.jpg",
+   "https://media.e-auksion.uz/i/ee6fab7f9624e3dcda9e05cff5bf2327_L.jpg"
   ],
   "fav": 10,
   "order_end": "05.11.2026 09:00",
@@ -20123,6 +20189,70 @@
    "https://media.e-auksion.uz/i/21fd7f36ee8970e9afb079718c10ecb4_L.jpeg",
    "https://media.e-auksion.uz/i/b35b85e2d22d8176f4b39ee3d397d068_L.jpeg",
    "https://media.e-auksion.uz/i/c7c326b71b8669d3c737fed8b1f2f649_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "05.11.2026 09:00",
+  "test": false
+ },
+ {
+  "id": 26519779,
+  "lot_number": "26519779",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "noturar",
+   "ijara"
+  ],
+  "title": "Ер участкаси, 1,8 сотих",
+  "info": [
+   "Тадбиркорлик ва шаҳарсозлик учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Тошкент ш.",
+  "address": "Тошкент ш., Миробод тумани, Янги Қўйлиқ МФЙ",
+  "price_orig": 526009187.0,
+  "price_final": 473408268.3,
+  "date": "05.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/f9b0e85b277ff63be29f1ab4fb4c2dd8_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/f9b0e85b277ff63be29f1ab4fb4c2dd8_L.jpg",
+   "https://media.e-auksion.uz/i/18e2d5c103462798b4842d4315d753b9_L.jpg",
+   "https://media.e-auksion.uz/i/420785e8146ee0867d26a846f21138b0_L.jpg",
+   "https://media.e-auksion.uz/i/86ecccc42f38b7f4efdeb1eb20c54792_L.jpg",
+   "https://media.e-auksion.uz/i/1bb9fc851c0a78281dbf7645a1ad4543_L.png"
+  ],
+  "fav": 10,
+  "order_end": "05.11.2026 09:00",
+  "test": false
+ },
+ {
+  "id": 26523586,
+  "lot_number": "26523586",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "noturar",
+   "ijara"
+  ],
+  "title": "Ер участкаси, 3,4 сотих",
+  "info": [
+   "Туристик зона учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Андижон вилояти",
+  "address": "Андижон вилояти, Хонобод шаҳри, Кампироввот МФЙ",
+  "price_orig": 29665174.4,
+  "price_final": 8899552.32,
+  "date": "05.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/01a6ce515699b322eea4d0e4f1be3793_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/01a6ce515699b322eea4d0e4f1be3793_L.jpeg",
+   "https://media.e-auksion.uz/i/e6a9a5ec0975e4c543c9244b80de2a40_L.jpeg",
+   "https://media.e-auksion.uz/i/f970c2342346161f7e2456f669312471_L.jpeg"
   ],
   "fav": 10,
   "order_end": "05.11.2026 09:00",
