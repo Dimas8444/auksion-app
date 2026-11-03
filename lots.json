@@ -11004,6 +11004,60 @@
   "order_end": "03.12.2026 09:00"
  },
  {
+  "id": 26619718,
+  "lot_number": "26619718",
+  "cat": "avto",
+  "sub": null,
+  "title": "SPARK",
+  "year": "2014",
+  "mileage": "153925",
+  "region": "Тошкент ш.",
+  "price_orig": 34242030.0,
+  "price_final": 34242030.0,
+  "date": "03.12.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/f0114d325659efd57e7dee88587b4c87_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/f0114d325659efd57e7dee88587b4c87_L.jpg",
+   "https://media.e-auksion.uz/i/f95350bcc9c19faf40f920eebd6e9e87_L.jpg",
+   "https://media.e-auksion.uz/i/c3e6127988dfa77efd2b04445653eee8_L.jpg",
+   "https://media.e-auksion.uz/i/f9d4f1117312daa0e9387d0cb28fafb8_L.jpg",
+   "https://media.e-auksion.uz/i/71c1eb28d4378b2f5ee08186200a8727_L.jpg",
+   "https://media.e-auksion.uz/i/424bb41e4a112c1b371ac3ac39b43988_L.jpg"
+  ],
+  "fav": 17,
+  "order_end": "03.12.2026 09:00"
+ },
+ {
+  "id": 26585042,
+  "lot_number": "26585042",
+  "cat": "avto",
+  "sub": null,
+  "title": "LACETTI",
+  "year": "2014 yil",
+  "mileage": "406191",
+  "region": "Фарғона вилояти",
+  "price_orig": 62758000.0,
+  "price_final": 62758000.0,
+  "date": "03.12.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/8c17a422bd6dfd24770b632c791414ea_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/8c17a422bd6dfd24770b632c791414ea_L.jpg",
+   "https://media.e-auksion.uz/i/829a4829902aafbc9e0ea148307ccc6a_L.jpg",
+   "https://media.e-auksion.uz/i/be3fada4d176cf3e8392138ee390086f_L.jpg",
+   "https://media.e-auksion.uz/i/e14e05a1ea46cc4f0a012ae050c04cf9_L.jpg",
+   "https://media.e-auksion.uz/i/a61c8e2509c81d7ff20f60ae8ada3164_L.jpg",
+   "https://media.e-auksion.uz/i/8b1d65e4730ff2d90bdb3b6240ce69b3_L.jpg",
+   "https://media.e-auksion.uz/i/a1707caf12fc691b593b9cd90f3d331f_L.jpg",
+   "https://media.e-auksion.uz/i/03a6261c2facb3af9de4784622667fb8_L.jpg"
+  ],
+  "fav": 15,
+  "order_end": "03.12.2026 09:00"
+ },
+ {
   "id": 26330915,
   "lot_number": "26330915",
   "cat": "mulk",
@@ -26620,6 +26674,32 @@
    "https://media.e-auksion.uz/i/89686a1f1dbcd960c37c67676302d41c_L.jpeg"
   ],
   "fav": 25,
+  "order_end": "03.12.2026 09:00"
+ },
+ {
+  "id": 26619713,
+  "lot_number": "26619713",
+  "cat": "yuk",
+  "sub": "yuk",
+  "title": "MAN TGS40.400",
+  "year": "2016",
+  "mileage": "",
+  "region": "Қашқадарё вилояти",
+  "price_orig": 693317291.0,
+  "price_final": 693317291.0,
+  "date": "03.12.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/880bdd3559c61f0a4b1c0b90795daadf_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/880bdd3559c61f0a4b1c0b90795daadf_L.jpg",
+   "https://media.e-auksion.uz/i/42991c254f0cc65e1d4189bc9ef01d34_L.jpg",
+   "https://media.e-auksion.uz/i/64683403de9758e9872b528a091b31a3_L.jpg",
+   "https://media.e-auksion.uz/i/01c90f3e870fe135971ed7dec9f697a3_L.jpg",
+   "https://media.e-auksion.uz/i/727828d412699bd5e3b5c8354d7d46bb_L.jpg",
+   "https://media.e-auksion.uz/i/bfa09401ffae6865e3339af7fff6784c_L.jpg"
+  ],
+  "fav": 11,
   "order_end": "03.12.2026 09:00"
  }
 ]
