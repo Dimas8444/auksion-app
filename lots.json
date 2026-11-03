@@ -10192,6 +10192,33 @@
   "order_end": "30.11.2026 09:00"
  },
  {
+  "id": 26584870,
+  "lot_number": "26584870",
+  "cat": "avto",
+  "sub": null,
+  "title": "SPARK",
+  "year": "2017",
+  "mileage": "",
+  "region": "Тошкент вилояти",
+  "price_orig": 21000000.0,
+  "price_final": 14700000.0,
+  "date": "30.11.2026",
+  "post_url": "https://t.me/avto_auksion_uz/154298",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/097538533e0a2e37a199c6151362b309_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/097538533e0a2e37a199c6151362b309_L.jpeg",
+   "https://media.e-auksion.uz/i/e62cff017403a28882c6841f1b5c00e6_L.jpeg",
+   "https://media.e-auksion.uz/i/9f45dee3a297c5b08e76735f1ab0a57f_L.jpeg",
+   "https://media.e-auksion.uz/i/a67330564719a380341af06b5ec1fa56_L.jpeg",
+   "https://media.e-auksion.uz/i/697130883c6453307391c64f4bb632c4_L.jpeg",
+   "https://media.e-auksion.uz/i/16ff064934c3c21ab7d9b9e69871db71_L.jpeg",
+   "https://media.e-auksion.uz/i/5b4cc40575abd743f52eb3816e8d7295_L.jpeg"
+  ],
+  "fav": 22,
+  "order_end": "30.11.2026 09:00"
+ },
+ {
   "id": 26560339,
   "lot_number": "26560339",
   "cat": "avto",
@@ -10214,33 +10241,6 @@
    "https://media.e-auksion.uz/i/2a8af3142b610eff318b348a8a45b8a7_L.jpeg",
    "https://media.e-auksion.uz/i/239900d8d5c31a7c878adc76524fb312_L.jpeg",
    "https://media.e-auksion.uz/i/81d5240a73d0739a6657d845e9e3cebb_L.jpeg"
-  ],
-  "fav": 21,
-  "order_end": "30.11.2026 09:00"
- },
- {
-  "id": 26584870,
-  "lot_number": "26584870",
-  "cat": "avto",
-  "sub": null,
-  "title": "SPARK",
-  "year": "2017",
-  "mileage": "",
-  "region": "Тошкент вилояти",
-  "price_orig": 21000000.0,
-  "price_final": 14700000.0,
-  "date": "30.11.2026",
-  "post_url": null,
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/097538533e0a2e37a199c6151362b309_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/097538533e0a2e37a199c6151362b309_L.jpeg",
-   "https://media.e-auksion.uz/i/e62cff017403a28882c6841f1b5c00e6_L.jpeg",
-   "https://media.e-auksion.uz/i/9f45dee3a297c5b08e76735f1ab0a57f_L.jpeg",
-   "https://media.e-auksion.uz/i/a67330564719a380341af06b5ec1fa56_L.jpeg",
-   "https://media.e-auksion.uz/i/697130883c6453307391c64f4bb632c4_L.jpeg",
-   "https://media.e-auksion.uz/i/16ff064934c3c21ab7d9b9e69871db71_L.jpeg",
-   "https://media.e-auksion.uz/i/5b4cc40575abd743f52eb3816e8d7295_L.jpeg"
   ],
   "fav": 21,
   "order_end": "30.11.2026 09:00"
