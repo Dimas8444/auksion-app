@@ -2571,6 +2571,30 @@
   "order_end": "05.11.2026 09:00"
  },
  {
+  "id": 26452579,
+  "lot_number": "26452579",
+  "cat": "avto",
+  "sub": null,
+  "title": "CHEVROLET NIVA",
+  "year": "2005",
+  "mileage": "148954",
+  "region": "Тошкент ш.",
+  "price_orig": 38000000.0,
+  "price_final": 38000000.0,
+  "date": "05.11.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/78a85b003b662d8f45867fa265870315_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/78a85b003b662d8f45867fa265870315_L.jpg",
+   "https://media.e-auksion.uz/i/9559b83c09d2b1fe5b0c99ec5484823d_L.jpg",
+   "https://media.e-auksion.uz/i/172715fc21e1df6eae82bf4a8d4e6add_L.jpg",
+   "https://media.e-auksion.uz/i/28564293e6dfd6f993ecb0de894e802c_L.jpg"
+  ],
+  "fav": 10,
+  "order_end": "05.11.2026 09:00"
+ },
+ {
   "id": 26452424,
   "lot_number": "26452424",
   "cat": "avto",
@@ -5624,6 +5648,33 @@
    "https://media.e-auksion.uz/i/0c3fd77e0185ac9e44154b99dc3d98f2_L.jpeg",
    "https://media.e-auksion.uz/i/aca5b6ababf0b2d9aa54960d15bbdca3_L.jpeg",
    "https://media.e-auksion.uz/i/042d234c775c68f60af34d762378105e_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "09.11.2026 09:00"
+ },
+ {
+  "id": 26582438,
+  "lot_number": "26582438",
+  "cat": "avto",
+  "sub": null,
+  "title": "MATIZ",
+  "year": "2011",
+  "mileage": "211846",
+  "region": "Тошкент ш.",
+  "price_orig": 19438720.0,
+  "price_final": 19438720.0,
+  "date": "09.11.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/482a5aaa635e126eefebbd81cefc6ba3_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/482a5aaa635e126eefebbd81cefc6ba3_L.jpg",
+   "https://media.e-auksion.uz/i/6d435eaebcf73378e3c610aba7a7010d_L.jpg",
+   "https://media.e-auksion.uz/i/679cd72bc10db4236a0dcd9aabc36656_L.jpg",
+   "https://media.e-auksion.uz/i/79aeb7f5fa5620af4bba819a7632a2c0_L.jpg",
+   "https://media.e-auksion.uz/i/760c51a4776a71589a98fa0073f6f2a6_L.jpg",
+   "https://media.e-auksion.uz/i/d02f9187a862216766c77919e039598c_L.jpg",
+   "https://media.e-auksion.uz/i/796c371f9bf15db4af7a1234dd4749e1_L.jpg"
   ],
   "fav": 10,
   "order_end": "09.11.2026 09:00"
