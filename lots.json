@@ -14913,6 +14913,39 @@
   "test": false
  },
  {
+  "id": 26202666,
+  "lot_number": "26202666",
+  "cat": "mulk",
+  "sub": "noturar",
+  "tags": [],
+  "title": "Савдо дўкони, 93,1 м²",
+  "info": [
+   "Нотурар-жой обьектлари"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Жиззах вилояти",
+  "address": "Жиззах вилояти, Шароф Рашидов тумани, Қанғли МФЙ Қангли кўчаси 92-уй",
+  "price_orig": 550000000.0,
+  "price_final": 550000000.0,
+  "date": "16.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/f6c4a555a3f8e6f02beca49ae199266b_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/f6c4a555a3f8e6f02beca49ae199266b_L.jpg",
+   "https://media.e-auksion.uz/i/ae9bcb25bf0541570012164b2273844a_L.jpg",
+   "https://media.e-auksion.uz/i/8e6d8b13e3128e0fe7317672821adbc8_L.jpg",
+   "https://media.e-auksion.uz/i/76a402485e6afddba371e4cb3026e740_L.jpg",
+   "https://media.e-auksion.uz/i/4ee950b42c000a9d501c9de6cb390059_L.jpg",
+   "https://media.e-auksion.uz/i/013e6b639d5e27fd09449bfbc23d3b30_L.jpg",
+   "https://media.e-auksion.uz/i/6c1539ca4af815df20d56f688561c0ef_L.jpg",
+   "https://media.e-auksion.uz/i/51c6e2a52d39d09575d47864f7dfd035_L.jpg"
+  ],
+  "fav": 11,
+  "order_end": "16.11.2026 09:00",
+  "test": false
+ },
+ {
   "id": 26237065,
   "lot_number": "26237065",
   "cat": "mulk",
@@ -23527,6 +23560,35 @@
    "https://media.e-auksion.uz/i/faa479a1c31e165738347d7b2abe2d3d_L.jpg"
   ],
   "fav": 17,
+  "order_end": "16.11.2026 09:00",
+  "test": false
+ },
+ {
+  "id": 26584559,
+  "lot_number": "26584559",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "yakka"
+  ],
+  "title": "Ер участкаси, 3,44 сотих",
+  "info": [
+   "Якка тартибда уй-жой қуриш учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Тошкент ш.",
+  "address": "Тошкент ш., Яшнобод тумани, Гўзал МФЙ",
+  "price_orig": 1942555556.0,
+  "price_final": 1942555556.0,
+  "date": "16.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/2ab99a9a8327f31a82b2dff4d8441ea2_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/2ab99a9a8327f31a82b2dff4d8441ea2_L.jpeg",
+   "https://media.e-auksion.uz/i/b4e2a7f9069a328b9bb68a402c0861c5_L.jpeg"
+  ],
+  "fav": 10,
   "order_end": "16.11.2026 09:00",
   "test": false
  },
