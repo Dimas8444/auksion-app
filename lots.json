@@ -600,6 +600,31 @@
   "order_end": "05.11.2026 09:00"
  },
  {
+  "id": 26456472,
+  "lot_number": "26456472",
+  "cat": "avto",
+  "sub": null,
+  "title": "Lasetti",
+  "year": "2020",
+  "mileage": "201000",
+  "region": "Қашқадарё вилояти",
+  "price_orig": 68281920.0,
+  "price_final": 68281920.0,
+  "date": "05.11.2026",
+  "post_url": "https://t.me/avto_auksion_uz/154539",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/b80d3ff57cdb64a8814c57056f509f87_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/b80d3ff57cdb64a8814c57056f509f87_L.jpeg",
+   "https://media.e-auksion.uz/i/4ab20df322952fc358a2f63affbc2589_L.jpeg",
+   "https://media.e-auksion.uz/i/b8695ad23b94112f54c70323226616cf_L.jpeg",
+   "https://media.e-auksion.uz/i/b4915616b02e271f603de926bd8d02e7_L.jpeg",
+   "https://media.e-auksion.uz/i/99cd99541b559c2c5243c3c6a8b548b4_L.jpeg"
+  ],
+  "fav": 24,
+  "order_end": "05.11.2026 09:00"
+ },
+ {
   "id": 26456483,
   "lot_number": "26456483",
   "cat": "avto",
@@ -624,31 +649,6 @@
    "https://media.e-auksion.uz/i/d07a6a8109e0c597d22874550014cf1e_L.jpg",
    "https://media.e-auksion.uz/i/fefeda89cdbe89d58d0017e00bf9ebeb_L.jpg",
    "https://media.e-auksion.uz/i/5c4aca2d28a7c83034786722a8fcc05f_L.jpg"
-  ],
-  "fav": 23,
-  "order_end": "05.11.2026 09:00"
- },
- {
-  "id": 26456472,
-  "lot_number": "26456472",
-  "cat": "avto",
-  "sub": null,
-  "title": "Lasetti",
-  "year": "2020",
-  "mileage": "201000",
-  "region": "Қашқадарё вилояти",
-  "price_orig": 68281920.0,
-  "price_final": 68281920.0,
-  "date": "05.11.2026",
-  "post_url": null,
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/b80d3ff57cdb64a8814c57056f509f87_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/b80d3ff57cdb64a8814c57056f509f87_L.jpeg",
-   "https://media.e-auksion.uz/i/4ab20df322952fc358a2f63affbc2589_L.jpeg",
-   "https://media.e-auksion.uz/i/b8695ad23b94112f54c70323226616cf_L.jpeg",
-   "https://media.e-auksion.uz/i/b4915616b02e271f603de926bd8d02e7_L.jpeg",
-   "https://media.e-auksion.uz/i/99cd99541b559c2c5243c3c6a8b548b4_L.jpeg"
   ],
   "fav": 23,
   "order_end": "05.11.2026 09:00"
