@@ -1794,31 +1794,6 @@
   ]
  },
  {
-  "id": 26619717,
-  "lot_number": "26619717",
-  "cat": "avto",
-  "sub": null,
-  "title": "HYUNDAI SONATA",
-  "year": "2021",
-  "mileage": "129761",
-  "region": "Тошкент ш.",
-  "price_orig": 312551000.0,
-  "price_final": 312551000.0,
-  "date": "09.11.2026",
-  "post_url": null,
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/4ab1ae170a8beba6cd7bc84279d192b9_L.jpg",
-  "photos": [
-   "https://media.e-auksion.uz/i/4ab1ae170a8beba6cd7bc84279d192b9_L.jpg",
-   "https://media.e-auksion.uz/i/dbc78da29c768cdc0519a91498086e1d_L.jpg",
-   "https://media.e-auksion.uz/i/9fbe27e6c038c536a6a4fc82f1e3b1bd_L.jpg",
-   "https://media.e-auksion.uz/i/6032d472ab83d2a6a138bd00339a877b_L.jpg",
-   "https://media.e-auksion.uz/i/1fc486012df97ab56536345c7d9e8ac3_L.jpg"
-  ],
-  "fav": 20,
-  "order_end": "09.11.2026 09:00"
- },
- {
   "id": 26546231,
   "lot_number": "26546231",
   "cat": "avto",
@@ -1844,6 +1819,31 @@
    "https://media.e-auksion.uz/i/5846304a6d136f35b0fce79732012f7a_L.jpeg",
    "https://media.e-auksion.uz/i/cbf096601026b7a8cb0d174e42796d41_L.jpeg",
    "https://media.e-auksion.uz/i/e219b6acbf5ace1a5346085058bc696b_L.jpeg"
+  ],
+  "fav": 20,
+  "order_end": "09.11.2026 09:00"
+ },
+ {
+  "id": 26619717,
+  "lot_number": "26619717",
+  "cat": "avto",
+  "sub": null,
+  "title": "HYUNDAI SONATA",
+  "year": "2021",
+  "mileage": "129761",
+  "region": "Тошкент ш.",
+  "price_orig": 312551000.0,
+  "price_final": 312551000.0,
+  "date": "09.11.2026",
+  "post_url": "https://t.me/avto_auksion_uz/154750",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/4ab1ae170a8beba6cd7bc84279d192b9_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/4ab1ae170a8beba6cd7bc84279d192b9_L.jpg",
+   "https://media.e-auksion.uz/i/dbc78da29c768cdc0519a91498086e1d_L.jpg",
+   "https://media.e-auksion.uz/i/9fbe27e6c038c536a6a4fc82f1e3b1bd_L.jpg",
+   "https://media.e-auksion.uz/i/6032d472ab83d2a6a138bd00339a877b_L.jpg",
+   "https://media.e-auksion.uz/i/1fc486012df97ab56536345c7d9e8ac3_L.jpg"
   ],
   "fav": 20,
   "order_end": "09.11.2026 09:00"
