@@ -21483,6 +21483,35 @@
   "test": false
  },
  {
+  "id": 26525800,
+  "lot_number": "26525800",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "yakka"
+  ],
+  "title": "Ер участкаси, 4 сотих",
+  "info": [
+   "Якка тартибда уй-жой қуриш учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Жиззах вилояти",
+  "address": "Жиззах вилояти, Фориш тумани, Осмонсой МФЙ",
+  "price_orig": 26696000.0,
+  "price_final": 26696000.0,
+  "date": "12.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/280dbaea0e96dee15584f00e4f3618a5_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/280dbaea0e96dee15584f00e4f3618a5_L.jpeg",
+   "https://media.e-auksion.uz/i/86526f073dd67de4a38a54c771d9d3ea_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "12.11.2026 09:00",
+  "test": false
+ },
+ {
   "id": 26558884,
   "lot_number": "26558884",
   "cat": "mulk",
@@ -23658,6 +23687,35 @@
    "https://media.e-auksion.uz/i/551858cc16b7a82f29afbb1503aa1cb5_L.jpg",
    "https://media.e-auksion.uz/i/c6cb7278558a3c35efc7b6ac636831f2_L.jpg",
    "https://media.e-auksion.uz/i/9419bebade566af898ee7bd60befd555_L.jpg"
+  ],
+  "fav": 10,
+  "order_end": "09.11.2026 09:00"
+ },
+ {
+  "id": 26561551,
+  "lot_number": "26561551",
+  "cat": "yuk",
+  "sub": "yuk",
+  "title": "GAZ33020214",
+  "year": "2007",
+  "mileage": "",
+  "region": "Тошкент ш.",
+  "price_orig": 114937000.0,
+  "price_final": 91949600.0,
+  "date": "09.11.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/6e17c3288a4751d821980b94252ba8d6_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/6e17c3288a4751d821980b94252ba8d6_L.jpeg",
+   "https://media.e-auksion.uz/i/07f24d153a6c206f5592a1fbe24cd8c6_L.jpeg",
+   "https://media.e-auksion.uz/i/c492a0bd6cd8492a016af41a9e3e4cc3_L.jpeg",
+   "https://media.e-auksion.uz/i/8e45c8dd74a68ebefea9a66ef3efe429_L.jpeg",
+   "https://media.e-auksion.uz/i/183ae0742a6016ea34414414f44d84c8_L.jpeg",
+   "https://media.e-auksion.uz/i/1799dfd9fa33a9d2ada668cc24ac0b50_L.jpeg",
+   "https://media.e-auksion.uz/i/a2a886d19c6b993da3b9a7a5743b0882_L.jpeg",
+   "https://media.e-auksion.uz/i/d1af0c353e00f457173e5d293beef347_L.jpeg",
+   "https://media.e-auksion.uz/i/7139ba6325be93e6275ab2099de3cb55_L.jpeg"
   ],
   "fav": 10,
   "order_end": "09.11.2026 09:00"
