@@ -1794,36 +1794,6 @@
   ]
  },
  {
-  "id": 26546231,
-  "lot_number": "26546231",
-  "cat": "avto",
-  "sub": null,
-  "title": "COBALT",
-  "year": "2025",
-  "mileage": "",
-  "region": "Хоразм вилояти",
-  "price_orig": 128700000.0,
-  "price_final": 102960000.0,
-  "date": "09.11.2026",
-  "post_url": null,
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/b13c1ec62ae3445bd076e98d72d078fd_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/b13c1ec62ae3445bd076e98d72d078fd_L.jpeg",
-   "https://media.e-auksion.uz/i/c5952323ab4b7db6e01033d166520c0c_L.jpeg",
-   "https://media.e-auksion.uz/i/ed1e811dd263de21015cb411113dcc67_L.jpeg",
-   "https://media.e-auksion.uz/i/d0026d04c4bdba3eeb9cd41fb09b536f_L.jpeg",
-   "https://media.e-auksion.uz/i/e39c506184b982549c76419d31181684_L.jpeg",
-   "https://media.e-auksion.uz/i/cf70cd141cf3760d3bbd656005104769_L.jpeg",
-   "https://media.e-auksion.uz/i/d7ccf3ddeec56c1adc74f1d913e1b240_L.jpeg",
-   "https://media.e-auksion.uz/i/5846304a6d136f35b0fce79732012f7a_L.jpeg",
-   "https://media.e-auksion.uz/i/cbf096601026b7a8cb0d174e42796d41_L.jpeg",
-   "https://media.e-auksion.uz/i/e219b6acbf5ace1a5346085058bc696b_L.jpeg"
-  ],
-  "fav": 20,
-  "order_end": "09.11.2026 09:00"
- },
- {
   "id": 26619717,
   "lot_number": "26619717",
   "cat": "avto",
@@ -1844,6 +1814,36 @@
    "https://media.e-auksion.uz/i/9fbe27e6c038c536a6a4fc82f1e3b1bd_L.jpg",
    "https://media.e-auksion.uz/i/6032d472ab83d2a6a138bd00339a877b_L.jpg",
    "https://media.e-auksion.uz/i/1fc486012df97ab56536345c7d9e8ac3_L.jpg"
+  ],
+  "fav": 20,
+  "order_end": "09.11.2026 09:00"
+ },
+ {
+  "id": 26546231,
+  "lot_number": "26546231",
+  "cat": "avto",
+  "sub": null,
+  "title": "COBALT",
+  "year": "2025",
+  "mileage": "",
+  "region": "Хоразм вилояти",
+  "price_orig": 128700000.0,
+  "price_final": 102960000.0,
+  "date": "09.11.2026",
+  "post_url": "https://t.me/avto_auksion_uz/154740",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/b13c1ec62ae3445bd076e98d72d078fd_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/b13c1ec62ae3445bd076e98d72d078fd_L.jpeg",
+   "https://media.e-auksion.uz/i/c5952323ab4b7db6e01033d166520c0c_L.jpeg",
+   "https://media.e-auksion.uz/i/ed1e811dd263de21015cb411113dcc67_L.jpeg",
+   "https://media.e-auksion.uz/i/d0026d04c4bdba3eeb9cd41fb09b536f_L.jpeg",
+   "https://media.e-auksion.uz/i/e39c506184b982549c76419d31181684_L.jpeg",
+   "https://media.e-auksion.uz/i/cf70cd141cf3760d3bbd656005104769_L.jpeg",
+   "https://media.e-auksion.uz/i/d7ccf3ddeec56c1adc74f1d913e1b240_L.jpeg",
+   "https://media.e-auksion.uz/i/5846304a6d136f35b0fce79732012f7a_L.jpeg",
+   "https://media.e-auksion.uz/i/cbf096601026b7a8cb0d174e42796d41_L.jpeg",
+   "https://media.e-auksion.uz/i/e219b6acbf5ace1a5346085058bc696b_L.jpeg"
   ],
   "fav": 20,
   "order_end": "09.11.2026 09:00"
