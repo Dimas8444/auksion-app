@@ -14253,6 +14253,37 @@
   "test": false
  },
  {
+  "id": 26685193,
+  "lot_number": "26685193",
+  "cat": "mulk",
+  "sub": "noturar",
+  "tags": [],
+  "title": "Ижарага, 42,9 м², 60 ой",
+  "info": [
+   "Ижара"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Самарқанд вилояти",
+  "address": "Самарқанд вилояти, Самарқанд шаҳри, Ализода МФЙ, Амир Темур кучаси, 152-уй",
+  "price_orig": 17754937.2,
+  "price_final": 17754937.2,
+  "date": "19.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/98156bc7d8a6cc9c99564eeec9a2f870_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/98156bc7d8a6cc9c99564eeec9a2f870_L.jpg",
+   "https://media.e-auksion.uz/i/f00763cdb7d024428ffc1b0f05bed8a1_L.jpg",
+   "https://media.e-auksion.uz/i/ae481427ab27c6af1e09743b74e88c76_L.jpg",
+   "https://media.e-auksion.uz/i/49ea7702d984e6ed98045ce6d55db57e_L.jpg",
+   "https://media.e-auksion.uz/i/adf32060870eb213251562de4d0ecd81_L.jpg",
+   "https://media.e-auksion.uz/i/d0369521bc5a5247d159627cba51a196_L.jpg"
+  ],
+  "fav": 11,
+  "order_end": "19.11.2026 09:00",
+  "test": false
+ },
+ {
   "id": 26297584,
   "lot_number": "26297584",
   "cat": "mulk",
@@ -22885,6 +22916,38 @@
   ],
   "fav": 10,
   "order_end": "18.11.2026 09:00",
+  "test": false
+ },
+ {
+  "id": 26685307,
+  "lot_number": "26685307",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "noturar",
+   "ijara"
+  ],
+  "title": "Ер участкаси, 0,5 сотих",
+  "info": [
+   "Тадбиркорлик ва шаҳарсозлик учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Фарғона вилояти",
+  "address": "Фарғона вилояти, Фарғона шаҳри, Табассум МФЙ",
+  "price_orig": 17130000.0,
+  "price_final": 17130000.0,
+  "date": "19.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/53f3d943b57e96178725d531363e122b_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/53f3d943b57e96178725d531363e122b_L.jpeg",
+   "https://media.e-auksion.uz/i/09ff4f632c25a59311702656522bd8df_L.jpeg",
+   "https://media.e-auksion.uz/i/2c85b8171aa85286dde6223e295465a6_L.jpeg",
+   "https://media.e-auksion.uz/i/6a02f46735a473ad43f12ae6fc24f01a_L.jpeg"
+  ],
+  "fav": 14,
+  "order_end": "19.11.2026 09:00",
   "test": false
  },
  {
