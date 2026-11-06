@@ -1346,36 +1346,6 @@
   "order_end": "09.11.2026 09:00"
  },
  {
-  "id": 26561541,
-  "lot_number": "26561541",
-  "cat": "avto",
-  "sub": null,
-  "title": "BESTUNE N55",
-  "year": "2024",
-  "mileage": "",
-  "region": "Қорақалпоғистон Республикаси",
-  "price_orig": 199800000.0,
-  "price_final": 159840000.0,
-  "date": "09.11.2026",
-  "post_url": null,
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/2b55a9738595628c535323218492efed_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/2b55a9738595628c535323218492efed_L.jpeg",
-   "https://media.e-auksion.uz/i/d95fc6cc4725e6dc67d2786b5c795f06_L.jpeg",
-   "https://media.e-auksion.uz/i/21912edec99fe9783d408592f189ace7_L.jpeg",
-   "https://media.e-auksion.uz/i/dcba4d1062a592629a14d97a34eecd03_L.jpeg",
-   "https://media.e-auksion.uz/i/37ae3db48cb702cfd13d31c61381bc63_L.jpeg",
-   "https://media.e-auksion.uz/i/d2ced0b3d6aa9187695bd989dc0e0780_L.jpeg",
-   "https://media.e-auksion.uz/i/c17d26cb38f381338e8b5d1f434c3d62_L.jpeg",
-   "https://media.e-auksion.uz/i/db490f663f8e1284f2fbcb549619cc68_L.jpeg",
-   "https://media.e-auksion.uz/i/db3e1467c63c4305fc929b8d257a116d_L.jpeg",
-   "https://media.e-auksion.uz/i/0500cece9a42b4370134bee55d8cebc1_L.jpeg"
-  ],
-  "fav": 21,
-  "order_end": "09.11.2026 09:00"
- },
- {
   "id": 26546150,
   "lot_number": "26546150",
   "cat": "avto",
@@ -1401,6 +1371,36 @@
    "https://media.e-auksion.uz/i/5529d6f3f468762cb3cf1e007a062bf3_L.jpeg",
    "https://media.e-auksion.uz/i/c466b0a98234a13b9bc48cd932a08817_L.jpeg",
    "https://media.e-auksion.uz/i/7e813945d645eaf3d3ede1e112aee50c_L.jpeg"
+  ],
+  "fav": 21,
+  "order_end": "09.11.2026 09:00"
+ },
+ {
+  "id": 26561541,
+  "lot_number": "26561541",
+  "cat": "avto",
+  "sub": null,
+  "title": "BESTUNE N55",
+  "year": "2024",
+  "mileage": "",
+  "region": "Қорақалпоғистон Республикаси",
+  "price_orig": 199800000.0,
+  "price_final": 159840000.0,
+  "date": "09.11.2026",
+  "post_url": "https://t.me/avto_auksion_uz/154828",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/2b55a9738595628c535323218492efed_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/2b55a9738595628c535323218492efed_L.jpeg",
+   "https://media.e-auksion.uz/i/d95fc6cc4725e6dc67d2786b5c795f06_L.jpeg",
+   "https://media.e-auksion.uz/i/21912edec99fe9783d408592f189ace7_L.jpeg",
+   "https://media.e-auksion.uz/i/dcba4d1062a592629a14d97a34eecd03_L.jpeg",
+   "https://media.e-auksion.uz/i/37ae3db48cb702cfd13d31c61381bc63_L.jpeg",
+   "https://media.e-auksion.uz/i/d2ced0b3d6aa9187695bd989dc0e0780_L.jpeg",
+   "https://media.e-auksion.uz/i/c17d26cb38f381338e8b5d1f434c3d62_L.jpeg",
+   "https://media.e-auksion.uz/i/db490f663f8e1284f2fbcb549619cc68_L.jpeg",
+   "https://media.e-auksion.uz/i/db3e1467c63c4305fc929b8d257a116d_L.jpeg",
+   "https://media.e-auksion.uz/i/0500cece9a42b4370134bee55d8cebc1_L.jpeg"
   ],
   "fav": 21,
   "order_end": "09.11.2026 09:00"
