@@ -14192,6 +14192,35 @@
   "test": false
  },
  {
+  "id": 26621268,
+  "lot_number": "26621268",
+  "cat": "mulk",
+  "sub": "noturar",
+  "tags": [],
+  "title": "Ижарага, 2 м², 60 ой",
+  "info": [
+   "Ижара"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Самарқанд вилояти",
+  "address": "Самарқанд вилояти, Самарқанд шаҳри, Ализода МФЙ, Амир Темур кучаси, 152-уй",
+  "price_orig": 2010624.0,
+  "price_final": 2010624.0,
+  "date": "17.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/5b9c49b3cbecf61a3be7cbaa3d180398_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/5b9c49b3cbecf61a3be7cbaa3d180398_L.jpg",
+   "https://media.e-auksion.uz/i/ae6118571e04bfc1b2ff4feec7b15578_L.jpg",
+   "https://media.e-auksion.uz/i/bc640039ac298c5182b78cb26a7e9c5b_L.jpg",
+   "https://media.e-auksion.uz/i/f93ce112bb05f7f1144d4face0067a1e_L.jpg"
+  ],
+  "fav": 11,
+  "order_end": "17.11.2026 09:00",
+  "test": false
+ },
+ {
   "id": 26620227,
   "lot_number": "26620227",
   "cat": "mulk",
@@ -22768,6 +22797,64 @@
    "https://media.e-auksion.uz/i/9404a7059528b86390295f0991a6cac0_L.jpeg"
   ],
   "fav": 11,
+  "order_end": "17.11.2026 09:00",
+  "test": false
+ },
+ {
+  "id": 26619365,
+  "lot_number": "26619365",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "noturar"
+  ],
+  "title": "Ер участкаси, 1,01 сотих",
+  "info": [
+   "Тадбиркорлик ва шаҳарсозлик учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Наманган вилояти",
+  "address": "Наманган вилояти, Наманган шаҳри, Келажак тонги МФЙ",
+  "price_orig": 35858338.0,
+  "price_final": 35858338.0,
+  "date": "17.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/50feb917392e5f25801600174d6053b9_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/50feb917392e5f25801600174d6053b9_L.jpg",
+   "https://media.e-auksion.uz/i/970547446fa21eaf69a9a00feafa1b60_L.jpg"
+  ],
+  "fav": 10,
+  "order_end": "17.11.2026 09:00",
+  "test": false
+ },
+ {
+  "id": 26619366,
+  "lot_number": "26619366",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "noturar"
+  ],
+  "title": "Ер участкаси, 1 сотих",
+  "info": [
+   "Тадбиркорлик ва шаҳарсозлик учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Наманган вилояти",
+  "address": "Наманган вилояти, Наманган шаҳри, Келажак тонги МФЙ",
+  "price_orig": 35503305.0,
+  "price_final": 35503305.0,
+  "date": "17.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/b50064f026550c27c9d1f0a25d7ca244_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/b50064f026550c27c9d1f0a25d7ca244_L.jpg",
+   "https://media.e-auksion.uz/i/96322bc1da77081972e030965ff09c71_L.jpg"
+  ],
+  "fav": 10,
   "order_end": "17.11.2026 09:00",
   "test": false
  },
