@@ -11197,6 +11197,32 @@
   "order_end": "07.12.2026 09:00"
  },
  {
+  "id": 26719178,
+  "lot_number": "26719178",
+  "cat": "avto",
+  "sub": null,
+  "title": "MALIBU 2",
+  "year": "2020",
+  "mileage": "",
+  "region": "Қорақалпоғистон Республикаси",
+  "price_orig": 155250000.0,
+  "price_final": 155250000.0,
+  "date": "07.12.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/e8909330d4aed109f5412f50ef77d2fb_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/e8909330d4aed109f5412f50ef77d2fb_L.jpeg",
+   "https://media.e-auksion.uz/i/9be7111ef1ebdad8da8f790d7d43603f_L.jpeg",
+   "https://media.e-auksion.uz/i/2a0e5c252cfa8be0dc969a1cc5bc898a_L.jpeg",
+   "https://media.e-auksion.uz/i/1ac9330bd50744817b72a1f1d57c0756_L.jpeg",
+   "https://media.e-auksion.uz/i/3543555ab81ad31807f6df8b444b63da_L.jpeg",
+   "https://media.e-auksion.uz/i/a20e2d27943c943c52ed31b2dd40bf58_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "07.12.2026 09:00"
+ },
+ {
   "id": 26100071,
   "lot_number": "26100071",
   "cat": "mulk",
@@ -12666,6 +12692,36 @@
    "https://media.e-auksion.uz/i/345789db0fdeec2f98a866a20bf04e9b_L.jpg",
    "https://media.e-auksion.uz/i/938663d7753e054533fc3bb7cbd149aa_L.jpg",
    "https://media.e-auksion.uz/i/d43d1ed21a833d25419e6e274171dcbb_L.jpg"
+  ],
+  "fav": 11,
+  "order_end": "12.11.2026 09:00",
+  "test": false
+ },
+ {
+  "id": 26526026,
+  "lot_number": "26526026",
+  "cat": "mulk",
+  "sub": "noturar",
+  "tags": [],
+  "title": "Кўп қаватли уйдаги хонадон",
+  "info": [
+   "Давлат объекти"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Андижон вилояти",
+  "address": "Андижон вилояти, Андижон шаҳри, Соғлом авлод МФЙ, 2-кичик нохия кўчаси, 9-уй, 4-хонадон",
+  "price_orig": 536748033.0,
+  "price_final": 536748033.0,
+  "date": "12.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/9e7780ccff6d4547e464582fbb834180_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/9e7780ccff6d4547e464582fbb834180_L.jpg",
+   "https://media.e-auksion.uz/i/597f41aceaef3f8980d40a2dc6ffd2fc_L.jpg",
+   "https://media.e-auksion.uz/i/16be3aa263a519e5bc8e7ca9c9cba43f_L.jpg",
+   "https://media.e-auksion.uz/i/ad50a1c621b05329295e6a70c50fc5fe_L.jpg",
+   "https://media.e-auksion.uz/i/7321235cdb6af5521d1ba63e59e2c951_L.jpg"
   ],
   "fav": 11,
   "order_end": "12.11.2026 09:00",
@@ -22080,6 +22136,64 @@
   "test": false
  },
  {
+  "id": 26525796,
+  "lot_number": "26525796",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "yakka"
+  ],
+  "title": "Ер участкаси, 4 сотих",
+  "info": [
+   "Якка тартибда уй-жой қуриш учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Жиззах вилояти",
+  "address": "Жиззах вилояти, Фориш тумани, Осмонсой МФЙ",
+  "price_orig": 26696000.0,
+  "price_final": 26696000.0,
+  "date": "12.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/d36b4e29f07ad29f0d7c011d5ce2f7b2_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/d36b4e29f07ad29f0d7c011d5ce2f7b2_L.jpeg",
+   "https://media.e-auksion.uz/i/7d1e2c7ef587d3783e875e898002a81f_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "12.11.2026 09:00",
+  "test": false
+ },
+ {
+  "id": 26525813,
+  "lot_number": "26525813",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "yakka"
+  ],
+  "title": "Ер участкаси, 4 сотих",
+  "info": [
+   "Якка тартибда уй-жой қуриш учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Жиззах вилояти",
+  "address": "Жиззах вилояти, Фориш тумани, Осмонсой МФЙ",
+  "price_orig": 26696000.0,
+  "price_final": 26696000.0,
+  "date": "12.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/ebc4aa1d029016c641c5e7cf550f0985_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/ebc4aa1d029016c641c5e7cf550f0985_L.jpeg",
+   "https://media.e-auksion.uz/i/58bcd945b44a9626c5f95ec1acde6895_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "12.11.2026 09:00",
+  "test": false
+ },
+ {
   "id": 26558884,
   "lot_number": "26558884",
   "cat": "mulk",
@@ -23937,6 +24051,34 @@
    "https://media.e-auksion.uz/i/46379d418ba47ee3ef41e443e29aa73d_L.jpg"
   ],
   "fav": 16,
+  "order_end": "07.12.2026 09:00"
+ },
+ {
+  "id": 26685186,
+  "lot_number": "26685186",
+  "cat": "yuk",
+  "sub": "maxsus",
+  "title": "Булдозер",
+  "year": "2009",
+  "mileage": "",
+  "region": "Фарғона вилояти",
+  "price_orig": 176500000.0,
+  "price_final": 123550000.0,
+  "date": "07.12.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/24116a003dc10b8354209f7c13f54818_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/24116a003dc10b8354209f7c13f54818_L.jpeg",
+   "https://media.e-auksion.uz/i/96d10aaed8baaa51c7a56795b0ca6ffc_L.jpeg",
+   "https://media.e-auksion.uz/i/4fd0c55d27a21620b150b21feabc57cb_L.jpeg",
+   "https://media.e-auksion.uz/i/affcdec467ac255565bd3c7aa1e103b7_L.jpeg",
+   "https://media.e-auksion.uz/i/d03f4e624a65c3a0eca81f4acadabb47_L.jpeg",
+   "https://media.e-auksion.uz/i/b702833bac3b07f0a5926626e1cfe424_L.jpeg",
+   "https://media.e-auksion.uz/i/2a48d198144ae85104ac512527213704_L.jpeg",
+   "https://media.e-auksion.uz/i/fa4ddcd302e04300e1558af2f11aac05_L.jpeg"
+  ],
+  "fav": 10,
   "order_end": "07.12.2026 09:00"
  },
  {
