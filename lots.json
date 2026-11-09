@@ -12743,6 +12743,36 @@
   "test": false
  },
  {
+  "id": 26716194,
+  "lot_number": "26716194",
+  "cat": "mulk",
+  "sub": "noturar",
+  "tags": [],
+  "title": "Ижарага, 16,3 м², 60 ой",
+  "info": [
+   "Ижара"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Наманган вилояти",
+  "address": "Наманган вилояти, Давлатобод тумани, Тадбиркор МФЙ, Янги шахар кўчаси, 30-уй",
+  "price_orig": 4985983.25,
+  "price_final": 4985983.25,
+  "date": "20.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/b6644a584925579df00520cce1bbca9e_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/b6644a584925579df00520cce1bbca9e_L.jpg",
+   "https://media.e-auksion.uz/i/b84414e226110b03388908b526ce3591_L.jpg",
+   "https://media.e-auksion.uz/i/c1720315080d39f7673af9bd1cc88309_L.jpg",
+   "https://media.e-auksion.uz/i/0c74ddecf4a93cf08485e713d5c80427_L.jpg",
+   "https://media.e-auksion.uz/i/9c4a6c5c443514fa8fa549e83c7dc2cb_L.jpg"
+  ],
+  "fav": 10,
+  "order_end": "20.11.2026 09:00",
+  "test": false
+ },
+ {
   "id": 26422182,
   "lot_number": "26422182",
   "cat": "mulk",
@@ -20755,6 +20785,35 @@
   ],
   "fav": 10,
   "order_end": "19.11.2026 09:00",
+  "test": false
+ },
+ {
+  "id": 26717350,
+  "lot_number": "26717350",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "noturar"
+  ],
+  "title": "Ер участкаси, 2,27 сотих",
+  "info": [
+   "Тадбиркорлик ва шаҳарсозлик учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Хоразм вилояти",
+  "address": "Хоразм вилояти, Қўшкўпир тумани, Тараққиёт",
+  "price_orig": 29546892.0,
+  "price_final": 29546892.0,
+  "date": "20.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/d083046f5fddc200b0d7b32fc163217b_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/d083046f5fddc200b0d7b32fc163217b_L.jpeg",
+   "https://media.e-auksion.uz/i/6d6a6db83024a3f610e09715ae806cf2_L.jpeg"
+  ],
+  "fav": 12,
+  "order_end": "20.11.2026 09:00",
   "test": false
  },
  {
