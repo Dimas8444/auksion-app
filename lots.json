@@ -9697,6 +9697,67 @@
   "test": false
  },
  {
+  "id": 26673085,
+  "lot_number": "26673085",
+  "cat": "mulk",
+  "sub": "noturar",
+  "tags": [],
+  "title": "Нотурар бино",
+  "info": [
+   "Давлат объекти"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Тошкент ш.",
+  "address": "Тошкент ш., Учтепа тумани, Бешқайрағоч МФЙ, Кўкча Дарвоза кўчаси, 628-уй",
+  "price_orig": 748291989.0,
+  "price_final": 748291989.0,
+  "date": "11.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/435904d7cbbe48b7943197c748e74dcb_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/435904d7cbbe48b7943197c748e74dcb_L.jpg",
+   "https://media.e-auksion.uz/i/88cc9a79c1babeeb310d89a61ff988db_L.jpg",
+   "https://media.e-auksion.uz/i/d4952d90bc86705ff570be7402ce6bbd_L.jpg",
+   "https://media.e-auksion.uz/i/0ea43f93053ca46c73f8ee9e07532970_L.jpg",
+   "https://media.e-auksion.uz/i/f6c8d0f5761d655591bef4fda50b8470_L.jpg"
+  ],
+  "fav": 10,
+  "order_end": "11.11.2026 09:00",
+  "test": false
+ },
+ {
+  "id": 26493540,
+  "lot_number": "26493540",
+  "cat": "mulk",
+  "sub": "noturar",
+  "tags": [],
+  "title": "Ижарага, 39,5 м², 60 ой",
+  "info": [
+   "Ижара"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Хоразм вилояти",
+  "address": "Хоразм вилояти, Хазорасп тумани, Киртепа МФЙ, Севинч кўчаси, 455а-уй",
+  "price_orig": 8094142.5,
+  "price_final": 8094142.5,
+  "date": "11.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/cdd876b7cd0b5da4ff455f17f9b24056_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/cdd876b7cd0b5da4ff455f17f9b24056_L.jpg",
+   "https://media.e-auksion.uz/i/bee05824ffdf980b2a9410ca971b0fd3_L.jpg",
+   "https://media.e-auksion.uz/i/a5e12c41393c59bdecaf5dd8556c97d7_L.jpg",
+   "https://media.e-auksion.uz/i/f43eac1a24aa352842800a724fa8d5f6_L.jpg",
+   "https://media.e-auksion.uz/i/d30df90d741efd2b7fe2daabece88e61_L.jpg",
+   "https://media.e-auksion.uz/i/47aa17c5fc1d70dc2acfa4a25892d182_L.jpg"
+  ],
+  "fav": 10,
+  "order_end": "11.11.2026 09:00",
+  "test": false
+ },
+ {
   "id": 26134867,
   "lot_number": "26134867",
   "cat": "mulk",
@@ -13351,6 +13412,40 @@
   ],
   "fav": 10,
   "order_end": "10.11.2026 09:00",
+  "test": false
+ },
+ {
+  "id": 26743353,
+  "lot_number": "26743353",
+  "cat": "mulk",
+  "sub": "turar",
+  "tags": [],
+  "title": "3 хонали квартира, 62,1 м²",
+  "info": [
+   "Кўп қаватли турар-жойлар"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Жиззах вилояти",
+  "address": "Жиззах вилояти, Жиззах шаҳри, Ёшлик МФЙ, Ёшлик кўчаси, 97-уй, 5-хонадон",
+  "price_orig": 421875000.0,
+  "price_final": 421875000.0,
+  "date": "11.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/90b807976ddd4c355cbdd6404eb5fdee_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/90b807976ddd4c355cbdd6404eb5fdee_L.jpeg",
+   "https://media.e-auksion.uz/i/446397f18b22abcdcfd78db85248adca_L.jpeg",
+   "https://media.e-auksion.uz/i/a2bdb3365a7cda6da64b23eba7484fae_L.jpeg",
+   "https://media.e-auksion.uz/i/21e12f7fae45c9fad306db3aba0c2172_L.jpeg",
+   "https://media.e-auksion.uz/i/5bab340fad29ebc0e3db4cc1335ca71b_L.jpeg",
+   "https://media.e-auksion.uz/i/6df7c8d1a2c019cb47fc85bc03f81fb0_L.jpeg",
+   "https://media.e-auksion.uz/i/f75e44f98a09863aaf82e7c472bfe17a_L.jpeg",
+   "https://media.e-auksion.uz/i/966d3bea1b8d684ece15880cf4838c2b_L.jpeg",
+   "https://media.e-auksion.uz/i/96016f7398bc88f3b7c3a7e8c08065f6_L.jpeg"
+  ],
+  "fav": 11,
+  "order_end": "11.11.2026 09:00",
   "test": false
  },
  {
