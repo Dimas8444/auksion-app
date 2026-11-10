@@ -6016,6 +6016,36 @@
   "order_end": "19.11.2026 09:00"
  },
  {
+  "id": 26763932,
+  "lot_number": "26763932",
+  "cat": "avto",
+  "sub": null,
+  "title": "SPARK",
+  "year": "2017",
+  "mileage": "",
+  "region": "Самарқанд вилояти",
+  "price_orig": 66100000.0,
+  "price_final": 52880000.0,
+  "date": "19.11.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/10eddaa6d541b97fecf63643424ddfae_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/10eddaa6d541b97fecf63643424ddfae_L.jpeg",
+   "https://media.e-auksion.uz/i/25dde0139e29c415d6807c99168901bc_L.jpeg",
+   "https://media.e-auksion.uz/i/aaeeb4a36253366af8450912cae2f82f_L.jpeg",
+   "https://media.e-auksion.uz/i/b6114180863954b77939fbf7c07acec0_L.jpeg",
+   "https://media.e-auksion.uz/i/99a62cea8076aa79c2d7faca52851bda_L.jpeg",
+   "https://media.e-auksion.uz/i/02f07176bce65f342ecf29c91394360f_L.jpeg",
+   "https://media.e-auksion.uz/i/9dbe03ed222b4d8d1bbeaf2cd1894ec4_L.jpeg",
+   "https://media.e-auksion.uz/i/ada9e0324131780c89e7e7d0bb1bd203_L.jpeg",
+   "https://media.e-auksion.uz/i/c68b47c3c5c1978b8cf6fde74af7b71d_L.jpeg",
+   "https://media.e-auksion.uz/i/8c903c28a85d809ddfd5e1b9695d1a3f_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "19.11.2026 09:00"
+ },
+ {
   "id": 26331626,
   "lot_number": "26331626",
   "cat": "avto",
@@ -11913,6 +11943,36 @@
    "https://media.e-auksion.uz/i/28ee820f98ef601254ab73f4167b2c51_L.jpg"
   ],
   "fav": 11,
+  "order_end": "07.12.2026 09:00"
+ },
+ {
+  "id": 26719240,
+  "lot_number": "26719240",
+  "cat": "avto",
+  "sub": null,
+  "title": "LACETTI",
+  "year": "2023",
+  "mileage": "67224",
+  "region": "Самарқанд вилояти",
+  "price_orig": 122360000.0,
+  "price_final": 122360000.0,
+  "date": "07.12.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/c1971baa3fad203e48b6654e166ba6ad_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/c1971baa3fad203e48b6654e166ba6ad_L.jpeg",
+   "https://media.e-auksion.uz/i/bacf48af3c59c2277960ae7d7a573819_L.jpeg",
+   "https://media.e-auksion.uz/i/f44e9c814ed35d105f4205a8dee3b023_L.jpeg",
+   "https://media.e-auksion.uz/i/bd8f6b2318ed8d3760882f03eb787a9e_L.jpeg",
+   "https://media.e-auksion.uz/i/2b183ffc77bf1d020e497281a81c3469_L.jpeg",
+   "https://media.e-auksion.uz/i/24abc1bfc19f47ef1efc93cff891e01c_L.jpeg",
+   "https://media.e-auksion.uz/i/2ec43ef5672529cf922270550e5e1c39_L.jpeg",
+   "https://media.e-auksion.uz/i/df3016a4c501b3f2201c297ec234fbd3_L.jpeg",
+   "https://media.e-auksion.uz/i/3abc2d52bf185ed12424cd5173fe4475_L.jpeg",
+   "https://media.e-auksion.uz/i/e6d4938112c78a607720c38751630221_L.jpeg"
+  ],
+  "fav": 10,
   "order_end": "07.12.2026 09:00"
  },
  {
