@@ -11489,6 +11489,33 @@
   "order_end": "07.12.2026 09:00"
  },
  {
+  "id": 26743460,
+  "lot_number": "26743460",
+  "cat": "avto",
+  "sub": null,
+  "title": "LACETTI",
+  "year": "2010",
+  "mileage": "456167",
+  "region": "Наманган вилояти",
+  "price_orig": 47259000.0,
+  "price_final": 33081300.0,
+  "date": "07.12.2026",
+  "post_url": "https://t.me/avto_auksion_uz/155448",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/a5446c9a25c146affde1d968f965ccdb_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/a5446c9a25c146affde1d968f965ccdb_L.jpeg",
+   "https://media.e-auksion.uz/i/bb5da44417c3f07525dfef901747b6a8_L.jpeg",
+   "https://media.e-auksion.uz/i/92d210c1706832dc2b7ffc873ad75131_L.jpeg",
+   "https://media.e-auksion.uz/i/f4b31cca5de6266df196309ecd00222f_L.jpeg",
+   "https://media.e-auksion.uz/i/fd43fa11201cd75354aae04f6872d25a_L.jpeg",
+   "https://media.e-auksion.uz/i/181bdeba608e42b1c1a5f4c6cbb9686b_L.jpeg",
+   "https://media.e-auksion.uz/i/fbeb94c0b79c6360774afa9c5c911002_L.jpeg"
+  ],
+  "fav": 35,
+  "order_end": "07.12.2026 09:00"
+ },
+ {
   "id": 26743396,
   "lot_number": "26743396",
   "cat": "avto",
@@ -11514,33 +11541,6 @@
    "https://media.e-auksion.uz/i/f89da867e3323499c5b64a381bec5287_L.jpeg",
    "https://media.e-auksion.uz/i/a2a8050e65b5a1076514bf7ed6c28ad7_L.jpeg",
    "https://media.e-auksion.uz/i/c93de28bdc0b7c782f7733db27e4a330_L.jpeg"
-  ],
-  "fav": 34,
-  "order_end": "07.12.2026 09:00"
- },
- {
-  "id": 26743460,
-  "lot_number": "26743460",
-  "cat": "avto",
-  "sub": null,
-  "title": "LACETTI",
-  "year": "2010",
-  "mileage": "456167",
-  "region": "Наманган вилояти",
-  "price_orig": 47259000.0,
-  "price_final": 33081300.0,
-  "date": "07.12.2026",
-  "post_url": null,
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/a5446c9a25c146affde1d968f965ccdb_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/a5446c9a25c146affde1d968f965ccdb_L.jpeg",
-   "https://media.e-auksion.uz/i/bb5da44417c3f07525dfef901747b6a8_L.jpeg",
-   "https://media.e-auksion.uz/i/92d210c1706832dc2b7ffc873ad75131_L.jpeg",
-   "https://media.e-auksion.uz/i/f4b31cca5de6266df196309ecd00222f_L.jpeg",
-   "https://media.e-auksion.uz/i/fd43fa11201cd75354aae04f6872d25a_L.jpeg",
-   "https://media.e-auksion.uz/i/181bdeba608e42b1c1a5f4c6cbb9686b_L.jpeg",
-   "https://media.e-auksion.uz/i/fbeb94c0b79c6360774afa9c5c911002_L.jpeg"
   ],
   "fav": 34,
   "order_end": "07.12.2026 09:00"
