@@ -24216,6 +24216,35 @@
   "test": false
  },
  {
+  "id": 26743220,
+  "lot_number": "26743220",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "yakka"
+  ],
+  "title": "Ер участкаси, 2,5 сотих",
+  "info": [
+   "Якка тартибда уй-жой қуриш учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Хоразм вилояти",
+  "address": "Хоразм вилояти, Боғот тумани, Октепа МФЙ",
+  "price_orig": 26146585.0,
+  "price_final": 26146585.0,
+  "date": "23.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/98597f0122424ac5b6c16de2f507f4c3_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/98597f0122424ac5b6c16de2f507f4c3_L.jpeg",
+   "https://media.e-auksion.uz/i/95cd3d816fab3073a729e19822609893_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "23.11.2026 09:00",
+  "test": false
+ },
+ {
   "id": 26260434,
   "lot_number": "26260434",
   "cat": "yuk",
