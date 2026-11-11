@@ -28403,32 +28403,6 @@
   "sub": "yuk"
  },
  {
-  "id": 26584654,
-  "lot_number": "26584654",
-  "cat": "yuk",
-  "sub": "yuk",
-  "title": "GAZ5201",
-  "year": "1988",
-  "mileage": "",
-  "region": "Наманган вилояти",
-  "price_orig": 7542430.0,
-  "price_final": 7542430.0,
-  "date": "16.11.2026",
-  "post_url": null,
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/3a82870b6361a6bec0d71b4a07cd4582_L.png",
-  "photos": [
-   "https://media.e-auksion.uz/i/3a82870b6361a6bec0d71b4a07cd4582_L.png",
-   "https://media.e-auksion.uz/i/d1901840723768d91572d7e63264bcdb_L.jpg",
-   "https://media.e-auksion.uz/i/86507a75326d4bff8f3e8a855483a551_L.png",
-   "https://media.e-auksion.uz/i/a9a4f901446b35575f7c8f29adf1b0dd_L.png",
-   "https://media.e-auksion.uz/i/5ea5212d2f634d9535f47c2e97ab7ffc_L.png",
-   "https://media.e-auksion.uz/i/f9a8d3c2b34b4e88a6c7a74dafc01a62_L.jpg"
-  ],
-  "fav": 20,
-  "order_end": "16.11.2026 09:00"
- },
- {
   "id": 26716203,
   "lot_number": "26716203",
   "cat": "yuk",
@@ -28450,6 +28424,32 @@
    "https://media.e-auksion.uz/i/587f79b017c99c5c2d7f3429fe5b217d_L.jpg",
    "https://media.e-auksion.uz/i/4fe6ef25ddfb5d3d474489c4534c8e38_L.jpg",
    "https://media.e-auksion.uz/i/2fd3e51211020ec01bc4386fdf30878b_L.jpg"
+  ],
+  "fav": 20,
+  "order_end": "16.11.2026 09:00"
+ },
+ {
+  "id": 26584654,
+  "lot_number": "26584654",
+  "cat": "yuk",
+  "sub": "yuk",
+  "title": "GAZ5201",
+  "year": "1988",
+  "mileage": "",
+  "region": "Наманган вилояти",
+  "price_orig": 7542430.0,
+  "price_final": 7542430.0,
+  "date": "16.11.2026",
+  "post_url": "https://t.me/gruzovoeavto/24337",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/3a82870b6361a6bec0d71b4a07cd4582_L.png",
+  "photos": [
+   "https://media.e-auksion.uz/i/3a82870b6361a6bec0d71b4a07cd4582_L.png",
+   "https://media.e-auksion.uz/i/d1901840723768d91572d7e63264bcdb_L.jpg",
+   "https://media.e-auksion.uz/i/86507a75326d4bff8f3e8a855483a551_L.png",
+   "https://media.e-auksion.uz/i/a9a4f901446b35575f7c8f29adf1b0dd_L.png",
+   "https://media.e-auksion.uz/i/5ea5212d2f634d9535f47c2e97ab7ffc_L.png",
+   "https://media.e-auksion.uz/i/f9a8d3c2b34b4e88a6c7a74dafc01a62_L.jpg"
   ],
   "fav": 20,
   "order_end": "16.11.2026 09:00"
