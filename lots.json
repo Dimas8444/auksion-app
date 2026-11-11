@@ -17888,6 +17888,41 @@
   "test": false
  },
  {
+  "id": 26815907,
+  "lot_number": "26815907",
+  "cat": "mulk",
+  "sub": "turar",
+  "tags": [],
+  "title": "3 хонали квартира, 88,1 м²",
+  "info": [
+   "Кўп қаватли турар-жойлар"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Тошкент ш.",
+  "address": "Тошкент ш., Яшнобод тумани, Хосиятли МФЙ, Иззат кўчаси, 58/7-уй, 33-хонадон",
+  "price_orig": 896435000.0,
+  "price_final": 896435000.0,
+  "date": "16.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/0450bee820b39c8948f8a208c7ea09f6_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/0450bee820b39c8948f8a208c7ea09f6_L.jpeg",
+   "https://media.e-auksion.uz/i/fa65efbc71081af4dfaf593b9a441469_L.jpeg",
+   "https://media.e-auksion.uz/i/8f9a6e7ce5fd7eee3ccc31b827468f5e_L.jpeg",
+   "https://media.e-auksion.uz/i/46fa9651785868b07c92912e772be6c9_L.jpeg",
+   "https://media.e-auksion.uz/i/9e15f0d46417777cc41d51ca1231003f_L.jpeg",
+   "https://media.e-auksion.uz/i/096a9193b24d29d2b3b490734265f3b1_L.jpeg",
+   "https://media.e-auksion.uz/i/f1550e115fb6dc845d845b1be9e169a7_L.jpeg",
+   "https://media.e-auksion.uz/i/b1c869b40cd1d9a194816c8e92dc3680_L.jpeg",
+   "https://media.e-auksion.uz/i/2724737ff871eb9166de698386e0546a_L.jpeg",
+   "https://media.e-auksion.uz/i/924564e4f20e637cc684348ed65103be_L.jpeg"
+  ],
+  "fav": 11,
+  "order_end": "16.11.2026 09:00",
+  "test": false
+ },
+ {
   "id": 26202880,
   "lot_number": "26202880",
   "cat": "mulk",
@@ -23134,6 +23169,36 @@
    "https://media.e-auksion.uz/i/faa479a1c31e165738347d7b2abe2d3d_L.jpg"
   ],
   "fav": 17,
+  "order_end": "16.11.2026 09:00",
+  "test": false
+ },
+ {
+  "id": 26770660,
+  "lot_number": "26770660",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "noturar",
+   "ijara"
+  ],
+  "title": "Ер участкаси, 2,41 сотих",
+  "info": [
+   "Тадбиркорлик ва шаҳарсозлик учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Тошкент вилояти",
+  "address": "Тошкент вилояти, Пискент тумани, Култепа МФЙ",
+  "price_orig": 12685249.86,
+  "price_final": 6135000.0,
+  "date": "16.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/cc865d47d20f0cdd68ab952d6f08c3f4_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/cc865d47d20f0cdd68ab952d6f08c3f4_L.jpg",
+   "https://media.e-auksion.uz/i/c94efcbf18c518d14d71b29e64128086_L.jpg"
+  ],
+  "fav": 12,
   "order_end": "16.11.2026 09:00",
   "test": false
  },
