@@ -12493,30 +12493,6 @@
   "order_end": "07.12.2026 09:00"
  },
  {
-  "id": 26739414,
-  "lot_number": "26739414",
-  "cat": "avto",
-  "sub": null,
-  "title": "VOLKSWAGEN ID6 CROZZ LITE PRO",
-  "year": "2022",
-  "mileage": "",
-  "region": "Бухоро вилояти",
-  "price_orig": 286395225.0,
-  "price_final": 286395225.0,
-  "date": "07.12.2026",
-  "post_url": null,
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/6f49751f4eedd08c87c83d070d6a8487_L.jpg",
-  "photos": [
-   "https://media.e-auksion.uz/i/6f49751f4eedd08c87c83d070d6a8487_L.jpg",
-   "https://media.e-auksion.uz/i/56b1c0156fa6782eea0a9e4024e2099d_L.jpg",
-   "https://media.e-auksion.uz/i/5c3a61eaa2f357a83cb12b860a3d98e6_L.jpg",
-   "https://media.e-auksion.uz/i/a6d870416a437992fb787a50fbdde174_L.jpg"
-  ],
-  "fav": 31,
-  "order_end": "07.12.2026 09:00"
- },
- {
   "id": 26685174,
   "lot_number": "26685174",
   "cat": "avto",
@@ -12542,6 +12518,30 @@
    "https://media.e-auksion.uz/i/cde1293a18d62959e79dcda5e0b5cf97_L.jpeg",
    "https://media.e-auksion.uz/i/7352724ac1935fa35fd4c2828fac8049_L.jpeg",
    "https://media.e-auksion.uz/i/af0aa15254bd8819397979c201894240_L.jpeg"
+  ],
+  "fav": 31,
+  "order_end": "07.12.2026 09:00"
+ },
+ {
+  "id": 26739414,
+  "lot_number": "26739414",
+  "cat": "avto",
+  "sub": null,
+  "title": "VOLKSWAGEN ID6 CROZZ LITE PRO",
+  "year": "2022",
+  "mileage": "",
+  "region": "Бухоро вилояти",
+  "price_orig": 286395225.0,
+  "price_final": 286395225.0,
+  "date": "07.12.2026",
+  "post_url": "https://t.me/avto_auksion_uz/155619",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/6f49751f4eedd08c87c83d070d6a8487_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/6f49751f4eedd08c87c83d070d6a8487_L.jpg",
+   "https://media.e-auksion.uz/i/56b1c0156fa6782eea0a9e4024e2099d_L.jpg",
+   "https://media.e-auksion.uz/i/5c3a61eaa2f357a83cb12b860a3d98e6_L.jpg",
+   "https://media.e-auksion.uz/i/a6d870416a437992fb787a50fbdde174_L.jpg"
   ],
   "fav": 31,
   "order_end": "07.12.2026 09:00"
