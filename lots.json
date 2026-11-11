@@ -5707,33 +5707,6 @@
   "order_end": "19.11.2026 09:00"
  },
  {
-  "id": 26763865,
-  "lot_number": "26763865",
-  "cat": "avto",
-  "sub": null,
-  "title": "CHEVROLET MATIZ",
-  "year": "2009",
-  "mileage": "268613",
-  "region": "Тошкент вилояти",
-  "price_orig": 13099000.0,
-  "price_final": 10479200.0,
-  "date": "19.11.2026",
-  "post_url": null,
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/870790ec7b69cc673614e06495d21701_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/870790ec7b69cc673614e06495d21701_L.jpeg",
-   "https://media.e-auksion.uz/i/317890e02875bcd6bd089c8fdcc47b5b_L.jpeg",
-   "https://media.e-auksion.uz/i/a7bb65239ea4fdf4310c0883e8ecebba_L.jpeg",
-   "https://media.e-auksion.uz/i/84ea91fd2894623db353a129e647ad8a_L.jpeg",
-   "https://media.e-auksion.uz/i/d9673df718d84a9f83be25bb7a0cf548_L.jpeg",
-   "https://media.e-auksion.uz/i/24c17d8f3b1c982abea26d39a2ca6341_L.jpeg",
-   "https://media.e-auksion.uz/i/efce7e9c631213c23dca2fe87caedfbb_L.jpeg"
-  ],
-  "fav": 27,
-  "order_end": "19.11.2026 09:00"
- },
- {
   "id": 26763976,
   "lot_number": "26763976",
   "cat": "avto",
@@ -5757,6 +5730,33 @@
    "https://media.e-auksion.uz/i/037ae22cd367e599b04455fb02b70115_L.jpeg",
    "https://media.e-auksion.uz/i/94615690c8936338dd8601406d7ef3f9_L.jpeg",
    "https://media.e-auksion.uz/i/2c5ee91af79e575e7f2ba89d94143e50_L.jpeg"
+  ],
+  "fav": 27,
+  "order_end": "19.11.2026 09:00"
+ },
+ {
+  "id": 26763865,
+  "lot_number": "26763865",
+  "cat": "avto",
+  "sub": null,
+  "title": "CHEVROLET MATIZ",
+  "year": "2009",
+  "mileage": "268613",
+  "region": "Тошкент вилояти",
+  "price_orig": 13099000.0,
+  "price_final": 10479200.0,
+  "date": "19.11.2026",
+  "post_url": "https://t.me/avto_auksion_uz/155538",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/870790ec7b69cc673614e06495d21701_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/870790ec7b69cc673614e06495d21701_L.jpeg",
+   "https://media.e-auksion.uz/i/317890e02875bcd6bd089c8fdcc47b5b_L.jpeg",
+   "https://media.e-auksion.uz/i/a7bb65239ea4fdf4310c0883e8ecebba_L.jpeg",
+   "https://media.e-auksion.uz/i/84ea91fd2894623db353a129e647ad8a_L.jpeg",
+   "https://media.e-auksion.uz/i/d9673df718d84a9f83be25bb7a0cf548_L.jpeg",
+   "https://media.e-auksion.uz/i/24c17d8f3b1c982abea26d39a2ca6341_L.jpeg",
+   "https://media.e-auksion.uz/i/efce7e9c631213c23dca2fe87caedfbb_L.jpeg"
   ],
   "fav": 27,
   "order_end": "19.11.2026 09:00"
