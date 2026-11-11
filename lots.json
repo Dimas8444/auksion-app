@@ -18534,6 +18534,39 @@
   "test": false
  },
  {
+  "id": 26764601,
+  "lot_number": "26764601",
+  "cat": "mulk",
+  "sub": "turar",
+  "tags": [],
+  "title": "1 хонали квартира, 49 м²",
+  "info": [
+   "Кўп қаватли турар-жойлар"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Тошкент ш.",
+  "address": "Тошкент ш., Яшнобод тумани, Махтумқули кўчаси 99а-уй 131-хонадон",
+  "price_orig": 760000000.0,
+  "price_final": 608000000.0,
+  "date": "19.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/6067ffd457ca1ab58fccce9d8d12b87f_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/6067ffd457ca1ab58fccce9d8d12b87f_L.jpeg",
+   "https://media.e-auksion.uz/i/06f9a3c3c1f9eabfdc3a73eee5fab0dd_L.jpeg",
+   "https://media.e-auksion.uz/i/40ac4af6be3e59236774ece54d93b90d_L.jpeg",
+   "https://media.e-auksion.uz/i/42b064122464a267071ceb270a475219_L.jpeg",
+   "https://media.e-auksion.uz/i/b534ada5335fd16869b22d73aeffd8e0_L.jpeg",
+   "https://media.e-auksion.uz/i/3f6105a4e62020b651aa40059d347e21_L.jpeg",
+   "https://media.e-auksion.uz/i/bee74a16ac301698d696ede2bca6883b_L.jpeg",
+   "https://media.e-auksion.uz/i/7640c22252c790a32360d5336535bc35_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "19.11.2026 09:00",
+  "test": false
+ },
+ {
   "id": 26331670,
   "lot_number": "26331670",
   "cat": "mulk",
@@ -27424,6 +27457,35 @@
    "https://media.e-auksion.uz/i/5101ca2e1de0b6722c991c42baa5d7b4_L.jpeg",
    "https://media.e-auksion.uz/i/68f3d60bcc053fe4ee00b7df0becc0f7_L.jpeg",
    "https://media.e-auksion.uz/i/58d7dafaa3e013a32f72760cab16fd0b_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "16.11.2026 09:00"
+ },
+ {
+  "id": 26781866,
+  "lot_number": "26781866",
+  "cat": "yuk",
+  "sub": "yuk",
+  "title": "HOWO ZZ3257N4347",
+  "year": "2019",
+  "mileage": "",
+  "region": "Тошкент ш.",
+  "price_orig": 750000000.0,
+  "price_final": 750000000.0,
+  "date": "16.11.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/c460a95c969c369014e582ce95e7a368_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/c460a95c969c369014e582ce95e7a368_L.jpg",
+   "https://media.e-auksion.uz/i/ac3818ba1bcb952531b0c4952ab5ac6e_L.jpg",
+   "https://media.e-auksion.uz/i/21ffbd2ceba5804848a1e34f5aae9be1_L.jpg",
+   "https://media.e-auksion.uz/i/e2b1d0ac67f4a17ca6242268edd0fe3e_L.jpg",
+   "https://media.e-auksion.uz/i/d906f86b876f41dde10eb03af23efe45_L.jpg",
+   "https://media.e-auksion.uz/i/52899fb774a15e0df08094be9c368522_L.jpg",
+   "https://media.e-auksion.uz/i/551858cc16b7a82f29afbb1503aa1cb5_L.jpg",
+   "https://media.e-auksion.uz/i/c6cb7278558a3c35efc7b6ac636831f2_L.jpg",
+   "https://media.e-auksion.uz/i/9419bebade566af898ee7bd60befd555_L.jpg"
   ],
   "fav": 10,
   "order_end": "16.11.2026 09:00"
