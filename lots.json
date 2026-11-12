@@ -4235,6 +4235,33 @@
   "order_end": "16.11.2026 09:00"
  },
  {
+  "id": 26717808,
+  "lot_number": "26717808",
+  "cat": "avto",
+  "sub": null,
+  "title": "Lasetti",
+  "year": "2020",
+  "mileage": "265000",
+  "region": "Қорақалпоғистон Республикаси",
+  "price_orig": 68376000.0,
+  "price_final": 68376000.0,
+  "date": "16.11.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/aaf04e4026df91554038bf5617de198f_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/aaf04e4026df91554038bf5617de198f_L.jpg",
+   "https://media.e-auksion.uz/i/cf61dad25216032bc39030ccef0b9caa_L.jpg",
+   "https://media.e-auksion.uz/i/28c4f8f3d9eadae05ca8005dc25b22a4_L.jpg",
+   "https://media.e-auksion.uz/i/a7161d4b17773c97ccf7cab5e228616c_L.jpg",
+   "https://media.e-auksion.uz/i/8ed8c2c88b789050d0c0451677406e13_L.jpg",
+   "https://media.e-auksion.uz/i/f814cef95845674ba6831708197e63c0_L.jpg",
+   "https://media.e-auksion.uz/i/5676f54cb33e9b9a28063948b5aa4851_L.jpg"
+  ],
+  "fav": 12,
+  "order_end": "16.11.2026 09:00"
+ },
+ {
   "id": 26717793,
   "lot_number": "26717793",
   "cat": "avto",
@@ -12572,7 +12599,7 @@
   "price_orig": 363750000.0,
   "price_final": 363750000.0,
   "date": "11.12.2026",
-  "post_url": null,
+  "post_url": "https://t.me/avto_auksion_uz/155745",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/11a42c8ed8f3df36a0a6044dcbeb6b95_L.jpeg",
   "photos": [
@@ -24730,6 +24757,31 @@
    "https://media.e-auksion.uz/i/6c33cf0281c60e18c302baecbda4542f_L.jpeg"
   ],
   "fav": 18,
+  "order_end": "16.11.2026 09:00"
+ },
+ {
+  "id": 26781017,
+  "lot_number": "26781017",
+  "cat": "yuk",
+  "sub": "maxsus",
+  "title": "Фронтал юклагич",
+  "year": "2019",
+  "mileage": "",
+  "region": "Қорақалпоғистон Республикаси",
+  "price_orig": 300875000.0,
+  "price_final": 300875000.0,
+  "date": "16.11.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/55b521c514ad191e1be355d9165edb24_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/55b521c514ad191e1be355d9165edb24_L.jpg",
+   "https://media.e-auksion.uz/i/3b4fb6f9b8724a8e23014fc16910339a_L.jpg",
+   "https://media.e-auksion.uz/i/8b3c42e229127012fc1650673f7e9056_L.jpg",
+   "https://media.e-auksion.uz/i/b83868ec416b0ae880eaaf776f3ccfe5_L.jpg",
+   "https://media.e-auksion.uz/i/13b4c14a3c19be2cc60491930a38b795_L.jpg"
+  ],
+  "fav": 13,
   "order_end": "16.11.2026 09:00"
  },
  {
