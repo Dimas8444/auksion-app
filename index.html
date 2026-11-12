@@ -199,7 +199,7 @@ function render(){
  sel.value=REG;
  var items=inCat.filter(function(x){return !REG||x.region===REG});
  document.getElementById("count").textContent=items.length?(searching?"«"+Q.trim()+"» бўйича топилди: ":"Топилди: ")+items.length+" та лот":"";
- if(!items.length){l.innerHTML='<div class="empty">'+(searching?"Бу модел бўйича ҳозирча лот йўқ":"Ҳозирча лотлар йўқ")+'</div>'}
+ if(!items.length){l.innerHTML='<div class="empty">'+(searching?"Бу модел бўйича ҳозирча лот йўқ":cur==="qishloq"?"🌾 Янги участкалар ҳар куни кечгача чиқади — кейинроқ киринг":"Ҳозирча лотлар йўқ")+'</div>'}
  // список рисуется частями по PAGE лотов, остальные — при прокрутке (01.11: в вкладке теперь сотни лотов,
  // целиком на телефоне строилось ~0.5–1 с при каждом переключении вкладки и вводе в поиск)
  renderNote();ITEMS=items;SHOWN=0;more();
