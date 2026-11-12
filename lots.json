@@ -4262,6 +4262,31 @@
   "order_end": "16.11.2026 09:00"
  },
  {
+  "id": 26718010,
+  "lot_number": "26718010",
+  "cat": "avto",
+  "sub": null,
+  "title": "CHANGAN BENBEN E-STAR QINGXIN V",
+  "year": "2023",
+  "mileage": "85990",
+  "region": "Сурхондарё вилояти",
+  "price_orig": 120725088.0,
+  "price_final": 120725088.0,
+  "date": "16.11.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/557d3d6e58341fa4533aa6b2e4bdc118_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/557d3d6e58341fa4533aa6b2e4bdc118_L.jpg",
+   "https://media.e-auksion.uz/i/e57e526cd5a4636c162f29ca2b4de3a7_L.jpg",
+   "https://media.e-auksion.uz/i/9c03dadd863935f576e6577c18cad74c_L.jpg",
+   "https://media.e-auksion.uz/i/80b91f0923fdb70a52e86999c79c8e8a_L.jpg",
+   "https://media.e-auksion.uz/i/71b1df0dec0b412483e0e3b7c8c163d3_L.jpg"
+  ],
+  "fav": 12,
+  "order_end": "16.11.2026 09:00"
+ },
+ {
   "id": 26717793,
   "lot_number": "26717793",
   "cat": "avto",
@@ -19769,6 +19794,37 @@
   "test": false
  },
  {
+  "id": 26814891,
+  "lot_number": "26814891",
+  "cat": "mulk",
+  "sub": "turar",
+  "tags": [],
+  "title": "Ҳовли, 11 хона, 8 сотих",
+  "info": [
+   "Турар-жой участкаси (ҳовли)"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Жиззах вилояти",
+  "address": "Жиззах вилояти, Жиззах шаҳри, Жиззахлик МФЙ, М.Хусанов кўчаси, 21-уй",
+  "price_orig": 469830871.0,
+  "price_final": 469830871.0,
+  "date": "25.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/c92e57d1b954fe75f4aa4a85c860848a_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/c92e57d1b954fe75f4aa4a85c860848a_L.jpg",
+   "https://media.e-auksion.uz/i/d616c28eb0b865b94adf793e92aea93d_L.jpg",
+   "https://media.e-auksion.uz/i/37d967ac7ff7537a800611c87749a209_L.jpg",
+   "https://media.e-auksion.uz/i/049832cbe32ec953f884473799139621_L.jpg",
+   "https://media.e-auksion.uz/i/694b265f1dce18d0493324a0fdeba672_L.jpg",
+   "https://media.e-auksion.uz/i/795dfb14992aa43391991b3adde7cd9c_L.jpg"
+  ],
+  "fav": 11,
+  "order_end": "25.11.2026 09:00",
+  "test": false
+ },
+ {
   "id": 26422257,
   "lot_number": "26422257",
   "cat": "mulk",
@@ -24151,6 +24207,37 @@
   ],
   "fav": 11,
   "order_end": "24.11.2026 09:00",
+  "test": false
+ },
+ {
+  "id": 26814412,
+  "lot_number": "26814412",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "noturar"
+  ],
+  "title": "Ер участкаси, 1,2 сотих",
+  "info": [
+   "Тадбиркорлик ва шаҳарсозлик учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Наманган вилояти",
+  "address": "Наманган вилояти, Чуст тумани, Садача МФЙ",
+  "price_orig": 7620402.0,
+  "price_final": 7620402.0,
+  "date": "25.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/1cf3d931d7d44cad9c4008b8b072d5d5_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/1cf3d931d7d44cad9c4008b8b072d5d5_L.jpg",
+   "https://media.e-auksion.uz/i/78767919f9412ab6550ed2b70ab923fd_L.jpg",
+   "https://media.e-auksion.uz/i/88856a1a7868879126094891703198da_L.jpg",
+   "https://media.e-auksion.uz/i/9230c22e99f50e3f8b3890d57d3b456e_L.jpg"
+  ],
+  "fav": 14,
+  "order_end": "25.11.2026 09:00",
   "test": false
  },
  {
