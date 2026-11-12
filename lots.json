@@ -1510,6 +1510,36 @@
   "order_end": "13.11.2026 09:00"
  },
  {
+  "id": 26621685,
+  "lot_number": "26621685",
+  "cat": "avto",
+  "sub": null,
+  "title": "MATIZ/-",
+  "year": "2011",
+  "mileage": "484946",
+  "region": "Тошкент вилояти",
+  "price_orig": 20759087.0,
+  "price_final": 13493406.55,
+  "date": "13.11.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/395fabdbd4d83ea80f0bd18efe7df540_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/395fabdbd4d83ea80f0bd18efe7df540_L.jpeg",
+   "https://media.e-auksion.uz/i/d2a0183fb0b29ef179980c40815e1f45_L.jpeg",
+   "https://media.e-auksion.uz/i/e5fb8553a7ff69b683686af6ab19f944_L.jpeg",
+   "https://media.e-auksion.uz/i/04e7843029aff2bd873df66c3662b0b8_L.jpeg",
+   "https://media.e-auksion.uz/i/6e3bea1938c3d35a31cc9fe679d83760_L.jpeg",
+   "https://media.e-auksion.uz/i/d52842d7d4449732d96a4ee73cf58098_L.jpeg",
+   "https://media.e-auksion.uz/i/f9d14e81554c3c1fe100be717119b618_L.jpeg",
+   "https://media.e-auksion.uz/i/991350b1874ffd779161b70d4d801236_L.jpeg",
+   "https://media.e-auksion.uz/i/cba0298f36a838e9d9b8903829ef6ddd_L.jpeg",
+   "https://media.e-auksion.uz/i/a1486fc0e88044b3544dd2febf52ab28_L.jpeg"
+  ],
+  "fav": 13,
+  "order_end": "13.11.2026 09:00"
+ },
+ {
   "id": 26621773,
   "lot_number": "26621773",
   "cat": "avto",
@@ -1621,6 +1651,34 @@
    "https://media.e-auksion.uz/i/0817660ccb66cc4917f06d85d100967b_L.jpg",
    "https://media.e-auksion.uz/i/d9de9639e091b55d4aa5d1c253b94cfa_L.jpg",
    "https://media.e-auksion.uz/i/b8cc9fa14ba659864780902233d05d9c_L.jpg"
+  ],
+  "fav": 11,
+  "order_end": "13.11.2026 09:00"
+ },
+ {
+  "id": 26621819,
+  "lot_number": "26621819",
+  "cat": "avto",
+  "sub": null,
+  "title": "COBALT",
+  "year": "2023",
+  "mileage": "",
+  "region": "Наманган вилояти",
+  "price_orig": 122104500.0,
+  "price_final": 97683600.0,
+  "date": "13.11.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/5db22aa6f4d81563b146822f82822261_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/5db22aa6f4d81563b146822f82822261_L.jpeg",
+   "https://media.e-auksion.uz/i/3018e588d56ad4cae4d21f159f787f8f_L.jpeg",
+   "https://media.e-auksion.uz/i/838cff71aadfd25c0d2c400afd48f2f7_L.jpeg",
+   "https://media.e-auksion.uz/i/f36811527c9aec5020100e806f097e56_L.jpeg",
+   "https://media.e-auksion.uz/i/84098af395f09832b977cc336ffe7a8b_L.jpeg",
+   "https://media.e-auksion.uz/i/dceb3acc0f6df3c2a58bb368b6d1a6b8_L.jpeg",
+   "https://media.e-auksion.uz/i/278b3b38c03f7893c703aeacaeca4266_L.jpeg",
+   "https://media.e-auksion.uz/i/313ea78fc89d156dd8ed15e02ec29704_L.jpeg"
   ],
   "fav": 11,
   "order_end": "13.11.2026 09:00"
@@ -23798,6 +23856,38 @@
   "test": false
  },
  {
+  "id": 26776785,
+  "lot_number": "26776785",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "noturar",
+   "ijara"
+  ],
+  "title": "Ер участкаси, 1 сотих",
+  "info": [
+   "Тадбиркорлик ва шаҳарсозлик учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Тошкент вилояти",
+  "address": "Тошкент вилояти, Паркент тумани, Ойбек МФЙ",
+  "price_orig": 15980512.5,
+  "price_final": 15980512.5,
+  "date": "24.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/89274c0e647b5756f5ea6616f9540a63_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/89274c0e647b5756f5ea6616f9540a63_L.jpeg",
+   "https://media.e-auksion.uz/i/0c4553c40e2befcf52702267f4756845_L.jpeg",
+   "https://media.e-auksion.uz/i/963690fa1e693fd1daddb4a6feedd4ab_L.png",
+   "https://media.e-auksion.uz/i/881c8b538bdefd9dcf018cc42ad02e1b_L.jpeg"
+  ],
+  "fav": 11,
+  "order_end": "24.11.2026 09:00",
+  "test": false
+ },
+ {
   "id": 26260434,
   "lot_number": "26260434",
   "cat": "yuk",
@@ -24232,6 +24322,34 @@
    "https://media.e-auksion.uz/i/7d1bbe01119dd5d6c31a0b74408d0d6e_L.jpeg"
   ],
   "fav": 15,
+  "order_end": "13.11.2026 09:00"
+ },
+ {
+  "id": 26621860,
+  "lot_number": "26621860",
+  "cat": "yuk",
+  "sub": "maxsus",
+  "title": "Фронтал юклагич",
+  "year": "2013",
+  "mileage": "",
+  "region": "Тошкент вилояти",
+  "price_orig": 199684800.0,
+  "price_final": 149763600.0,
+  "date": "13.11.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/0e976e15c49e21eddc454a729c93e583_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/0e976e15c49e21eddc454a729c93e583_L.jpeg",
+   "https://media.e-auksion.uz/i/e8a225e20fdb86a69e5b3ce91753fa82_L.jpeg",
+   "https://media.e-auksion.uz/i/881cf29098f2365270fb064cfabab09d_L.jpeg",
+   "https://media.e-auksion.uz/i/7785e0d82f46ac5f4e402ad5bb601561_L.jpeg",
+   "https://media.e-auksion.uz/i/d84ac8bb998f7d3d2305967f8eb9dbca_L.jpeg",
+   "https://media.e-auksion.uz/i/03cb49e7ed3bb0d698b5938ba00248d3_L.jpeg",
+   "https://media.e-auksion.uz/i/5a37f0b872029c93d20157b7a9cd41e4_L.jpeg",
+   "https://media.e-auksion.uz/i/5300d44ff9b094e723aa77f93cf33081_L.jpeg"
+  ],
+  "fav": 11,
   "order_end": "13.11.2026 09:00"
  },
  {
