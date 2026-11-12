@@ -26138,6 +26138,35 @@
   "test": false
  },
  {
+  "id": 26743224,
+  "lot_number": "26743224",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "yakka"
+  ],
+  "title": "Ер участкаси, 2,5 сотих",
+  "info": [
+   "Якка тартибда уй-жой қуриш учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Хоразм вилояти",
+  "address": "Хоразм вилояти, Боғот тумани, Октепа МФЙ",
+  "price_orig": 26146585.0,
+  "price_final": 26146585.0,
+  "date": "23.11.2026",
+  "post_url": "https://t.me/kuchmasmulk_uz/4826",
+  "photo": "https://media.e-auksion.uz/i/8ad157b8534e6d2f7864bc3be1262fcb_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/8ad157b8534e6d2f7864bc3be1262fcb_L.jpeg",
+   "https://media.e-auksion.uz/i/a056aac111322b4e161dd111cccfc3ff_L.jpeg"
+  ],
+  "fav": 20,
+  "order_end": "23.11.2026 09:00",
+  "test": false
+ },
+ {
   "id": 26724557,
   "lot_number": "26724557",
   "cat": "mulk",
@@ -26164,35 +26193,6 @@
    "https://media.e-auksion.uz/i/b0f11097b6e2b9aa317d518a515fa679_L.jpeg"
   ],
   "fav": 15,
-  "order_end": "23.11.2026 09:00",
-  "test": false
- },
- {
-  "id": 26743224,
-  "lot_number": "26743224",
-  "cat": "mulk",
-  "sub": "yer",
-  "tags": [
-   "yakka"
-  ],
-  "title": "Ер участкаси, 2,5 сотих",
-  "info": [
-   "Якка тартибда уй-жой қуриш учун"
-  ],
-  "year": "",
-  "mileage": "",
-  "region": "Хоразм вилояти",
-  "address": "Хоразм вилояти, Боғот тумани, Октепа МФЙ",
-  "price_orig": 26146585.0,
-  "price_final": 26146585.0,
-  "date": "23.11.2026",
-  "post_url": null,
-  "photo": "https://media.e-auksion.uz/i/8ad157b8534e6d2f7864bc3be1262fcb_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/8ad157b8534e6d2f7864bc3be1262fcb_L.jpeg",
-   "https://media.e-auksion.uz/i/a056aac111322b4e161dd111cccfc3ff_L.jpeg"
-  ],
-  "fav": 14,
   "order_end": "23.11.2026 09:00",
   "test": false
  },
