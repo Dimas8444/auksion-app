@@ -14027,6 +14027,62 @@
   "order_end": "14.12.2026 09:00"
  },
  {
+  "id": 26847669,
+  "lot_number": "26847669",
+  "cat": "avto",
+  "sub": null,
+  "title": "COBALT",
+  "year": "2023",
+  "mileage": "",
+  "region": "Тошкент ш.",
+  "price_orig": 105423000.0,
+  "price_final": 73796100.0,
+  "date": "14.12.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/58d20f4f57684a5a5c17556f529b7a9c_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/58d20f4f57684a5a5c17556f529b7a9c_L.jpeg",
+   "https://media.e-auksion.uz/i/57bd8a8e66eacc45710698496ff3a9a2_L.jpeg",
+   "https://media.e-auksion.uz/i/0039d12f113124cc96e7a14a1d472b50_L.jpeg",
+   "https://media.e-auksion.uz/i/7973a9918d15d1d2aed6f3612307d099_L.jpeg",
+   "https://media.e-auksion.uz/i/c13f416c2abbe78e0c3ca090245d4567_L.jpeg",
+   "https://media.e-auksion.uz/i/127fa1b6f6a00d95f5e5993b61a29dce_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "14.12.2026 09:00"
+ },
+ {
+  "id": 26847604,
+  "lot_number": "26847604",
+  "cat": "avto",
+  "sub": null,
+  "title": "HYUNDAI ELANTRA",
+  "year": "2023",
+  "mileage": "1099",
+  "region": "Хоразм вилояти",
+  "price_orig": 240000000.0,
+  "price_final": 240000000.0,
+  "date": "14.12.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/324455b9e5317c27bcebcde23bb70e01_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/324455b9e5317c27bcebcde23bb70e01_L.jpeg",
+   "https://media.e-auksion.uz/i/51e776c46fcb436fac71e5f464b535cd_L.jpeg",
+   "https://media.e-auksion.uz/i/cdea360ac2df1d443a21a5da11825ab9_L.jpeg",
+   "https://media.e-auksion.uz/i/efe9e1b6178b2e496fcfe1a1035992bf_L.jpeg",
+   "https://media.e-auksion.uz/i/a755faea631330d515b410e1dbf44afe_L.jpeg",
+   "https://media.e-auksion.uz/i/f2b5ba1ae9060f0cff49ab2bb3c844fd_L.jpeg",
+   "https://media.e-auksion.uz/i/94ac1f4524c3d6649d89873009cb45c7_L.jpeg",
+   "https://media.e-auksion.uz/i/d1d4aec892887552d6a6b37f3e532135_L.jpeg",
+   "https://media.e-auksion.uz/i/9a3c164d505987981312cbb54f3bf5aa_L.jpeg",
+   "https://media.e-auksion.uz/i/bccdadefe213d1128eabc5470566b632_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "14.12.2026 09:00"
+ },
+ {
   "id": 26169918,
   "lot_number": "26169918",
   "cat": "mulk",
@@ -30501,6 +30557,35 @@
    "https://media.e-auksion.uz/i/a83d00214d467ee1003d8a2d0bcb5517_L.jpeg"
   ],
   "fav": 27,
+  "order_end": "14.12.2026 09:00"
+ },
+ {
+  "id": 26847605,
+  "lot_number": "26847605",
+  "cat": "yuk",
+  "sub": "yuk",
+  "title": "SHACMAN",
+  "year": "2022",
+  "mileage": "",
+  "region": "Бухоро вилояти",
+  "price_orig": 542675000.0,
+  "price_final": 542675000.0,
+  "date": "14.12.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/6e8e2555bec4c1cb5ea01cc6c87c02a1_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/6e8e2555bec4c1cb5ea01cc6c87c02a1_L.jpeg",
+   "https://media.e-auksion.uz/i/13b8d99fb01878c7edad0ec1e24f8445_L.jpeg",
+   "https://media.e-auksion.uz/i/839f45a22ee917799161434037aadb6a_L.jpeg",
+   "https://media.e-auksion.uz/i/28f61b8d8b931186a553083ca4b76b7e_L.jpeg",
+   "https://media.e-auksion.uz/i/af93d4515f437f9c19e6afb78c047f1e_L.jpeg",
+   "https://media.e-auksion.uz/i/e5ec29c02a862c9d9539208af5e90fa7_L.jpeg",
+   "https://media.e-auksion.uz/i/ede983aef9df1e4410bfc469421ede8b_L.jpeg",
+   "https://media.e-auksion.uz/i/a251ce891c7dcd616047ce1b7af31f64_L.jpeg",
+   "https://media.e-auksion.uz/i/9fbcf27844b05cefea2c0bb91d84ba0c_L.jpeg"
+  ],
+  "fav": 20,
   "order_end": "14.12.2026 09:00"
  },
  {
