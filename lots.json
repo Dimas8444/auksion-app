@@ -4545,34 +4545,6 @@
   "order_end": "19.11.2026 09:00"
  },
  {
-  "id": 26764028,
-  "lot_number": "26764028",
-  "cat": "avto",
-  "sub": null,
-  "title": "MERCEDES BENZ V250",
-  "year": "2016",
-  "mileage": "",
-  "region": "Тошкент ш.",
-  "price_orig": 403528000.0,
-  "price_final": 322822400.0,
-  "date": "19.11.2026",
-  "post_url": null,
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/cbb376e9da5195c8b6fd9026b1f29a72_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/cbb376e9da5195c8b6fd9026b1f29a72_L.jpeg",
-   "https://media.e-auksion.uz/i/4ae2eb0c22e8b446e5616503e1c5d853_L.jpeg",
-   "https://media.e-auksion.uz/i/3ce7002170d8b30fc2faa96f098691ce_L.jpeg",
-   "https://media.e-auksion.uz/i/7b3352a1b89a6cd68aeafc7f2f45b842_L.jpeg",
-   "https://media.e-auksion.uz/i/cadb8cce823da69ff94d2517423a7846_L.jpeg",
-   "https://media.e-auksion.uz/i/e51f595509d5899829305efd8fcb9509_L.jpeg",
-   "https://media.e-auksion.uz/i/70d8f497892ac7aeafe7b880080b80a9_L.jpeg",
-   "https://media.e-auksion.uz/i/dc2b26811ed45f1433279099033be46f_L.jpeg"
-  ],
-  "fav": 21,
-  "order_end": "19.11.2026 09:00"
- },
- {
   "id": 26764103,
   "lot_number": "26764103",
   "cat": "avto",
@@ -4628,6 +4600,34 @@
    "https://media.e-auksion.uz/i/bb80a7717624d8eab35d53d87e4a8234_L.jpeg",
    "https://media.e-auksion.uz/i/86afa4bd1412f55544b51fdc5e10f68a_L.jpeg",
    "https://media.e-auksion.uz/i/40741caf0f9b5d559a027ef0cd227c0c_L.jpeg"
+  ],
+  "fav": 21,
+  "order_end": "19.11.2026 09:00"
+ },
+ {
+  "id": 26764028,
+  "lot_number": "26764028",
+  "cat": "avto",
+  "sub": null,
+  "title": "MERCEDES BENZ V250",
+  "year": "2016",
+  "mileage": "",
+  "region": "Тошкент ш.",
+  "price_orig": 403528000.0,
+  "price_final": 322822400.0,
+  "date": "19.11.2026",
+  "post_url": "https://t.me/avto_auksion_uz/155962",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/cbb376e9da5195c8b6fd9026b1f29a72_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/cbb376e9da5195c8b6fd9026b1f29a72_L.jpeg",
+   "https://media.e-auksion.uz/i/4ae2eb0c22e8b446e5616503e1c5d853_L.jpeg",
+   "https://media.e-auksion.uz/i/3ce7002170d8b30fc2faa96f098691ce_L.jpeg",
+   "https://media.e-auksion.uz/i/7b3352a1b89a6cd68aeafc7f2f45b842_L.jpeg",
+   "https://media.e-auksion.uz/i/cadb8cce823da69ff94d2517423a7846_L.jpeg",
+   "https://media.e-auksion.uz/i/e51f595509d5899829305efd8fcb9509_L.jpeg",
+   "https://media.e-auksion.uz/i/70d8f497892ac7aeafe7b880080b80a9_L.jpeg",
+   "https://media.e-auksion.uz/i/dc2b26811ed45f1433279099033be46f_L.jpeg"
   ],
   "fav": 21,
   "order_end": "19.11.2026 09:00"
