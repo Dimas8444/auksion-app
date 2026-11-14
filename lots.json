@@ -1509,33 +1509,6 @@
   "order_end": "16.11.2026 09:00"
  },
  {
-  "id": 26584753,
-  "lot_number": "26584753",
-  "cat": "avto",
-  "sub": null,
-  "title": "LACETTI",
-  "year": "2018",
-  "mileage": "243765",
-  "region": "Самарқанд вилояти",
-  "price_orig": 66061296.0,
-  "price_final": 66061296.0,
-  "date": "16.11.2026",
-  "post_url": null,
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/90d6f088fc5f8933888791de768f88ce_L.jpg",
-  "photos": [
-   "https://media.e-auksion.uz/i/90d6f088fc5f8933888791de768f88ce_L.jpg",
-   "https://media.e-auksion.uz/i/96f1cf4a04a9c598cfd83690f0cd9163_L.jpg",
-   "https://media.e-auksion.uz/i/94c01a540b068c2eed75d90924672ed2_L.jpg",
-   "https://media.e-auksion.uz/i/c83c88749765c8f7c22c822c98098c39_L.jpg",
-   "https://media.e-auksion.uz/i/7d6508c8f32725fa658c130cf580ff50_L.jpg",
-   "https://media.e-auksion.uz/i/31ba0d87cc17724ee8800163ed9bd43c_L.jpg",
-   "https://media.e-auksion.uz/i/74798c64ff7ba746a018a1efaa6a9f0e_L.jpg"
-  ],
-  "fav": 24,
-  "order_end": "16.11.2026 09:00"
- },
- {
   "id": 26685073,
   "lot_number": "26685073",
   "cat": "avto",
@@ -1589,6 +1562,33 @@
    "https://media.e-auksion.uz/i/45912016b6fd1f7d1bebcac25a061799_L.jpeg",
    "https://media.e-auksion.uz/i/a384896c09caa60e748da1cf1fbd3a65_L.jpeg",
    "https://media.e-auksion.uz/i/2f8a8db372eb3604a51d373cfca3e717_L.jpeg"
+  ],
+  "fav": 24,
+  "order_end": "16.11.2026 09:00"
+ },
+ {
+  "id": 26584753,
+  "lot_number": "26584753",
+  "cat": "avto",
+  "sub": null,
+  "title": "LACETTI",
+  "year": "2018",
+  "mileage": "243765",
+  "region": "Самарқанд вилояти",
+  "price_orig": 66061296.0,
+  "price_final": 66061296.0,
+  "date": "16.11.2026",
+  "post_url": "https://t.me/avto_auksion_uz/156129",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/90d6f088fc5f8933888791de768f88ce_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/90d6f088fc5f8933888791de768f88ce_L.jpg",
+   "https://media.e-auksion.uz/i/96f1cf4a04a9c598cfd83690f0cd9163_L.jpg",
+   "https://media.e-auksion.uz/i/94c01a540b068c2eed75d90924672ed2_L.jpg",
+   "https://media.e-auksion.uz/i/c83c88749765c8f7c22c822c98098c39_L.jpg",
+   "https://media.e-auksion.uz/i/7d6508c8f32725fa658c130cf580ff50_L.jpg",
+   "https://media.e-auksion.uz/i/31ba0d87cc17724ee8800163ed9bd43c_L.jpg",
+   "https://media.e-auksion.uz/i/74798c64ff7ba746a018a1efaa6a9f0e_L.jpg"
   ],
   "fav": 24,
   "order_end": "16.11.2026 09:00"
