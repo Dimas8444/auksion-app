@@ -104,7 +104,9 @@ h1{font:700 22px/1.2 "PT Serif",Georgia,serif;margin:18px 0 4px}
 .sell .rows dd .tbtns{display:flex;gap:8px;margin-top:6px;flex-wrap:wrap}
 .sell .tbtn{flex:1 1 0;min-width:110px;text-align:center;padding:9px 10px;border-radius:10px;border:1px solid var(--line);color:var(--ink);text-decoration:none;font-weight:700;font-size:14px;background:var(--bg)}
 .sell .tbtn:first-child{background:var(--green);border-color:var(--green);color:#fff}
-</style></head><body>
+</style>
+<script data-goatcounter="https://auksionbozori.goatcounter.com/count" data-goatcounter-settings='{"no_onload":true,"allow_frame":true}' async src="https://gc.zgo.at/count.js"></script>
+</head><body>
 <div id="sc"><div class="wrap">
 <h1>Лотлар</h1>
 <form class="search" role="search" id="sform"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg><input type="search" id="q" placeholder="Машина номини киритинг…" aria-label="Машина номи ёки лот рақами бўйича қидириш" autocomplete="off" enterkeyhint="search"><button type="button" id="qx" aria-label="Тозалаш" hidden>✕</button></form>
@@ -242,7 +244,7 @@ function postUrl(x){return (x.post_url&&x.post_url.indexOf("t.me/shocos")<0)?x.p
 // данные карточек — отдельным файлом и только при первом открытии (lots.json не растёт)
 function loadDet(){if(DET||DETWAIT)return;DETWAIT=true;
  fetch("details.json?t="+Date.now()).then(function(r){return r.json()}).then(function(j){DET=j;if(OPEN)fillLot(OPEN)}).catch(function(){DET={};if(OPEN)fillLot(OPEN)})}
-function openLot(x){OPEN=x;try{CNT.hit("v")}catch(e){}var dt=document.getElementById("det");
+function openLot(x){OPEN=x;try{CNT.hit("v");GC({path:"lot-card",title:"Лот карточкаси",event:true})}catch(e){}var dt=document.getElementById("det");
  var d=x.price_orig>x.price_final?Math.round((1-x.price_final/x.price_orig)*100):0;
  var ph=(x.photos&&x.photos.length?x.photos:(x.photo?[x.photo]:[]));
  var mil=x.mileage?(/^\d+$/.test(String(x.mileage))?fmtn(x.mileage)+" км":x.mileage):"";
@@ -321,15 +323,16 @@ var STARTLOT=null;
 // счётчик (14.11, пользователь: «поставь счетчик»): abacus.jasoncameron.dev, без аккаунта, без cookies и личных данных —
 // только +1: o-ДЕНЬ открытия, u-ДЕНЬ разные устройства за день, n-ДЕНЬ новые устройства, s-ИСТОЧНИК-ДЕНЬ откуда открыли,
 // v-ДЕНЬ открытые карточки лотов, a-ДЕНЬ нажатия «Ариза бериш». Сводка: lots/app_stats.py
+function GC(v,n){n=n||0;try{if(window.goatcounter&&goatcounter.count){goatcounter.count(v);return}}catch(e){return}if(n<40)setTimeout(function(){GC(v,n+1)},250)}
 var CNT=(function(){var d=new Date(),day=""+d.getFullYear()+("0"+(d.getMonth()+1)).slice(-2)+("0"+d.getDate()).slice(-2);
  function hit(k){try{fetch("https://abacus.jasoncameron.dev/hit/auksionbozori/"+k+"-"+day,{keepalive:true}).catch(function(){})}catch(e){}}
  function ls(k,v){try{if(v===undefined)return localStorage.getItem(k);localStorage.setItem(k,v)}catch(e){return "x"}}
  return {hit:hit,ls:ls,day:day}})();
 (function(){var sp=tw&&tw.initDataUnsafe&&tw.initDataUnsafe.start_param||"",m=/^([a-z]+)(_\d+)?$/.exec(sp);
- var src=sp?(m?m[1]+(m[2]?"lot":""):"other"):"menu";CNT.hit("o");CNT.hit("s-"+src);
+ var src=sp?(m?m[1]+(m[2]?"lot":""):"other"):"menu";CNT.hit("o");CNT.hit("s-"+src);GC({path:"/"+src,title:"Илова · "+src,referrer:"telegram"});
  if(CNT.ls("ab_day")!==CNT.day){CNT.ls("ab_day",CNT.day);CNT.hit("u")}
  if(!CNT.ls("ab_seen")){CNT.ls("ab_seen","1");CNT.hit("n")}})();
-document.addEventListener("click",function(ev){var a=ev.target.closest&&ev.target.closest("a.go");if(a&&/Ариза/.test(a.textContent))CNT.hit("a")},true);
+document.addEventListener("click",function(ev){var a=ev.target.closest&&ev.target.closest("a.go");if(a&&/Ариза/.test(a.textContent)){CNT.hit("a");GC({path:"ariza",title:"Ариза бериш",event:true})}},true);
 function showStart(x){cur=x.cat;if(SUB[x.cat])SUB[x.cat]=subOf(x);render();BYID[x.id]=x;openLot(x)}
 function openStart(){if(!STARTLOT)return;var id=STARTLOT;STARTLOT=null;
  var x=LOTS.filter(function(l){return l.id===id})[0];if(x){showStart(x);return}
