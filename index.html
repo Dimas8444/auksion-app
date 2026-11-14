@@ -242,7 +242,7 @@ function postUrl(x){return (x.post_url&&x.post_url.indexOf("t.me/shocos")<0)?x.p
 // данные карточек — отдельным файлом и только при первом открытии (lots.json не растёт)
 function loadDet(){if(DET||DETWAIT)return;DETWAIT=true;
  fetch("details.json?t="+Date.now()).then(function(r){return r.json()}).then(function(j){DET=j;if(OPEN)fillLot(OPEN)}).catch(function(){DET={};if(OPEN)fillLot(OPEN)})}
-function openLot(x){OPEN=x;var dt=document.getElementById("det");
+function openLot(x){OPEN=x;try{CNT.hit("v")}catch(e){}var dt=document.getElementById("det");
  var d=x.price_orig>x.price_final?Math.round((1-x.price_final/x.price_orig)*100):0;
  var ph=(x.photos&&x.photos.length?x.photos:(x.photo?[x.photo]:[]));
  var mil=x.mileage?(/^\d+$/.test(String(x.mileage))?fmtn(x.mileage)+" км":x.mileage):"";
@@ -318,6 +318,18 @@ var STARTLOT=null;
 (function(){var sp=tw&&tw.initDataUnsafe&&tw.initDataUnsafe.start_param||new URLSearchParams(location.search).get("start")||"";
  var m=/^([a-z]+)_(\d+)$/.exec(sp);if(m){sp=m[1];STARTLOT=+m[2]}
  if(CATS.some(function(c){return c[0]===sp}))cur=sp})();
+// счётчик (14.11, пользователь: «поставь счетчик»): abacus.jasoncameron.dev, без аккаунта, без cookies и личных данных —
+// только +1: o-ДЕНЬ открытия, u-ДЕНЬ разные устройства за день, n-ДЕНЬ новые устройства, s-ИСТОЧНИК-ДЕНЬ откуда открыли,
+// v-ДЕНЬ открытые карточки лотов, a-ДЕНЬ нажатия «Ариза бериш». Сводка: lots/app_stats.py
+var CNT=(function(){var d=new Date(),day=""+d.getFullYear()+("0"+(d.getMonth()+1)).slice(-2)+("0"+d.getDate()).slice(-2);
+ function hit(k){try{fetch("https://abacus.jasoncameron.dev/hit/auksionbozori/"+k+"-"+day,{keepalive:true}).catch(function(){})}catch(e){}}
+ function ls(k,v){try{if(v===undefined)return localStorage.getItem(k);localStorage.setItem(k,v)}catch(e){return "x"}}
+ return {hit:hit,ls:ls,day:day}})();
+(function(){var sp=tw&&tw.initDataUnsafe&&tw.initDataUnsafe.start_param||"",m=/^([a-z]+)(_\d+)?$/.exec(sp);
+ var src=sp?(m?m[1]+(m[2]?"lot":""):"other"):"menu";CNT.hit("o");CNT.hit("s-"+src);
+ if(CNT.ls("ab_day")!==CNT.day){CNT.ls("ab_day",CNT.day);CNT.hit("u")}
+ if(!CNT.ls("ab_seen")){CNT.ls("ab_seen","1");CNT.hit("n")}})();
+document.addEventListener("click",function(ev){var a=ev.target.closest&&ev.target.closest("a.go");if(a&&/Ариза/.test(a.textContent))CNT.hit("a")},true);
 function showStart(x){cur=x.cat;if(SUB[x.cat])SUB[x.cat]=subOf(x);render();BYID[x.id]=x;openLot(x)}
 function openStart(){if(!STARTLOT)return;var id=STARTLOT;STARTLOT=null;
  var x=LOTS.filter(function(l){return l.id===id})[0];if(x){showStart(x);return}
