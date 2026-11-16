@@ -11339,6 +11339,67 @@
   "test": false
  },
  {
+  "id": 26654453,
+  "lot_number": "26654453",
+  "cat": "mulk",
+  "sub": "noturar",
+  "tags": [],
+  "title": "Ижарага, 38,8 м², 60 ой",
+  "info": [
+   "Ижара"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Фарғона вилояти",
+  "address": "Фарғона вилояти, Фарғона шаҳри, Илғор МФЙ, Фаровон турмуш кўчаси, 422/3-уй",
+  "price_orig": 23895950.0,
+  "price_final": 23895950.0,
+  "date": "18.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/52e02438899da875f76d6b4ee3aae560_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/52e02438899da875f76d6b4ee3aae560_L.jpg",
+   "https://media.e-auksion.uz/i/356596713a97c304761cceb4a834f3a1_L.jpg",
+   "https://media.e-auksion.uz/i/50455a3127256320cc1648d4d88b6e33_L.jpg",
+   "https://media.e-auksion.uz/i/159f6202e41a52e4ed6094e912b83212_L.jpg",
+   "https://media.e-auksion.uz/i/61d72e3f1f7555952b8ab386192daee6_L.jpg"
+  ],
+  "fav": 10,
+  "order_end": "18.11.2026 09:00",
+  "test": false
+ },
+ {
+  "id": 26654472,
+  "lot_number": "26654472",
+  "cat": "mulk",
+  "sub": "noturar",
+  "tags": [],
+  "title": "Ижарага, 50 м², 60 ой",
+  "info": [
+   "Ижара"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Қашқадарё вилояти",
+  "address": "Қашқадарё вилояти, Яккабоғ тумани, Уламжи МФЙ, Боғзор кўчаси, 200-уй",
+  "price_orig": 7098000.0,
+  "price_final": 7098000.0,
+  "date": "18.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/27943ad75fe80f1e375f0035c98af433_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/27943ad75fe80f1e375f0035c98af433_L.jpg",
+   "https://media.e-auksion.uz/i/b544cb40136f3f298cb9daba7c575f0d_L.jpg",
+   "https://media.e-auksion.uz/i/94ebf4bd4457599e50868346c015f2d5_L.jpg",
+   "https://media.e-auksion.uz/i/6f62e0ca1c07a74e91abcc9abaf489cc_L.png",
+   "https://media.e-auksion.uz/i/21a1f74d555f1c01fc7b99b7df413395_L.jpg",
+   "https://media.e-auksion.uz/i/4bd1ec9e801e6292832bdc5eeeccab53_L.jpg"
+  ],
+  "fav": 10,
+  "order_end": "18.11.2026 09:00",
+  "test": false
+ },
+ {
   "id": 26656699,
   "lot_number": "26656699",
   "cat": "mulk",
@@ -18986,6 +19047,35 @@
   "test": false
  },
  {
+  "id": 26874188,
+  "lot_number": "26874188",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "yakka"
+  ],
+  "title": "Ер участкаси, 4 сотих",
+  "info": [
+   "Якка тартибда уй-жой қуриш учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Жиззах вилояти",
+  "address": "Жиззах вилояти, Бахмал тумани, Файзобод МФЙ",
+  "price_orig": 24406000.0,
+  "price_final": 24406000.0,
+  "date": "18.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/67a5262d31efa378a9ffe42d3467b7c9_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/67a5262d31efa378a9ffe42d3467b7c9_L.jpeg",
+   "https://media.e-auksion.uz/i/6e820ad21a996715a11e144c10981972_L.jpeg"
+  ],
+  "fav": 13,
+  "order_end": "18.11.2026 09:00",
+  "test": false
+ },
+ {
   "id": 26874178,
   "lot_number": "26874178",
   "cat": "mulk",
@@ -19214,6 +19304,64 @@
   "photos": [
    "https://media.e-auksion.uz/i/a2d1e453a3a1a67b12eb834b725a45b6_L.jpeg",
    "https://media.e-auksion.uz/i/bbf4a2b8b307439b639e38c6cde6f87e_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "18.11.2026 09:00",
+  "test": false
+ },
+ {
+  "id": 26874197,
+  "lot_number": "26874197",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "yakka"
+  ],
+  "title": "Ер участкаси, 4 сотих",
+  "info": [
+   "Якка тартибда уй-жой қуриш учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Жиззах вилояти",
+  "address": "Жиззах вилояти, Бахмал тумани, Файзобод МФЙ",
+  "price_orig": 24406000.0,
+  "price_final": 24406000.0,
+  "date": "18.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/42b6c43ea3d07a9297ed0110d7332ae8_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/42b6c43ea3d07a9297ed0110d7332ae8_L.jpeg",
+   "https://media.e-auksion.uz/i/fd943920352959d04a0c498acba3ec25_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "18.11.2026 09:00",
+  "test": false
+ },
+ {
+  "id": 26874185,
+  "lot_number": "26874185",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "yakka"
+  ],
+  "title": "Ер участкаси, 4 сотих",
+  "info": [
+   "Якка тартибда уй-жой қуриш учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Жиззах вилояти",
+  "address": "Жиззах вилояти, Бахмал тумани, Файзобод МФЙ",
+  "price_orig": 24406000.0,
+  "price_final": 24406000.0,
+  "date": "18.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/f88f12bfb4f83e54ff02c152b9220029_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/f88f12bfb4f83e54ff02c152b9220029_L.jpeg",
+   "https://media.e-auksion.uz/i/5203e720c7a85e7a641d9a1b29613c42_L.jpeg"
   ],
   "fav": 10,
   "order_end": "18.11.2026 09:00",
