@@ -15069,6 +15069,40 @@
   "test": false
  },
  {
+  "id": 26584250,
+  "lot_number": "26584250",
+  "cat": "mulk",
+  "sub": "noturar",
+  "tags": [],
+  "title": "Бошқа, 368,2 м²",
+  "info": [
+   "Нотурар-жой обьектлари"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Фарғона вилояти",
+  "address": "Фарғона вилояти, Ёзёвон тумани, Тегирмонбоши МФЙ, Тегинмонбоши кўчаси, 8-уй",
+  "price_orig": 679254000.0,
+  "price_final": 679254000.0,
+  "date": "30.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/9814be2f2a69eaf7f63feed198610749_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/9814be2f2a69eaf7f63feed198610749_L.jpg",
+   "https://media.e-auksion.uz/i/768994e4f45422b1203f9eec884452eb_L.jpg",
+   "https://media.e-auksion.uz/i/0a87d98970faf98eda5cc217bec2a04c_L.jpg",
+   "https://media.e-auksion.uz/i/fa02c975287119e1bdf89e57990ce86f_L.jpg",
+   "https://media.e-auksion.uz/i/a91af0c616e07e22fb3234d6cf8e6172_L.jpg",
+   "https://media.e-auksion.uz/i/baa0f90ca9be97d9c638e92e23c7b802_L.jpg",
+   "https://media.e-auksion.uz/i/82a4f4ff6c158f31ad7f290ee51cb597_L.jpg",
+   "https://media.e-auksion.uz/i/5a7b7a70420bcb4f211243633c58a475_L.jpg",
+   "https://media.e-auksion.uz/i/dd0e5641123697fbe084d9dbfc05dd32_L.jpg"
+  ],
+  "fav": 10,
+  "order_end": "30.11.2026 09:00",
+  "test": false
+ },
+ {
   "id": 26619566,
   "lot_number": "26619566",
   "cat": "mulk",
@@ -24200,6 +24234,70 @@
   ],
   "fav": 11,
   "order_end": "27.11.2026 09:00",
+  "test": false
+ },
+ {
+  "id": 26904750,
+  "lot_number": "26904750",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "noturar",
+   "ijara"
+  ],
+  "title": "Ер участкаси, 0,55 сотих",
+  "info": [
+   "\"Тайёр пакет\" усулидаги ерлар"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Тошкент ш.",
+  "address": "Тошкент ш., Олмазор тумани, Орзу МФЙ",
+  "price_orig": 325393625.0,
+  "price_final": 325393625.0,
+  "date": "30.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/f04383c90446f0f27a393152e3dc4a54_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/f04383c90446f0f27a393152e3dc4a54_L.jpeg",
+   "https://media.e-auksion.uz/i/c9cd9fb871cbacf42521377346d4ef34_L.jpeg",
+   "https://media.e-auksion.uz/i/20dde12d7615ba3c7d60ccd92d1c07a1_L.jpeg",
+   "https://media.e-auksion.uz/i/dcc5cfb8d5138504d46ed8cc8c6855e3_L.jpeg",
+   "https://media.e-auksion.uz/i/86df7fa714fd03788f79bac7d070adb2_L.jpeg"
+  ],
+  "fav": 18,
+  "order_end": "30.11.2026 09:00",
+  "test": false
+ },
+ {
+  "id": 26904658,
+  "lot_number": "26904658",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "noturar"
+  ],
+  "title": "Ер участкаси, 2,1 сотих",
+  "info": [
+   "Тадбиркорлик ва шаҳарсозлик учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Наманган вилояти",
+  "address": "Наманган вилояти, Косонсой тумани, Боғишамол МФЙ",
+  "price_orig": 28768270.0,
+  "price_final": 28768270.0,
+  "date": "30.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/457063a958aa2d717c0190765bae15cf_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/457063a958aa2d717c0190765bae15cf_L.jpg",
+   "https://media.e-auksion.uz/i/8bfeac792f889ee6260dc14547b61aae_L.jpg",
+   "https://media.e-auksion.uz/i/a1951309e1a0013fedd19f221bb47226_L.jpg",
+   "https://media.e-auksion.uz/i/24f3c2f44c4d6a41fd523b008a09589c_L.jpg"
+  ],
+  "fav": 11,
+  "order_end": "30.11.2026 09:00",
   "test": false
  },
  {
