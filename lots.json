@@ -14500,6 +14500,36 @@
   "test": false
  },
  {
+  "id": 26847870,
+  "lot_number": "26847870",
+  "cat": "mulk",
+  "sub": "noturar",
+  "tags": [],
+  "title": "Ижарага, 41 м², 60 ой",
+  "info": [
+   "Ижара"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Қашқадарё вилояти",
+  "address": "Қашқадарё вилояти, Қарши шаҳри, Пахтазор -1 МФЙ, Ислом Каримов кўчаси, 52-уй",
+  "price_orig": 13964600.0,
+  "price_final": 13964600.0,
+  "date": "27.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/d2754cbc08b8c32334fa355e03cd477c_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/d2754cbc08b8c32334fa355e03cd477c_L.jpg",
+   "https://media.e-auksion.uz/i/19a105b119082fe79216f94a0d027f89_L.jpg",
+   "https://media.e-auksion.uz/i/d751c921ae4f1adcbbba2ce7f322d217_L.jpg",
+   "https://media.e-auksion.uz/i/08682bb795115d4566c315413f09cd7b_L.jpg",
+   "https://media.e-auksion.uz/i/1a3a8a8dc7520216b1a8f319685693b8_L.jpg"
+  ],
+  "fav": 13,
+  "order_end": "27.11.2026 09:00",
+  "test": false
+ },
+ {
   "id": 26493630,
   "lot_number": "26493630",
   "cat": "mulk",
@@ -24107,6 +24137,69 @@
   ],
   "fav": 10,
   "order_end": "26.11.2026 09:00",
+  "test": false
+ },
+ {
+  "id": 26879115,
+  "lot_number": "26879115",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "yakka"
+  ],
+  "title": "Ер участкаси, 4 сотих",
+  "info": [
+   "Якка тартибда уй-жой қуриш учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Сирдарё вилояти",
+  "address": "Сирдарё вилояти, Сардоба тумани, Ровот МФЙ",
+  "price_orig": 23673199.0,
+  "price_final": 23673199.0,
+  "date": "27.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/ccdde98128523cbde1d53198925ccf1d_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/ccdde98128523cbde1d53198925ccf1d_L.jpeg",
+   "https://media.e-auksion.uz/i/6e0500d9eb29a3cacd7774e1ac90a46c_L.jpeg"
+  ],
+  "fav": 11,
+  "order_end": "27.11.2026 09:00",
+  "test": false
+ },
+ {
+  "id": 26879094,
+  "lot_number": "26879094",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "noturar",
+   "ijara"
+  ],
+  "title": "Ер участкаси, 0,7 сотих",
+  "info": [
+   "Тадбиркорлик ва шаҳарсозлик учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Тошкент вилояти",
+  "address": "Тошкент вилояти, Қибрай тумани, Хайдаробод м.ф.й. МФЙ",
+  "price_orig": 30803268.0,
+  "price_final": 30803268.0,
+  "date": "27.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/06bf9e1057b286315f04947132770e62_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/06bf9e1057b286315f04947132770e62_L.jpeg",
+   "https://media.e-auksion.uz/i/36156b01ee6b5fbe9082bf3f8be57f8d_L.jpeg",
+   "https://media.e-auksion.uz/i/0933120e285554684ba1b6495d0543bb_L.jpeg",
+   "https://media.e-auksion.uz/i/339d1604b6a6d4883ecede21d1e28bab_L.jpeg",
+   "https://media.e-auksion.uz/i/39480c5e4d6dd9d4af5c5dc3e745aede_L.jpeg",
+   "https://media.e-auksion.uz/i/4e4cd3562637801ef8890f15de0ab304_L.jpeg"
+  ],
+  "fav": 11,
+  "order_end": "27.11.2026 09:00",
   "test": false
  },
  {
