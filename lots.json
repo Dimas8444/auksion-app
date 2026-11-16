@@ -11189,6 +11189,36 @@
   "test": false
  },
  {
+  "id": 26621272,
+  "lot_number": "26621272",
+  "cat": "mulk",
+  "sub": "noturar",
+  "tags": [],
+  "title": "Турар жой",
+  "info": [
+   "Давлат объекти"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Тошкент ш.",
+  "address": "Тошкент ш., Олмазор тумани, Чустий МФЙ, Беруний Б1 мавзеси, 50-уй, 24-хонадон",
+  "price_orig": 994768000.0,
+  "price_final": 994768000.0,
+  "date": "17.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/122562e40c54136c04e501c3b54a9eb1_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/122562e40c54136c04e501c3b54a9eb1_L.jpg",
+   "https://media.e-auksion.uz/i/200e87b3f2ddc5625cca61b59a5d1ed3_L.jpg",
+   "https://media.e-auksion.uz/i/2b5fa0f90727e60e751795398b92b100_L.jpg",
+   "https://media.e-auksion.uz/i/3768829dd5e75c53e784a6b4ff9141eb_L.jpg",
+   "https://media.e-auksion.uz/i/0997be93c2e6e80de2c01ec56d555656_L.jpg"
+  ],
+  "fav": 10,
+  "order_end": "17.11.2026 09:00",
+  "test": false
+ },
+ {
   "id": 26654458,
   "lot_number": "26654458",
   "cat": "mulk",
@@ -18868,6 +18898,35 @@
   "test": false
  },
  {
+  "id": 26812628,
+  "lot_number": "26812628",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "yakka"
+  ],
+  "title": "Ер участкаси, 3 сотих",
+  "info": [
+   "Якка тартибда уй-жой қуриш учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Тошкент ш.",
+  "address": "Тошкент ш., Янгиҳаёт тумани, Янги Гулзор МФЙ",
+  "price_orig": 453022000.0,
+  "price_final": 453022000.0,
+  "date": "17.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/8952d86aaa6298d679b6a538abb3ee1b_L.png",
+  "photos": [
+   "https://media.e-auksion.uz/i/8952d86aaa6298d679b6a538abb3ee1b_L.png",
+   "https://media.e-auksion.uz/i/c2ae5b7043ab566303d945aed03bddea_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "17.11.2026 09:00",
+  "test": false
+ },
+ {
   "id": 26653198,
   "lot_number": "26653198",
   "cat": "mulk",
@@ -22105,6 +22164,31 @@
    "https://media.e-auksion.uz/i/f1e7a6bd49cd2c32cc73b6715f4776e9_L.jpg"
   ],
   "fav": 17,
+  "order_end": "17.11.2026 09:00"
+ },
+ {
+  "id": 26847913,
+  "lot_number": "26847913",
+  "cat": "yuk",
+  "sub": "yuk",
+  "title": "UAZ 3303",
+  "year": "1994",
+  "mileage": "",
+  "region": "Сурхондарё вилояти",
+  "price_orig": 8860096.0,
+  "price_final": 8860096.0,
+  "date": "17.11.2026",
+  "post_url": "https://t.me/gruzovoeavto/24669",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/8bd434fc05af17b28c0024a01e494979_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/8bd434fc05af17b28c0024a01e494979_L.jpg",
+   "https://media.e-auksion.uz/i/07baccb41b7a6a25d920c1d7b8da2d0c_L.jpg",
+   "https://media.e-auksion.uz/i/20d641611a0abbb418c6ff6b537f94d1_L.jpg",
+   "https://media.e-auksion.uz/i/6e21b51392bc999a57ca0339ec8ed61b_L.jpg",
+   "https://media.e-auksion.uz/i/8a2ad5e37aa99909f0fd4f6d598fc179_L.jpg"
+  ],
+  "fav": 11,
   "order_end": "17.11.2026 09:00"
  },
  {
