@@ -4969,36 +4969,6 @@
   "order_end": "23.11.2026 09:00"
  },
  {
-  "id": 26886181,
-  "lot_number": "26886181",
-  "cat": "avto",
-  "sub": null,
-  "title": "KIA KIA SONET",
-  "year": "2025",
-  "mileage": "5675",
-  "region": "Тошкент ш.",
-  "price_orig": 199920000.0,
-  "price_final": 159936000.0,
-  "date": "23.11.2026",
-  "post_url": null,
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/377083c4751f8f79f03fcf11c0901e19_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/377083c4751f8f79f03fcf11c0901e19_L.jpeg",
-   "https://media.e-auksion.uz/i/0e48a520684f3ac9af22d44784f7a72e_L.jpeg",
-   "https://media.e-auksion.uz/i/e3e2eaded828f3603aa3073b4dee5a32_L.jpeg",
-   "https://media.e-auksion.uz/i/7840e6bd53946d4ee24cd878dba6e99d_L.jpeg",
-   "https://media.e-auksion.uz/i/60bd32fd2b6b08d03a5037fa017858ca_L.jpeg",
-   "https://media.e-auksion.uz/i/137a374e50dc0adcac1530f06b50ac94_L.jpeg",
-   "https://media.e-auksion.uz/i/6b4572a59505ae3997294bd09abe8560_L.jpeg",
-   "https://media.e-auksion.uz/i/7735ec663d0aaf1e011fbd396d66378c_L.jpeg",
-   "https://media.e-auksion.uz/i/5c7c8abeabb4e1c014b40c5ca913f713_L.jpeg",
-   "https://media.e-auksion.uz/i/c5519f8279f5f91dc3abfb0f219a73ca_L.jpeg"
-  ],
-  "fav": 32,
-  "order_end": "23.11.2026 09:00"
- },
- {
   "id": 26876724,
   "lot_number": "26876724",
   "cat": "avto",
@@ -5024,6 +4994,36 @@
    "https://media.e-auksion.uz/i/955ad6c951ee567f4263b46a5657ced0_L.jpeg",
    "https://media.e-auksion.uz/i/37588763dc89d1cf115e16009b4036e1_L.jpeg",
    "https://media.e-auksion.uz/i/9ded95713712cd915909d9c734bef5e3_L.jpeg"
+  ],
+  "fav": 32,
+  "order_end": "23.11.2026 09:00"
+ },
+ {
+  "id": 26886181,
+  "lot_number": "26886181",
+  "cat": "avto",
+  "sub": null,
+  "title": "KIA KIA SONET",
+  "year": "2025",
+  "mileage": "5675",
+  "region": "Тошкент ш.",
+  "price_orig": 199920000.0,
+  "price_final": 159936000.0,
+  "date": "23.11.2026",
+  "post_url": "https://t.me/avto_auksion_uz/156434",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/377083c4751f8f79f03fcf11c0901e19_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/377083c4751f8f79f03fcf11c0901e19_L.jpeg",
+   "https://media.e-auksion.uz/i/0e48a520684f3ac9af22d44784f7a72e_L.jpeg",
+   "https://media.e-auksion.uz/i/e3e2eaded828f3603aa3073b4dee5a32_L.jpeg",
+   "https://media.e-auksion.uz/i/7840e6bd53946d4ee24cd878dba6e99d_L.jpeg",
+   "https://media.e-auksion.uz/i/60bd32fd2b6b08d03a5037fa017858ca_L.jpeg",
+   "https://media.e-auksion.uz/i/137a374e50dc0adcac1530f06b50ac94_L.jpeg",
+   "https://media.e-auksion.uz/i/6b4572a59505ae3997294bd09abe8560_L.jpeg",
+   "https://media.e-auksion.uz/i/7735ec663d0aaf1e011fbd396d66378c_L.jpeg",
+   "https://media.e-auksion.uz/i/5c7c8abeabb4e1c014b40c5ca913f713_L.jpeg",
+   "https://media.e-auksion.uz/i/c5519f8279f5f91dc3abfb0f219a73ca_L.jpeg"
   ],
   "fav": 32,
   "order_end": "23.11.2026 09:00"
