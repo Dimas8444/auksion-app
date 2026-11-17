@@ -1584,36 +1584,6 @@
   "order_end": "19.11.2026 09:00"
  },
  {
-  "id": 26763998,
-  "lot_number": "26763998",
-  "cat": "avto",
-  "sub": null,
-  "title": "COBALT GBASPG",
-  "year": "2023",
-  "mileage": "",
-  "region": "Андижон вилояти",
-  "price_orig": 107668400.0,
-  "price_final": 86134720.0,
-  "date": "19.11.2026",
-  "post_url": null,
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/4f48df267cab54228a94d7c2f8b7f4a5_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/4f48df267cab54228a94d7c2f8b7f4a5_L.jpeg",
-   "https://media.e-auksion.uz/i/1f194b1ae895414aae2912171d5c079e_L.jpeg",
-   "https://media.e-auksion.uz/i/3cc5fd5d05c335829d98c241b7af9f78_L.jpeg",
-   "https://media.e-auksion.uz/i/c150130101c37319bf8c96b70ed6acb5_L.jpeg",
-   "https://media.e-auksion.uz/i/07ede48a2fa67f026277c5ad3694ec9e_L.jpeg",
-   "https://media.e-auksion.uz/i/c8a207a0e5af387406db1af827e8b26d_L.jpeg",
-   "https://media.e-auksion.uz/i/6cce989bccf3a9badf4e48b885d426a3_L.jpeg",
-   "https://media.e-auksion.uz/i/324f83aa2c077a5da33090a062ad1929_L.jpeg",
-   "https://media.e-auksion.uz/i/21133fb61aef3cf2219581358df61348_L.jpeg",
-   "https://media.e-auksion.uz/i/9d6d451c63da0b52039db4413cc69ece_L.jpeg"
-  ],
-  "fav": 21,
-  "order_end": "19.11.2026 09:00"
- },
- {
   "id": 26763996,
   "lot_number": "26763996",
   "cat": "avto",
@@ -1639,6 +1609,36 @@
    "https://media.e-auksion.uz/i/3431a491d5fc5611a82e912426cc9a8e_L.jpeg",
    "https://media.e-auksion.uz/i/689cf48143a47a2aaa62ee25f8cc6ae7_L.jpeg",
    "https://media.e-auksion.uz/i/785e8f749e585fe62089cf3204ee5190_L.jpeg"
+  ],
+  "fav": 21,
+  "order_end": "19.11.2026 09:00"
+ },
+ {
+  "id": 26763998,
+  "lot_number": "26763998",
+  "cat": "avto",
+  "sub": null,
+  "title": "COBALT GBASPG",
+  "year": "2023",
+  "mileage": "",
+  "region": "Андижон вилояти",
+  "price_orig": 107668400.0,
+  "price_final": 86134720.0,
+  "date": "19.11.2026",
+  "post_url": "https://t.me/avto_auksion_uz/156596",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/4f48df267cab54228a94d7c2f8b7f4a5_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/4f48df267cab54228a94d7c2f8b7f4a5_L.jpeg",
+   "https://media.e-auksion.uz/i/1f194b1ae895414aae2912171d5c079e_L.jpeg",
+   "https://media.e-auksion.uz/i/3cc5fd5d05c335829d98c241b7af9f78_L.jpeg",
+   "https://media.e-auksion.uz/i/c150130101c37319bf8c96b70ed6acb5_L.jpeg",
+   "https://media.e-auksion.uz/i/07ede48a2fa67f026277c5ad3694ec9e_L.jpeg",
+   "https://media.e-auksion.uz/i/c8a207a0e5af387406db1af827e8b26d_L.jpeg",
+   "https://media.e-auksion.uz/i/6cce989bccf3a9badf4e48b885d426a3_L.jpeg",
+   "https://media.e-auksion.uz/i/324f83aa2c077a5da33090a062ad1929_L.jpeg",
+   "https://media.e-auksion.uz/i/21133fb61aef3cf2219581358df61348_L.jpeg",
+   "https://media.e-auksion.uz/i/9d6d451c63da0b52039db4413cc69ece_L.jpeg"
   ],
   "fav": 21,
   "order_end": "19.11.2026 09:00"
@@ -15947,6 +15947,37 @@
   "test": false
  },
  {
+  "id": 26905193,
+  "lot_number": "26905193",
+  "cat": "mulk",
+  "sub": "noturar",
+  "tags": [],
+  "title": "Нотурар бино",
+  "info": [
+   "Давлат объекти"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Андижон вилояти",
+  "address": "Андижон вилояти, Андижон шаҳри, Ғайрат МФЙ, Чўлпон шоҳ кўчаси, 36-уй, 1",
+  "price_orig": 260363615.0,
+  "price_final": 260363615.0,
+  "date": "30.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/d472ca4286d78c1fe995cc448d54b994_L.png",
+  "photos": [
+   "https://media.e-auksion.uz/i/d472ca4286d78c1fe995cc448d54b994_L.png",
+   "https://media.e-auksion.uz/i/e9d4b4ea8fc1e53613b340296c61ff83_L.jpg",
+   "https://media.e-auksion.uz/i/8db6982012fc4d0490df4cac8460dc1c_L.jpg",
+   "https://media.e-auksion.uz/i/09cb73ffaac1548d3bfc027e1dc4c56b_L.jpg",
+   "https://media.e-auksion.uz/i/d70d7dc8ca38dc89a54b9af0bb909067_L.jpg",
+   "https://media.e-auksion.uz/i/0ee6c8ff3073daf673038b03e132699c_L.jpg"
+  ],
+  "fav": 16,
+  "order_end": "30.11.2026 09:00",
+  "test": false
+ },
+ {
   "id": 26560254,
   "lot_number": "26560254",
   "cat": "mulk",
@@ -26153,6 +26184,37 @@
    "https://media.e-auksion.uz/i/86df7fa714fd03788f79bac7d070adb2_L.jpeg"
   ],
   "fav": 27,
+  "order_end": "30.11.2026 09:00",
+  "test": false
+ },
+ {
+  "id": 26904668,
+  "lot_number": "26904668",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "noturar",
+   "ijara"
+  ],
+  "title": "Ер участкаси, 3,47 сотих",
+  "info": [
+   "Тадбиркорлик ва шаҳарсозлик учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Тошкент вилояти",
+  "address": "Тошкент вилояти, Олмалиқ шаҳри, С.Оллоёр МФЙ",
+  "price_orig": 55486386.0,
+  "price_final": 55486386.0,
+  "date": "30.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/ed1be4efb947682bc2d0718338abf4f0_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/ed1be4efb947682bc2d0718338abf4f0_L.jpeg",
+   "https://media.e-auksion.uz/i/4351a8131ec995002cc8e276a96bcbc6_L.jpeg",
+   "https://media.e-auksion.uz/i/a8888f650799d21f1f78dcc1950d87f6_L.jpeg"
+  ],
+  "fav": 17,
   "order_end": "30.11.2026 09:00",
   "test": false
  },
