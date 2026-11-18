@@ -39826,29 +39826,6 @@
   "order_end": "27.11.2026 09:00"
  },
  {
-  "id": 26850152,
-  "lot_number": "26850152",
-  "cat": "yuk",
-  "sub": "yuk",
-  "title": "UAT SCTU 334 21 UZAUTO TRAILER",
-  "year": "2017",
-  "mileage": "",
-  "region": "Тошкент вилояти",
-  "price_orig": 100000000.0,
-  "price_final": 100000000.0,
-  "date": "27.11.2026",
-  "post_url": null,
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/cafd3b60743032b66a8672fdecd91a4a_L.jpg",
-  "photos": [
-   "https://media.e-auksion.uz/i/cafd3b60743032b66a8672fdecd91a4a_L.jpg",
-   "https://media.e-auksion.uz/i/a43ebdda3a2962cbd41d526accd465cf_L.jpg",
-   "https://media.e-auksion.uz/i/274386e71fbd117d95156a8c764904d3_L.jpg"
-  ],
-  "fav": 22,
-  "order_end": "27.11.2026 09:00"
- },
- {
   "id": 26866344,
   "lot_number": "26866344",
   "cat": "yuk",
@@ -39867,6 +39844,29 @@
    "https://media.e-auksion.uz/i/6197c723b3c5768e97d7697c4b132239_L.jpg",
    "https://media.e-auksion.uz/i/97448374b6bb872107a2d970e7580331_L.jpg",
    "https://media.e-auksion.uz/i/49b4aa770193be017540a4dfaa9fac0d_L.jpg"
+  ],
+  "fav": 22,
+  "order_end": "27.11.2026 09:00"
+ },
+ {
+  "id": 26850152,
+  "lot_number": "26850152",
+  "cat": "yuk",
+  "sub": "yuk",
+  "title": "UAT SCTU 334 21 UZAUTO TRAILER",
+  "year": "2017",
+  "mileage": "",
+  "region": "Тошкент вилояти",
+  "price_orig": 100000000.0,
+  "price_final": 100000000.0,
+  "date": "27.11.2026",
+  "post_url": "https://t.me/gruzovoeavto/24885",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/cafd3b60743032b66a8672fdecd91a4a_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/cafd3b60743032b66a8672fdecd91a4a_L.jpg",
+   "https://media.e-auksion.uz/i/a43ebdda3a2962cbd41d526accd465cf_L.jpg",
+   "https://media.e-auksion.uz/i/274386e71fbd117d95156a8c764904d3_L.jpg"
   ],
   "fav": 22,
   "order_end": "27.11.2026 09:00"
