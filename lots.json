@@ -17505,6 +17505,40 @@
   "test": false
  },
  {
+  "id": 26584795,
+  "lot_number": "26584795",
+  "cat": "mulk",
+  "sub": "noturar",
+  "tags": [],
+  "title": "Савдо дўкони, 194,7 м²",
+  "info": [
+   "Нотурар-жой обьектлари"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Сурхондарё вилояти",
+  "address": "Сурхондарё вилояти, Термиз шаҳри, Мангузар маҳалласи Фаровон 3 даҳаси, 1-уй 3",
+  "price_orig": 1031250000.0,
+  "price_final": 1031250000.0,
+  "date": "30.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/077ddacfc8f68d4ef1d95ba29f147f37_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/077ddacfc8f68d4ef1d95ba29f147f37_L.jpeg",
+   "https://media.e-auksion.uz/i/88f21ddce6d27c94f051b388f3d2a0ac_L.jpeg",
+   "https://media.e-auksion.uz/i/a0853003326eb72833b1165a4a149563_L.jpeg",
+   "https://media.e-auksion.uz/i/0bb4908e0fdb08726aaa8608a7710bcc_L.jpeg",
+   "https://media.e-auksion.uz/i/1a287d521428e0c3e6b0ff4d05c47434_L.jpeg",
+   "https://media.e-auksion.uz/i/2d9705f9d3b9de6b14956df0fd044987_L.jpeg",
+   "https://media.e-auksion.uz/i/ad6f4280b9be7627fbd0e7eec5857474_L.jpeg",
+   "https://media.e-auksion.uz/i/9734e78c54614058242bed556129583c_L.jpeg",
+   "https://media.e-auksion.uz/i/9d50a2fd9ad6f7598ad90724a694d8ba_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "30.11.2026 09:00",
+  "test": false
+ },
+ {
   "id": 26619566,
   "lot_number": "26619566",
   "cat": "mulk",
@@ -30608,7 +30642,7 @@
   "price_orig": 134339665.0,
   "price_final": 134339665.0,
   "date": "24.11.2026",
-  "post_url": null,
+  "post_url": "https://t.me/gruzovoeavto/24872",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/1ff669c359857a0fb5a4dc290d4887df_L.jpg",
   "photos": [
