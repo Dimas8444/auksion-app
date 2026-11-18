@@ -13919,6 +13919,34 @@
   "order_end": "11.12.2026 09:00"
  },
  {
+  "id": 26815772,
+  "lot_number": "26815772",
+  "cat": "avto",
+  "sub": null,
+  "title": "VAZ2101",
+  "year": "1992",
+  "mileage": "22938",
+  "region": "Тошкент ш.",
+  "price_orig": 9082000.0,
+  "price_final": 9082000.0,
+  "date": "11.12.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/0fdf2bfc5d7966480e68e0e9887c63c6_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/0fdf2bfc5d7966480e68e0e9887c63c6_L.jpeg",
+   "https://media.e-auksion.uz/i/cc2b3ac449836940599f84cfcd2857f8_L.jpeg",
+   "https://media.e-auksion.uz/i/1d33364c983d4c5c612dcc8b3cdb5b01_L.jpeg",
+   "https://media.e-auksion.uz/i/02da56d55d376487e70d07f576c300cb_L.jpeg",
+   "https://media.e-auksion.uz/i/41700f6843914d68cb7c5e9cb1832d69_L.jpeg",
+   "https://media.e-auksion.uz/i/caf088909b398bc302764f6bf6f88b09_L.jpeg",
+   "https://media.e-auksion.uz/i/f41839ccacbc5190c54d887d967a7df2_L.jpeg",
+   "https://media.e-auksion.uz/i/6750c1ea1ee29e563e2170de7af9aea4_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "11.12.2026 09:00"
+ },
+ {
   "id": 26847660,
   "lot_number": "26847660",
   "cat": "avto",
@@ -14852,6 +14880,36 @@
    "https://media.e-auksion.uz/i/85845d4f8ba57dc826a00ba726d2db74_L.jpeg"
   ],
   "fav": 11,
+  "order_end": "17.12.2026 09:00"
+ },
+ {
+  "id": 26943815,
+  "lot_number": "26943815",
+  "cat": "avto",
+  "sub": null,
+  "title": "DAMAS 2 D2",
+  "year": "2024",
+  "mileage": "",
+  "region": "Наманган вилояти",
+  "price_orig": 70015717.0,
+  "price_final": 49011001.9,
+  "date": "17.12.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/0aca98165b2d9a00b9398e8002185b81_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/0aca98165b2d9a00b9398e8002185b81_L.jpeg",
+   "https://media.e-auksion.uz/i/000d38a3ec1b5c502ea24523d39303aa_L.jpeg",
+   "https://media.e-auksion.uz/i/9035f2704f5493c45c9c5b025f050173_L.jpeg",
+   "https://media.e-auksion.uz/i/1ff9cbd0d23bb8749b415c87b484d38f_L.jpeg",
+   "https://media.e-auksion.uz/i/8567d5b37b7d2f774c0d8c837a6f651c_L.jpeg",
+   "https://media.e-auksion.uz/i/66bf9e68472ac4f3ee70a013fe58be4c_L.jpeg",
+   "https://media.e-auksion.uz/i/135cd7833c477aeff969e9d7d177c209_L.jpeg",
+   "https://media.e-auksion.uz/i/10dabcc58a33f05d6cbdcf56460da0c1_L.jpeg",
+   "https://media.e-auksion.uz/i/ba6f88ae40ab527a98a5c9d6f3486d39_L.jpeg",
+   "https://media.e-auksion.uz/i/072a1435f546693c957ded4a4fcf9941_L.jpeg"
+  ],
+  "fav": 10,
   "order_end": "17.12.2026 09:00"
  },
  {
@@ -42634,5 +42692,30 @@
   ],
   "fav": 29,
   "order_end": "17.12.2026 09:00"
+ },
+ {
+  "id": 26977969,
+  "lot_number": "26977969",
+  "cat": "yuk",
+  "sub": "yuk",
+  "title": "KIA KIA BONGO III DPYC HDH57",
+  "year": "2024",
+  "mileage": "",
+  "region": "Тошкент вилояти",
+  "price_orig": 238541428.0,
+  "price_final": 238541428.0,
+  "date": "18.12.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/26cb164c170804f21fe068d7bd1004ec_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/26cb164c170804f21fe068d7bd1004ec_L.jpeg",
+   "https://media.e-auksion.uz/i/5a84a9054fcfadb17840fad891e9e85d_L.jpeg",
+   "https://media.e-auksion.uz/i/c3ac050595ccf9669676e645d4fff6c9_L.jpeg",
+   "https://media.e-auksion.uz/i/dd8f179387c8e417b0da49f120383875_L.jpeg",
+   "https://media.e-auksion.uz/i/f4451984a680a9c87c29521ea59e13f9_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "18.12.2026 09:00"
  }
 ]
