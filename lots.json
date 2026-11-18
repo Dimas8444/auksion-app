@@ -1740,32 +1740,6 @@
   "order_end": "19.11.2026 09:00"
  },
  {
-  "id": 26782087,
-  "lot_number": "26782087",
-  "cat": "avto",
-  "sub": null,
-  "title": "Malibu 2",
-  "year": "2018",
-  "mileage": "185721",
-  "region": "Фарғона вилояти",
-  "price_orig": 164153000.0,
-  "price_final": 164153000.0,
-  "date": "19.11.2026",
-  "post_url": null,
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/8e13e7a7271d1a1b8adefc2c3ef425d8_L.jpg",
-  "photos": [
-   "https://media.e-auksion.uz/i/8e13e7a7271d1a1b8adefc2c3ef425d8_L.jpg",
-   "https://media.e-auksion.uz/i/59ad4ee44451bf1b5fdd262512d79933_L.jpg",
-   "https://media.e-auksion.uz/i/e8f9d96dd2961e520c01276eff8581d3_L.jpg",
-   "https://media.e-auksion.uz/i/76504f3a396f93f6fe10f5dd053d6c62_L.jpg",
-   "https://media.e-auksion.uz/i/9c31ec3d8ef573bc714b29b65bd9d88f_L.jpg",
-   "https://media.e-auksion.uz/i/b46fb6ad6e845a8388846f547344fe23_L.jpg"
-  ],
-  "fav": 20,
-  "order_end": "19.11.2026 09:00"
- },
- {
   "id": 26763858,
   "lot_number": "26763858",
   "cat": "avto",
@@ -1940,6 +1914,32 @@
    "https://media.e-auksion.uz/i/3ce981737120c922168fab408f61c749_L.jpeg",
    "https://media.e-auksion.uz/i/cf65ba040e978dae4b0482aa838db650_L.jpeg",
    "https://media.e-auksion.uz/i/995827a91baa5af32dd709d58e8ed6f4_L.jpeg"
+  ],
+  "fav": 20,
+  "order_end": "19.11.2026 09:00"
+ },
+ {
+  "id": 26782087,
+  "lot_number": "26782087",
+  "cat": "avto",
+  "sub": null,
+  "title": "Malibu 2",
+  "year": "2018",
+  "mileage": "185721",
+  "region": "Фарғона вилояти",
+  "price_orig": 164153000.0,
+  "price_final": 164153000.0,
+  "date": "19.11.2026",
+  "post_url": "https://t.me/avto_auksion_uz/156844",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/8e13e7a7271d1a1b8adefc2c3ef425d8_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/8e13e7a7271d1a1b8adefc2c3ef425d8_L.jpg",
+   "https://media.e-auksion.uz/i/59ad4ee44451bf1b5fdd262512d79933_L.jpg",
+   "https://media.e-auksion.uz/i/e8f9d96dd2961e520c01276eff8581d3_L.jpg",
+   "https://media.e-auksion.uz/i/76504f3a396f93f6fe10f5dd053d6c62_L.jpg",
+   "https://media.e-auksion.uz/i/9c31ec3d8ef573bc714b29b65bd9d88f_L.jpg",
+   "https://media.e-auksion.uz/i/b46fb6ad6e845a8388846f547344fe23_L.jpg"
   ],
   "fav": 20,
   "order_end": "19.11.2026 09:00"
