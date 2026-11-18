@@ -3856,6 +3856,34 @@
   "order_end": "19.11.2026 09:00"
  },
  {
+  "id": 26763908,
+  "lot_number": "26763908",
+  "cat": "avto",
+  "sub": null,
+  "title": "GM UZ LACETTI",
+  "year": "2012",
+  "mileage": "",
+  "region": "Жиззах вилояти",
+  "price_orig": 87342000.0,
+  "price_final": 69873600.0,
+  "date": "19.11.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/1e8bd231870abb4558eb289a2cc60bf7_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/1e8bd231870abb4558eb289a2cc60bf7_L.jpeg",
+   "https://media.e-auksion.uz/i/4859e46c7a9c4a46fdd590784182a7b8_L.jpeg",
+   "https://media.e-auksion.uz/i/7faa5ad8c87de2683ad057a8ae62ae1f_L.jpeg",
+   "https://media.e-auksion.uz/i/9e0d47bd5830fc83f52daa2f29ef8cfd_L.jpeg",
+   "https://media.e-auksion.uz/i/f063a4fbaccf1ad6bc4b170663d2b6ad_L.jpeg",
+   "https://media.e-auksion.uz/i/c1fca6532a02ed92d67a1cd86650fadc_L.jpeg",
+   "https://media.e-auksion.uz/i/619c6932d5ca38918231f3f10f3cda1b_L.jpeg",
+   "https://media.e-auksion.uz/i/37073ec9fb57c56b518e72e8b30c0a73_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "19.11.2026 09:00"
+ },
+ {
   "id": 26782026,
   "lot_number": "26782026",
   "cat": "avto",
@@ -39172,7 +39200,7 @@
   "price_orig": 431442000.0,
   "price_final": 431442000.0,
   "date": "23.11.2026",
-  "post_url": null,
+  "post_url": "https://t.me/gruzovoeavto/24884",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/674d175d4d9c11e45dd489dfac830375_L.jpg",
   "photos": [
@@ -39188,7 +39216,8 @@
    "https://media.e-auksion.uz/i/68952df1799e958ee4168a192df5130c_L.jpeg"
   ],
   "fav": 18,
-  "order_end": "23.11.2026 09:00"
+  "order_end": "23.11.2026 09:00",
+  "term": "60 ой"
  },
  {
   "id": 26847871,
