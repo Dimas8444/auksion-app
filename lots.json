@@ -1739,36 +1739,6 @@
   "order_end": "19.11.2026 09:00"
  },
  {
-  "id": 26763674,
-  "lot_number": "26763674",
-  "cat": "avto",
-  "sub": null,
-  "title": "Range Rover ",
-  "year": "2005",
-  "mileage": "",
-  "region": "Бухоро вилояти",
-  "price_orig": 195128037.0,
-  "price_final": 97564018.5,
-  "date": "19.11.2026",
-  "post_url": null,
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/c6158e0c076dca1edc5c1baf909c0a1b_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/c6158e0c076dca1edc5c1baf909c0a1b_L.jpeg",
-   "https://media.e-auksion.uz/i/ba0b48e2e36d47e96c24a870f79b7c2d_L.jpeg",
-   "https://media.e-auksion.uz/i/b59d39c84a5b4770958d663c6cd8a51a_L.jpeg",
-   "https://media.e-auksion.uz/i/c7c970bc3039633bc2f30ab25795326a_L.jpeg",
-   "https://media.e-auksion.uz/i/71078e1e154f956c3e63ef276613e771_L.jpeg",
-   "https://media.e-auksion.uz/i/6a682de77b923f2d9d09f68487cf0ee5_L.jpeg",
-   "https://media.e-auksion.uz/i/f292765712910f28c6f8c3c3c56862ee_L.jpeg",
-   "https://media.e-auksion.uz/i/3ce981737120c922168fab408f61c749_L.jpeg",
-   "https://media.e-auksion.uz/i/cf65ba040e978dae4b0482aa838db650_L.jpeg",
-   "https://media.e-auksion.uz/i/995827a91baa5af32dd709d58e8ed6f4_L.jpeg"
-  ],
-  "fav": 20,
-  "order_end": "19.11.2026 09:00"
- },
- {
   "id": 26763933,
   "lot_number": "26763933",
   "cat": "avto",
@@ -1884,6 +1854,36 @@
    "https://media.e-auksion.uz/i/01c67953e99acaa883c764f319da05fc_L.jpeg",
    "https://media.e-auksion.uz/i/b9302d6a2837ad9b076880eb9ff507c7_L.jpeg",
    "https://media.e-auksion.uz/i/4cd236ff12f61e1ebdb8d3d460049d72_L.jpeg"
+  ],
+  "fav": 20,
+  "order_end": "19.11.2026 09:00"
+ },
+ {
+  "id": 26763674,
+  "lot_number": "26763674",
+  "cat": "avto",
+  "sub": null,
+  "title": "Range Rover ",
+  "year": "2005",
+  "mileage": "",
+  "region": "Бухоро вилояти",
+  "price_orig": 195128037.0,
+  "price_final": 97564018.5,
+  "date": "19.11.2026",
+  "post_url": "https://t.me/avto_auksion_uz/156834",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/c6158e0c076dca1edc5c1baf909c0a1b_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/c6158e0c076dca1edc5c1baf909c0a1b_L.jpeg",
+   "https://media.e-auksion.uz/i/ba0b48e2e36d47e96c24a870f79b7c2d_L.jpeg",
+   "https://media.e-auksion.uz/i/b59d39c84a5b4770958d663c6cd8a51a_L.jpeg",
+   "https://media.e-auksion.uz/i/c7c970bc3039633bc2f30ab25795326a_L.jpeg",
+   "https://media.e-auksion.uz/i/71078e1e154f956c3e63ef276613e771_L.jpeg",
+   "https://media.e-auksion.uz/i/6a682de77b923f2d9d09f68487cf0ee5_L.jpeg",
+   "https://media.e-auksion.uz/i/f292765712910f28c6f8c3c3c56862ee_L.jpeg",
+   "https://media.e-auksion.uz/i/3ce981737120c922168fab408f61c749_L.jpeg",
+   "https://media.e-auksion.uz/i/cf65ba040e978dae4b0482aa838db650_L.jpeg",
+   "https://media.e-auksion.uz/i/995827a91baa5af32dd709d58e8ed6f4_L.jpeg"
   ],
   "fav": 20,
   "order_end": "19.11.2026 09:00"
