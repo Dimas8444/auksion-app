@@ -1740,35 +1740,6 @@
   "order_end": "19.11.2026 09:00"
  },
  {
-  "id": 26763858,
-  "lot_number": "26763858",
-  "cat": "avto",
-  "sub": null,
-  "title": "CAPTIVA 2",
-  "year": "2016",
-  "mileage": "",
-  "region": "Тошкент ш.",
-  "price_orig": 199095000.0,
-  "price_final": 119457000.0,
-  "date": "19.11.2026",
-  "post_url": null,
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/f36fc126c4ce2cd29b1fdf6ed46c4c90_L.png",
-  "photos": [
-   "https://media.e-auksion.uz/i/f36fc126c4ce2cd29b1fdf6ed46c4c90_L.png",
-   "https://media.e-auksion.uz/i/c6c0019e7e8d2476b5f992655dd100ee_L.png",
-   "https://media.e-auksion.uz/i/01e858464a424be5f1727cde6ff7e4a1_L.png",
-   "https://media.e-auksion.uz/i/d23fba95ecd3712ad79cd93c5a1d44f7_L.png",
-   "https://media.e-auksion.uz/i/035e035fec456b3388cdeb4e68791676_L.png",
-   "https://media.e-auksion.uz/i/bfaebd19864cc90f5cca31cfd1a6f3c1_L.png",
-   "https://media.e-auksion.uz/i/99ad2556a0555032473462548633bf93_L.png",
-   "https://media.e-auksion.uz/i/3f58edddd160ed2c1e674ed450f63871_L.png",
-   "https://media.e-auksion.uz/i/cba1d85e612415b619973cabef9539eb_L.png"
-  ],
-  "fav": 20,
-  "order_end": "19.11.2026 09:00"
- },
- {
   "id": 26763933,
   "lot_number": "26763933",
   "cat": "avto",
@@ -1940,6 +1911,35 @@
    "https://media.e-auksion.uz/i/76504f3a396f93f6fe10f5dd053d6c62_L.jpg",
    "https://media.e-auksion.uz/i/9c31ec3d8ef573bc714b29b65bd9d88f_L.jpg",
    "https://media.e-auksion.uz/i/b46fb6ad6e845a8388846f547344fe23_L.jpg"
+  ],
+  "fav": 20,
+  "order_end": "19.11.2026 09:00"
+ },
+ {
+  "id": 26763858,
+  "lot_number": "26763858",
+  "cat": "avto",
+  "sub": null,
+  "title": "CAPTIVA 2",
+  "year": "2016",
+  "mileage": "",
+  "region": "Тошкент ш.",
+  "price_orig": 199095000.0,
+  "price_final": 119457000.0,
+  "date": "19.11.2026",
+  "post_url": "https://t.me/avto_auksion_uz/156851",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/f36fc126c4ce2cd29b1fdf6ed46c4c90_L.png",
+  "photos": [
+   "https://media.e-auksion.uz/i/f36fc126c4ce2cd29b1fdf6ed46c4c90_L.png",
+   "https://media.e-auksion.uz/i/c6c0019e7e8d2476b5f992655dd100ee_L.png",
+   "https://media.e-auksion.uz/i/01e858464a424be5f1727cde6ff7e4a1_L.png",
+   "https://media.e-auksion.uz/i/d23fba95ecd3712ad79cd93c5a1d44f7_L.png",
+   "https://media.e-auksion.uz/i/035e035fec456b3388cdeb4e68791676_L.png",
+   "https://media.e-auksion.uz/i/bfaebd19864cc90f5cca31cfd1a6f3c1_L.png",
+   "https://media.e-auksion.uz/i/99ad2556a0555032473462548633bf93_L.png",
+   "https://media.e-auksion.uz/i/3f58edddd160ed2c1e674ed450f63871_L.png",
+   "https://media.e-auksion.uz/i/cba1d85e612415b619973cabef9539eb_L.png"
   ],
   "fav": 20,
   "order_end": "19.11.2026 09:00"
@@ -15482,7 +15482,8 @@
   ],
   "fav": 20,
   "order_end": "20.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "бор"
  },
  {
   "id": 26331674,
@@ -24701,7 +24702,8 @@
   ],
   "fav": 21,
   "order_end": "20.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26717347,
@@ -24734,7 +24736,8 @@
   ],
   "fav": 10,
   "order_end": "20.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "12 ой"
  },
  {
   "id": 26717348,
@@ -24766,7 +24769,8 @@
   ],
   "fav": 10,
   "order_end": "20.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "12 ой"
  },
  {
   "id": 26717355,
@@ -24799,7 +24803,8 @@
   ],
   "fav": 10,
   "order_end": "20.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "12 ой"
  },
  {
   "id": 26717343,
@@ -24832,7 +24837,8 @@
   ],
   "fav": 10,
   "order_end": "20.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "12 ой"
  },
  {
   "id": 26902020,
@@ -24861,7 +24867,8 @@
   ],
   "fav": 10,
   "order_end": "20.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "12 ой"
  },
  {
   "id": 26902022,
@@ -24890,7 +24897,8 @@
   ],
   "fav": 10,
   "order_end": "20.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "12 ой"
  },
  {
   "id": 26717360,
@@ -24920,7 +24928,8 @@
   ],
   "fav": 10,
   "order_end": "20.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "60 ой"
  },
  {
   "id": 26902021,
@@ -24949,7 +24958,8 @@
   ],
   "fav": 10,
   "order_end": "20.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "12 ой"
  },
  {
   "id": 26743345,
