@@ -1945,6 +1945,35 @@
   "order_end": "19.11.2026 09:00"
  },
  {
+  "id": 26764029,
+  "lot_number": "26764029",
+  "cat": "avto",
+  "sub": null,
+  "title": "COBALT",
+  "year": "2024",
+  "mileage": "",
+  "region": "Фарғона вилояти",
+  "price_orig": 123487700.0,
+  "price_final": 98790160.0,
+  "date": "19.11.2026",
+  "post_url": "https://t.me/avto_auksion_uz/156860",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/560a66cf6dc3bb541714dd397d12dcce_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/560a66cf6dc3bb541714dd397d12dcce_L.jpeg",
+   "https://media.e-auksion.uz/i/408052aae4c007b037a0e1502bd5b79e_L.jpeg",
+   "https://media.e-auksion.uz/i/3cc4d6013dc6208d2e17c343f03b6d42_L.jpeg",
+   "https://media.e-auksion.uz/i/99917760bf9729f76c31ed42483e7306_L.jpeg",
+   "https://media.e-auksion.uz/i/3b2914d83538e2432bd8e061c9947ae1_L.jpeg",
+   "https://media.e-auksion.uz/i/cd1b6460f3084e86cd1f4e75bd35a9f1_L.jpeg",
+   "https://media.e-auksion.uz/i/3df7bf7162b9f25de8a35b3d16b39ad6_L.jpeg",
+   "https://media.e-auksion.uz/i/f579600e070aaf670dfbffa97db67f2d_L.jpeg",
+   "https://media.e-auksion.uz/i/34caa041cc4b67029eac2ba66a53f38b_L.jpeg"
+  ],
+  "fav": 20,
+  "order_end": "19.11.2026 09:00"
+ },
+ {
   "id": 26297441,
   "lot_number": "26297441",
   "cat": "avto",
@@ -2028,35 +2057,6 @@
    "https://media.e-auksion.uz/i/ac94000bb12579be4aa0e16924885c37_L.png",
    "https://media.e-auksion.uz/i/a2015fb2046ed077981569d95bd01fae_L.png",
    "https://media.e-auksion.uz/i/2b5683b92d62a21c3a979150b39c7862_L.png"
-  ],
-  "fav": 19,
-  "order_end": "19.11.2026 09:00"
- },
- {
-  "id": 26764029,
-  "lot_number": "26764029",
-  "cat": "avto",
-  "sub": null,
-  "title": "COBALT",
-  "year": "2024",
-  "mileage": "",
-  "region": "Фарғона вилояти",
-  "price_orig": 123487700.0,
-  "price_final": 98790160.0,
-  "date": "19.11.2026",
-  "post_url": null,
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/560a66cf6dc3bb541714dd397d12dcce_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/560a66cf6dc3bb541714dd397d12dcce_L.jpeg",
-   "https://media.e-auksion.uz/i/408052aae4c007b037a0e1502bd5b79e_L.jpeg",
-   "https://media.e-auksion.uz/i/3cc4d6013dc6208d2e17c343f03b6d42_L.jpeg",
-   "https://media.e-auksion.uz/i/99917760bf9729f76c31ed42483e7306_L.jpeg",
-   "https://media.e-auksion.uz/i/3b2914d83538e2432bd8e061c9947ae1_L.jpeg",
-   "https://media.e-auksion.uz/i/cd1b6460f3084e86cd1f4e75bd35a9f1_L.jpeg",
-   "https://media.e-auksion.uz/i/3df7bf7162b9f25de8a35b3d16b39ad6_L.jpeg",
-   "https://media.e-auksion.uz/i/f579600e070aaf670dfbffa97db67f2d_L.jpeg",
-   "https://media.e-auksion.uz/i/34caa041cc4b67029eac2ba66a53f38b_L.jpeg"
   ],
   "fav": 19,
   "order_end": "19.11.2026 09:00"
@@ -16750,7 +16750,8 @@
   ],
   "fav": 21,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "бор"
  },
  {
   "id": 26847850,
@@ -16779,7 +16780,8 @@
   ],
   "fav": 20,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "бор"
  },
  {
   "id": 26422281,
@@ -16843,7 +16845,8 @@
   ],
   "fav": 20,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "бор"
  },
  {
   "id": 26460973,
@@ -25617,7 +25620,8 @@
   ],
   "fav": 21,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846784,
@@ -25646,7 +25650,8 @@
   ],
   "fav": 21,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846782,
@@ -25675,7 +25680,8 @@
   ],
   "fav": 20,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846851,
@@ -25704,7 +25710,8 @@
   ],
   "fav": 20,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846786,
@@ -25733,7 +25740,8 @@
   ],
   "fav": 20,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846788,
@@ -25762,7 +25770,8 @@
   ],
   "fav": 20,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846804,
@@ -25791,7 +25800,8 @@
   ],
   "fav": 20,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846787,
@@ -25820,7 +25830,8 @@
   ],
   "fav": 20,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846789,
@@ -25849,7 +25860,8 @@
   ],
   "fav": 20,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846796,
@@ -25878,7 +25890,8 @@
   ],
   "fav": 20,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846792,
@@ -25907,7 +25920,8 @@
   ],
   "fav": 20,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846806,
@@ -25936,7 +25950,8 @@
   ],
   "fav": 13,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846824,
@@ -25965,7 +25980,8 @@
   ],
   "fav": 13,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846823,
@@ -25994,7 +26010,8 @@
   ],
   "fav": 13,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846825,
@@ -26023,7 +26040,8 @@
   ],
   "fav": 13,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846841,
@@ -26052,7 +26070,8 @@
   ],
   "fav": 13,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846849,
@@ -26081,7 +26100,8 @@
   ],
   "fav": 12,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846848,
@@ -26110,7 +26130,8 @@
   ],
   "fav": 12,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846843,
@@ -26139,7 +26160,8 @@
   ],
   "fav": 12,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846807,
@@ -26168,7 +26190,8 @@
   ],
   "fav": 12,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846808,
@@ -26197,7 +26220,8 @@
   ],
   "fav": 12,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846800,
@@ -26226,7 +26250,8 @@
   ],
   "fav": 12,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846842,
@@ -26255,7 +26280,8 @@
   ],
   "fav": 12,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846791,
@@ -26284,7 +26310,8 @@
   ],
   "fav": 12,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846798,
@@ -26313,7 +26340,8 @@
   ],
   "fav": 12,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846831,
@@ -26342,7 +26370,8 @@
   ],
   "fav": 11,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846833,
@@ -26371,7 +26400,8 @@
   ],
   "fav": 11,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846805,
@@ -26400,7 +26430,8 @@
   ],
   "fav": 11,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846828,
@@ -26429,7 +26460,8 @@
   ],
   "fav": 11,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846835,
@@ -26458,7 +26490,8 @@
   ],
   "fav": 11,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846799,
@@ -26487,7 +26520,8 @@
   ],
   "fav": 11,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846844,
@@ -26516,7 +26550,8 @@
   ],
   "fav": 11,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846817,
@@ -26545,7 +26580,8 @@
   ],
   "fav": 11,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846832,
@@ -26574,7 +26610,8 @@
   ],
   "fav": 11,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846839,
@@ -26603,7 +26640,8 @@
   ],
   "fav": 11,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846803,
@@ -26632,7 +26670,8 @@
   ],
   "fav": 11,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846801,
@@ -26661,7 +26700,8 @@
   ],
   "fav": 11,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846802,
@@ -26690,7 +26730,8 @@
   ],
   "fav": 11,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846809,
@@ -26719,7 +26760,8 @@
   ],
   "fav": 11,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846827,
@@ -26748,7 +26790,8 @@
   ],
   "fav": 11,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846838,
@@ -26777,7 +26820,8 @@
   ],
   "fav": 11,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846797,
@@ -26806,7 +26850,8 @@
   ],
   "fav": 11,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846840,
@@ -26835,7 +26880,8 @@
   ],
   "fav": 11,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846837,
@@ -26864,7 +26910,8 @@
   ],
   "fav": 11,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846819,
@@ -26893,7 +26940,8 @@
   ],
   "fav": 11,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846813,
@@ -26922,7 +26970,8 @@
   ],
   "fav": 11,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846822,
@@ -26951,7 +27000,8 @@
   ],
   "fav": 11,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846821,
@@ -26980,7 +27030,8 @@
   ],
   "fav": 11,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846850,
@@ -27009,7 +27060,8 @@
   ],
   "fav": 10,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846793,
@@ -27038,7 +27090,8 @@
   ],
   "fav": 10,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846790,
@@ -27067,7 +27120,8 @@
   ],
   "fav": 10,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846794,
@@ -27096,7 +27150,8 @@
   ],
   "fav": 10,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846845,
@@ -27125,7 +27180,8 @@
   ],
   "fav": 10,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846815,
@@ -27154,7 +27210,8 @@
   ],
   "fav": 10,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846826,
@@ -27183,7 +27240,8 @@
   ],
   "fav": 10,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846814,
@@ -27212,7 +27270,8 @@
   ],
   "fav": 10,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846820,
@@ -27241,7 +27300,8 @@
   ],
   "fav": 10,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846847,
@@ -27270,7 +27330,8 @@
   ],
   "fav": 10,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846811,
@@ -27299,7 +27360,8 @@
   ],
   "fav": 10,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846846,
@@ -27328,7 +27390,8 @@
   ],
   "fav": 10,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846810,
@@ -27357,7 +27420,8 @@
   ],
   "fav": 10,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846818,
@@ -27386,7 +27450,8 @@
   ],
   "fav": 10,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846834,
@@ -27415,7 +27480,8 @@
   ],
   "fav": 10,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846836,
@@ -27444,7 +27510,8 @@
   ],
   "fav": 10,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846816,
@@ -27473,7 +27540,8 @@
   ],
   "fav": 10,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846812,
@@ -27502,7 +27570,8 @@
   ],
   "fav": 10,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846829,
@@ -27531,7 +27600,8 @@
   ],
   "fav": 10,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26846830,
@@ -27560,7 +27630,8 @@
   ],
   "fav": 10,
   "order_end": "26.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26879115,
