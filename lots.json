@@ -28032,7 +28032,8 @@
   ],
   "fav": 34,
   "order_end": "01.12.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "12 ой"
  },
  {
   "id": 26942251,
@@ -28064,6 +28065,40 @@
    "https://media.e-auksion.uz/i/2bfef95682035e7e6fbbdb5c7ea42358_L.jpeg"
   ],
   "fav": 25,
+  "order_end": "01.12.2026 09:00",
+  "test": false,
+  "term": "12 ой"
+ },
+ {
+  "term": "36 ой",
+  "id": 26942265,
+  "lot_number": "26942265",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "noturar",
+   "ijara"
+  ],
+  "title": "Ер участкаси, 2,5 сотих",
+  "info": [
+   "Тадбиркорлик ва шаҳарсозлик учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Фарғона вилояти",
+  "address": "Фарғона вилояти, Фарғона шаҳри, Табассум МФЙ",
+  "price_orig": 52800000.0,
+  "price_final": 52800000.0,
+  "date": "01.12.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/8f6327c56a641ad7e49bdb492e5c2d12_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/8f6327c56a641ad7e49bdb492e5c2d12_L.jpeg",
+   "https://media.e-auksion.uz/i/f456e4997b192b339dc39b63d2c3ba73_L.jpeg",
+   "https://media.e-auksion.uz/i/9af4db4ad0ff89b47775e5a9490651af_L.jpeg",
+   "https://media.e-auksion.uz/i/bd27dc81f90bc136f92010fa8eb79f61_L.jpeg"
+  ],
+  "fav": 10,
   "order_end": "01.12.2026 09:00",
   "test": false
  },
