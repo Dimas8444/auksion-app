@@ -271,6 +271,9 @@ function openLot(x){OPEN=x;try{CNT.hit("v");GC({path:"lot-card",title:"Лот к
 function fillLot(x){var r=(DET&&DET[x.id])||null,dl=document.getElementById("drows");if(!dl||OPEN!==x)return;dl.innerHTML="";
  // карточки ещё нет (новый лот до обновления) — хотя бы номер и адрес
  var rows=r&&r.rows&&r.rows.length?r.rows:[["Лот №",String(x.lot_number||x.id)],["Пробег",x.mileage?(/^\d+$/.test(String(x.mileage))?fmtn(x.mileage)+" км":x.mileage):""],["Манзил",x.address||x.region||""]];
+ // рассрочка (18.11): у лотов, добавленных раньше, в карточке строки нет — вставляем после «Закалат»
+ if(x.term&&!rows.some(function(p){return p[0]==="Бўлиб тўлаш"})){rows=rows.slice();var zi=rows.findIndex(function(p){return p[0]==="Закалат"});
+  rows.splice(zi<0?rows.length:zi+1,0,["Бўлиб тўлаш",x.term])}
  rows.forEach(function(p){if(!p[1])return;var w=document.createElement("div");if(!p[0])w.className="wide";
   if(p[0]){var t=document.createElement("dt");t.textContent=p[0];w.appendChild(t)}
   var v=document.createElement("dd");v.textContent=p[1];w.appendChild(v);dl.appendChild(w)});
