@@ -16977,7 +16977,8 @@
   ],
   "fav": 13,
   "order_end": "27.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "бор"
  },
  {
   "id": 26493630,
@@ -17110,7 +17111,8 @@
   ],
   "fav": 10,
   "order_end": "27.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "бор"
  },
  {
   "id": 26560444,
@@ -17340,7 +17342,8 @@
   ],
   "fav": 16,
   "order_end": "30.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "бор"
  },
  {
   "id": 26560254,
@@ -17476,7 +17479,8 @@
   ],
   "fav": 10,
   "order_end": "30.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "60 ой"
  },
  {
   "id": 26493833,
@@ -17711,7 +17715,8 @@
   ],
   "fav": 10,
   "order_end": "30.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "12 ой"
  },
  {
   "id": 26560457,
@@ -27660,7 +27665,8 @@
   ],
   "fav": 11,
   "order_end": "27.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "120 ой"
  },
  {
   "id": 26879094,
@@ -27694,7 +27700,8 @@
   ],
   "fav": 11,
   "order_end": "27.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "60 ой"
  },
  {
   "id": 26879095,
@@ -27728,7 +27735,8 @@
   ],
   "fav": 10,
   "order_end": "27.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "60 ой"
  },
  {
   "id": 26904750,
@@ -27761,7 +27769,8 @@
   ],
   "fav": 27,
   "order_end": "30.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "12 ой"
  },
  {
   "id": 26904668,
@@ -27792,7 +27801,8 @@
   ],
   "fav": 20,
   "order_end": "30.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "60 ой"
  },
  {
   "id": 26904658,
@@ -27823,7 +27833,8 @@
   ],
   "fav": 20,
   "order_end": "30.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "60 ой"
  },
  {
   "id": 26904676,
@@ -27855,7 +27866,8 @@
   ],
   "fav": 10,
   "order_end": "30.11.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "60 ой"
  },
  {
   "id": 26904684,
@@ -27887,6 +27899,39 @@
   ],
   "fav": 10,
   "order_end": "30.11.2026 09:00",
+  "test": false,
+  "term": "60 ой"
+ },
+ {
+  "id": 26942252,
+  "lot_number": "26942252",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "noturar",
+   "ijara"
+  ],
+  "title": "Ер участкаси, 0,28 сотих",
+  "info": [
+   "Тадбиркорлик ва шаҳарсозлик учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Тошкент ш.",
+  "address": "Тошкент ш., Бектемир тумани, Роҳат",
+  "price_orig": 61896584.0,
+  "price_final": 61896584.0,
+  "date": "01.12.2026",
+  "post_url": "https://t.me/kuchmasmulk_uz/5162",
+  "photo": "https://media.e-auksion.uz/i/e8bed248f31def7f8ef116499e1a5cb6_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/e8bed248f31def7f8ef116499e1a5cb6_L.jpeg",
+   "https://media.e-auksion.uz/i/d762992e80ea35b778a0d9f7fe70d42c_L.jpeg",
+   "https://media.e-auksion.uz/i/bc6f1d979d8bca9bd9480580d32d44c5_L.jpeg",
+   "https://media.e-auksion.uz/i/186658d53c29c6856661c23215415c5c_L.jpeg"
+  ],
+  "fav": 34,
+  "order_end": "01.12.2026 09:00",
   "test": false
  },
  {
@@ -27920,39 +27965,8 @@
   ],
   "fav": 12,
   "order_end": "01.12.2026 09:00",
-  "test": false
- },
- {
-  "id": 26942252,
-  "lot_number": "26942252",
-  "cat": "mulk",
-  "sub": "yer",
-  "tags": [
-   "noturar",
-   "ijara"
-  ],
-  "title": "Ер участкаси, 0,28 сотих",
-  "info": [
-   "Тадбиркорлик ва шаҳарсозлик учун"
-  ],
-  "year": "",
-  "mileage": "",
-  "region": "Тошкент ш.",
-  "address": "Тошкент ш., Бектемир тумани, Роҳат",
-  "price_orig": 61896584.0,
-  "price_final": 61896584.0,
-  "date": "01.12.2026",
-  "post_url": null,
-  "photo": "https://media.e-auksion.uz/i/e8bed248f31def7f8ef116499e1a5cb6_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/e8bed248f31def7f8ef116499e1a5cb6_L.jpeg",
-   "https://media.e-auksion.uz/i/d762992e80ea35b778a0d9f7fe70d42c_L.jpeg",
-   "https://media.e-auksion.uz/i/bc6f1d979d8bca9bd9480580d32d44c5_L.jpeg",
-   "https://media.e-auksion.uz/i/186658d53c29c6856661c23215415c5c_L.jpeg"
-  ],
-  "fav": 10,
-  "order_end": "01.12.2026 09:00",
-  "test": false
+  "test": false,
+  "term": "12 ой"
  },
  {
   "id": 26685362,
