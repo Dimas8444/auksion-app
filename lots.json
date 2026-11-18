@@ -1710,36 +1710,6 @@
   "order_end": "19.11.2026 09:00"
  },
  {
-  "id": 26763971,
-  "lot_number": "26763971",
-  "cat": "avto",
-  "sub": null,
-  "title": "CHERY TIGGO 8 PRO",
-  "year": "2025",
-  "mileage": "6655",
-  "region": "Навоий вилояти",
-  "price_orig": 365000000.0,
-  "price_final": 292000000.0,
-  "date": "19.11.2026",
-  "post_url": null,
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/9d7c7087532062ff9764b450341a66b8_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/9d7c7087532062ff9764b450341a66b8_L.jpeg",
-   "https://media.e-auksion.uz/i/ab58d4841778e72f0e43e4387195ecc9_L.jpeg",
-   "https://media.e-auksion.uz/i/3bd2b6b40c1d0b37ca8f95eef0d20ada_L.jpeg",
-   "https://media.e-auksion.uz/i/6f63f352641135ea647265bc09c063bd_L.jpeg",
-   "https://media.e-auksion.uz/i/bef03b6311641899ab64fdea2b7eb358_L.jpeg",
-   "https://media.e-auksion.uz/i/f5a705c7c2f2b1935b2e27d89bee46aa_L.jpeg",
-   "https://media.e-auksion.uz/i/2c9c00f4213275861b46eef9475233b4_L.jpeg",
-   "https://media.e-auksion.uz/i/01c67953e99acaa883c764f319da05fc_L.jpeg",
-   "https://media.e-auksion.uz/i/b9302d6a2837ad9b076880eb9ff507c7_L.jpeg",
-   "https://media.e-auksion.uz/i/4cd236ff12f61e1ebdb8d3d460049d72_L.jpeg"
-  ],
-  "fav": 20,
-  "order_end": "19.11.2026 09:00"
- },
- {
   "id": 26763674,
   "lot_number": "26763674",
   "cat": "avto",
@@ -1884,6 +1854,36 @@
    "https://media.e-auksion.uz/i/ada9e0324131780c89e7e7d0bb1bd203_L.jpeg",
    "https://media.e-auksion.uz/i/c68b47c3c5c1978b8cf6fde74af7b71d_L.jpeg",
    "https://media.e-auksion.uz/i/8c903c28a85d809ddfd5e1b9695d1a3f_L.jpeg"
+  ],
+  "fav": 20,
+  "order_end": "19.11.2026 09:00"
+ },
+ {
+  "id": 26763971,
+  "lot_number": "26763971",
+  "cat": "avto",
+  "sub": null,
+  "title": "CHERY TIGGO 8 PRO",
+  "year": "2025",
+  "mileage": "6655",
+  "region": "Навоий вилояти",
+  "price_orig": 365000000.0,
+  "price_final": 292000000.0,
+  "date": "19.11.2026",
+  "post_url": "https://t.me/avto_auksion_uz/156803",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/9d7c7087532062ff9764b450341a66b8_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/9d7c7087532062ff9764b450341a66b8_L.jpeg",
+   "https://media.e-auksion.uz/i/ab58d4841778e72f0e43e4387195ecc9_L.jpeg",
+   "https://media.e-auksion.uz/i/3bd2b6b40c1d0b37ca8f95eef0d20ada_L.jpeg",
+   "https://media.e-auksion.uz/i/6f63f352641135ea647265bc09c063bd_L.jpeg",
+   "https://media.e-auksion.uz/i/bef03b6311641899ab64fdea2b7eb358_L.jpeg",
+   "https://media.e-auksion.uz/i/f5a705c7c2f2b1935b2e27d89bee46aa_L.jpeg",
+   "https://media.e-auksion.uz/i/2c9c00f4213275861b46eef9475233b4_L.jpeg",
+   "https://media.e-auksion.uz/i/01c67953e99acaa883c764f319da05fc_L.jpeg",
+   "https://media.e-auksion.uz/i/b9302d6a2837ad9b076880eb9ff507c7_L.jpeg",
+   "https://media.e-auksion.uz/i/4cd236ff12f61e1ebdb8d3d460049d72_L.jpeg"
   ],
   "fav": 20,
   "order_end": "19.11.2026 09:00"
