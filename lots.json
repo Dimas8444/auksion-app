@@ -3297,6 +3297,36 @@
   "order_end": "23.11.2026 09:00"
  },
  {
+  "id": 26876716,
+  "lot_number": "26876716",
+  "cat": "avto",
+  "sub": null,
+  "title": "DAMAS",
+  "year": "2022",
+  "mileage": "50360",
+  "region": "Хоразм вилояти",
+  "price_orig": 57428700.0,
+  "price_final": 45942960.0,
+  "date": "23.11.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/f08cb726b0c711adb65a831624b7e3e4_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/f08cb726b0c711adb65a831624b7e3e4_L.jpeg",
+   "https://media.e-auksion.uz/i/dea9886cfc88886600fcb81d9c3eb342_L.jpeg",
+   "https://media.e-auksion.uz/i/9272f34a707de082be69d8f97abf9306_L.jpeg",
+   "https://media.e-auksion.uz/i/7646259f72ba23eb16b2d292b83e9139_L.jpeg",
+   "https://media.e-auksion.uz/i/b3e36fedace9ad0c392c599c9a1c33eb_L.jpeg",
+   "https://media.e-auksion.uz/i/fd6fc0637da55b47290b8c1d09325ef2_L.jpeg",
+   "https://media.e-auksion.uz/i/41e73f4154443777080253e27ee34ac9_L.jpeg",
+   "https://media.e-auksion.uz/i/48dce31210209fe74f96d675829eddbc_L.jpeg",
+   "https://media.e-auksion.uz/i/6e7103993782377656e209b8e88cd3e5_L.jpeg",
+   "https://media.e-auksion.uz/i/bf04f465238b907d9bf269740ab21c50_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "23.11.2026 09:00"
+ },
+ {
   "id": 26819075,
   "lot_number": "26819075",
   "cat": "avto",
@@ -11650,6 +11680,31 @@
    "https://media.e-auksion.uz/i/85845d4f8ba57dc826a00ba726d2db74_L.jpeg"
   ],
   "fav": 11,
+  "order_end": "17.12.2026 09:00"
+ },
+ {
+  "id": 26938068,
+  "lot_number": "26938068",
+  "cat": "avto",
+  "sub": null,
+  "title": "DONGFEN D50 MINI TRUCK DF SK",
+  "year": "2024",
+  "mileage": "27221km",
+  "region": "Тошкент ш.",
+  "price_orig": 144275000.0,
+  "price_final": 144275000.0,
+  "date": "17.12.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/3621d18c301359ddbc44686656494ef3_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/3621d18c301359ddbc44686656494ef3_L.jpg",
+   "https://media.e-auksion.uz/i/221e12c15633978587074fdf4a1ee082_L.jpg",
+   "https://media.e-auksion.uz/i/a352ec9fecf998921f07044ecfcf5f12_L.jpg",
+   "https://media.e-auksion.uz/i/7901f2d3c196c842e11a640f301bef01_L.jpg",
+   "https://media.e-auksion.uz/i/f4cdcd652f71478ea0d4e5775a1e166a_L.jpg"
+  ],
+  "fav": 10,
   "order_end": "17.12.2026 09:00"
  },
  {
