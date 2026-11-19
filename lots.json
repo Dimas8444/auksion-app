@@ -1963,36 +1963,6 @@
   "order_end": "23.11.2026 09:00"
  },
  {
-  "id": 26876734,
-  "lot_number": "26876734",
-  "cat": "avto",
-  "sub": null,
-  "title": "KIA SELTOS G03N",
-  "year": "2024",
-  "mileage": "14201",
-  "region": "Қашқадарё вилояти",
-  "price_orig": 312463750.0,
-  "price_final": 249971000.0,
-  "date": "23.11.2026",
-  "post_url": null,
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/fde4499803db572073dba944fac60121_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/fde4499803db572073dba944fac60121_L.jpeg",
-   "https://media.e-auksion.uz/i/2724bef9ec83bc17086b4fb1e825e22e_L.jpeg",
-   "https://media.e-auksion.uz/i/2aea33c19b871f59b9f7cbbb69a3f0e3_L.jpeg",
-   "https://media.e-auksion.uz/i/8801c0dcbeaaeede6b652e3de41d4747_L.jpeg",
-   "https://media.e-auksion.uz/i/929b63e696874b6fee280427c261f46b_L.jpeg",
-   "https://media.e-auksion.uz/i/d8a3f92e7de1ad7786cf4c4f0c097b1d_L.jpeg",
-   "https://media.e-auksion.uz/i/1b9baf12c44ae7bd99b6f12c4d2369da_L.jpeg",
-   "https://media.e-auksion.uz/i/cd2e96dc0a3f97ac2fff8e6d85199559_L.jpeg",
-   "https://media.e-auksion.uz/i/064e7b0bb39a4cdfa644169d31854358_L.jpeg",
-   "https://media.e-auksion.uz/i/dd7aad2bbbaf174afe2fc284681d2db9_L.jpeg"
-  ],
-  "fav": 20,
-  "order_end": "23.11.2026 09:00"
- },
- {
   "id": 26364295,
   "lot_number": "26364295",
   "cat": "avto",
@@ -2048,6 +2018,36 @@
    "https://media.e-auksion.uz/i/182cc43b99047428e3bba611ff55e268_L.jpeg",
    "https://media.e-auksion.uz/i/933a77af005151345ef9c56b15729985_L.jpeg",
    "https://media.e-auksion.uz/i/1280422bb2e90ebb7d6d7fac81e99b13_L.jpeg"
+  ],
+  "fav": 20,
+  "order_end": "23.11.2026 09:00"
+ },
+ {
+  "id": 26876734,
+  "lot_number": "26876734",
+  "cat": "avto",
+  "sub": null,
+  "title": "KIA SELTOS G03N",
+  "year": "2024",
+  "mileage": "14201",
+  "region": "Қашқадарё вилояти",
+  "price_orig": 312463750.0,
+  "price_final": 249971000.0,
+  "date": "23.11.2026",
+  "post_url": "https://t.me/avto_auksion_uz/157075",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/fde4499803db572073dba944fac60121_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/fde4499803db572073dba944fac60121_L.jpeg",
+   "https://media.e-auksion.uz/i/2724bef9ec83bc17086b4fb1e825e22e_L.jpeg",
+   "https://media.e-auksion.uz/i/2aea33c19b871f59b9f7cbbb69a3f0e3_L.jpeg",
+   "https://media.e-auksion.uz/i/8801c0dcbeaaeede6b652e3de41d4747_L.jpeg",
+   "https://media.e-auksion.uz/i/929b63e696874b6fee280427c261f46b_L.jpeg",
+   "https://media.e-auksion.uz/i/d8a3f92e7de1ad7786cf4c4f0c097b1d_L.jpeg",
+   "https://media.e-auksion.uz/i/1b9baf12c44ae7bd99b6f12c4d2369da_L.jpeg",
+   "https://media.e-auksion.uz/i/cd2e96dc0a3f97ac2fff8e6d85199559_L.jpeg",
+   "https://media.e-auksion.uz/i/064e7b0bb39a4cdfa644169d31854358_L.jpeg",
+   "https://media.e-auksion.uz/i/dd7aad2bbbaf174afe2fc284681d2db9_L.jpeg"
   ],
   "fav": 20,
   "order_end": "23.11.2026 09:00"
