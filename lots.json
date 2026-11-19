@@ -27515,6 +27515,34 @@
   "order_end": "23.11.2026 09:00"
  },
  {
+  "id": 26419019,
+  "lot_number": "26419019",
+  "cat": "yuk",
+  "sub": "yuk",
+  "title": "labo",
+  "year": "2024",
+  "mileage": "25700",
+  "region": "Сурхондарё вилояти",
+  "price_orig": 84370000.0,
+  "price_final": 84370000.0,
+  "date": "23.11.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/fd9ed7b31998e6079cf4a9a327b68512_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/fd9ed7b31998e6079cf4a9a327b68512_L.jpeg",
+   "https://media.e-auksion.uz/i/61d97e511c26bc461757ca3a2692b524_L.jpeg",
+   "https://media.e-auksion.uz/i/bef580d5f00a71f0bba22ef46d4eaf12_L.jpeg",
+   "https://media.e-auksion.uz/i/af871868d93481346d1e54690ecab59c_L.jpeg",
+   "https://media.e-auksion.uz/i/21f12ccf870481eb6d653d533512a9de_L.jpeg",
+   "https://media.e-auksion.uz/i/8323b50404ebdc3ee29f4a24ca2e7166_L.jpeg",
+   "https://media.e-auksion.uz/i/dbf12b911808c22ab963a90d4d3263fd_L.jpeg",
+   "https://media.e-auksion.uz/i/4e49063e9879089e41018b99b9071857_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "23.11.2026 09:00"
+ },
+ {
   "id": 26781603,
   "lot_number": "26781603",
   "cat": "yuk",
@@ -30182,5 +30210,35 @@
   ],
   "fav": 10,
   "order_end": "18.12.2026 09:00"
+ },
+ {
+  "id": 27010043,
+  "lot_number": "27010043",
+  "cat": "yuk",
+  "sub": "yuk",
+  "title": "HYUNDAI HYUNDAI MIGHTY",
+  "year": "2024",
+  "mileage": "63098",
+  "region": "Тошкент вилояти",
+  "price_orig": 464800000.0,
+  "price_final": 464800000.0,
+  "date": "21.12.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/641fee9cb8959b3a144cb885c6635393_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/641fee9cb8959b3a144cb885c6635393_L.jpeg",
+   "https://media.e-auksion.uz/i/0aec5a121ab427bc2822a9efc8ec5fc9_L.jpeg",
+   "https://media.e-auksion.uz/i/f1b01c4dd7f0f802f361a033ce22bb4a_L.jpeg",
+   "https://media.e-auksion.uz/i/bbf8db64e5c008fbfa2923b649929847_L.jpeg",
+   "https://media.e-auksion.uz/i/866df64a5a39fbc81d4ee0d4af170b0f_L.jpeg",
+   "https://media.e-auksion.uz/i/e397ccfb1a0008210cab0bc33c62c48e_L.jpeg",
+   "https://media.e-auksion.uz/i/f40fc935c5c1a8434612e1c148ea9508_L.jpeg",
+   "https://media.e-auksion.uz/i/e4532ef7d83058f9960525477175182d_L.jpeg",
+   "https://media.e-auksion.uz/i/9063dfce1a6bd7c30dc355772ceb0329_L.jpeg",
+   "https://media.e-auksion.uz/i/3fd0a3584b0431a4de7536520396eec1_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "21.12.2026 09:00"
  }
 ]
