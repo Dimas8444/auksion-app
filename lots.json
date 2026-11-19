@@ -3267,6 +3267,36 @@
   "order_end": "23.11.2026 09:00"
  },
  {
+  "id": 26419073,
+  "lot_number": "26419073",
+  "cat": "avto",
+  "sub": null,
+  "title": "CHEVROLET LACETTI",
+  "year": "2022",
+  "mileage": "43307",
+  "region": "Хоразм вилояти",
+  "price_orig": 114300000.0,
+  "price_final": 114300000.0,
+  "date": "23.11.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/5c4e1ac4d98206f8f5f901ca730d713b_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/5c4e1ac4d98206f8f5f901ca730d713b_L.jpeg",
+   "https://media.e-auksion.uz/i/ef9e1e25f2bda4e6b1e6c3a2c7aee369_L.jpeg",
+   "https://media.e-auksion.uz/i/03ff21aeb75c9d41defdd957d2bab95d_L.jpeg",
+   "https://media.e-auksion.uz/i/cd56e803712a26707bf7fc2c5793cd93_L.jpeg",
+   "https://media.e-auksion.uz/i/8c9684e89e3c7bfb16315ac1b567d05c_L.jpeg",
+   "https://media.e-auksion.uz/i/69ed19dcf340c529b335fd73c185963f_L.jpeg",
+   "https://media.e-auksion.uz/i/01b9a87f0fccd8137fa320b3271326c6_L.jpeg",
+   "https://media.e-auksion.uz/i/e41c4c30936e0c4648f2fe88f943c2c1_L.jpeg",
+   "https://media.e-auksion.uz/i/286629ee2c5f4c5117de7ab5b0654d38_L.jpeg",
+   "https://media.e-auksion.uz/i/98588ace48c4785b1de5c27d70cd12ee_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "23.11.2026 09:00"
+ },
+ {
   "id": 26819075,
   "lot_number": "26819075",
   "cat": "avto",
@@ -18542,7 +18572,7 @@
   "price_orig": 375000000.0,
   "price_final": 375000000.0,
   "date": "03.12.2026",
-  "post_url": null,
+  "post_url": "https://t.me/kuchmasmulk_uz/5268",
   "photo": "https://media.e-auksion.uz/i/658a6c2a26a359e424b3c11c39919dc5_L.jpeg",
   "photos": [
    "https://media.e-auksion.uz/i/658a6c2a26a359e424b3c11c39919dc5_L.jpeg",
@@ -18555,7 +18585,7 @@
    "https://media.e-auksion.uz/i/fccb076ec2c5fbaca013383eedb660fa_L.jpeg",
    "https://media.e-auksion.uz/i/354efdedec7da4ee144333fcc0a414b1_L.jpeg"
   ],
-  "fav": 12,
+  "fav": 20,
   "order_end": "03.12.2026 09:00",
   "test": false
  },
