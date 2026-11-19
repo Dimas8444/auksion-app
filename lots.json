@@ -1877,6 +1877,35 @@
   "order_end": "23.11.2026 09:00"
  },
  {
+  "id": 26876739,
+  "lot_number": "26876739",
+  "cat": "avto",
+  "sub": null,
+  "title": "TRACKER-2",
+  "year": "2023",
+  "mileage": "",
+  "region": "Хоразм вилояти",
+  "price_orig": 154500000.0,
+  "price_final": 123600000.0,
+  "date": "23.11.2026",
+  "post_url": "https://t.me/avto_auksion_uz/157074",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/a2e9ea0a51ed70b157eb93781ccc8476_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/a2e9ea0a51ed70b157eb93781ccc8476_L.jpeg",
+   "https://media.e-auksion.uz/i/9976a9a6afac1f937137c6cc714a706b_L.jpeg",
+   "https://media.e-auksion.uz/i/83949eb8f34b2aaa8a79e0a44d039e81_L.jpeg",
+   "https://media.e-auksion.uz/i/e4f13a1d4920b8dfa4b31723cd30be52_L.jpeg",
+   "https://media.e-auksion.uz/i/28fe2668b0c8d0bde10fc3495a1b8a9f_L.jpeg",
+   "https://media.e-auksion.uz/i/18877a7d9ba2c3ebeaed5f36d671d4c0_L.jpeg",
+   "https://media.e-auksion.uz/i/980e1fd228da430f525abdad06a92d6f_L.jpeg",
+   "https://media.e-auksion.uz/i/20b4bd8344d8330f6a523ceb3effe76f_L.jpeg",
+   "https://media.e-auksion.uz/i/53084aa3ec8a855139bca2075dd1fe08_L.jpeg"
+  ],
+  "fav": 21,
+  "order_end": "23.11.2026 09:00"
+ },
+ {
   "id": 26876736,
   "lot_number": "26876736",
   "cat": "avto",
@@ -2025,35 +2054,6 @@
   "fav": 19,
   "order_end": "23.11.2026 09:00",
   "term": "36 ой"
- },
- {
-  "id": 26876739,
-  "lot_number": "26876739",
-  "cat": "avto",
-  "sub": null,
-  "title": "TRACKER-2",
-  "year": "2023",
-  "mileage": "",
-  "region": "Хоразм вилояти",
-  "price_orig": 154500000.0,
-  "price_final": 123600000.0,
-  "date": "23.11.2026",
-  "post_url": null,
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/a2e9ea0a51ed70b157eb93781ccc8476_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/a2e9ea0a51ed70b157eb93781ccc8476_L.jpeg",
-   "https://media.e-auksion.uz/i/9976a9a6afac1f937137c6cc714a706b_L.jpeg",
-   "https://media.e-auksion.uz/i/83949eb8f34b2aaa8a79e0a44d039e81_L.jpeg",
-   "https://media.e-auksion.uz/i/e4f13a1d4920b8dfa4b31723cd30be52_L.jpeg",
-   "https://media.e-auksion.uz/i/28fe2668b0c8d0bde10fc3495a1b8a9f_L.jpeg",
-   "https://media.e-auksion.uz/i/18877a7d9ba2c3ebeaed5f36d671d4c0_L.jpeg",
-   "https://media.e-auksion.uz/i/980e1fd228da430f525abdad06a92d6f_L.jpeg",
-   "https://media.e-auksion.uz/i/20b4bd8344d8330f6a523ceb3effe76f_L.jpeg",
-   "https://media.e-auksion.uz/i/53084aa3ec8a855139bca2075dd1fe08_L.jpeg"
-  ],
-  "fav": 19,
-  "order_end": "23.11.2026 09:00"
  },
  {
   "id": 26418990,
