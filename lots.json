@@ -8158,6 +8158,29 @@
   "order_end": "03.12.2026 09:00"
  },
  {
+  "id": 26998816,
+  "lot_number": "26998816",
+  "cat": "avto",
+  "sub": null,
+  "title": "MATIZ",
+  "year": "2012",
+  "mileage": "",
+  "region": "Самарқанд вилояти",
+  "price_orig": 11145000.0,
+  "price_final": 11145000.0,
+  "date": "03.12.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/51d331d5f732de1791e6a8eed0e94044_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/51d331d5f732de1791e6a8eed0e94044_L.jpg",
+   "https://media.e-auksion.uz/i/c9b030c7415fc21d1927409237ff5ad5_L.jpg",
+   "https://media.e-auksion.uz/i/f78df5d1e601efa25aad69fe9533e75d_L.jpg"
+  ],
+  "fav": 10,
+  "order_end": "03.12.2026 09:00"
+ },
+ {
   "id": 26654497,
   "lot_number": "26654497",
   "cat": "avto",
@@ -11711,6 +11734,36 @@
   ],
   "fav": 10,
   "order_end": "18.12.2026 09:00"
+ },
+ {
+  "id": 27010032,
+  "lot_number": "27010032",
+  "cat": "avto",
+  "sub": null,
+  "title": "DAMAS",
+  "year": "2007",
+  "mileage": "6748",
+  "region": "Наманган вилояти",
+  "price_orig": 20449000.0,
+  "price_final": 14314300.0,
+  "date": "21.12.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/bbc99d1076918f0faacf2606543d2121_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/bbc99d1076918f0faacf2606543d2121_L.jpeg",
+   "https://media.e-auksion.uz/i/6686a727651dbe65b25ca8171f5c638a_L.jpeg",
+   "https://media.e-auksion.uz/i/27f0530bbe5d20b07960ff4335676661_L.jpeg",
+   "https://media.e-auksion.uz/i/111e7416d98f237a0d8de5d50ad8461d_L.jpeg",
+   "https://media.e-auksion.uz/i/94d0a27bf3c0c526b5bc843ff98bee6f_L.jpeg",
+   "https://media.e-auksion.uz/i/8be570955ce0d35165dbb85ae5431b31_L.jpeg",
+   "https://media.e-auksion.uz/i/dfb0b6989550203ed27c57ab9e5ebd6f_L.jpeg",
+   "https://media.e-auksion.uz/i/4f65a28e4c3f8578d09c7b856cc7cbb6_L.jpeg",
+   "https://media.e-auksion.uz/i/1c46a1518fd510d75af4afacb96d1ec8_L.jpeg",
+   "https://media.e-auksion.uz/i/aae57c02b03565655eda5ff734ee6f5a_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "21.12.2026 09:00"
  },
  {
   "id": 26331665,
@@ -26975,6 +27028,34 @@
    "https://media.e-auksion.uz/i/a595474a2be403dd0d159bc164fe4e6f_L.jpg",
    "https://media.e-auksion.uz/i/2aea8af4fb14667c15186d126283ceab_L.jpg",
    "https://media.e-auksion.uz/i/7aee374a8d998ee7c4768922c9677b0c_L.jpg"
+  ],
+  "fav": 10,
+  "order_end": "23.11.2026 09:00"
+ },
+ {
+  "id": 26965361,
+  "lot_number": "26965361",
+  "cat": "yuk",
+  "sub": "yuk",
+  "title": "DAMAS VAN",
+  "year": "2011",
+  "mileage": "448844",
+  "region": "Навоий вилояти",
+  "price_orig": 15864576.0,
+  "price_final": 15864576.0,
+  "date": "23.11.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/ba9e3b541005f1344c9582f743193d4b_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/ba9e3b541005f1344c9582f743193d4b_L.jpg",
+   "https://media.e-auksion.uz/i/8eb9014f54e7ab63ce2e8502c3479932_L.jpg",
+   "https://media.e-auksion.uz/i/dd62905e710b10d4c726d8b0cd4d00bf_L.jpg",
+   "https://media.e-auksion.uz/i/049a40ccde0c44c7d9d69fded1be0670_L.jpg",
+   "https://media.e-auksion.uz/i/79024c2d7183792ef6c678a52013411b_L.jpg",
+   "https://media.e-auksion.uz/i/cd9d07f94238ee274b6b048e9cde5bbf_L.jpg",
+   "https://media.e-auksion.uz/i/08ef9d572648924f4123ab8058cd26fd_L.jpg",
+   "https://media.e-auksion.uz/i/10c285711765deb0667408c8a1c83691_L.jpg"
   ],
   "fav": 10,
   "order_end": "23.11.2026 09:00"
