@@ -11205,32 +11205,6 @@
   "order_end": "14.12.2026 09:00"
  },
  {
-  "id": 26847669,
-  "lot_number": "26847669",
-  "cat": "avto",
-  "sub": null,
-  "title": "COBALT",
-  "year": "2023",
-  "mileage": "",
-  "region": "Тошкент ш.",
-  "price_orig": 105423000.0,
-  "price_final": 73796100.0,
-  "date": "14.12.2026",
-  "post_url": null,
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/58d20f4f57684a5a5c17556f529b7a9c_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/58d20f4f57684a5a5c17556f529b7a9c_L.jpeg",
-   "https://media.e-auksion.uz/i/57bd8a8e66eacc45710698496ff3a9a2_L.jpeg",
-   "https://media.e-auksion.uz/i/0039d12f113124cc96e7a14a1d472b50_L.jpeg",
-   "https://media.e-auksion.uz/i/7973a9918d15d1d2aed6f3612307d099_L.jpeg",
-   "https://media.e-auksion.uz/i/c13f416c2abbe78e0c3ca090245d4567_L.jpeg",
-   "https://media.e-auksion.uz/i/127fa1b6f6a00d95f5e5993b61a29dce_L.jpeg"
-  ],
-  "fav": 39,
-  "order_end": "14.12.2026 09:00"
- },
- {
   "id": 26904878,
   "lot_number": "26904878",
   "cat": "avto",
@@ -11256,6 +11230,32 @@
    "https://media.e-auksion.uz/i/42b8ce59f05e2d9adcb9788b0e63fef3_L.jpeg",
    "https://media.e-auksion.uz/i/d56144eeded8fb8a0d9b4484f9e1b673_L.jpeg",
    "https://media.e-auksion.uz/i/a59a05040488a4dd423183144f4c3452_L.jpeg"
+  ],
+  "fav": 39,
+  "order_end": "14.12.2026 09:00"
+ },
+ {
+  "id": 26847669,
+  "lot_number": "26847669",
+  "cat": "avto",
+  "sub": null,
+  "title": "COBALT",
+  "year": "2023",
+  "mileage": "",
+  "region": "Тошкент ш.",
+  "price_orig": 105423000.0,
+  "price_final": 73796100.0,
+  "date": "14.12.2026",
+  "post_url": "https://t.me/avto_auksion_uz/157108",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/58d20f4f57684a5a5c17556f529b7a9c_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/58d20f4f57684a5a5c17556f529b7a9c_L.jpeg",
+   "https://media.e-auksion.uz/i/57bd8a8e66eacc45710698496ff3a9a2_L.jpeg",
+   "https://media.e-auksion.uz/i/0039d12f113124cc96e7a14a1d472b50_L.jpeg",
+   "https://media.e-auksion.uz/i/7973a9918d15d1d2aed6f3612307d099_L.jpeg",
+   "https://media.e-auksion.uz/i/c13f416c2abbe78e0c3ca090245d4567_L.jpeg",
+   "https://media.e-auksion.uz/i/127fa1b6f6a00d95f5e5993b61a29dce_L.jpeg"
   ],
   "fav": 39,
   "order_end": "14.12.2026 09:00"
