@@ -360,8 +360,10 @@ function fillSeller(x,S){var sl=document.getElementById("dsell");sl.innerHTML=""
 function isToday(x){var m=/(\d{2})\.(\d{2})\.(\d{4})/.exec(x.date||""),d=new Date();
  return !!m&&+m[1]===d.getDate()&&+m[2]===d.getMonth()+1&&+m[3]===d.getFullYear()}
 // «Бугунги савдолар» (20.11): только лоты, по которым сейчас идут ставки — live.json (lots/live_today.py)
-function liveToday(){return TODAY.filter(function(x){return isToday(x)&&LIVEIDS[x.id]})
- .sort(function(a,b){return (LIVEIDS[b.id].n||0)-(LIVEIDS[a.id].n||0)})}
+// карточка лота приходит и в самом live.json («x») — раздел работает, даже если today.json пуст
+function liveToday(){var seen={},L=TODAY.filter(function(x){return isToday(x)&&LIVEIDS[x.id]&&(seen[x.id]=1)});
+ Object.keys(LIVEIDS).forEach(function(i){var x=LIVEIDS[i].x;if(x&&!seen[x.id]&&isToday(x)){L.push(x);BYID[x.id]=x}});
+ return L.sort(function(a,b){return (LIVEIDS[b.id].n||0)-(LIVEIDS[a.id].n||0)})}
 function todayCats(){var L=liveToday();return CATS.map(function(c){return c[0]}).filter(function(c){return L.some(function(x){return x.cat===c})})}
 function loadLive(){return fetch("live.json?t="+Date.now()).then(function(r){return r.ok?r.json():{}}).then(function(j){
  var nw=(j&&j.lots)||{},ch=Object.keys(nw).sort().join()!==Object.keys(LIVEIDS).sort().join();LIVEIDS=nw;return ch}).catch(function(){return false})}
