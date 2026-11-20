@@ -366,7 +366,9 @@ function liveToday(){var seen={},L=TODAY.filter(function(x){return isToday(x)&&L
  return L.sort(function(a,b){return (LIVEIDS[b.id].n||0)-(LIVEIDS[a.id].n||0)})}
 function todayCats(){var L=liveToday();return CATS.map(function(c){return c[0]}).filter(function(c){return L.some(function(x){return x.cat===c})})}
 function loadLive(){return fetch("live.json?t="+Date.now()).then(function(r){return r.ok?r.json():{}}).then(function(j){
- var nw=(j&&j.lots)||{},ch=Object.keys(nw).sort().join()!==Object.keys(LIVEIDS).sort().join();LIVEIDS=nw;return ch}).catch(function(){return false})}
+ var nw=(j&&j.lots)||{},ch=Object.keys(nw).sort().join()!==Object.keys(LIVEIDS).sort().join();LIVEIDS=nw;
+ // 20.11: карточки активных торгов приходят в самом live.json — today.json (340 КБ) при запуске не нужен
+ Object.keys(nw).forEach(function(i){var x=nw[i].x;if(x&&isToday(x)&&!BYID[x.id]){BYID[x.id]=x;TODAY.push(x)}});return ch}).catch(function(){return false})}
 setInterval(function(){if(document.hidden)return;loadLive().then(function(ch){if(ch&&!Q.trim()&&!SETF)render()})},60000);
 function stopLive(){if(LIVE){clearTimeout(LIVE.to);clearInterval(LIVE.tick);LIVE=null}}
 function startLive(x){stopLive();LIVE={x:x,seen:{},left:null,at:0,first:true};pollLive()}
@@ -444,17 +446,20 @@ document.addEventListener("click",function(ev){var a=ev.target.closest&&ev.targe
 function showStart(x){cur=x.cat;if(SUB[x.cat])SUB[x.cat]=subOf(x);render();BYID[x.id]=x;openLot(x)}
 function openStart(){if(!STARTLOT)return;var id=STARTLOT;STARTLOT=null;
  var x=LOTS.concat(TODAY).filter(function(l){return l.id===id})[0];if(x){showStart(x);return}
- // лота нет в списке — ищем во всех (search.json)
+ // лота нет в списке — ищем во всех (search.json), затем среди сегодняшних (today.json) — только по ссылке на лот
  fetch("search.json?t="+Date.now()).then(function(r){return r.json()}).then(function(j){ALL=ALL||j;
-  var y=j.filter(function(l){return l.id===id})[0];if(y)showStart(y)}).catch(function(){})}
+  var y=j.filter(function(l){return l.id===id})[0];if(y){showStart(y);return}
+  return fetch("today.json?t="+Date.now()).then(function(r){return r.json()}).then(function(t){
+   var z=(t||[]).filter(function(l){return l.id===id})[0];if(z)showStart(z)})}).catch(function(){})}
 // подборка (19.11): sets.json {имя: {title, ids}} — список лотов из поста; лоты берём из search.json (все опубликованные)
 function openSet(){if(!SETNAME)return;var nm=SETNAME;SETNAME="";
  fetch("sets.json?t="+Date.now()).then(function(r){return r.json()}).then(function(j){var s=j&&j[nm];if(!s||!s.ids)return;
   SETF={title:s.title,ids:s.ids.map(Number)};if(s.cat)cur=s.cat;loadAll();render()}).catch(function(){})}
 document.getElementById("todaybtn").onclick=function(){TODAYM=!TODAYM;REG="";render();try{document.getElementById("sc").scrollTop=0}catch(e){}};
-var TODAYP=Promise.all([loadLive(),fetch("today.json?t="+Date.now()).then(function(r){return r.ok?r.json():[]}).then(function(j){TODAY=(j||[]).filter(isToday);TODAY.forEach(function(x){BYID[x.id]=x})}).catch(function(){})]);
+var TODAYP=loadLive();
 fetch("lots.json?t="+Date.now()).then(function(r){return r.json()}).then(function(j){LOTS=j;return TODAYP}).then(function(){render();openStart();openSet();
- // карточки и поиск — заранее, в фоне: первое «Лотни кўриш» и первый поиск без «Юкланмоқда…» (01.11)
- setTimeout(function(){loadDet();if(!ALL&&!ALLWAIT){ALLWAIT=true;fetch("search.json?t="+Date.now()).then(function(r){return r.json()}).then(function(j){ALL=j;if(Q.trim())render()}).catch(function(){ALLWAIT=false})}},1500)}).catch(function(){render()});
+ // карточки — заранее, в фоне: первое «Лотни кўриш» без «Юкланмоқда…» (01.11). search.json (20.11) — только
+ // когда начали искать: поиск сразу идёт по уже загруженным лотам (сейчас это тот же список), лишние 300 КБ не качаем
+ setTimeout(loadDet,1500)}).catch(function(){render()});
 </script>
 </body></html>
