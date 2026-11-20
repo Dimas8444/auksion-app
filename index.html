@@ -172,7 +172,7 @@ var BYID={},DET=null,DETWAIT=false,OPEN=null;
 var cur="avto",SUB={mulk:"turar",yuk:"yuk"},ltag="",LOTS=[],REG="",Q="",ALL=null,ALLWAIT=false;
 var SETNAME="",SETF=null;
 // жонли кузатиш (20.11): today.json — лоты с торгами сегодня; ход торгов — через Cloudflare Worker (сайт не пускает запросы из приложения)
-var TODAY=[],TODAYM=false,LIVE_API="https://auksion-live.dima7058444.workers.dev/?lot=",LIVE=null;   // подборка лотов из поста (19.11)
+var LIVEIDS={},TODAY=[],TODAYM=false,LIVE_API="https://auksion-live.dima7058444.workers.dev/?lot=",LIVE=null;   // подборка лотов из поста (19.11)
 // Поиск: «lacetti» / «ласетти» / «Lacetti-2» сравниваются одинаково — кириллица в латиницу,
 // c/q/x/y и двойные буквы приводятся к одному виду, пробелы и дефисы убираются.
 var CYR={"а":"a","б":"b","в":"v","г":"g","д":"d","е":"e","ё":"yo","ж":"j","з":"z","и":"i","й":"y","к":"k","л":"l","м":"m","н":"n","о":"o","п":"p","р":"r","с":"s","т":"t","у":"u","ф":"f","х":"x","ц":"ts","ч":"ch","ш":"sh","щ":"sh","ъ":"","ы":"i","ь":"","э":"e","ю":"yu","я":"ya","ў":"o","қ":"q","ғ":"g","ҳ":"h"};
@@ -218,9 +218,10 @@ function render(){
  var bar=document.getElementById("setbar");bar.hidden=!setOn;bar.innerHTML="";
  if(setOn){var bt=document.createElement("span");bt.textContent=SETF.title||"Танланган лотлар";var bx=document.createElement("button");bx.type="button";
   bx.textContent="Барча лотлар";bx.onclick=function(){SETF=null;render()};bar.appendChild(bt);bar.appendChild(bx)}
+ if(TODAYM&&!todayCats().length)TODAYM=false;
  var todayOn=TODAYM&&!searching&&!setOn,tb=document.getElementById("todaybtn");
  tb.hidden=searching||setOn||!todayCats().length;tb.setAttribute("aria-pressed",todayOn);
- document.getElementById("todaytx").textContent=todayOn?"Бугунги савдолар · барча лотларга қайтиш":"Бугунги савдолар — жонли кузатиш";
+ document.getElementById("todaytx").textContent=todayOn?"Бугунги савдолар · барча лотларга қайтиш":"Жонли савдолар — ҳозир "+liveToday().length+" та лот";
  if(todayOn){var tc=todayCats();if(tc.indexOf(cur)<0)cur=tc[0];[].forEach.call(t.children,function(b,i){if(tc.indexOf(CATS[i][0])<0)b.hidden=true})}
  var subs=SUBS[cur],sub=subs?SUB[cur]:"";
  var sb=document.getElementById("subs");sb.innerHTML="";sb.hidden=searching||setOn||todayOn||!subs;
@@ -231,7 +232,7 @@ function render(){
  if(!ch.hidden)LTAGS.forEach(function(g){var n=g[0]?land.filter(function(x){return (x.tags||[]).indexOf(g[0])>=0}).length:land.length;
   var b=document.createElement("button");b.className="chip";b.setAttribute("aria-pressed",g[0]===ltag);b.textContent=g[1]+" ("+n+")";b.onclick=function(){ltag=g[0];render()};ch.appendChild(b)});
  if(searching&&!ALL){document.getElementById("count").textContent="";l.innerHTML='<div class="empty">Қидирилмоқда…</div>';return}
- var inCat=searching?found():todayOn?TODAY.filter(function(x){return x.cat===cur}):setOn?(ALL||LOTS).filter(function(x){return SETF.ids.indexOf(x.id)>=0&&openNow(x)})
+ var inCat=searching?found():todayOn?liveToday().filter(function(x){return x.cat===cur}):setOn?(ALL||LOTS).filter(function(x){return SETF.ids.indexOf(x.id)>=0&&openNow(x)})
   .sort(function(a,b){return SETF.ids.indexOf(a.id)-SETF.ids.indexOf(b.id)}):LOTS.filter(function(x){return x.cat===cur&&openNow(x)&&(!subs||subOf(x)===sub)
   &&(cur!=="mulk"||sub!=="yer"||!ltag||(x.tags||[]).indexOf(ltag)>=0)});
  var regs=regions(inCat),sel=document.getElementById("reg");
@@ -241,7 +242,7 @@ function render(){
  sel.value=REG;
  var items=inCat.filter(function(x){return !REG||x.region===REG});
  document.getElementById("count").textContent=items.length?(searching?"«"+Q.trim()+"» бўйича топилди: ":"Топилди: ")+items.length+" та лот":"";
- if(!items.length){l.innerHTML='<div class="empty">'+(todayOn?"Бу бўлимда бугун савдо йўқ":searching?"Бу модел бўйича ҳозирча лот йўқ":cur==="qishloq"?"🌾 Янги участкалар ҳар куни кечгача чиқади — кейинроқ киринг":"Ҳозирча лотлар йўқ")+'</div>'}
+ if(!items.length){l.innerHTML='<div class="empty">'+(todayOn?"Бу бўлимда ҳозир фаол савдо йўқ":searching?"Бу модел бўйича ҳозирча лот йўқ":cur==="qishloq"?"🌾 Янги участкалар ҳар куни кечгача чиқади — кейинроқ киринг":"Ҳозирча лотлар йўқ")+'</div>'}
  // список рисуется частями по PAGE лотов, остальные — при прокрутке (01.11: в вкладке теперь сотни лотов,
  // целиком на телефоне строилось ~0.5–1 с при каждом переключении вкладки и вводе в поиск)
  renderNote();ITEMS=items;SHOWN=0;more();
@@ -358,8 +359,13 @@ function fillSeller(x,S){var sl=document.getElementById("dsell");sl.innerHTML=""
 }
 function isToday(x){var m=/(\d{2})\.(\d{2})\.(\d{4})/.exec(x.date||""),d=new Date();
  return !!m&&+m[1]===d.getDate()&&+m[2]===d.getMonth()+1&&+m[3]===d.getFullYear()}
-function todayCats(){var h=new Date().getHours();if(h<8||h>=21)return [];
- return CATS.map(function(c){return c[0]}).filter(function(c){return TODAY.some(function(x){return x.cat===c&&isToday(x)})})}
+// «Бугунги савдолар» (20.11): только лоты, по которым сейчас идут ставки — live.json (lots/live_today.py)
+function liveToday(){return TODAY.filter(function(x){return isToday(x)&&LIVEIDS[x.id]})
+ .sort(function(a,b){return (LIVEIDS[b.id].n||0)-(LIVEIDS[a.id].n||0)})}
+function todayCats(){var L=liveToday();return CATS.map(function(c){return c[0]}).filter(function(c){return L.some(function(x){return x.cat===c})})}
+function loadLive(){return fetch("live.json?t="+Date.now()).then(function(r){return r.ok?r.json():{}}).then(function(j){
+ var nw=(j&&j.lots)||{},ch=Object.keys(nw).sort().join()!==Object.keys(LIVEIDS).sort().join();LIVEIDS=nw;return ch}).catch(function(){return false})}
+setInterval(function(){if(document.hidden)return;loadLive().then(function(ch){if(ch&&!Q.trim()&&!SETF)render()})},60000);
 function stopLive(){if(LIVE){clearTimeout(LIVE.to);clearInterval(LIVE.tick);LIVE=null}}
 function startLive(x){stopLive();LIVE={x:x,seen:{},left:null,at:0,first:true};pollLive()}
 function pollLive(){var L=LIVE;if(!L||OPEN!==L.x)return;
@@ -425,7 +431,7 @@ function openSet(){if(!SETNAME)return;var nm=SETNAME;SETNAME="";
  fetch("sets.json?t="+Date.now()).then(function(r){return r.json()}).then(function(j){var s=j&&j[nm];if(!s||!s.ids)return;
   SETF={title:s.title,ids:s.ids.map(Number)};if(s.cat)cur=s.cat;loadAll();render()}).catch(function(){})}
 document.getElementById("todaybtn").onclick=function(){TODAYM=!TODAYM;REG="";render();try{document.getElementById("sc").scrollTop=0}catch(e){}};
-var TODAYP=fetch("today.json?t="+Date.now()).then(function(r){return r.ok?r.json():[]}).then(function(j){TODAY=(j||[]).filter(isToday);TODAY.forEach(function(x){BYID[x.id]=x})}).catch(function(){});
+var TODAYP=Promise.all([loadLive(),fetch("today.json?t="+Date.now()).then(function(r){return r.ok?r.json():[]}).then(function(j){TODAY=(j||[]).filter(isToday);TODAY.forEach(function(x){BYID[x.id]=x})}).catch(function(){})]);
 fetch("lots.json?t="+Date.now()).then(function(r){return r.json()}).then(function(j){LOTS=j;return TODAYP}).then(function(){render();openStart();openSet();
  // карточки и поиск — заранее, в фоне: первое «Лотни кўриш» и первый поиск без «Юкланмоқда…» (01.11)
  setTimeout(function(){loadDet();if(!ALL&&!ALLWAIT){ALLWAIT=true;fetch("search.json?t="+Date.now()).then(function(r){return r.json()}).then(function(j){ALL=j;if(Q.trim())render()}).catch(function(){ALLWAIT=false})}},1500)}).catch(function(){render()});
