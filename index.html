@@ -375,7 +375,26 @@ function pollLive(){var L=LIVE;if(!L||OPEN!==L.x)return;
  .catch(function(){if(LIVE!==L)return;var b=document.querySelector("#live .lab");if(b&&L.first)b.textContent="Маълумот олинмади, қайта уринилмоқда…";L.to=setTimeout(pollLive,8000)})}
 function hms(ms){var s=Math.max(0,Math.round(ms/1000)),m=Math.floor(s/60);s%=60;return (m<10?"0":"")+m+":"+(s<10?"0":"")+s}
 function esc(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
+function drawDesc(L,d,box){var f=d.flows||[],x=L.x,ok=f.filter(function(b){return b.u}),ended=d.left!=null&&d.left<-90000;
+ L.done=ended;L.left=d.left;L.at=Date.now();box.className="live"+(ended?" done":"");
+ var cur=d.next||(f[0]&&f[0].a)||x.price_final,start=x.price_final>cur?x.price_final:Math.max.apply(null,f.map(function(b){return b.a}).concat([cur])),
+  drop=start>cur?Math.round((1-cur/start)*100):0;
+ var h='<h3><span class="ldot"></span>'+(ended?"✅ Савдо якунланди":"📉 Тушириб бориш савдоси")+'</h3>';
+ if(ok.length)h+='<div class="lab">Нархни тасдиқлади · '+esc(ok[0].u)+'</div><div class="lead">'+fmt(ok[0].a)+'</div>';
+ else h+='<div class="lab">'+(ended?"Охирги нарх":"Жорий нарх")+'</div><div class="lead">'+fmt(cur)+'</div>';
+ if(drop)h+='<div class="grow" style="color:var(--gold)">▼ '+drop+'% бошланғич нархдан</div>';
+ h+='<div class="stats">'+(!ended&&!ok.length&&d.left>0?'<span>⏱ <b id="lvt">'+hms(d.left)+'</b> дан кейин нарх яна пасаяди</span>':'')
+  +(d.players!=null?'<span>👥 '+d.players+' иштирокчи</span>':'')+(d.spectators?'<span>👀 '+d.spectators+' томошабин</span>':'')
+  +'<span>✅ Тасдиқлаганлар: '+ok.length+'</span></div>';
+ if(f.length)h+='<ol>'+f.map(function(b,i){var k=(b.u||"")+b.d+b.a,nw=!L.first&&!L.seen[k];L.seen[k]=1;
+  var who=b.u?'<span class="u">✅ '+esc(b.u)+'</span>':'<span class="u" style="font-weight:600">'+(i===0&&!ended?"Ҳозирги нарх":"Нарх туширилди")+'</span>';
+  return '<li'+(nw?' class="new"':'')+'><span>'+who+'<span class="t">'+esc(String(b.d||"").split(" ")[1]||"")+'</span></span><span class="a">'+fmtn(Math.round(b.a))+'</span></li>'}).join("")+'</ol>';
+ h+='<div class="foot">'+(ended?"Натижа сайтда расмийлаштирилади":"Иштирокчи нархни тасдиқламагунча нарх босқичма-босқич минимал нархгача пасаяди")+'</div>';
+ box.innerHTML=h;L.first=false;
+ clearInterval(L.tick);if(!ended&&!ok.length&&d.left>0)L.tick=setInterval(function(){var e=document.getElementById("lvt");if(!e||LIVE!==L){clearInterval(L.tick);return}
+  e.textContent=hms(L.left-(Date.now()-L.at))},1000)}
 function drawLive(L,d){var box=document.getElementById("live");if(!box||!d||!d.ok)return;
+ if((d.flows||[]).some(function(b){return !b.u}))return drawDesc(L,d,box);
  var f=d.flows||[],x=L.x,ended=d.left!=null&&d.left<=0,done=ended&&f.length>0,wait=!f.length&&!ended;L.done=ended;
  L.left=d.left;L.at=Date.now();
  box.className="live"+(ended?" done":wait?" wait":"");
