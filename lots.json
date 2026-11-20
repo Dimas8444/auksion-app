@@ -23403,6 +23403,36 @@
   "test": false
  },
  {
+  "term": "120 ой",
+  "id": 26846829,
+  "lot_number": "26846829",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "yakka"
+  ],
+  "title": "Ер участкаси, 3,99 сотих",
+  "info": [
+   "Якка тартибда уй-жой қуриш учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Сирдарё вилояти",
+  "address": "Сирдарё вилояти, Ховос тумани, Мустақиллик МФЙ",
+  "price_orig": 25266703.0,
+  "price_final": 25266703.0,
+  "date": "26.11.2026",
+  "post_url": "https://t.me/kuchmasmulk_uz/5301",
+  "photo": "https://media.e-auksion.uz/i/e7cd1f47298d7af4275bab7a7ad5f401_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/e7cd1f47298d7af4275bab7a7ad5f401_L.jpeg",
+   "https://media.e-auksion.uz/i/8ebd333a5fc2116a56237a594eb92939_L.jpeg"
+  ],
+  "fav": 20,
+  "order_end": "26.11.2026 09:00",
+  "test": false
+ },
+ {
   "id": 26846806,
   "lot_number": "26846806",
   "cat": "mulk",
@@ -24656,36 +24686,6 @@
   "photos": [
    "https://media.e-auksion.uz/i/938b170d34879e937ba446dc67f9a6db_L.jpeg",
    "https://media.e-auksion.uz/i/fffae6d3d282a56a9ec7188c5a272f8d_L.jpeg"
-  ],
-  "fav": 10,
-  "order_end": "26.11.2026 09:00",
-  "test": false,
-  "term": "120 ой"
- },
- {
-  "id": 26846829,
-  "lot_number": "26846829",
-  "cat": "mulk",
-  "sub": "yer",
-  "tags": [
-   "yakka"
-  ],
-  "title": "Ер участкаси, 3,99 сотих",
-  "info": [
-   "Якка тартибда уй-жой қуриш учун"
-  ],
-  "year": "",
-  "mileage": "",
-  "region": "Сирдарё вилояти",
-  "address": "Сирдарё вилояти, Ховос тумани, Мустақиллик МФЙ",
-  "price_orig": 25266703.0,
-  "price_final": 25266703.0,
-  "date": "26.11.2026",
-  "post_url": null,
-  "photo": "https://media.e-auksion.uz/i/e7cd1f47298d7af4275bab7a7ad5f401_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/e7cd1f47298d7af4275bab7a7ad5f401_L.jpeg",
-   "https://media.e-auksion.uz/i/8ebd333a5fc2116a56237a594eb92939_L.jpeg"
   ],
   "fav": 10,
   "order_end": "26.11.2026 09:00",
