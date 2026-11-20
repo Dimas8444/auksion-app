@@ -11351,33 +11351,6 @@
   "order_end": "14.12.2026 09:00"
  },
  {
-  "id": 26847635,
-  "lot_number": "26847635",
-  "cat": "avto",
-  "sub": null,
-  "title": "-LADA VESTA",
-  "year": "2021",
-  "mileage": "",
-  "region": "Қашқадарё вилояти",
-  "price_orig": 62500000.0,
-  "price_final": 62500000.0,
-  "date": "14.12.2026",
-  "post_url": null,
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/cf35980b3b7a80b770578758e69c595b_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/cf35980b3b7a80b770578758e69c595b_L.jpeg",
-   "https://media.e-auksion.uz/i/b1608b63d02b09934d0c44fd581ad7e7_L.jpeg",
-   "https://media.e-auksion.uz/i/0366504d803022cf8775d13c21463f91_L.jpeg",
-   "https://media.e-auksion.uz/i/9fd559e29b7ccfdd1781f132f299c750_L.jpeg",
-   "https://media.e-auksion.uz/i/724559e4d980863af0d2c595e7444c89_L.jpeg",
-   "https://media.e-auksion.uz/i/e9bb252952605ae61e911775cca3a231_L.jpeg",
-   "https://media.e-auksion.uz/i/1f6523fe81d338c2165331b97ae9cf97_L.jpeg"
-  ],
-  "fav": 24,
-  "order_end": "14.12.2026 09:00"
- },
- {
   "id": 26847677,
   "lot_number": "26847677",
   "cat": "avto",
@@ -11403,6 +11376,33 @@
    "https://media.e-auksion.uz/i/7fc89e2c53379c0063abd1648b933241_L.jpeg",
    "https://media.e-auksion.uz/i/f5b5c633b7080eb5babd61ba1465ec83_L.jpeg",
    "https://media.e-auksion.uz/i/b76ff9501d59ad7861b3fbca54616a53_L.jpeg"
+  ],
+  "fav": 24,
+  "order_end": "14.12.2026 09:00"
+ },
+ {
+  "id": 26847635,
+  "lot_number": "26847635",
+  "cat": "avto",
+  "sub": null,
+  "title": "-LADA VESTA",
+  "year": "2021",
+  "mileage": "",
+  "region": "Қашқадарё вилояти",
+  "price_orig": 62500000.0,
+  "price_final": 62500000.0,
+  "date": "14.12.2026",
+  "post_url": "https://t.me/avto_auksion_uz/157114",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/cf35980b3b7a80b770578758e69c595b_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/cf35980b3b7a80b770578758e69c595b_L.jpeg",
+   "https://media.e-auksion.uz/i/b1608b63d02b09934d0c44fd581ad7e7_L.jpeg",
+   "https://media.e-auksion.uz/i/0366504d803022cf8775d13c21463f91_L.jpeg",
+   "https://media.e-auksion.uz/i/9fd559e29b7ccfdd1781f132f299c750_L.jpeg",
+   "https://media.e-auksion.uz/i/724559e4d980863af0d2c595e7444c89_L.jpeg",
+   "https://media.e-auksion.uz/i/e9bb252952605ae61e911775cca3a231_L.jpeg",
+   "https://media.e-auksion.uz/i/1f6523fe81d338c2165331b97ae9cf97_L.jpeg"
   ],
   "fav": 24,
   "order_end": "14.12.2026 09:00"
