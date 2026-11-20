@@ -25690,7 +25690,7 @@
    "https://media.e-auksion.uz/i/99190d113f154abf90f859827429bc9a_L.jpeg",
    "https://media.e-auksion.uz/i/23a21e3f48267b9cd17ccf3454a5c429_L.jpeg"
   ],
-  "fav": 0,
+  "fav": 1,
   "order_end": "23.11.2026 09:00",
   "per_ha": 401056.6118421052
  },
@@ -25820,7 +25820,7 @@
    "https://media.e-auksion.uz/i/ee8e70b2319890ffdeb0f37c68db106d_L.jpeg",
    "https://media.e-auksion.uz/i/951783b790f51b1dbcc471269f7c1ea8_L.jpeg"
   ],
-  "fav": 0,
+  "fav": 1,
   "order_end": "23.11.2026 09:00",
   "per_ha": 559549.894736842
  },
@@ -27833,7 +27833,7 @@
    "https://media.e-auksion.uz/i/0bac6974ca296b7552b3ab8e09a41e34_L.jpeg",
    "https://media.e-auksion.uz/i/c792f24e3008a9bfd7917274302bc5ec_L.jpeg"
   ],
-  "fav": 0,
+  "fav": 1,
   "order_end": "23.11.2026 09:00",
   "per_ha": 1992133.087248322
  },
@@ -28253,6 +28253,37 @@
   "fav": 0,
   "order_end": "23.11.2026 09:00",
   "per_ha": 2108048.6857798165
+ },
+ {
+  "id": 27067346,
+  "lot_number": "27067346",
+  "cat": "qishloq",
+  "sub": null,
+  "tags": [],
+  "title": "Ер участкаси, 98,8 га",
+  "info": [
+   "ижара 26 йил"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Сурхондарё вилояти",
+  "address": "Сурхондарё вилояти, Шеробод тумани, В.Қодиров массиви, Шеробод маҳалласи",
+  "price_orig": 2086428569.0,
+  "price_final": 208642856.9,
+  "date": "23.11.2026",
+  "post_url": "https://t.me/kuchmasmulk_uz/5284",
+  "photo": "https://media.e-auksion.uz/i/fa33475e9a298a4d827644b07869af45_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/fa33475e9a298a4d827644b07869af45_L.jpeg",
+   "https://media.e-auksion.uz/i/848b1f2ba424039667d1c82a0f14929d_L.jpeg",
+   "https://media.e-auksion.uz/i/efd9bb1870af82273a626676a41c4bdd_L.jpeg",
+   "https://media.e-auksion.uz/i/6a73cb573e9620a6f04ba7a795642e38_L.jpeg",
+   "https://media.e-auksion.uz/i/52519442b4e70afc697ee31ad750638f_L.jpeg",
+   "https://media.e-auksion.uz/i/59a538d409af9d2217f6c378ef4fa115_L.jpeg"
+  ],
+  "fav": 0,
+  "order_end": "23.11.2026 09:00",
+  "per_ha": 2111769.806680162
  },
  {
   "id": 27044910,
