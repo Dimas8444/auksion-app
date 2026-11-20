@@ -21555,6 +21555,7 @@
   "test": false
  },
  {
+  "term": "60 ой",
   "id": 26814412,
   "lot_number": "26814412",
   "cat": "mulk",
@@ -21573,7 +21574,7 @@
   "price_orig": 7620402.0,
   "price_final": 7620402.0,
   "date": "25.11.2026",
-  "post_url": null,
+  "post_url": "https://t.me/kuchmasmulk_uz/5280",
   "photo": "https://media.e-auksion.uz/i/1cf3d931d7d44cad9c4008b8b072d5d5_L.jpg",
   "photos": [
    "https://media.e-auksion.uz/i/1cf3d931d7d44cad9c4008b8b072d5d5_L.jpg",
@@ -21581,10 +21582,9 @@
    "https://media.e-auksion.uz/i/88856a1a7868879126094891703198da_L.jpg",
    "https://media.e-auksion.uz/i/9230c22e99f50e3f8b3890d57d3b456e_L.jpg"
   ],
-  "fav": 14,
+  "fav": 21,
   "order_end": "25.11.2026 09:00",
-  "test": false,
-  "term": "60 ой"
+  "test": false
  },
  {
   "id": 26814425,
