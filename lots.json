@@ -13973,6 +13973,7 @@
   "test": false
  },
  {
+  "term": "бор",
   "id": 26847870,
   "lot_number": "26847870",
   "cat": "mulk",
@@ -13989,7 +13990,7 @@
   "price_orig": 13964600.0,
   "price_final": 13964600.0,
   "date": "27.11.2026",
-  "post_url": null,
+  "post_url": "https://t.me/kuchmasmulk_uz/5290",
   "photo": "https://media.e-auksion.uz/i/d2754cbc08b8c32334fa355e03cd477c_L.jpg",
   "photos": [
    "https://media.e-auksion.uz/i/d2754cbc08b8c32334fa355e03cd477c_L.jpg",
@@ -13998,10 +13999,9 @@
    "https://media.e-auksion.uz/i/08682bb795115d4566c315413f09cd7b_L.jpg",
    "https://media.e-auksion.uz/i/1a3a8a8dc7520216b1a8f319685693b8_L.jpg"
   ],
-  "fav": 13,
+  "fav": 20,
   "order_end": "27.11.2026 09:00",
-  "test": false,
-  "term": "бор"
+  "test": false
  },
  {
   "id": 26493630,
