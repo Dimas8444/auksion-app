@@ -17360,6 +17360,42 @@
   "test": false
  },
  {
+  "term": "120 ой",
+  "id": 26999089,
+  "lot_number": "26999089",
+  "cat": "mulk",
+  "sub": "turar",
+  "tags": [],
+  "title": "Ҳовли, 4 хона, 6 сотих",
+  "info": [
+   "Турар-жой участкаси (ҳовли)"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Қорақалпоғистон Республикаси",
+  "address": "Қорақалпоғистон Республикаси, Нукус шаҳри, Жасил бағ МПЖ Пализли кўчеси 64 уй",
+  "price_orig": 245000000.0,
+  "price_final": 245000000.0,
+  "date": "23.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/8e9ada6de4db6b101b70a6cfeaf5f9eb_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/8e9ada6de4db6b101b70a6cfeaf5f9eb_L.jpeg",
+   "https://media.e-auksion.uz/i/4f3cf20f293a46c11a6f4fc7fddfe4da_L.jpeg",
+   "https://media.e-auksion.uz/i/de6b0b3932d29135857dafba8bed7f2c_L.jpeg",
+   "https://media.e-auksion.uz/i/ca4edc62c09d49c1748a505bce0e870e_L.jpeg",
+   "https://media.e-auksion.uz/i/a6fbefda4c48f332e29cda08802aaf0b_L.jpeg",
+   "https://media.e-auksion.uz/i/733fa521c87f4285a9428a168f8ed059_L.jpeg",
+   "https://media.e-auksion.uz/i/173993de935fb2ea671ea2e3bd40d987_L.jpeg",
+   "https://media.e-auksion.uz/i/37d8264084fee12db20890662e62c6bb_L.jpeg",
+   "https://media.e-auksion.uz/i/c441c39b56ac2c3f48c15443500f1fd9_L.jpeg",
+   "https://media.e-auksion.uz/i/9dba7ebdb2c79ab63ff2d28e1bf47d52_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "23.11.2026 09:00",
+  "test": false
+ },
+ {
   "id": 26814891,
   "lot_number": "26814891",
   "cat": "mulk",
