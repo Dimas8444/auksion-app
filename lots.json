@@ -24492,33 +24492,6 @@
   "term": "36 ой"
  },
  {
-  "id": 26939367,
-  "lot_number": "26939367",
-  "cat": "yuk",
-  "sub": "maxsus",
-  "title": "UAZ 3909",
-  "year": "2006",
-  "mileage": "79245",
-  "region": "Сирдарё вилояти",
-  "price_orig": 11246144.0,
-  "price_final": 11246144.0,
-  "date": "23.11.2026",
-  "post_url": null,
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/6b17a7c83176576bdd60a5a727c55ef6_L.jpg",
-  "photos": [
-   "https://media.e-auksion.uz/i/6b17a7c83176576bdd60a5a727c55ef6_L.jpg",
-   "https://media.e-auksion.uz/i/8b3239bdd6dbafcecc28814de0c964a6_L.jpg",
-   "https://media.e-auksion.uz/i/5d1ea852253cc2797e6e453d5b3539bb_L.jpg",
-   "https://media.e-auksion.uz/i/61fe0ef93c52507f521e81857b6f9baf_L.jpg",
-   "https://media.e-auksion.uz/i/0d8dac5135c02419e622588ae91069c5_L.jpg",
-   "https://media.e-auksion.uz/i/649c10fea85f1f4c53ca94f33f019542_L.jpg",
-   "https://media.e-auksion.uz/i/91ebe272f10eb53072e56fa6400d384f_L.jpg"
-  ],
-  "fav": 11,
-  "order_end": "23.11.2026 09:00"
- },
- {
   "id": 26943720,
   "lot_number": "26943720",
   "cat": "yuk",
@@ -24547,6 +24520,33 @@
   "fav": 11,
   "order_end": "23.11.2026 09:00",
   "term": "60 ой"
+ },
+ {
+  "id": 26939367,
+  "lot_number": "26939367",
+  "cat": "yuk",
+  "sub": "maxsus",
+  "title": "UAZ 3909",
+  "year": "2006",
+  "mileage": "79245",
+  "region": "Сирдарё вилояти",
+  "price_orig": 11246144.0,
+  "price_final": 11246144.0,
+  "date": "23.11.2026",
+  "post_url": "https://t.me/gruzovoeavto/25034",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/6b17a7c83176576bdd60a5a727c55ef6_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/6b17a7c83176576bdd60a5a727c55ef6_L.jpg",
+   "https://media.e-auksion.uz/i/8b3239bdd6dbafcecc28814de0c964a6_L.jpg",
+   "https://media.e-auksion.uz/i/5d1ea852253cc2797e6e453d5b3539bb_L.jpg",
+   "https://media.e-auksion.uz/i/61fe0ef93c52507f521e81857b6f9baf_L.jpg",
+   "https://media.e-auksion.uz/i/0d8dac5135c02419e622588ae91069c5_L.jpg",
+   "https://media.e-auksion.uz/i/649c10fea85f1f4c53ca94f33f019542_L.jpg",
+   "https://media.e-auksion.uz/i/91ebe272f10eb53072e56fa6400d384f_L.jpg"
+  ],
+  "fav": 11,
+  "order_end": "23.11.2026 09:00"
  },
  {
   "id": 26781621,
