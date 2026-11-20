@@ -136,7 +136,7 @@ h1{font:700 22px/1.2 "PT Serif",Georgia,serif;margin:18px 0 4px}
 </head><body>
 <div id="sc"><div class="wrap">
 <h1>Лотлар</h1>
-<form class="search" role="search" id="sform"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg><input type="search" id="q" placeholder="Машина номини киритинг…" aria-label="Машина номи ёки лот рақами бўйича қидириш" autocomplete="off" enterkeyhint="search"><button type="button" id="qx" aria-label="Тозалаш" hidden>✕</button></form>
+<form class="search" role="search" id="sform"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg><input type="search" id="q" placeholder="Машина номи ёки давлат рақами…" aria-label="Машина номи, давлат рақами ёки лот рақами бўйича қидириш" autocomplete="off" enterkeyhint="search"><button type="button" id="qx" aria-label="Тозалаш" hidden>✕</button></form>
 <button class="todaybtn" id="todaybtn" type="button" aria-pressed="false" hidden><span class="ldot"></span><span id="todaytx">Бугунги савдолар — жонли кузатиш</span></button>
 <div class="tabs" role="tablist" id="tabs"></div>
 <div class="subs" role="tablist" id="subs" aria-label="Кўчмас мулк тури" hidden></div>
@@ -184,9 +184,16 @@ function openNow(x){var m=/(\d{2})\.(\d{2})\.(\d{4})(?:\s+(\d{1,2}):(\d{2}))?/.e
  if(m)end=new Date(+m[3],m[2]-1,+m[1],m[4]?+m[4]:23,m[5]?+m[5]:59);
  else{m=/(\d{2})\.(\d{2})\.(\d{4})/.exec(x.date||"");if(!m)return true;end=new Date(+m[3],m[2]-1,+m[1],9,0)}
  return end>new Date()}
+// поиск по госномеру (20.11): «Давлат рақами» из details.json; пробелы, регистр, кириллица и O/0 не важны
+var PLM={"А":"A","В":"B","Е":"E","К":"K","М":"M","Н":"H","О":"O","Р":"P","С":"C","Т":"T","Х":"X","У":"Y"},PLATES=null;
+function plateKey(s){return String(s||"").toUpperCase().replace(/[АВЕКМНОРСТХУ]/g,function(c){return PLM[c]}).replace(/O/g,"0").replace(/[^A-Z0-9]/g,"")}
+function plates(){if(PLATES||!DET)return PLATES;PLATES={};Object.keys(DET).forEach(function(i){
+ ((DET[i]||{}).rows||[]).forEach(function(r){if(r[0]==="Давлат рақами")PLATES[i]=plateKey(r[1])})});return PLATES}
 function found(){var raw=Q.trim(),n=norm(raw);if(!n)return [];
+ var qp=/\d/.test(raw)?plateKey(raw):"",P=qp.length>=3?plates():null;if(qp.length>=3&&!DET)loadDet();
  // результаты поиска — топ: сначала самые популярные (по избранному), решение пользователя 30.10
- return (ALL||LOTS).filter(function(x){return openNow(x)&&( /^\d{5,}$/.test(raw)?String(x.lot_number||"").indexOf(raw)>=0:norm(x.title).indexOf(n)>=0)})
+ return (ALL||LOTS).filter(function(x){return openNow(x)&&( (/^\d{5,}$/.test(raw)?String(x.lot_number||"").indexOf(raw)>=0:norm(x.title).indexOf(n)>=0)
+  ||(P&&P[x.id]&&P[x.id].indexOf(qp)>=0) )})
   .sort(function(a,b){return (b.fav||0)-(a.fav||0)})}
 function loadAll(){if(ALL||ALLWAIT)return;ALLWAIT=true;fetch("search.json?t="+Date.now()).then(function(r){return r.json()}).then(function(j){ALL=j;render()}).catch(function(){ALL=LOTS;render()})}
 var qT;
@@ -287,7 +294,7 @@ function hasPost(x){return !!(x.post_url&&x.post_url.indexOf("t.me/shocos")<0)}
 function postUrl(x){return (x.post_url&&x.post_url.indexOf("t.me/shocos")<0)?x.post_url:CH[x.cat]}
 // данные карточек — отдельным файлом и только при первом открытии (lots.json не растёт)
 function loadDet(){if(DET||DETWAIT)return;DETWAIT=true;
- fetch("details.json?t="+Date.now()).then(function(r){return r.json()}).then(function(j){DET=j;if(OPEN)fillLot(OPEN)}).catch(function(){DET={};if(OPEN)fillLot(OPEN)})}
+ fetch("details.json?t="+Date.now()).then(function(r){return r.json()}).then(function(j){DET=j;PLATES=null;if(OPEN)fillLot(OPEN);else if(Q.trim())render()}).catch(function(){DET={};if(OPEN)fillLot(OPEN)})}
 function openLot(x){OPEN=x;try{CNT.hit("v");GC({path:"lot-card",title:"Лот карточкаси",event:true})}catch(e){}var dt=document.getElementById("det");
  var d=x.price_orig>x.price_final?Math.round((1-x.price_final/x.price_orig)*100):0;
  var ph=(x.photos&&x.photos.length?x.photos:(x.photo?[x.photo]:[]));
