@@ -17866,6 +17866,41 @@
   "test": false
  },
  {
+  "id": 27010084,
+  "lot_number": "27010084",
+  "cat": "mulk",
+  "sub": "noturar",
+  "tags": [],
+  "title": "Савдо ва маиший хизмат кўрсатиш мажмуаси, 72 м²",
+  "info": [
+   "Қурилиши тугалланмаган бинолар"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Бухоро вилояти",
+  "address": "Бухоро вилояти, Бухоро шаҳри, Хавзи-нав МФЙ, Хавзи-нав кўчаси 78-уй",
+  "price_orig": 590401000.0,
+  "price_final": 413280700.0,
+  "date": "21.12.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/a3d7718af83a255944245f92d991030c_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/a3d7718af83a255944245f92d991030c_L.jpeg",
+   "https://media.e-auksion.uz/i/ff442c1972718cf562f3aa081b0e18f1_L.jpeg",
+   "https://media.e-auksion.uz/i/12509d8e68bd5f2e286079f5e6ac0f7c_L.jpeg",
+   "https://media.e-auksion.uz/i/054e04e34f84ce160ac07bf080503095_L.jpeg",
+   "https://media.e-auksion.uz/i/0ba5fa71ad6551369eaecac3b94f595b_L.jpeg",
+   "https://media.e-auksion.uz/i/95af69ab9996633224ff9b2eef02680d_L.jpeg",
+   "https://media.e-auksion.uz/i/34f18aebe4284be51d330c738da34646_L.jpeg",
+   "https://media.e-auksion.uz/i/76f5808210eb1b8045eb88236e28351b_L.jpeg",
+   "https://media.e-auksion.uz/i/347018df442c9c7d16913e9999233231_L.jpeg",
+   "https://media.e-auksion.uz/i/bdc742968e41d58e72d5c6d63128d5ae_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "21.12.2026 09:00",
+  "test": false
+ },
+ {
   "id": 26422221,
   "lot_number": "26422221",
   "cat": "mulk",
@@ -25543,6 +25578,36 @@
   "test": false
  },
  {
+  "term": "120 ой",
+  "id": 26846831,
+  "lot_number": "26846831",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "yakka"
+  ],
+  "title": "Ер участкаси, 4 сотих",
+  "info": [
+   "Якка тартибда уй-жой қуриш учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Сирдарё вилояти",
+  "address": "Сирдарё вилояти, Ховос тумани, Мустақиллик МФЙ",
+  "price_orig": 25330028.0,
+  "price_final": 25330028.0,
+  "date": "26.11.2026",
+  "post_url": "https://t.me/kuchmasmulk_uz/5313",
+  "photo": "https://media.e-auksion.uz/i/20e2fd681b0c9ece0679a74d328004e5_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/20e2fd681b0c9ece0679a74d328004e5_L.jpeg",
+   "https://media.e-auksion.uz/i/aa74cc1609e9d1d25dd246eab5d00f66_L.jpeg"
+  ],
+  "fav": 20,
+  "order_end": "26.11.2026 09:00",
+  "test": false
+ },
+ {
   "id": 26846824,
   "lot_number": "26846824",
   "cat": "mulk",
@@ -25838,36 +25903,6 @@
    "https://media.e-auksion.uz/i/5e311d18b5b473365cf5223439b1abaf_L.jpeg"
   ],
   "fav": 12,
-  "order_end": "26.11.2026 09:00",
-  "test": false,
-  "term": "120 ой"
- },
- {
-  "id": 26846831,
-  "lot_number": "26846831",
-  "cat": "mulk",
-  "sub": "yer",
-  "tags": [
-   "yakka"
-  ],
-  "title": "Ер участкаси, 4 сотих",
-  "info": [
-   "Якка тартибда уй-жой қуриш учун"
-  ],
-  "year": "",
-  "mileage": "",
-  "region": "Сирдарё вилояти",
-  "address": "Сирдарё вилояти, Ховос тумани, Мустақиллик МФЙ",
-  "price_orig": 25330028.0,
-  "price_final": 25330028.0,
-  "date": "26.11.2026",
-  "post_url": null,
-  "photo": "https://media.e-auksion.uz/i/20e2fd681b0c9ece0679a74d328004e5_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/20e2fd681b0c9ece0679a74d328004e5_L.jpeg",
-   "https://media.e-auksion.uz/i/aa74cc1609e9d1d25dd246eab5d00f66_L.jpeg"
-  ],
-  "fav": 11,
   "order_end": "26.11.2026 09:00",
   "test": false,
   "term": "120 ой"
