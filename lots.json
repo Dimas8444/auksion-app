@@ -5094,32 +5094,6 @@
   "order_end": "26.11.2026 09:00"
  },
  {
-  "id": 26944217,
-  "lot_number": "26944217",
-  "cat": "avto",
-  "sub": null,
-  "title": "KIA SORENTO G09U",
-  "year": "2023",
-  "mileage": "96500",
-  "region": "Тошкент ш.",
-  "price_orig": 287450028.0,
-  "price_final": 287450028.0,
-  "date": "26.11.2026",
-  "post_url": null,
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/82cccf10b5d02ca47f5f5f8e6f028c57_L.jpg",
-  "photos": [
-   "https://media.e-auksion.uz/i/82cccf10b5d02ca47f5f5f8e6f028c57_L.jpg",
-   "https://media.e-auksion.uz/i/2b6f84a0af5b1d352705db5c40362e65_L.jpg",
-   "https://media.e-auksion.uz/i/b124ad28248701a0ed595c0ebf760aff_L.jpg",
-   "https://media.e-auksion.uz/i/c13e4e7daa1b5dead957a823413a1636_L.jpg",
-   "https://media.e-auksion.uz/i/d0c641edd46acc0c83647c418659d8fd_L.jpg",
-   "https://media.e-auksion.uz/i/b4b6b9aae56f6d0b0fc040aac171c17d_L.jpg"
-  ],
-  "fav": 20,
-  "order_end": "26.11.2026 09:00"
- },
- {
   "id": 26461043,
   "lot_number": "26461043",
   "cat": "avto",
@@ -5144,6 +5118,32 @@
    "https://media.e-auksion.uz/i/245b8371ab6404be928a4635828ef4d2_L.jpeg",
    "https://media.e-auksion.uz/i/217c3ab640779ee58498445028ea1e33_L.jpeg",
    "https://media.e-auksion.uz/i/7865231aee4371b3f01bab19916b8d4d_L.jpeg"
+  ],
+  "fav": 20,
+  "order_end": "26.11.2026 09:00"
+ },
+ {
+  "id": 26944217,
+  "lot_number": "26944217",
+  "cat": "avto",
+  "sub": null,
+  "title": "KIA SORENTO G09U",
+  "year": "2023",
+  "mileage": "96500",
+  "region": "Тошкент ш.",
+  "price_orig": 287450028.0,
+  "price_final": 287450028.0,
+  "date": "26.11.2026",
+  "post_url": "https://t.me/avto_auksion_uz/157145",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/82cccf10b5d02ca47f5f5f8e6f028c57_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/82cccf10b5d02ca47f5f5f8e6f028c57_L.jpg",
+   "https://media.e-auksion.uz/i/2b6f84a0af5b1d352705db5c40362e65_L.jpg",
+   "https://media.e-auksion.uz/i/b124ad28248701a0ed595c0ebf760aff_L.jpg",
+   "https://media.e-auksion.uz/i/c13e4e7daa1b5dead957a823413a1636_L.jpg",
+   "https://media.e-auksion.uz/i/d0c641edd46acc0c83647c418659d8fd_L.jpg",
+   "https://media.e-auksion.uz/i/b4b6b9aae56f6d0b0fc040aac171c17d_L.jpg"
   ],
   "fav": 20,
   "order_end": "26.11.2026 09:00"
