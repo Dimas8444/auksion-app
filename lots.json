@@ -1411,6 +1411,33 @@
   "order_end": "23.11.2026 09:00"
  },
  {
+  "id": 26965252,
+  "lot_number": "26965252",
+  "cat": "avto",
+  "sub": null,
+  "title": "Vaz 2121",
+  "year": "1985",
+  "mileage": "484116",
+  "region": "Бухоро вилояти",
+  "price_orig": 4088896.0,
+  "price_final": 4088896.0,
+  "date": "23.11.2026",
+  "post_url": "https://t.me/avto_auksion_uz/157124",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/7d6e884b10c05714cb3747e9e24dd13b_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/7d6e884b10c05714cb3747e9e24dd13b_L.jpg",
+   "https://media.e-auksion.uz/i/b6d4e101ff892b0f8ef7d05e4e07aa94_L.jpg",
+   "https://media.e-auksion.uz/i/0de5062b67dbfd1dc5a4a158e2956d97_L.jpg",
+   "https://media.e-auksion.uz/i/cdf037a779f48d5bb5193e8fa0ad4d5a_L.jpg",
+   "https://media.e-auksion.uz/i/8df04d35c44c3b6102bc998a4c1579e6_L.jpg",
+   "https://media.e-auksion.uz/i/92314908b505556e74fe2becff2a720c_L.jpg",
+   "https://media.e-auksion.uz/i/8f896d0d9298fa8da3792ab235169e49_L.jpg"
+  ],
+  "fav": 24,
+  "order_end": "23.11.2026 09:00"
+ },
+ {
   "id": 26396615,
   "lot_number": "26396615",
   "cat": "avto",
@@ -1905,33 +1932,6 @@
    "https://media.e-auksion.uz/i/382f862cd1327b2f7ae6bf9ac73f35f1_L.jpg",
    "https://media.e-auksion.uz/i/f4cd6adc369a4cf0296cd617992905cd_L.jpg",
    "https://media.e-auksion.uz/i/47dc602557d47068640de98b001ac0e3_L.jpg"
-  ],
-  "fav": 18,
-  "order_end": "23.11.2026 09:00"
- },
- {
-  "id": 26965252,
-  "lot_number": "26965252",
-  "cat": "avto",
-  "sub": null,
-  "title": "Vaz 2121",
-  "year": "1985",
-  "mileage": "484116",
-  "region": "Бухоро вилояти",
-  "price_orig": 4088896.0,
-  "price_final": 4088896.0,
-  "date": "23.11.2026",
-  "post_url": null,
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/7d6e884b10c05714cb3747e9e24dd13b_L.jpg",
-  "photos": [
-   "https://media.e-auksion.uz/i/7d6e884b10c05714cb3747e9e24dd13b_L.jpg",
-   "https://media.e-auksion.uz/i/b6d4e101ff892b0f8ef7d05e4e07aa94_L.jpg",
-   "https://media.e-auksion.uz/i/0de5062b67dbfd1dc5a4a158e2956d97_L.jpg",
-   "https://media.e-auksion.uz/i/cdf037a779f48d5bb5193e8fa0ad4d5a_L.jpg",
-   "https://media.e-auksion.uz/i/8df04d35c44c3b6102bc998a4c1579e6_L.jpg",
-   "https://media.e-auksion.uz/i/92314908b505556e74fe2becff2a720c_L.jpg",
-   "https://media.e-auksion.uz/i/8f896d0d9298fa8da3792ab235169e49_L.jpg"
   ],
   "fav": 18,
   "order_end": "23.11.2026 09:00"
