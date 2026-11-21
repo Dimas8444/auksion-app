@@ -39017,35 +39017,6 @@
   "order_end": "26.11.2026 09:00"
  },
  {
-  "id": 26926992,
-  "lot_number": "26926992",
-  "cat": "yuk",
-  "sub": "yuk",
-  "title": "MAN / TGS 19.400 4x2 BLS",
-  "year": "2018",
-  "mileage": "",
-  "region": "Сурхондарё вилояти",
-  "price_orig": 800000000.0,
-  "price_final": 640000000.0,
-  "date": "26.11.2026",
-  "post_url": null,
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/daafa910ec9fb81b3eb3fc1b01ecd61f_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/daafa910ec9fb81b3eb3fc1b01ecd61f_L.jpeg",
-   "https://media.e-auksion.uz/i/3d487b0c450b8cfca828aafb1a7375e8_L.jpeg",
-   "https://media.e-auksion.uz/i/0498edc0989580406441716ab1d5bb29_L.jpeg",
-   "https://media.e-auksion.uz/i/74cb72d75aec80516f7719a0a3c1c216_L.jpeg",
-   "https://media.e-auksion.uz/i/f4891285145484adc5169023fbc875aa_L.jpeg",
-   "https://media.e-auksion.uz/i/6e10e697246bebba35a23328acd4cf33_L.jpeg",
-   "https://media.e-auksion.uz/i/eecf94f09f43c8d3ed2f346482f8a44d_L.jpeg",
-   "https://media.e-auksion.uz/i/70d81e857b837d8d064eed374cdde610_L.jpeg",
-   "https://media.e-auksion.uz/i/c54b812892a6ce135e0c76402c2347a4_L.jpeg"
-  ],
-  "fav": 10,
-  "order_end": "26.11.2026 09:00"
- },
- {
   "id": 26926976,
   "lot_number": "26926976",
   "cat": "yuk",
@@ -39070,6 +39041,35 @@
    "https://media.e-auksion.uz/i/c9a1b4967231ef43cf4c6dd900e9924a_L.jpeg",
    "https://media.e-auksion.uz/i/35f7ef65c01f8ff4c3915c1cfdfe359f_L.jpeg",
    "https://media.e-auksion.uz/i/fd6bf785cbcf7ed90e37532236788ae3_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "26.11.2026 09:00"
+ },
+ {
+  "id": 26926992,
+  "lot_number": "26926992",
+  "cat": "yuk",
+  "sub": "yuk",
+  "title": "MAN / TGS 19.400 4x2 BLS",
+  "year": "2018",
+  "mileage": "",
+  "region": "Сурхондарё вилояти",
+  "price_orig": 800000000.0,
+  "price_final": 640000000.0,
+  "date": "26.11.2026",
+  "post_url": "https://t.me/gruzovoeavto/25059",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/daafa910ec9fb81b3eb3fc1b01ecd61f_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/daafa910ec9fb81b3eb3fc1b01ecd61f_L.jpeg",
+   "https://media.e-auksion.uz/i/3d487b0c450b8cfca828aafb1a7375e8_L.jpeg",
+   "https://media.e-auksion.uz/i/0498edc0989580406441716ab1d5bb29_L.jpeg",
+   "https://media.e-auksion.uz/i/74cb72d75aec80516f7719a0a3c1c216_L.jpeg",
+   "https://media.e-auksion.uz/i/f4891285145484adc5169023fbc875aa_L.jpeg",
+   "https://media.e-auksion.uz/i/6e10e697246bebba35a23328acd4cf33_L.jpeg",
+   "https://media.e-auksion.uz/i/eecf94f09f43c8d3ed2f346482f8a44d_L.jpeg",
+   "https://media.e-auksion.uz/i/70d81e857b837d8d064eed374cdde610_L.jpeg",
+   "https://media.e-auksion.uz/i/c54b812892a6ce135e0c76402c2347a4_L.jpeg"
   ],
   "fav": 10,
   "order_end": "26.11.2026 09:00"
