@@ -307,8 +307,17 @@ function openLot(x){OPEN=x;try{CNT.hit("v");GC({path:"lot-card",title:"Лот к
   +'<div class="date">Аукцион санаси: '+x.date+'</div><dl class="rows" id="drows"><div class="wide"><dd style="font-weight:400;color:var(--mute)">Юкланмоқда…</dd></div></dl><div id="dsell"></div><div id="dnote"></div>'
   +(isToday(x)?'<div class="live wait" id="live"><h3><span class="ldot"></span>Жонли савдо</h3><div class="lab">Юкланмоқда…</div></div>':'')
   +'<div class="btns" id="dbtns">'+(openNow(x)?'<a class="go" target="_blank" rel="noopener" href="'+orderLink(x)+'">Ариза бериш</a>':'')+'</div>'
-  +(hasPost(x)?'<a class="go alt chan" target="_blank" rel="noopener" href="'+postUrl(x)+'">📢 Каналдаги постни очиш</a>':'')+'</div>';
+  +(hasPost(x)?'<a class="go alt chan" target="_blank" rel="noopener" href="'+postUrl(x)+'">📢 Каналдаги постни очиш</a>':'')
+  +'<a class="go alt" id="dshare" href="#" style="margin-top:8px">📤 Лотни улашиш</a></div>';
  dt.querySelector(".name").textContent=x.title;
+ // 21.11 (пользователь: пересланная ссылка на лот должна открывать приложение): делимся ссылкой Mini App
+ // t.me/avtoauksion_bot/auksion?startapp=<вкладка>_<id> — у получателя сразу открывается карточка лота
+ document.getElementById("dshare").onclick=function(ev){ev.preventDefault();
+  var app="https://t.me/avtoauksion_bot/auksion?startapp="+(x.cat||cur)+"_"+x.id,
+      txt=x.title+(x.year?" ("+x.year+" й.)":"")+"\nЛот № "+x.id+" · Аукцион: "+x.date,
+      u="https://t.me/share/url?url="+encodeURIComponent(app)+"&text="+encodeURIComponent(txt);
+  try{CNT.hit("sh");GC({path:"share",title:"Лотни улашиш",event:true})}catch(e){}
+  if(tw&&tw.openTelegramLink){try{tw.openTelegramLink(u);return}catch(e){}}window.open(u,"_blank")};
  var mm=dt.querySelector(".meta");[x.year?x.year+" й.":""].concat(x.info||[]).filter(Boolean).forEach(function(s){var sp=document.createElement("span");sp.textContent=s;mm.appendChild(sp)});
  var st=dt.querySelector(".strip");if(st){ph.forEach(function(u,i){var im=document.createElement("img");im.className="ph";im.src=u;im.alt=x.title+" — "+(i+1);im.onerror=function(){im.remove()};st.appendChild(im)});
   var cn=dt.querySelector(".cnt");st.addEventListener("scroll",function(){if(cn){cn.textContent=(Math.round(st.scrollLeft/st.clientWidth)+1)+"/"+st.children.length}},{passive:true});
