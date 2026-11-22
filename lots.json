@@ -22562,6 +22562,39 @@
   "test": false
  },
  {
+  "id": 27009329,
+  "lot_number": "27009329",
+  "cat": "mulk",
+  "sub": "turar",
+  "tags": [],
+  "title": "Ҳовли, 8 хона, 8,85 сотих",
+  "info": [
+   "Турар-жой участкаси (ҳовли)"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Тошкент вилояти",
+  "address": "Тошкент вилояти, Зангиота тумани, Алимбува МФЙ, Жўшқин кўчаси, 12 тор кўчаси, 17-уй",
+  "price_orig": 850000000.0,
+  "price_final": 850000000.0,
+  "date": "30.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/d4d99c1c4817de728526f692f03b7996_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/d4d99c1c4817de728526f692f03b7996_L.jpeg",
+   "https://media.e-auksion.uz/i/75eefb7fd00eb5bf68b8463bb1ec2ee1_L.jpeg",
+   "https://media.e-auksion.uz/i/95c1997c3234bdfc5b15e5d95b06328d_L.jpeg",
+   "https://media.e-auksion.uz/i/df3f626adbeed45b58038f2d540c8bbb_L.jpeg",
+   "https://media.e-auksion.uz/i/e0c59fa36b8c58ef2a10d326b8f162dd_L.jpeg",
+   "https://media.e-auksion.uz/i/d08117b1e202624915a4a8444f1be8d3_L.jpeg",
+   "https://media.e-auksion.uz/i/257a38fd02425808ab15f284f6434cf0_L.jpeg",
+   "https://media.e-auksion.uz/i/b840fbaa671a0556cc80db003e8ee0b3_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "30.11.2026 09:00",
+  "test": false
+ },
+ {
   "id": 26584966,
   "lot_number": "26584966",
   "cat": "mulk",
