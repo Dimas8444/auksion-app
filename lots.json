@@ -4083,6 +4083,36 @@
   "order_end": "23.11.2026 09:00"
  },
  {
+  "id": 26396657,
+  "lot_number": "26396657",
+  "cat": "avto",
+  "sub": null,
+  "title": "COBALT GS/16MTB",
+  "year": "2020",
+  "mileage": "",
+  "region": "Сурхондарё вилояти",
+  "price_orig": 83636000.0,
+  "price_final": 83636000.0,
+  "date": "23.11.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/5334aa385c08e8b8ec4d16d7b0712fc2_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/5334aa385c08e8b8ec4d16d7b0712fc2_L.jpeg",
+   "https://media.e-auksion.uz/i/970eaa3abee648242da4117f1d9e37c4_L.jpeg",
+   "https://media.e-auksion.uz/i/7f8b5093050d2d3091140c8aa5c6829d_L.jpeg",
+   "https://media.e-auksion.uz/i/a8482d3074a87585ed53a74f75d3a083_L.jpeg",
+   "https://media.e-auksion.uz/i/49dcdb2171aa5dc35e279f374c0448b8_L.jpeg",
+   "https://media.e-auksion.uz/i/8cdc2a9c96cdc86584e60ca3e9f0dfdb_L.jpeg",
+   "https://media.e-auksion.uz/i/fd6279fa5d651955eaca5d397e2bb0c9_L.jpeg",
+   "https://media.e-auksion.uz/i/f11c3aab2fb7ade34778c918e9aa2e02_L.jpeg",
+   "https://media.e-auksion.uz/i/4176e300642ab70fa101d3272541264d_L.jpeg",
+   "https://media.e-auksion.uz/i/93a5fc416ad47e121a03e3f7d0589794_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "23.11.2026 09:00"
+ },
+ {
   "id": 26364255,
   "lot_number": "26364255",
   "cat": "avto",
@@ -42505,6 +42535,32 @@
   "order_end": "27.11.2026 09:00"
  },
  {
+  "id": 26493697,
+  "lot_number": "26493697",
+  "cat": "yuk",
+  "sub": "yuk",
+  "title": "MMZ 4505",
+  "year": "1990",
+  "mileage": "",
+  "region": "Тошкент вилояти",
+  "price_orig": 46614000.0,
+  "price_final": 46614000.0,
+  "date": "27.11.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/71ee3f8c1216a27b8d626fd5cb5a4409_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/71ee3f8c1216a27b8d626fd5cb5a4409_L.jpeg",
+   "https://media.e-auksion.uz/i/ae6c5533908874447fb82e6e627423b4_L.jpeg",
+   "https://media.e-auksion.uz/i/87f9af73d09d4370875c5beb8bbba676_L.jpeg",
+   "https://media.e-auksion.uz/i/9fd53e6e20c7e32e2b9b62214ca28b33_L.jpeg",
+   "https://media.e-auksion.uz/i/42d5d335fe5d878f48868dccb1ee7b5e_L.jpeg",
+   "https://media.e-auksion.uz/i/65db22ca9b30c818459255d97394e3bc_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "27.11.2026 09:00"
+ },
+ {
   "id": 26526001,
   "lot_number": "26526001",
   "cat": "yuk",
@@ -44837,6 +44893,33 @@
    "https://media.e-auksion.uz/i/3d364a5e8ab833586790d15b78ce79ef_L.jpg"
   ],
   "fav": 11,
+  "order_end": "21.12.2026 09:00"
+ },
+ {
+  "id": 27068742,
+  "lot_number": "27068742",
+  "cat": "yuk",
+  "sub": "yuk",
+  "title": "MAN TGS 33 360 6X4",
+  "year": "2012",
+  "mileage": "",
+  "region": "Қашқадарё вилояти",
+  "price_orig": 635026709.0,
+  "price_final": 635026709.0,
+  "date": "21.12.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/6c8fb6877912f991065993d00e4fbc42_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/6c8fb6877912f991065993d00e4fbc42_L.jpg",
+   "https://media.e-auksion.uz/i/3fc3472f5ce8698c0171ac217598bcb4_L.jpg",
+   "https://media.e-auksion.uz/i/5001468472b5b84355f3d2d54d853ef4_L.jpg",
+   "https://media.e-auksion.uz/i/5dc163b9e9142f89ddbb27d119094395_L.jpg",
+   "https://media.e-auksion.uz/i/90a7df890ce9c10b6e59dc1835fda672_L.jpg",
+   "https://media.e-auksion.uz/i/32b34a0dd5f3310c3fee4e3b3945d827_L.jpg",
+   "https://media.e-auksion.uz/i/d5eba5b3773c89aaf7a91393541fc0ab_L.jpg"
+  ],
+  "fav": 10,
   "order_end": "21.12.2026 09:00"
  }
 ]
