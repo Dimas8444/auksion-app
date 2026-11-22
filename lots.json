@@ -4059,6 +4059,30 @@
   "order_end": "23.11.2026 09:00"
  },
  {
+  "id": 26964492,
+  "lot_number": "26964492",
+  "cat": "avto",
+  "sub": null,
+  "title": "SPARK",
+  "year": "2012",
+  "mileage": "232567",
+  "region": "Андижон вилояти",
+  "price_orig": 38630488.0,
+  "price_final": 38630488.0,
+  "date": "23.11.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/3c2e0e9e0feef806763029a0bf443a75_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/3c2e0e9e0feef806763029a0bf443a75_L.jpg",
+   "https://media.e-auksion.uz/i/90310295b6d414044f318c725fc8bbc8_L.jpg",
+   "https://media.e-auksion.uz/i/e4334f570aa6e222b91ef351105a5d04_L.jpg",
+   "https://media.e-auksion.uz/i/7576a5e89dcda58ffef7a3e08b2932dd_L.jpg"
+  ],
+  "fav": 10,
+  "order_end": "23.11.2026 09:00"
+ },
+ {
   "id": 26364255,
   "lot_number": "26364255",
   "cat": "avto",
@@ -15386,6 +15410,36 @@
    "https://media.e-auksion.uz/i/69cdad8802b218998934ced70f2db718_L.jpeg",
    "https://media.e-auksion.uz/i/3e2297a9af9d495811c1ff72762ae75a_L.jpeg",
    "https://media.e-auksion.uz/i/cd5525ab6a9455b99a28da9312fd0bb6_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "21.12.2026 09:00"
+ },
+ {
+  "id": 27044245,
+  "lot_number": "27044245",
+  "cat": "avto",
+  "sub": null,
+  "title": "NEXIA 150",
+  "year": "2010",
+  "mileage": "",
+  "region": "Жиззах вилояти",
+  "price_orig": 30046000.0,
+  "price_final": 21032200.0,
+  "date": "21.12.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/037ef86749a88b99c47cee9774c724ed_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/037ef86749a88b99c47cee9774c724ed_L.jpeg",
+   "https://media.e-auksion.uz/i/269d9d8082991a5df4990eed741a5fd6_L.jpeg",
+   "https://media.e-auksion.uz/i/f4236c44bd2dd19d353de7e95ebdf5d9_L.jpeg",
+   "https://media.e-auksion.uz/i/fea97e0e4dd14bc608a4316d185f8e43_L.jpeg",
+   "https://media.e-auksion.uz/i/3821861f02ac83ff12ef4f78d8722186_L.jpeg",
+   "https://media.e-auksion.uz/i/88272ae08142c38a89626f3342cb274e_L.jpeg",
+   "https://media.e-auksion.uz/i/4a4ddee8df7801173251d44e52c162a8_L.jpeg",
+   "https://media.e-auksion.uz/i/d6da4c3f9341666e7f0b308713e2fb42_L.jpeg",
+   "https://media.e-auksion.uz/i/aa1d97a041be48102f91e246bd8d051e_L.jpeg",
+   "https://media.e-auksion.uz/i/e5a9c15b3c7a8d50eff0a049b0101377_L.jpeg"
   ],
   "fav": 10,
   "order_end": "21.12.2026 09:00"
