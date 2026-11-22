@@ -18280,6 +18280,41 @@
   "test": false
  },
  {
+  "id": 26621363,
+  "lot_number": "26621363",
+  "cat": "mulk",
+  "sub": "noturar",
+  "tags": [],
+  "title": "Хизмат кўрсатиш, 1 034,5 м²",
+  "info": [
+   "Нотурар-жой обьектлари"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Қашқадарё вилояти",
+  "address": "Қашқадарё вилояти, Кўкдала тумани, Олтин дала МФЙ, Нурафшон кўчаси, 47-уйда жойлашган.",
+  "price_orig": 3450000000.0,
+  "price_final": 3450000000.0,
+  "date": "04.12.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/aa8bbb7187a692142397a0b97435eb31_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/aa8bbb7187a692142397a0b97435eb31_L.jpeg",
+   "https://media.e-auksion.uz/i/7713b5aaa59cfaf832baba37c6b89024_L.jpeg",
+   "https://media.e-auksion.uz/i/b1f34703ed2a33da8a459d02e105740d_L.jpeg",
+   "https://media.e-auksion.uz/i/b174ede490c22405bf690719c6c4fbbe_L.jpeg",
+   "https://media.e-auksion.uz/i/dab2f09870dd28125b194e555660b15b_L.jpeg",
+   "https://media.e-auksion.uz/i/15423a863edef4c5b22b9f67bd078347_L.jpeg",
+   "https://media.e-auksion.uz/i/f772431bc772e773857bdb2591500ad6_L.jpeg",
+   "https://media.e-auksion.uz/i/b45668aaf11cbb77188ee1e3343a6bc1_L.jpeg",
+   "https://media.e-auksion.uz/i/9be4d1caf7e2c38a42a8b59c8ee3ed2a_L.jpeg",
+   "https://media.e-auksion.uz/i/5b23af6989a3a559a496a86c4b43e0a4_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "04.12.2026 09:00",
+  "test": false
+ },
+ {
   "id": 26720700,
   "lot_number": "26720700",
   "cat": "mulk",
@@ -29887,6 +29922,37 @@
    "https://media.e-auksion.uz/i/113a815fc1474847b956ad422fcb9d64_L.jpeg"
   ],
   "fav": 20,
+  "order_end": "04.12.2026 09:00",
+  "test": false
+ },
+ {
+  "term": "120 ой",
+  "id": 27043765,
+  "lot_number": "27043765",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "noturar",
+   "ijara"
+  ],
+  "title": "Ер участкаси, 0,77 сотих",
+  "info": [
+   "Тадбиркорлик ва шаҳарсозлик учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Жиззах вилояти",
+  "address": "Жиззах вилояти, Бахмал тумани, Ўрмончи МФЙ",
+  "price_orig": 9841127.47,
+  "price_final": 9841127.47,
+  "date": "04.12.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/7d7c89aba608c7987c7959b6da4d7d1b_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/7d7c89aba608c7987c7959b6da4d7d1b_L.jpeg",
+   "https://media.e-auksion.uz/i/a50554c2a6d4168a49f7998b260c7e5c_L.jpeg"
+  ],
+  "fav": 10,
   "order_end": "04.12.2026 09:00",
   "test": false
  },
