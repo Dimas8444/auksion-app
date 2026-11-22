@@ -17681,6 +17681,36 @@
   "test": false
  },
  {
+  "term": "12 ой",
+  "id": 26944448,
+  "lot_number": "26944448",
+  "cat": "mulk",
+  "sub": "noturar",
+  "tags": [],
+  "title": "Ижарага, 28,3 м², 60 ой",
+  "info": [
+   "Ижара"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Хоразм вилояти",
+  "address": "Хоразм вилояти, Урганч шаҳри, Термиз кўчаси 2-уй",
+  "price_orig": 13456750.0,
+  "price_final": 13456750.0,
+  "date": "01.12.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/eccd253c07030d65b5e899b2c7ab7abd_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/eccd253c07030d65b5e899b2c7ab7abd_L.jpg",
+   "https://media.e-auksion.uz/i/1b37c538bb31ae5775be079c67259921_L.jpg",
+   "https://media.e-auksion.uz/i/9ba278c21e971a7c92f8c741ae53a6ed_L.jpg",
+   "https://media.e-auksion.uz/i/67f134aa75c4d93247610c6ac7f36f7a_L.jpg"
+  ],
+  "fav": 10,
+  "order_end": "01.12.2026 09:00",
+  "test": false
+ },
+ {
   "term": "бор",
   "id": 26978038,
   "lot_number": "26978038",
@@ -28711,6 +28741,170 @@
    "https://media.e-auksion.uz/i/b3cfde4cd012326d0a41637a2adc828e_L.jpeg",
    "https://media.e-auksion.uz/i/45c8b2c52430d7de99bb34fc432a9006_L.jpeg",
    "https://media.e-auksion.uz/i/68a5ea5682a78b7d68af7abb0e412295_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "01.12.2026 09:00",
+  "test": false
+ },
+ {
+  "term": "120 ой",
+  "id": 26942178,
+  "lot_number": "26942178",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "noturar",
+   "ijara"
+  ],
+  "title": "Ер участкаси, 40,33 сотих",
+  "info": [
+   "Тадбиркорлик ва шаҳарсозлик учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Тошкент вилояти",
+  "address": "Тошкент вилояти, Бекобод тумани, Истиқбол МФЙ",
+  "price_orig": 132605641.57,
+  "price_final": 132605641.57,
+  "date": "01.12.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/1df84fdbcfad90a856315873727d0da9_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/1df84fdbcfad90a856315873727d0da9_L.jpeg",
+   "https://media.e-auksion.uz/i/c66c6e4ea6c92b30dce71004d594584d_L.jpeg",
+   "https://media.e-auksion.uz/i/6e1144a011a65b1cb189de696363d70e_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "01.12.2026 09:00",
+  "test": false
+ },
+ {
+  "term": "120 ой",
+  "id": 26942183,
+  "lot_number": "26942183",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "noturar",
+   "ijara"
+  ],
+  "title": "Ер участкаси, 0,26 сотих",
+  "info": [
+   "Тадбиркорлик ва шаҳарсозлик учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Самарқанд вилояти",
+  "address": "Самарқанд вилояти, Паяриқ тумани, Хўжа Исмоил МФЙ",
+  "price_orig": 7065553.44,
+  "price_final": 7065553.44,
+  "date": "01.12.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/e435661de56909a7b44b0b983f700a4d_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/e435661de56909a7b44b0b983f700a4d_L.jpeg",
+   "https://media.e-auksion.uz/i/9c6c5de02e6a64717e4a17d14d4ce2d5_L.jpeg",
+   "https://media.e-auksion.uz/i/5183416c8f6d19d457083efe4a03d5a6_L.jpeg",
+   "https://media.e-auksion.uz/i/4d13857c621c875b4b7cd51ef50d95f0_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "01.12.2026 09:00",
+  "test": false
+ },
+ {
+  "term": "120 ой",
+  "id": 26942176,
+  "lot_number": "26942176",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "noturar",
+   "ijara"
+  ],
+  "title": "Ер участкаси, 0,3 сотих",
+  "info": [
+   "Тадбиркорлик ва шаҳарсозлик учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Самарқанд вилояти",
+  "address": "Самарқанд вилояти, Паяриқ тумани, Хўжа Исмоил МФЙ",
+  "price_orig": 7391023.2,
+  "price_final": 7391023.2,
+  "date": "01.12.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/647f38cbf25224c7536adc1151ebeecb_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/647f38cbf25224c7536adc1151ebeecb_L.jpeg",
+   "https://media.e-auksion.uz/i/4afe7be71cad382b88c9a5e49a8b20da_L.jpeg",
+   "https://media.e-auksion.uz/i/ab57db7d5750977365a74a2e5c08b076_L.jpeg",
+   "https://media.e-auksion.uz/i/3502a2f0ee1e334060af7589a3cafe7a_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "01.12.2026 09:00",
+  "test": false
+ },
+ {
+  "term": "120 ой",
+  "id": 26942181,
+  "lot_number": "26942181",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "noturar",
+   "ijara"
+  ],
+  "title": "Ер участкаси, 0,3 сотих",
+  "info": [
+   "Тадбиркорлик ва шаҳарсозлик учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Самарқанд вилояти",
+  "address": "Самарқанд вилояти, Паяриқ тумани, Хўжа Исмоил МФЙ",
+  "price_orig": 7391023.2,
+  "price_final": 7391023.2,
+  "date": "01.12.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/10faf779c3e8428f3e669fcb0c9cdcf4_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/10faf779c3e8428f3e669fcb0c9cdcf4_L.jpeg",
+   "https://media.e-auksion.uz/i/ad3a1e6ac698c2dc236a03c7a9794e0c_L.jpeg",
+   "https://media.e-auksion.uz/i/9bab0319052eae5c24297caa3b2b7696_L.jpeg",
+   "https://media.e-auksion.uz/i/5c8541cd347133778041cab9428c0334_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "01.12.2026 09:00",
+  "test": false
+ },
+ {
+  "term": "120 ой",
+  "id": 26942186,
+  "lot_number": "26942186",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "noturar",
+   "ijara"
+  ],
+  "title": "Ер участкаси, 0,3 сотих",
+  "info": [
+   "Тадбиркорлик ва шаҳарсозлик учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Самарқанд вилояти",
+  "address": "Самарқанд вилояти, Паяриқ тумани, Хўжа Исмоил МФЙ",
+  "price_orig": 6867946.8,
+  "price_final": 6867946.8,
+  "date": "01.12.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/370713118fd7d3cf2542f17b403d707a_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/370713118fd7d3cf2542f17b403d707a_L.jpeg",
+   "https://media.e-auksion.uz/i/697a505e019ce75bb483be1dc088abf1_L.jpeg",
+   "https://media.e-auksion.uz/i/c7ec74061b99202b00bcc16d837994a9_L.jpeg",
+   "https://media.e-auksion.uz/i/395588903630143ef6e165a235a7d9fc_L.jpeg"
   ],
   "fav": 10,
   "order_end": "01.12.2026 09:00",
