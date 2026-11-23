@@ -15701,6 +15701,41 @@
   "test": false
  },
  {
+  "id": 27010101,
+  "lot_number": "27010101",
+  "cat": "mulk",
+  "sub": "noturar",
+  "tags": [],
+  "title": "Хизмат кўрсатиш, 880,1 м²",
+  "info": [
+   "Нотурар-жой обьектлари"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Самарқанд вилояти",
+  "address": "Самарқанд вилояти, Каттақўрғон тумани, Янгиқиёт МФЙ, Янгиқиёт қишлоғи, 18-уй",
+  "price_orig": 300000000.0,
+  "price_final": 300000000.0,
+  "date": "21.12.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/b8ed5d74391a0aefd0a466f69e2ecd93_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/b8ed5d74391a0aefd0a466f69e2ecd93_L.jpeg",
+   "https://media.e-auksion.uz/i/63c14f5ef0817a3a62cfaa750827a862_L.jpeg",
+   "https://media.e-auksion.uz/i/1386f8cfdac311f941719bbc5dd4ae8e_L.jpeg",
+   "https://media.e-auksion.uz/i/ea0a4e0726bb0b9cefa8add9c2aa24a3_L.jpeg",
+   "https://media.e-auksion.uz/i/e254155e6a0ea438c457407db87edb14_L.jpeg",
+   "https://media.e-auksion.uz/i/7264c53e2a71dace1ecc0f8677f5af03_L.jpeg",
+   "https://media.e-auksion.uz/i/dad6fffb2fc05c5b0655fe559116209e_L.jpeg",
+   "https://media.e-auksion.uz/i/8460d4f26773c2256efc3844d5905bbd_L.jpeg",
+   "https://media.e-auksion.uz/i/575ef558b3833266edebe67dca7455e7_L.jpeg",
+   "https://media.e-auksion.uz/i/efe2fc95af8340f1f3ca835785ecf7fb_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "21.12.2026 09:00",
+  "test": false
+ },
+ {
   "id": 26780827,
   "lot_number": "26780827",
   "cat": "mulk",
