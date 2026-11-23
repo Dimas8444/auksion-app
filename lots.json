@@ -4916,31 +4916,6 @@
   "order_end": "30.11.2026 09:00"
  },
  {
-  "id": 26584834,
-  "lot_number": "26584834",
-  "cat": "avto",
-  "sub": null,
-  "title": "LACETTI",
-  "year": "2019",
-  "mileage": "",
-  "region": "Тошкент ш.",
-  "price_orig": 110099000.0,
-  "price_final": 77069300.0,
-  "date": "30.11.2026",
-  "post_url": null,
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/055d33921f5ac25f813271aed563137e_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/055d33921f5ac25f813271aed563137e_L.jpeg",
-   "https://media.e-auksion.uz/i/6d6ea1618e336f7fb4263930e529baef_L.jpeg",
-   "https://media.e-auksion.uz/i/3b5b939aa2240e2ad9cfa7cde90fca27_L.jpeg",
-   "https://media.e-auksion.uz/i/9b8125414274ad1c800fef80e67846dd_L.jpeg",
-   "https://media.e-auksion.uz/i/5f79814450de2be21ca3967d6cb6cbde_L.jpeg"
-  ],
-  "fav": 21,
-  "order_end": "30.11.2026 09:00"
- },
- {
   "id": 26584936,
   "lot_number": "26584936",
   "cat": "avto",
@@ -5051,6 +5026,31 @@
    "https://media.e-auksion.uz/i/8ff5559c811b1f5868c23e7c99029b9d_L.jpeg",
    "https://media.e-auksion.uz/i/db438f342d35d13272b7abd09879f17b_L.jpeg",
    "https://media.e-auksion.uz/i/6f1d8c47183d6eea8580297ae6f5c9f8_L.jpeg"
+  ],
+  "fav": 21,
+  "order_end": "30.11.2026 09:00"
+ },
+ {
+  "id": 26584834,
+  "lot_number": "26584834",
+  "cat": "avto",
+  "sub": null,
+  "title": "LACETTI",
+  "year": "2019",
+  "mileage": "",
+  "region": "Тошкент ш.",
+  "price_orig": 110099000.0,
+  "price_final": 77069300.0,
+  "date": "30.11.2026",
+  "post_url": "https://t.me/avto_auksion_uz/157180",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/055d33921f5ac25f813271aed563137e_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/055d33921f5ac25f813271aed563137e_L.jpeg",
+   "https://media.e-auksion.uz/i/6d6ea1618e336f7fb4263930e529baef_L.jpeg",
+   "https://media.e-auksion.uz/i/3b5b939aa2240e2ad9cfa7cde90fca27_L.jpeg",
+   "https://media.e-auksion.uz/i/9b8125414274ad1c800fef80e67846dd_L.jpeg",
+   "https://media.e-auksion.uz/i/5f79814450de2be21ca3967d6cb6cbde_L.jpeg"
   ],
   "fav": 21,
   "order_end": "30.11.2026 09:00"
