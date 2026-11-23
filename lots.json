@@ -11768,6 +11768,100 @@
   "test": false
  },
  {
+  "term": "бор",
+  "id": 26998744,
+  "lot_number": "26998744",
+  "cat": "mulk",
+  "sub": "noturar",
+  "tags": [],
+  "title": "Нотурар бино",
+  "info": [
+   "Давлат объекти"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Тошкент ш.",
+  "address": "Тошкент ш., Учтепа тумани, Бешқайрағоч МФЙ, Кўкча Дарвоза кўчаси, 628-уй",
+  "price_orig": 748291989.0,
+  "price_final": 748291989.0,
+  "date": "25.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/435904d7cbbe48b7943197c748e74dcb_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/435904d7cbbe48b7943197c748e74dcb_L.jpg",
+   "https://media.e-auksion.uz/i/88cc9a79c1babeeb310d89a61ff988db_L.jpg",
+   "https://media.e-auksion.uz/i/d4952d90bc86705ff570be7402ce6bbd_L.jpg",
+   "https://media.e-auksion.uz/i/0ea43f93053ca46c73f8ee9e07532970_L.jpg",
+   "https://media.e-auksion.uz/i/f6c8d0f5761d655591bef4fda50b8470_L.jpg"
+  ],
+  "fav": 10,
+  "order_end": "25.11.2026 09:00",
+  "test": false
+ },
+ {
+  "term": "бор",
+  "id": 26813388,
+  "lot_number": "26813388",
+  "cat": "mulk",
+  "sub": "noturar",
+  "tags": [],
+  "title": "Ижарага, 2 м², 60 ой",
+  "info": [
+   "Ижара"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Тошкент ш.",
+  "address": "Тошкент ш., Олмазор тумани, Шифокорлар кўчаси, Уй 2",
+  "price_orig": 1106877.07,
+  "price_final": 1106877.07,
+  "date": "25.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/cb4744dd2270ccc72d99d7d3b5e7c2ad_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/cb4744dd2270ccc72d99d7d3b5e7c2ad_L.jpg",
+   "https://media.e-auksion.uz/i/64ccaef7551e9d56e237b26f2ef38c70_L.jpg",
+   "https://media.e-auksion.uz/i/415d9cb8c8994566e47e211b1474f356_L.jpg",
+   "https://media.e-auksion.uz/i/1b0d7b5c6df26cdd1046e085ba3989b3_L.jpg",
+   "https://media.e-auksion.uz/i/865842f79b406daa92fda816041bd3b3_L.jpg"
+  ],
+  "fav": 10,
+  "order_end": "25.11.2026 09:00",
+  "test": false
+ },
+ {
+  "term": "бор",
+  "id": 26813395,
+  "lot_number": "26813395",
+  "cat": "mulk",
+  "sub": "noturar",
+  "tags": [],
+  "title": "Ижарага, 800 м², 60 ой",
+  "info": [
+   "Ижара"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Фарғона вилояти",
+  "address": "Фарғона вилояти, Қўқон шаҳри, Саодат МФЙ, Усмон Носир кўчаси 31-уй",
+  "price_orig": 35148148.15,
+  "price_final": 35148148.15,
+  "date": "25.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/bf60637f4f049a2523f265774b396525_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/bf60637f4f049a2523f265774b396525_L.jpg",
+   "https://media.e-auksion.uz/i/d837fa0003d689e75ad0ca416eafd864_L.jpg",
+   "https://media.e-auksion.uz/i/71b2d59e1cfe7502459b42723d0d44ab_L.jpg",
+   "https://media.e-auksion.uz/i/c1ec46c572ea1f750276d80bb32c181d_L.jpg",
+   "https://media.e-auksion.uz/i/ebbb4fe569c6b796850610812060c130_L.jpg",
+   "https://media.e-auksion.uz/i/ca3b34f14c67115656236e2b4a4c47e3_L.jpg"
+  ],
+  "fav": 10,
+  "order_end": "25.11.2026 09:00",
+  "test": false
+ },
+ {
   "id": 26422285,
   "lot_number": "26422285",
   "cat": "mulk",
@@ -20225,6 +20319,39 @@
   "order_end": "25.11.2026 09:00",
   "test": false,
   "term": "120 ой"
+ },
+ {
+  "term": "60 ой",
+  "id": 26814828,
+  "lot_number": "26814828",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "noturar",
+   "ijara"
+  ],
+  "title": "Ер участкаси, 1,15 га",
+  "info": [
+   "Тадбиркорлик ва шаҳарсозлик учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Тошкент вилояти",
+  "address": "Тошкент вилояти, Қуйичирчиқ тумани, Сурум МФЙ",
+  "price_orig": 2486759954.4,
+  "price_final": 2486759954.4,
+  "date": "25.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/0d73b0c5f144996affcd6fa6c2a56727_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/0d73b0c5f144996affcd6fa6c2a56727_L.jpeg",
+   "https://media.e-auksion.uz/i/3792f87ad530aaf07699b5a0dbcaf343_L.jpeg",
+   "https://media.e-auksion.uz/i/b7b6d932f2081d947175ff0c32a15631_L.jpeg",
+   "https://media.e-auksion.uz/i/fbbfb5754da0911c005c179f957d90cb_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "25.11.2026 09:00",
+  "test": false
  },
  {
   "term": "120 ой",
