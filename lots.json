@@ -25364,6 +25364,40 @@
   "test": false
  },
  {
+  "term": "60 ой",
+  "id": 27043702,
+  "lot_number": "27043702",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "noturar",
+   "ijara"
+  ],
+  "title": "Ер участкаси, 2,69 сотих",
+  "info": [
+   "\"Тайёр пакет\" усулидаги ерлар"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Тошкент вилояти",
+  "address": "Тошкент вилояти, Оҳангарон шаҳри, Бўстон МФЙ",
+  "price_orig": 74143350.0,
+  "price_final": 74143350.0,
+  "date": "04.12.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/066a0c9391fc23c8b64c96ce912f122d_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/066a0c9391fc23c8b64c96ce912f122d_L.jpeg",
+   "https://media.e-auksion.uz/i/e85a2f78f0648f0c776c5d63e1e3363a_L.jpeg",
+   "https://media.e-auksion.uz/i/278b8f99f34ca38d56329a28b30ee13f_L.jpeg",
+   "https://media.e-auksion.uz/i/6080f3c9b22ad430738edd4ff4654937_L.jpeg",
+   "https://media.e-auksion.uz/i/929ddab3773e814b889d923be497909b_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "04.12.2026 09:00",
+  "test": false
+ },
+ {
   "id": 26685362,
   "lot_number": "26685362",
   "cat": "mulk",
