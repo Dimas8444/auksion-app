@@ -23311,6 +23311,36 @@
   "test": false
  },
  {
+  "term": "120 ой",
+  "id": 26879115,
+  "lot_number": "26879115",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "yakka"
+  ],
+  "title": "Ер участкаси, 4 сотих",
+  "info": [
+   "Якка тартибда уй-жой қуриш учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Сирдарё вилояти",
+  "address": "Сирдарё вилояти, Сардоба тумани, Ровот МФЙ",
+  "price_orig": 23673199.0,
+  "price_final": 23673199.0,
+  "date": "27.11.2026",
+  "post_url": "https://t.me/kuchmasmulk_uz/5338",
+  "photo": "https://media.e-auksion.uz/i/ccdde98128523cbde1d53198925ccf1d_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/ccdde98128523cbde1d53198925ccf1d_L.jpeg",
+   "https://media.e-auksion.uz/i/6e0500d9eb29a3cacd7774e1ac90a46c_L.jpeg"
+  ],
+  "fav": 22,
+  "order_end": "27.11.2026 09:00",
+  "test": false
+ },
+ {
   "term": "60 ой",
   "id": 26879094,
   "lot_number": "26879094",
@@ -23344,36 +23374,6 @@
   "fav": 20,
   "order_end": "27.11.2026 09:00",
   "test": false
- },
- {
-  "id": 26879115,
-  "lot_number": "26879115",
-  "cat": "mulk",
-  "sub": "yer",
-  "tags": [
-   "yakka"
-  ],
-  "title": "Ер участкаси, 4 сотих",
-  "info": [
-   "Якка тартибда уй-жой қуриш учун"
-  ],
-  "year": "",
-  "mileage": "",
-  "region": "Сирдарё вилояти",
-  "address": "Сирдарё вилояти, Сардоба тумани, Ровот МФЙ",
-  "price_orig": 23673199.0,
-  "price_final": 23673199.0,
-  "date": "27.11.2026",
-  "post_url": null,
-  "photo": "https://media.e-auksion.uz/i/ccdde98128523cbde1d53198925ccf1d_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/ccdde98128523cbde1d53198925ccf1d_L.jpeg",
-   "https://media.e-auksion.uz/i/6e0500d9eb29a3cacd7774e1ac90a46c_L.jpeg"
-  ],
-  "fav": 11,
-  "order_end": "27.11.2026 09:00",
-  "test": false,
-  "term": "120 ой"
  },
  {
   "id": 26879095,
