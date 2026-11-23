@@ -4916,33 +4916,6 @@
   "order_end": "30.11.2026 09:00"
  },
  {
-  "id": 26584936,
-  "lot_number": "26584936",
-  "cat": "avto",
-  "sub": null,
-  "title": "VOLKWAGEN CADD Y",
-  "year": "2020",
-  "mileage": "",
-  "region": "Тошкент ш.",
-  "price_orig": 155967000.0,
-  "price_final": 155967000.0,
-  "date": "30.11.2026",
-  "post_url": null,
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/136dee8d8516128773a9e8efcd6c9328_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/136dee8d8516128773a9e8efcd6c9328_L.jpeg",
-   "https://media.e-auksion.uz/i/0397be6dbbf006932a5acb797faca92d_L.jpeg",
-   "https://media.e-auksion.uz/i/c277c13ef9e93506a87ea4d7b3346f52_L.jpeg",
-   "https://media.e-auksion.uz/i/3c9d005297d62519913832e81090ab4e_L.jpeg",
-   "https://media.e-auksion.uz/i/55a82e5b3c881ad960159b6ca3f4a80d_L.jpeg",
-   "https://media.e-auksion.uz/i/fe6d5ad7d985d7f553e1d207708ded66_L.jpeg",
-   "https://media.e-auksion.uz/i/aa6eff1b9c7ae387eaa100abd1d3816d_L.jpeg"
-  ],
-  "fav": 21,
-  "order_end": "30.11.2026 09:00"
- },
- {
   "id": 26525718,
   "lot_number": "26525718",
   "cat": "avto",
@@ -5051,6 +5024,33 @@
    "https://media.e-auksion.uz/i/3b5b939aa2240e2ad9cfa7cde90fca27_L.jpeg",
    "https://media.e-auksion.uz/i/9b8125414274ad1c800fef80e67846dd_L.jpeg",
    "https://media.e-auksion.uz/i/5f79814450de2be21ca3967d6cb6cbde_L.jpeg"
+  ],
+  "fav": 21,
+  "order_end": "30.11.2026 09:00"
+ },
+ {
+  "id": 26584936,
+  "lot_number": "26584936",
+  "cat": "avto",
+  "sub": null,
+  "title": "VOLKWAGEN CADD Y",
+  "year": "2020",
+  "mileage": "",
+  "region": "Тошкент ш.",
+  "price_orig": 155967000.0,
+  "price_final": 155967000.0,
+  "date": "30.11.2026",
+  "post_url": "https://t.me/avto_auksion_uz/157181",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/136dee8d8516128773a9e8efcd6c9328_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/136dee8d8516128773a9e8efcd6c9328_L.jpeg",
+   "https://media.e-auksion.uz/i/0397be6dbbf006932a5acb797faca92d_L.jpeg",
+   "https://media.e-auksion.uz/i/c277c13ef9e93506a87ea4d7b3346f52_L.jpeg",
+   "https://media.e-auksion.uz/i/3c9d005297d62519913832e81090ab4e_L.jpeg",
+   "https://media.e-auksion.uz/i/55a82e5b3c881ad960159b6ca3f4a80d_L.jpeg",
+   "https://media.e-auksion.uz/i/fe6d5ad7d985d7f553e1d207708ded66_L.jpeg",
+   "https://media.e-auksion.uz/i/aa6eff1b9c7ae387eaa100abd1d3816d_L.jpeg"
   ],
   "fav": 21,
   "order_end": "30.11.2026 09:00"
