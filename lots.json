@@ -34697,31 +34697,6 @@
   "order_end": "03.12.2026 09:00"
  },
  {
-  "id": 27009988,
-  "lot_number": "27009988",
-  "cat": "yuk",
-  "sub": "maxsus",
-  "title": "URAL 375",
-  "year": "1977",
-  "mileage": "",
-  "region": "Тошкент ш.",
-  "price_orig": 37302000.0,
-  "price_final": 37302000.0,
-  "date": "03.12.2026",
-  "post_url": null,
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/c1340ca4219ad989c3cb118c56625805_L.jpg",
-  "photos": [
-   "https://media.e-auksion.uz/i/c1340ca4219ad989c3cb118c56625805_L.jpg",
-   "https://media.e-auksion.uz/i/bc5898bccd685a9dd4ddb2e69ae4f6db_L.jpg",
-   "https://media.e-auksion.uz/i/c028094dd3973fe0034e5dfbe579b345_L.jpg",
-   "https://media.e-auksion.uz/i/dffca9facbc6a2370cc28e8eb56412dd_L.jpg",
-   "https://media.e-auksion.uz/i/d669792f0200d24c4f270ea13fdb0c89_L.jpg"
-  ],
-  "fav": 21,
-  "order_end": "03.12.2026 09:00"
- },
- {
   "id": 27009998,
   "lot_number": "27009998",
   "cat": "yuk",
@@ -34740,6 +34715,31 @@
    "https://media.e-auksion.uz/i/47b77e1028e731ede021c5bd7afcc82a_L.jpg",
    "https://media.e-auksion.uz/i/e16be449183f87e7195f3166fcc5486a_L.jpg",
    "https://media.e-auksion.uz/i/01c5176e882abd6756c0aebb15a4d301_L.jpg"
+  ],
+  "fav": 21,
+  "order_end": "03.12.2026 09:00"
+ },
+ {
+  "id": 27009988,
+  "lot_number": "27009988",
+  "cat": "yuk",
+  "sub": "maxsus",
+  "title": "URAL 375",
+  "year": "1977",
+  "mileage": "",
+  "region": "Тошкент ш.",
+  "price_orig": 37302000.0,
+  "price_final": 37302000.0,
+  "date": "03.12.2026",
+  "post_url": "https://t.me/gruzovoeavto/25150",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/c1340ca4219ad989c3cb118c56625805_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/c1340ca4219ad989c3cb118c56625805_L.jpg",
+   "https://media.e-auksion.uz/i/bc5898bccd685a9dd4ddb2e69ae4f6db_L.jpg",
+   "https://media.e-auksion.uz/i/c028094dd3973fe0034e5dfbe579b345_L.jpg",
+   "https://media.e-auksion.uz/i/dffca9facbc6a2370cc28e8eb56412dd_L.jpg",
+   "https://media.e-auksion.uz/i/d669792f0200d24c4f270ea13fdb0c89_L.jpg"
   ],
   "fav": 21,
   "order_end": "03.12.2026 09:00"
