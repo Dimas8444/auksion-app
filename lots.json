@@ -8732,35 +8732,6 @@
   "order_end": "04.12.2026 09:00"
  },
  {
-  "id": 27044436,
-  "lot_number": "27044436",
-  "cat": "avto",
-  "sub": null,
-  "title": "Chevrolet Captiva (GBACPG)",
-  "year": "2009",
-  "mileage": "427448",
-  "region": "Тошкент вилояти",
-  "price_orig": 53081918.0,
-  "price_final": 53081918.0,
-  "date": "04.12.2026",
-  "post_url": null,
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/dc47720ea6c3477e691d3585de2fd564_L.jpg",
-  "photos": [
-   "https://media.e-auksion.uz/i/dc47720ea6c3477e691d3585de2fd564_L.jpg",
-   "https://media.e-auksion.uz/i/345bcc2e25a55adce2cf8ae457709f10_L.jpg",
-   "https://media.e-auksion.uz/i/355559ab0beb829c92569ca7ff68e1a0_L.jpg",
-   "https://media.e-auksion.uz/i/dd103c416cf1220c7821d0da2bcdbd42_L.jpg",
-   "https://media.e-auksion.uz/i/43cec39870aca90edc49c234bf0705ef_L.jpg",
-   "https://media.e-auksion.uz/i/d45123b0bdc10309f6e5a4b6ab41cad2_L.jpg",
-   "https://media.e-auksion.uz/i/d5324442972ece704abe39ad74778624_L.jpg",
-   "https://media.e-auksion.uz/i/6c5f0c6d6935d531302491c26157d55d_L.jpg",
-   "https://media.e-auksion.uz/i/c22e7345c0d7eb960afb71f444618ab5_L.jpg"
-  ],
-  "fav": 21,
-  "order_end": "04.12.2026 09:00"
- },
- {
   "id": 26654526,
   "lot_number": "26654526",
   "cat": "avto",
@@ -8786,6 +8757,35 @@
    "https://media.e-auksion.uz/i/e2ad54ecb204a9cfcd3c74fa2e280226_L.jpeg",
    "https://media.e-auksion.uz/i/1d6b7ca5bfc9548dfd8968d2bbb89ac9_L.jpeg",
    "https://media.e-auksion.uz/i/f0905c01d14af5d51e5465e208bdf789_L.jpeg"
+  ],
+  "fav": 21,
+  "order_end": "04.12.2026 09:00"
+ },
+ {
+  "id": 27044436,
+  "lot_number": "27044436",
+  "cat": "avto",
+  "sub": null,
+  "title": "Chevrolet Captiva (GBACPG)",
+  "year": "2009",
+  "mileage": "427448",
+  "region": "Тошкент вилояти",
+  "price_orig": 53081918.0,
+  "price_final": 53081918.0,
+  "date": "04.12.2026",
+  "post_url": "https://t.me/avto_auksion_uz/157221",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/dc47720ea6c3477e691d3585de2fd564_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/dc47720ea6c3477e691d3585de2fd564_L.jpg",
+   "https://media.e-auksion.uz/i/345bcc2e25a55adce2cf8ae457709f10_L.jpg",
+   "https://media.e-auksion.uz/i/355559ab0beb829c92569ca7ff68e1a0_L.jpg",
+   "https://media.e-auksion.uz/i/dd103c416cf1220c7821d0da2bcdbd42_L.jpg",
+   "https://media.e-auksion.uz/i/43cec39870aca90edc49c234bf0705ef_L.jpg",
+   "https://media.e-auksion.uz/i/d45123b0bdc10309f6e5a4b6ab41cad2_L.jpg",
+   "https://media.e-auksion.uz/i/d5324442972ece704abe39ad74778624_L.jpg",
+   "https://media.e-auksion.uz/i/6c5f0c6d6935d531302491c26157d55d_L.jpg",
+   "https://media.e-auksion.uz/i/c22e7345c0d7eb960afb71f444618ab5_L.jpg"
   ],
   "fav": 21,
   "order_end": "04.12.2026 09:00"
