@@ -38801,35 +38801,6 @@
   "order_end": "30.11.2026 09:00"
  },
  {
-  "id": 27045272,
-  "lot_number": "27045272",
-  "cat": "yuk",
-  "sub": "yuk",
-  "title": "FORD CONNECT",
-  "year": "2005",
-  "mileage": "346632",
-  "region": "Наманган вилояти",
-  "price_orig": 56250000.0,
-  "price_final": 45000000.0,
-  "date": "30.11.2026",
-  "post_url": null,
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/18516addfe4940a0f7204193a7d482f4_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/18516addfe4940a0f7204193a7d482f4_L.jpeg",
-   "https://media.e-auksion.uz/i/4e73021ba23857a1b072f6f20e22d93f_L.jpeg",
-   "https://media.e-auksion.uz/i/00e8fcfbb9d86a17611a2c9753fa9567_L.jpeg",
-   "https://media.e-auksion.uz/i/df642869bdfd4b9f97530e43d4f028f9_L.jpeg",
-   "https://media.e-auksion.uz/i/8990aa0d8427c163c0b29dbf2ed318bd_L.jpeg",
-   "https://media.e-auksion.uz/i/dd03fd2adfdc7edff49ff64a695e3820_L.jpeg",
-   "https://media.e-auksion.uz/i/d4c3dd4cad56cede131d1003fdbc97e3_L.jpeg",
-   "https://media.e-auksion.uz/i/84f103746be8472aeea476b3ea4a7e40_L.jpeg",
-   "https://media.e-auksion.uz/i/d2124acb1ca35ccfbff86733b40619e3_L.jpeg"
-  ],
-  "fav": 11,
-  "order_end": "30.11.2026 09:00"
- },
- {
   "id": 27045202,
   "lot_number": "27045202",
   "cat": "yuk",
@@ -38854,6 +38825,35 @@
    "https://media.e-auksion.uz/i/69ec7d26aece0202de9d46d38870047c_L.jpeg",
    "https://media.e-auksion.uz/i/17ba28729ab60c7a02695317922fac37_L.jpeg",
    "https://media.e-auksion.uz/i/283b56071e8155d137a9979ae76867a5_L.jpeg"
+  ],
+  "fav": 11,
+  "order_end": "30.11.2026 09:00"
+ },
+ {
+  "id": 27045272,
+  "lot_number": "27045272",
+  "cat": "yuk",
+  "sub": "yuk",
+  "title": "FORD CONNECT",
+  "year": "2005",
+  "mileage": "346632",
+  "region": "Наманган вилояти",
+  "price_orig": 56250000.0,
+  "price_final": 45000000.0,
+  "date": "30.11.2026",
+  "post_url": "https://t.me/gruzovoeavto/25215",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/18516addfe4940a0f7204193a7d482f4_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/18516addfe4940a0f7204193a7d482f4_L.jpeg",
+   "https://media.e-auksion.uz/i/4e73021ba23857a1b072f6f20e22d93f_L.jpeg",
+   "https://media.e-auksion.uz/i/00e8fcfbb9d86a17611a2c9753fa9567_L.jpeg",
+   "https://media.e-auksion.uz/i/df642869bdfd4b9f97530e43d4f028f9_L.jpeg",
+   "https://media.e-auksion.uz/i/8990aa0d8427c163c0b29dbf2ed318bd_L.jpeg",
+   "https://media.e-auksion.uz/i/dd03fd2adfdc7edff49ff64a695e3820_L.jpeg",
+   "https://media.e-auksion.uz/i/d4c3dd4cad56cede131d1003fdbc97e3_L.jpeg",
+   "https://media.e-auksion.uz/i/84f103746be8472aeea476b3ea4a7e40_L.jpeg",
+   "https://media.e-auksion.uz/i/d2124acb1ca35ccfbff86733b40619e3_L.jpeg"
   ],
   "fav": 11,
   "order_end": "30.11.2026 09:00"
