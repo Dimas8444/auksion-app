@@ -1562,30 +1562,6 @@
   "order_end": "26.11.2026 09:00"
  },
  {
-  "id": 26925725,
-  "lot_number": "26925725",
-  "cat": "avto",
-  "sub": null,
-  "title": "DAMAS",
-  "year": "2010",
-  "mileage": "324222",
-  "region": "Тошкент ш.",
-  "price_orig": 18873900.0,
-  "price_final": 18873900.0,
-  "date": "26.11.2026",
-  "post_url": null,
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/ac5affe7c2d36b51d8fb38e3ffb7a005_L.jpg",
-  "photos": [
-   "https://media.e-auksion.uz/i/ac5affe7c2d36b51d8fb38e3ffb7a005_L.jpg",
-   "https://media.e-auksion.uz/i/1e4c24dcd674ff7e2c4888bdbe9d29f6_L.jpg",
-   "https://media.e-auksion.uz/i/0dcb4b6328576fd12e59080e5043bda0_L.jpg",
-   "https://media.e-auksion.uz/i/29d3872ce1ecf10c430a498a1dea13d2_L.jpg"
-  ],
-  "fav": 21,
-  "order_end": "26.11.2026 09:00"
- },
- {
   "id": 26926954,
   "lot_number": "26926954",
   "cat": "avto",
@@ -1609,6 +1585,30 @@
    "https://media.e-auksion.uz/i/dcd19bbd9a96f43a3f4013ef9f8c7fdd_L.png",
    "https://media.e-auksion.uz/i/a7ddfb3a09b2fb9ce543d57211831cf0_L.png",
    "https://media.e-auksion.uz/i/e21158d806892913fc92b1de634845d0_L.png"
+  ],
+  "fav": 21,
+  "order_end": "26.11.2026 09:00"
+ },
+ {
+  "id": 26925725,
+  "lot_number": "26925725",
+  "cat": "avto",
+  "sub": null,
+  "title": "DAMAS",
+  "year": "2010",
+  "mileage": "324222",
+  "region": "Тошкент ш.",
+  "price_orig": 18873900.0,
+  "price_final": 18873900.0,
+  "date": "26.11.2026",
+  "post_url": "https://t.me/avto_auksion_uz/157235",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/ac5affe7c2d36b51d8fb38e3ffb7a005_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/ac5affe7c2d36b51d8fb38e3ffb7a005_L.jpg",
+   "https://media.e-auksion.uz/i/1e4c24dcd674ff7e2c4888bdbe9d29f6_L.jpg",
+   "https://media.e-auksion.uz/i/0dcb4b6328576fd12e59080e5043bda0_L.jpg",
+   "https://media.e-auksion.uz/i/29d3872ce1ecf10c430a498a1dea13d2_L.jpg"
   ],
   "fav": 21,
   "order_end": "26.11.2026 09:00"
