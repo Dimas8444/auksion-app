@@ -3169,6 +3169,62 @@
   "order_end": "26.11.2026 09:00"
  },
  {
+  "id": 26943689,
+  "lot_number": "26943689",
+  "cat": "avto",
+  "sub": null,
+  "title": "Damas",
+  "year": "2020",
+  "mileage": "218217",
+  "region": "Хоразм вилояти",
+  "price_orig": 35952000.0,
+  "price_final": 35952000.0,
+  "date": "26.11.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/ca27605b224966bf845337a9cb669ea8_L.png",
+  "photos": [
+   "https://media.e-auksion.uz/i/ca27605b224966bf845337a9cb669ea8_L.png",
+   "https://media.e-auksion.uz/i/175df68f057efff8172a4a4e73abf8f9_L.png",
+   "https://media.e-auksion.uz/i/6fd074945062f04c4d2beb5a81be1cba_L.png",
+   "https://media.e-auksion.uz/i/29418a58ce86900e6435edded31670d6_L.png",
+   "https://media.e-auksion.uz/i/598f9a59ae51d901244e586afc1c193f_L.png",
+   "https://media.e-auksion.uz/i/0b1abb9d20fcb944f9b6694efd8d1390_L.jpg"
+  ],
+  "fav": 10,
+  "order_end": "26.11.2026 09:00"
+ },
+ {
+  "id": 26926851,
+  "lot_number": "26926851",
+  "cat": "avto",
+  "sub": null,
+  "title": "LASETTI 2",
+  "year": "2020",
+  "mileage": "147832",
+  "region": "Сурхондарё вилояти",
+  "price_orig": 110000000.0,
+  "price_final": 88000000.0,
+  "date": "26.11.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/8e021c25c231dfa1b266f3b0031e010f_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/8e021c25c231dfa1b266f3b0031e010f_L.jpeg",
+   "https://media.e-auksion.uz/i/26a59ab69b70469974b4c998d23303a7_L.jpeg",
+   "https://media.e-auksion.uz/i/29f6040cf3426465e6d1ebf5e07844ad_L.jpeg",
+   "https://media.e-auksion.uz/i/6c4f49dc8813121d6a833277faefadd7_L.jpeg",
+   "https://media.e-auksion.uz/i/636fcc9b2059d52ce3788cff5b491305_L.jpeg",
+   "https://media.e-auksion.uz/i/1683943a5e9e76153befe6a38adeabf4_L.jpeg",
+   "https://media.e-auksion.uz/i/a116e4ed9f71f679b468ec53edf5d6b1_L.jpeg",
+   "https://media.e-auksion.uz/i/806dbcb81ba6d052d09dec57bd1ebb57_L.jpeg",
+   "https://media.e-auksion.uz/i/c44ff4c54b2674180a0267e41c15412c_L.jpeg",
+   "https://media.e-auksion.uz/i/cee6a902153677853b7129ddf7751627_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "26.11.2026 09:00"
+ },
+ {
   "id": 26461010,
   "lot_number": "26461010",
   "cat": "avto",
@@ -27316,6 +27372,39 @@
  },
  {
   "term": "120 ой",
+  "id": 26942176,
+  "lot_number": "26942176",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "noturar",
+   "ijara"
+  ],
+  "title": "Ер участкаси, 0,3 сотих",
+  "info": [
+   "Тадбиркорлик ва шаҳарсозлик учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Самарқанд вилояти",
+  "address": "Самарқанд вилояти, Паяриқ тумани, Хўжа Исмоил МФЙ",
+  "price_orig": 7391023.2,
+  "price_final": 7391023.2,
+  "date": "01.12.2026",
+  "post_url": "https://t.me/kuchmasmulk_uz/5409",
+  "photo": "https://media.e-auksion.uz/i/647f38cbf25224c7536adc1151ebeecb_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/647f38cbf25224c7536adc1151ebeecb_L.jpeg",
+   "https://media.e-auksion.uz/i/4afe7be71cad382b88c9a5e49a8b20da_L.jpeg",
+   "https://media.e-auksion.uz/i/ab57db7d5750977365a74a2e5c08b076_L.jpeg",
+   "https://media.e-auksion.uz/i/3502a2f0ee1e334060af7589a3cafe7a_L.jpeg"
+  ],
+  "fav": 22,
+  "order_end": "01.12.2026 09:00",
+  "test": false
+ },
+ {
+  "term": "120 ой",
   "id": 26942193,
   "lot_number": "26942193",
   "cat": "mulk",
@@ -27638,39 +27727,6 @@
    "https://media.e-auksion.uz/i/9c6c5de02e6a64717e4a17d14d4ce2d5_L.jpeg",
    "https://media.e-auksion.uz/i/5183416c8f6d19d457083efe4a03d5a6_L.jpeg",
    "https://media.e-auksion.uz/i/4d13857c621c875b4b7cd51ef50d95f0_L.jpeg"
-  ],
-  "fav": 10,
-  "order_end": "01.12.2026 09:00",
-  "test": false
- },
- {
-  "term": "120 ой",
-  "id": 26942176,
-  "lot_number": "26942176",
-  "cat": "mulk",
-  "sub": "yer",
-  "tags": [
-   "noturar",
-   "ijara"
-  ],
-  "title": "Ер участкаси, 0,3 сотих",
-  "info": [
-   "Тадбиркорлик ва шаҳарсозлик учун"
-  ],
-  "year": "",
-  "mileage": "",
-  "region": "Самарқанд вилояти",
-  "address": "Самарқанд вилояти, Паяриқ тумани, Хўжа Исмоил МФЙ",
-  "price_orig": 7391023.2,
-  "price_final": 7391023.2,
-  "date": "01.12.2026",
-  "post_url": null,
-  "photo": "https://media.e-auksion.uz/i/647f38cbf25224c7536adc1151ebeecb_L.jpeg",
-  "photos": [
-   "https://media.e-auksion.uz/i/647f38cbf25224c7536adc1151ebeecb_L.jpeg",
-   "https://media.e-auksion.uz/i/4afe7be71cad382b88c9a5e49a8b20da_L.jpeg",
-   "https://media.e-auksion.uz/i/ab57db7d5750977365a74a2e5c08b076_L.jpeg",
-   "https://media.e-auksion.uz/i/3502a2f0ee1e334060af7589a3cafe7a_L.jpeg"
   ],
   "fav": 10,
   "order_end": "01.12.2026 09:00",
