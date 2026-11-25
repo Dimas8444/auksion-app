@@ -29808,29 +29808,6 @@
   "order_end": "04.12.2026 09:00"
  },
  {
-  "id": 27044435,
-  "lot_number": "27044435",
-  "cat": "yuk",
-  "sub": "maxsus",
-  "title": "ZIL 131",
-  "year": "1986",
-  "mileage": "",
-  "region": "Тошкент ш.",
-  "price_orig": 37245000.0,
-  "price_final": 37245000.0,
-  "date": "04.12.2026",
-  "post_url": null,
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/f13f678800ea3c62425c631738443e7f_L.jpg",
-  "photos": [
-   "https://media.e-auksion.uz/i/f13f678800ea3c62425c631738443e7f_L.jpg",
-   "https://media.e-auksion.uz/i/849a9e786d7c8084babf575dec15ccc4_L.jpg",
-   "https://media.e-auksion.uz/i/a9bd279aab5f5fe3f0bb7edf97b5867f_L.jpg"
-  ],
-  "fav": 23,
-  "order_end": "04.12.2026 09:00"
- },
- {
   "id": 27044446,
   "lot_number": "27044446",
   "cat": "yuk",
@@ -29849,6 +29826,29 @@
    "https://media.e-auksion.uz/i/5baa756c881ba05bd9b621d776310785_L.jpg",
    "https://media.e-auksion.uz/i/8950bb7e962e2961c3c0ba582cff3346_L.jpg",
    "https://media.e-auksion.uz/i/8e630f94334abc3d0b8a865bbfe62424_L.jpg"
+  ],
+  "fav": 23,
+  "order_end": "04.12.2026 09:00"
+ },
+ {
+  "id": 27044435,
+  "lot_number": "27044435",
+  "cat": "yuk",
+  "sub": "maxsus",
+  "title": "ZIL 131",
+  "year": "1986",
+  "mileage": "",
+  "region": "Тошкент ш.",
+  "price_orig": 37245000.0,
+  "price_final": 37245000.0,
+  "date": "04.12.2026",
+  "post_url": "https://t.me/gruzovoeavto/25259",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/f13f678800ea3c62425c631738443e7f_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/f13f678800ea3c62425c631738443e7f_L.jpg",
+   "https://media.e-auksion.uz/i/849a9e786d7c8084babf575dec15ccc4_L.jpg",
+   "https://media.e-auksion.uz/i/a9bd279aab5f5fe3f0bb7edf97b5867f_L.jpg"
   ],
   "fav": 23,
   "order_end": "04.12.2026 09:00"
