@@ -3277,6 +3277,31 @@
   "order_end": "26.11.2026 09:00"
  },
  {
+  "id": 26943667,
+  "lot_number": "26943667",
+  "cat": "avto",
+  "sub": null,
+  "title": "CHEVROLET SPARK",
+  "year": "2013",
+  "mileage": "307860",
+  "region": "Тошкент вилояти",
+  "price_orig": 43230000.0,
+  "price_final": 43230000.0,
+  "date": "26.11.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/a7e3d5f2d3cde6c0a3f60dd44089d12f_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/a7e3d5f2d3cde6c0a3f60dd44089d12f_L.jpg",
+   "https://media.e-auksion.uz/i/c9ea9744a4cda8c7cb7e68549b6e8ae2_L.jpg",
+   "https://media.e-auksion.uz/i/726666d0a75ba305719dfb4d88f8a8ff_L.jpg",
+   "https://media.e-auksion.uz/i/2376288613c7915d87b7b42f40349262_L.jpg",
+   "https://media.e-auksion.uz/i/d4a18461d0df77ab3b0ad8879530ddb6_L.jpg"
+  ],
+  "fav": 10,
+  "order_end": "26.11.2026 09:00"
+ },
+ {
   "id": 26461010,
   "lot_number": "26461010",
   "cat": "avto",
@@ -8987,6 +9012,36 @@
   "order_end": "03.12.2026 09:00"
  },
  {
+  "id": 27071353,
+  "lot_number": "27071353",
+  "cat": "avto",
+  "sub": null,
+  "title": "FAW BESTUNE B70",
+  "year": "2024",
+  "mileage": "40846",
+  "region": "Тошкент ш.",
+  "price_orig": 209784960.0,
+  "price_final": 167827968.0,
+  "date": "03.12.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/5af3cef4c2109d7afa3ec5e3ee7f7ab6_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/5af3cef4c2109d7afa3ec5e3ee7f7ab6_L.jpeg",
+   "https://media.e-auksion.uz/i/a653c57532b0ba163bd8857fc450ff27_L.jpeg",
+   "https://media.e-auksion.uz/i/845d1e8d545d27bc786b54dc1aa3099e_L.jpeg",
+   "https://media.e-auksion.uz/i/0af2400ccd22600c82fa7f83a63bab59_L.jpeg",
+   "https://media.e-auksion.uz/i/62fdf4a1ea320791220c1ae442e26fb8_L.jpeg",
+   "https://media.e-auksion.uz/i/7e167f16b481dfda1428b6ddd4e6b4bf_L.jpeg",
+   "https://media.e-auksion.uz/i/9172e318492dcd4e563c56da905094dd_L.jpeg",
+   "https://media.e-auksion.uz/i/a15adef2cea154afcdfb27954c6c0474_L.jpeg",
+   "https://media.e-auksion.uz/i/825a6dd07ddcbefa9559525cff4d7788_L.jpeg",
+   "https://media.e-auksion.uz/i/35365e499ee3ff6b817a9234486208d0_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "03.12.2026 09:00"
+ },
+ {
   "id": 26654497,
   "lot_number": "26654497",
   "cat": "avto",
@@ -13075,7 +13130,7 @@
   "price_orig": 215715464.0,
   "price_final": 215715464.0,
   "date": "18.12.2026",
-  "post_url": null,
+  "post_url": "https://t.me/avto_auksion_uz/157255",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/486f8465805fcbb1f31724982cd6558a_L.jpg",
   "photos": [
