@@ -8326,6 +8326,36 @@
   "order_end": "07.12.2026 09:00"
  },
  {
+  "id": 27172466,
+  "lot_number": "27172466",
+  "cat": "avto",
+  "sub": null,
+  "title": "Spark",
+  "year": "2020",
+  "mileage": "",
+  "region": "Бухоро вилояти",
+  "price_orig": 80388000.0,
+  "price_final": 60291000.0,
+  "date": "07.12.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/f0bfbedf45b53c677c5bf0346a9958be_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/f0bfbedf45b53c677c5bf0346a9958be_L.jpeg",
+   "https://media.e-auksion.uz/i/bbf6b7996c1862de2fd0c4452113fccb_L.jpeg",
+   "https://media.e-auksion.uz/i/d884b7bb9272dc8b858ce5d0513afe4f_L.jpeg",
+   "https://media.e-auksion.uz/i/9ca69e55dde87f1e456771ea0bb1067b_L.jpeg",
+   "https://media.e-auksion.uz/i/81ce9f7325197cb90b1c21fcbb2ca5f6_L.jpeg",
+   "https://media.e-auksion.uz/i/22b75fc10f1853b708ead7fc76af208e_L.jpeg",
+   "https://media.e-auksion.uz/i/9724b8cdd108a39ab1c5fb593e8c81f2_L.jpeg",
+   "https://media.e-auksion.uz/i/b4568238ca922c2cb91909da72d5df0a_L.jpeg",
+   "https://media.e-auksion.uz/i/3556a44af45f9dbeb885535c0bbce75b_L.jpeg",
+   "https://media.e-auksion.uz/i/369d2a9e4a7a7d00cc2efa2455592165_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "07.12.2026 09:00"
+ },
+ {
   "id": 26743399,
   "lot_number": "26743399",
   "cat": "avto",
@@ -12170,6 +12200,36 @@
   ],
   "fav": 18,
   "order_end": "28.12.2026 09:00"
+ },
+ {
+  "id": 27174526,
+  "lot_number": "27174526",
+  "cat": "avto",
+  "sub": null,
+  "title": "ELEKTROMOBIL NETA S",
+  "year": "2023",
+  "mileage": "14380",
+  "region": "Самарқанд вилояти",
+  "price_orig": 226168905.0,
+  "price_final": 226168905.0,
+  "date": "28.12.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/22d92e141c73fdb3b9ada4e85e107166_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/22d92e141c73fdb3b9ada4e85e107166_L.jpg",
+   "https://media.e-auksion.uz/i/e35e7da680b6c6900821fa8f3461ccd4_L.jpg",
+   "https://media.e-auksion.uz/i/8760973b6791fd38c2084643ae8e0c84_L.jpg",
+   "https://media.e-auksion.uz/i/16b4501d0531e17b2a6e3653f950d4b0_L.jpg",
+   "https://media.e-auksion.uz/i/114f398fc44fb5e9ce04b12bd5ad15d9_L.jpg",
+   "https://media.e-auksion.uz/i/ee90c59558b54e5e481a8f5e91f88c42_L.jpg",
+   "https://media.e-auksion.uz/i/a4e8c9bc86e15f404ecfab9ab0fe8c74_L.jpg",
+   "https://media.e-auksion.uz/i/59c3b3a587ea84fe0a98570cf2ce428e_L.jpg",
+   "https://media.e-auksion.uz/i/1df8aad4ac7aee98343208e7e15136d0_L.jpg"
+  ],
+  "fav": 17,
+  "order_end": "28.12.2026 09:00",
+  "term": "120 ой"
  },
  {
   "id": 27171810,
