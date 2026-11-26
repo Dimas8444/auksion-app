@@ -23390,6 +23390,36 @@
   "test": false
  },
  {
+  "term": "120 ой",
+  "id": 27009555,
+  "lot_number": "27009555",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "yakka"
+  ],
+  "title": "Ер участкаси, 3,5 сотих",
+  "info": [
+   "Якка тартибда уй-жой қуриш учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Самарқанд вилояти",
+  "address": "Самарқанд вилояти, Каттақўрғон тумани, Қорадарё МФЙ",
+  "price_orig": 59588000.0,
+  "price_final": 59588000.0,
+  "date": "03.12.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/e9f3447be4dd17b574771f0fc2a24bf2_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/e9f3447be4dd17b574771f0fc2a24bf2_L.jpeg",
+   "https://media.e-auksion.uz/i/87d6aaa3fd5cd4495297f9fe232d1f67_L.jpeg"
+  ],
+  "fav": 11,
+  "order_end": "03.12.2026 09:00",
+  "test": false
+ },
+ {
   "term": "60 ой",
   "id": 27009506,
   "lot_number": "27009506",
