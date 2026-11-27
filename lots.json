@@ -24866,6 +24866,40 @@
   "test": false
  },
  {
+  "term": "12 ой",
+  "id": 27171654,
+  "lot_number": "27171654",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "noturar",
+   "ijara"
+  ],
+  "title": "Ер участкаси, 2,51 сотих",
+  "info": [
+   "Тадбиркорлик ва шаҳарсозлик учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Тошкент ш.",
+  "address": "Тошкент ш., Янгиҳаёт тумани, Янги Чоштепа МФЙ",
+  "price_orig": 498421091.0,
+  "price_final": 498421091.0,
+  "date": "10.12.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/dff37f8a608e7b78a6b48d1f83c7044e_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/dff37f8a608e7b78a6b48d1f83c7044e_L.jpeg",
+   "https://media.e-auksion.uz/i/f70f4b4b56e8e54c82f04b2f49f5907e_L.jpeg",
+   "https://media.e-auksion.uz/i/4945bb1e28eaafa8b31826959ea00bea_L.jpeg",
+   "https://media.e-auksion.uz/i/27eeec6e80974fddf8d4484b921f58c3_L.jpeg",
+   "https://media.e-auksion.uz/i/a93577c8a6cd50646e71d6445a412070_L.jpeg"
+  ],
+  "fav": 12,
+  "order_end": "10.12.2026 09:00",
+  "test": false
+ },
+ {
   "id": 26879788,
   "lot_number": "26879788",
   "cat": "mulk",
