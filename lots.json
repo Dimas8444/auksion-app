@@ -3862,6 +3862,32 @@
   "order_end": "30.11.2026 09:00"
  },
  {
+  "id": 27127705,
+  "lot_number": "27127705",
+  "cat": "avto",
+  "sub": null,
+  "title": "GM UZ NEXIA 3",
+  "year": "2017",
+  "mileage": "325552",
+  "region": "Қорақалпоғистон Республикаси",
+  "price_orig": 38948700.0,
+  "price_final": 38948700.0,
+  "date": "30.11.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/ac89f2713744cb330fa0288e7ecf3f4c_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/ac89f2713744cb330fa0288e7ecf3f4c_L.jpg",
+   "https://media.e-auksion.uz/i/164e0a52a8c8adc34c486bcd29bb5d07_L.jpg",
+   "https://media.e-auksion.uz/i/85397274d84795a5b1436ed44615fa7c_L.jpg",
+   "https://media.e-auksion.uz/i/c4d97faa179b33d9bd4e5668ac2245a8_L.jpg",
+   "https://media.e-auksion.uz/i/6d756e3a74b0db1a6ced95f18d091491_L.jpg",
+   "https://media.e-auksion.uz/i/0ca5cfac2aa613e6374c9f5e629ab41a_L.jpg"
+  ],
+  "fav": 10,
+  "order_end": "30.11.2026 09:00"
+ },
+ {
   "id": 27045220,
   "lot_number": "27045220",
   "cat": "avto",
@@ -8412,7 +8438,7 @@
   "price_orig": 55285000.0,
   "price_final": 55285000.0,
   "date": "09.12.2026",
-  "post_url": null,
+  "post_url": "https://t.me/avto_auksion_uz/157321",
   "test": false,
   "photo": "https://media.e-auksion.uz/i/600ecc209fe63b2b2326c77a6e917393_L.jpg",
   "photos": [
