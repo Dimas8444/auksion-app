@@ -2033,33 +2033,6 @@
   "order_end": "30.11.2026 09:00"
  },
  {
-  "id": 27043196,
-  "lot_number": "27043196",
-  "cat": "avto",
-  "sub": null,
-  "title": "CHEVROLET OPTRA",
-  "year": "2008",
-  "mileage": "836758",
-  "region": "Тошкент вилояти",
-  "price_orig": 37542960.0,
-  "price_final": 37542960.0,
-  "date": "30.11.2026",
-  "post_url": null,
-  "test": false,
-  "photo": "https://media.e-auksion.uz/i/832f10853e18a065cf5011f71bb4dcb9_L.jpg",
-  "photos": [
-   "https://media.e-auksion.uz/i/832f10853e18a065cf5011f71bb4dcb9_L.jpg",
-   "https://media.e-auksion.uz/i/48536455835b03fada27cc6187a4bfad_L.jpg",
-   "https://media.e-auksion.uz/i/74657a8232625316f011c3ad3c41f1ee_L.jpg",
-   "https://media.e-auksion.uz/i/ab782d55e8bc8351db761586ccec9c7f_L.jpg",
-   "https://media.e-auksion.uz/i/6fcff31c65c747771765d266cdd88869_L.jpg",
-   "https://media.e-auksion.uz/i/ea361aeab4341bd1f23e5c67d74abc2a_L.jpg",
-   "https://media.e-auksion.uz/i/cfe2bcf9e105e274c8a133f50fbafaf7_L.jpg"
-  ],
-  "fav": 21,
-  "order_end": "30.11.2026 09:00"
- },
- {
   "id": 26525951,
   "lot_number": "26525951",
   "cat": "avto",
@@ -2115,6 +2088,33 @@
   "fav": 21,
   "order_end": "30.11.2026 09:00",
   "term": "36 ой"
+ },
+ {
+  "id": 27043196,
+  "lot_number": "27043196",
+  "cat": "avto",
+  "sub": null,
+  "title": "CHEVROLET OPTRA",
+  "year": "2008",
+  "mileage": "836758",
+  "region": "Тошкент вилояти",
+  "price_orig": 37542960.0,
+  "price_final": 37542960.0,
+  "date": "30.11.2026",
+  "post_url": "https://t.me/avto_auksion_uz/157345",
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/832f10853e18a065cf5011f71bb4dcb9_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/832f10853e18a065cf5011f71bb4dcb9_L.jpg",
+   "https://media.e-auksion.uz/i/48536455835b03fada27cc6187a4bfad_L.jpg",
+   "https://media.e-auksion.uz/i/74657a8232625316f011c3ad3c41f1ee_L.jpg",
+   "https://media.e-auksion.uz/i/ab782d55e8bc8351db761586ccec9c7f_L.jpg",
+   "https://media.e-auksion.uz/i/6fcff31c65c747771765d266cdd88869_L.jpg",
+   "https://media.e-auksion.uz/i/ea361aeab4341bd1f23e5c67d74abc2a_L.jpg",
+   "https://media.e-auksion.uz/i/cfe2bcf9e105e274c8a133f50fbafaf7_L.jpg"
+  ],
+  "fav": 21,
+  "order_end": "30.11.2026 09:00"
  },
  {
   "id": 26584864,
