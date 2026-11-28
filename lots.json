@@ -16114,6 +16114,41 @@
   "test": false
  },
  {
+  "id": 27126348,
+  "lot_number": "27126348",
+  "cat": "mulk",
+  "sub": "noturar",
+  "tags": [],
+  "title": "Савдо дукони, 49,2 м²",
+  "info": [
+   "Нотурар-жой обьектлари"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Сирдарё вилояти",
+  "address": "Сирдарё вилояти, Гулистон шаҳри, Боғишамол МФЙ, Гулистон шоҳ кўчаси, 1-уй",
+  "price_orig": 225000000.0,
+  "price_final": 225000000.0,
+  "date": "04.12.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/6d86f145fe26a044378c02cc85cab5a6_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/6d86f145fe26a044378c02cc85cab5a6_L.jpeg",
+   "https://media.e-auksion.uz/i/33613e4a02bf09e5be990992c4f85184_L.jpeg",
+   "https://media.e-auksion.uz/i/25154dd68dc8a9ccd2ab0257f94287ec_L.jpeg",
+   "https://media.e-auksion.uz/i/90b76703c489d2ac5ee6d9b1f4e2af86_L.jpeg",
+   "https://media.e-auksion.uz/i/63d74404bd6bdefe865ce71d6c63408c_L.jpeg",
+   "https://media.e-auksion.uz/i/0c02f5550a7e5a01e4e95327faecb2fe_L.jpeg",
+   "https://media.e-auksion.uz/i/9a85aec33cbf360a8291021755db7aaf_L.jpeg",
+   "https://media.e-auksion.uz/i/e499ac1186e24948279d469157e715e9_L.jpeg",
+   "https://media.e-auksion.uz/i/4c563f8db025e2e386d5d7c1a93c9e74_L.jpeg",
+   "https://media.e-auksion.uz/i/47b011ef146ed84300d929639591c0d6_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "04.12.2026 09:00",
+  "test": false
+ },
+ {
   "id": 26720700,
   "lot_number": "26720700",
   "cat": "mulk",
@@ -20896,6 +20931,39 @@
    "https://media.e-auksion.uz/i/17d07f6f7a884d3bfbcb17fe1382349b_L.jpeg",
    "https://media.e-auksion.uz/i/afa6c97541f5aadf2de0addd480791e0_L.jpeg",
    "https://media.e-auksion.uz/i/cb285f1ec541f71e7c2b7645a3f88c87_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "04.12.2026 09:00",
+  "test": false
+ },
+ {
+  "id": 26654487,
+  "lot_number": "26654487",
+  "cat": "mulk",
+  "sub": "turar",
+  "tags": [],
+  "title": "Ҳовли, 4 хона, 15,52 сотих",
+  "info": [
+   "Турар-жой участкаси (ҳовли)"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Фарғона вилояти",
+  "address": "Фарғона вилояти, Бешариқ тумани, Янгиқўрғон МФЙ, Янгиқўрғон кўчаси 71-уй",
+  "price_orig": 312500000.0,
+  "price_final": 312500000.0,
+  "date": "04.12.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/ff07231ae01738f5c73aa149d3218780_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/ff07231ae01738f5c73aa149d3218780_L.jpeg",
+   "https://media.e-auksion.uz/i/1ab8f3de2ccadb081d1a4755437b21dd_L.jpeg",
+   "https://media.e-auksion.uz/i/f2b36e4adf64bef5bb962095db4fbce4_L.jpeg",
+   "https://media.e-auksion.uz/i/8016b2efd48da53e9aabe61cf04dfab8_L.jpeg",
+   "https://media.e-auksion.uz/i/59e97e94e5673368fd72455740ea8eaf_L.jpeg",
+   "https://media.e-auksion.uz/i/adfe08f7c7d96af2c56948d88a9fc98e_L.jpeg",
+   "https://media.e-auksion.uz/i/3d9226bca8eff9ed04bbb5227b859518_L.jpeg",
+   "https://media.e-auksion.uz/i/a8d40bfd0375b1d3e32a07f9b7d68a53_L.jpeg"
   ],
   "fav": 10,
   "order_end": "04.12.2026 09:00",
@@ -26638,6 +26706,36 @@
    "https://media.e-auksion.uz/i/929ddab3773e814b889d923be497909b_L.jpeg"
   ],
   "fav": 20,
+  "order_end": "04.12.2026 09:00",
+  "test": false
+ },
+ {
+  "term": "12 ой",
+  "id": 27225012,
+  "lot_number": "27225012",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "yakka"
+  ],
+  "title": "Ер участкаси, 3 сотих",
+  "info": [
+   "Якка тартибда уй-жой қуриш учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Тошкент ш.",
+  "address": "Тошкент ш., Юнусобод тумани, Ҳамкоробод",
+  "price_orig": 1116501868.0,
+  "price_final": 893201494.4,
+  "date": "04.12.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/601e04ad45a5768d5fbbe91262aa9d64_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/601e04ad45a5768d5fbbe91262aa9d64_L.jpeg",
+   "https://media.e-auksion.uz/i/674f82b829a1120ae7ff98e1b9f8032c_L.jpeg"
+  ],
+  "fav": 10,
   "order_end": "04.12.2026 09:00",
   "test": false
  },
