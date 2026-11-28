@@ -4206,6 +4206,36 @@
   "order_end": "30.11.2026 09:00"
  },
  {
+  "id": 26560352,
+  "lot_number": "26560352",
+  "cat": "avto",
+  "sub": null,
+  "title": "CAPTIVA 5 T",
+  "year": "2024",
+  "mileage": "80672",
+  "region": "Фарғона вилояти",
+  "price_orig": 293037500.0,
+  "price_final": 293037500.0,
+  "date": "30.11.2026",
+  "post_url": null,
+  "test": false,
+  "photo": "https://media.e-auksion.uz/i/cfddea544ff923f281e9df2ebac01531_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/cfddea544ff923f281e9df2ebac01531_L.jpeg",
+   "https://media.e-auksion.uz/i/a360fe1bbad8cca03d2834261e6c4a93_L.jpeg",
+   "https://media.e-auksion.uz/i/908c0fd9af3acef876a623e5cba03d1a_L.jpeg",
+   "https://media.e-auksion.uz/i/c8aa8b1202a9cacd8d1d88af3a352a23_L.jpeg",
+   "https://media.e-auksion.uz/i/bdcf8c6d6267b82b78f1e472e30d897e_L.jpeg",
+   "https://media.e-auksion.uz/i/e2eb973baba04cfcfad0bc76ec378ceb_L.jpeg",
+   "https://media.e-auksion.uz/i/ccadbd76326e579dffe91df2b35c55e3_L.jpeg",
+   "https://media.e-auksion.uz/i/89423786696434310bb76287e0860c91_L.jpeg",
+   "https://media.e-auksion.uz/i/10750d8842a35efd07725b70d687572e_L.jpeg",
+   "https://media.e-auksion.uz/i/70bb206cda64ce3bddd406dfe4a1c280_L.jpeg"
+  ],
+  "fav": 11,
+  "order_end": "30.11.2026 09:00"
+ },
+ {
   "id": 27045233,
   "lot_number": "27045233",
   "cat": "avto",
@@ -25231,6 +25261,37 @@
    "https://media.e-auksion.uz/i/3d17691ae4509e917cc983dd27355f62_L.jpeg"
   ],
   "fav": 20,
+  "order_end": "28.12.2026 09:00",
+  "test": false
+ },
+ {
+  "id": 27230208,
+  "lot_number": "27230208",
+  "cat": "mulk",
+  "sub": "turar",
+  "tags": [],
+  "title": "2 хонали квартира, 41,9 м²",
+  "info": [
+   "Кўп қаватли турар-жойлар"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Тошкент ш.",
+  "address": "Тошкент ш., Чилонзор тумани, Халқлар дўстлиги МФЙ, 6 мавзеси, 60-уй, 22-хонадон",
+  "price_orig": 337500000.0,
+  "price_final": 337500000.0,
+  "date": "28.12.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/b931c9b1b90fc83a523ae83021ed18d7_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/b931c9b1b90fc83a523ae83021ed18d7_L.jpeg",
+   "https://media.e-auksion.uz/i/999de1adc43af4158847ec1e0299cc71_L.jpeg",
+   "https://media.e-auksion.uz/i/eb5499f13171ee9d2369fa8f23a1ae21_L.jpeg",
+   "https://media.e-auksion.uz/i/6365e0b77ee71e64db60114f01f729b0_L.jpeg",
+   "https://media.e-auksion.uz/i/cdfd929bc1a00686ce42fdfe320d4ead_L.jpeg",
+   "https://media.e-auksion.uz/i/ec0f0f071b279ebc8186c7c5a88868aa_L.jpeg"
+  ],
+  "fav": 10,
   "order_end": "28.12.2026 09:00",
   "test": false
  },
