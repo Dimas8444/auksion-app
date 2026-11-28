@@ -25267,6 +25267,38 @@
   "test": false
  },
  {
+  "term": "120 ой",
+  "id": 27139880,
+  "lot_number": "27139880",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "noturar"
+  ],
+  "title": "Ер участкаси, 1 сотих",
+  "info": [
+   "Тадбиркорлик ва шаҳарсозлик учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Хоразм вилояти",
+  "address": "Хоразм вилояти, Қўшкўпир тумани, Хосиён МФЙ",
+  "price_orig": 11983609.0,
+  "price_final": 11983609.0,
+  "date": "30.11.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/56f13e76022931c685827a384badc687_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/56f13e76022931c685827a384badc687_L.jpeg",
+   "https://media.e-auksion.uz/i/58aa9ff63e4d38f77053ce00746e82cc_L.jpeg",
+   "https://media.e-auksion.uz/i/17cd3fbf4cc1110074d64bd7e1b3f193_L.jpeg",
+   "https://media.e-auksion.uz/i/90b4a618ed3b5bb38f4dc793a3ce4dd5_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "30.11.2026 09:00",
+  "test": false
+ },
+ {
   "id": 26942252,
   "lot_number": "26942252",
   "cat": "mulk",
