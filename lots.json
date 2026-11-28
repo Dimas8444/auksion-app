@@ -21931,6 +21931,41 @@
   "test": false
  },
  {
+  "id": 26719255,
+  "lot_number": "26719255",
+  "cat": "mulk",
+  "sub": "turar",
+  "tags": [],
+  "title": "Ҳовли, 8 хона, 8 сотих",
+  "info": [
+   "Турар-жой участкаси (ҳовли)"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Андижон вилояти",
+  "address": "Андижон вилояти, Жалақудуқ тумани, Бўстон МФЙ Бўстон кўчаси 124-уй",
+  "price_orig": 250000000.0,
+  "price_final": 250000000.0,
+  "date": "07.12.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/d4a156c6c640224ab1fe91ee195fbe19_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/d4a156c6c640224ab1fe91ee195fbe19_L.jpeg",
+   "https://media.e-auksion.uz/i/8bbdc712b81c4816b44e8cdab6b6090d_L.jpeg",
+   "https://media.e-auksion.uz/i/da67c1f50b245bd41f03545cb2fe5dee_L.jpeg",
+   "https://media.e-auksion.uz/i/12cd4038f6586fa9263cbaab294e76e4_L.jpeg",
+   "https://media.e-auksion.uz/i/8c6049a8bead589e0f98819ea979ba20_L.jpeg",
+   "https://media.e-auksion.uz/i/b1ba958b020b1169a766425c919fa3e0_L.jpeg",
+   "https://media.e-auksion.uz/i/771b0db5f6164a6dc1ee2a2a12ec6c90_L.jpeg",
+   "https://media.e-auksion.uz/i/f9c7f683e5d19cf35b20481a7865a55a_L.jpeg",
+   "https://media.e-auksion.uz/i/fbac8c2c6ea01d342673974ca34a6b7c_L.jpeg",
+   "https://media.e-auksion.uz/i/0015c523b3afcaf50c540abcdbfe752a_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "07.12.2026 09:00",
+  "test": false
+ },
+ {
   "id": 26747632,
   "lot_number": "26747632",
   "cat": "mulk",
@@ -26773,6 +26808,38 @@
    "https://media.e-auksion.uz/i/ee393731e799de828a55a2c1dcc5a2b7_L.jpeg"
   ],
   "fav": 11,
+  "order_end": "07.12.2026 09:00",
+  "test": false
+ },
+ {
+  "term": "60 ой",
+  "id": 27068488,
+  "lot_number": "27068488",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "noturar"
+  ],
+  "title": "Ер участкаси, 3 сотих",
+  "info": [
+   "\"Тайёр пакет\" усулидаги ерлар"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Наманган вилояти",
+  "address": "Наманган вилояти, Косонсой тумани, Корасув МФЙ",
+  "price_orig": 29815998.0,
+  "price_final": 29815998.0,
+  "date": "07.12.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/37fd68a6b2deba369849ca3e4ecb2dec_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/37fd68a6b2deba369849ca3e4ecb2dec_L.jpeg",
+   "https://media.e-auksion.uz/i/07c0ea56906e088680419ebb34e01c78_L.jpeg",
+   "https://media.e-auksion.uz/i/9e960d7f2978372461165a8a0d0004f0_L.jpeg",
+   "https://media.e-auksion.uz/i/c01ac4a234d5ec7fde723e3505cd6b0f_L.jpeg"
+  ],
+  "fav": 10,
   "order_end": "07.12.2026 09:00",
   "test": false
  },
