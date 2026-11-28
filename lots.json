@@ -25100,6 +25100,36 @@
   "test": false
  },
  {
+  "term": "36 ой",
+  "id": 27201720,
+  "lot_number": "27201720",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "yakka"
+  ],
+  "title": "Ер участкаси, 2,5 сотих",
+  "info": [
+   "Якка тартибда уй-жой қуриш учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Қорақалпоғистон Республикаси",
+  "address": "Қорақалпоғистон Республикаси, Нукус шаҳри, Жолшилар МФЙ",
+  "price_orig": 8750000.0,
+  "price_final": 8750000.0,
+  "date": "01.12.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/fff6d1e4eb7d301f64fd98a31d746829_L.jpg",
+  "photos": [
+   "https://media.e-auksion.uz/i/fff6d1e4eb7d301f64fd98a31d746829_L.jpg",
+   "https://media.e-auksion.uz/i/349fbc3fa87cda4ff06ca294107828e7_L.jpg"
+  ],
+  "fav": 15,
+  "order_end": "01.12.2026 09:00",
+  "test": false
+ },
+ {
   "term": "120 ой",
   "id": 26942193,
   "lot_number": "26942193",
@@ -25981,6 +26011,36 @@
    "https://media.e-auksion.uz/i/31df0bdeae43e25b03a394ae9d84d697_L.jpeg",
    "https://media.e-auksion.uz/i/5182d7c08f8ab2303465244d17bd4394_L.jpeg",
    "https://media.e-auksion.uz/i/898c6a03d2dec4408abff18bda37f03f_L.jpeg"
+  ],
+  "fav": 10,
+  "order_end": "01.12.2026 09:00",
+  "test": false
+ },
+ {
+  "term": "120 ой",
+  "id": 27137364,
+  "lot_number": "27137364",
+  "cat": "mulk",
+  "sub": "yer",
+  "tags": [
+   "yakka"
+  ],
+  "title": "Ер участкаси, 3,99 сотих",
+  "info": [
+   "Якка тартибда уй-жой қуриш учун"
+  ],
+  "year": "",
+  "mileage": "",
+  "region": "Жиззах вилояти",
+  "address": "Жиззах вилояти, Янгиобод тумани, Хавотоғ ҚФЙ",
+  "price_orig": 23088000.0,
+  "price_final": 9235200.0,
+  "date": "01.12.2026",
+  "post_url": null,
+  "photo": "https://media.e-auksion.uz/i/e1c552bf313bd427b584d918110c11a0_L.jpeg",
+  "photos": [
+   "https://media.e-auksion.uz/i/e1c552bf313bd427b584d918110c11a0_L.jpeg",
+   "https://media.e-auksion.uz/i/21ef5bc51a76cce236eb2d44774cea8c_L.jpeg"
   ],
   "fav": 10,
   "order_end": "01.12.2026 09:00",
